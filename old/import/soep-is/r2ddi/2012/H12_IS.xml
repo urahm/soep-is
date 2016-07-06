@@ -1,0 +1,1041 @@
+<codebook>
+  <dataDscr>
+    <var ID="jahr" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">2012</sumStat>
+      <sumStat type="1st Qu.">2012</sumStat>
+      <sumStat type="Median">2012</sumStat>
+      <sumStat type="Mean">2012</sumStat>
+      <sumStat type="3rd Qu.">2012</sumStat>
+      <sumStat type="Max.">2012</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="stichu" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">22</sumStat>
+      <sumStat type="1st Qu.">22</sumStat>
+      <sumStat type="Median">22</sumStat>
+      <sumStat type="Mean">22</sumStat>
+      <sumStat type="3rd Qu.">22</sumStat>
+      <sumStat type="Max.">22</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hnr" intrvl="numeric" files="H12_IS">
+      <labl>aktuelle Haushaltsnummer</labl>
+      <sumStat type="Min.">920100</sumStat>
+      <sumStat type="1st Qu.">935500</sumStat>
+      <sumStat type="Median">951500</sumStat>
+      <sumStat type="Mean">951100</sumStat>
+      <sumStat type="3rd Qu.">964900</sumStat>
+      <sumStat type="Max.">982500</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="pnr" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">1.146</sumStat>
+      <sumStat type="3rd Qu.">1</sumStat>
+      <sumStat type="Max.">4</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="name" intrvl="string" files="H12_IS">
+      <labl></labl>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hwm" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">4</sumStat>
+      <sumStat type="Median">6</sumStat>
+      <sumStat type="Mean">6.382</sumStat>
+      <sumStat type="3rd Qu.">9</sumStat>
+      <sumStat type="Max.">12</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hwj" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">1982</sumStat>
+      <sumStat type="Median">1999</sumStat>
+      <sumStat type="Mean">1992</sumStat>
+      <sumStat type="3rd Qu.">2008</sumStat>
+      <sumStat type="Max.">2012</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hhtyp" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">2</sumStat>
+      <sumStat type="Median">3</sumStat>
+      <sumStat type="Mean">3.559</sumStat>
+      <sumStat type="3rd Qu.">5</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hheim" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">1</sumStat>
+      <sumStat type="3rd Qu.">1</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hwohn09" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">2</sumStat>
+      <sumStat type="Median">3</sumStat>
+      <sumStat type="Mean">3.392</sumStat>
+      <sumStat type="3rd Qu.">5</sumStat>
+      <sumStat type="Max.">8</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hwohn09a" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">711</sumStat>
+      <sumStat type="3rd Qu.">1979</sumStat>
+      <sumStat type="Max.">2010</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hqm" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">69.25</sumStat>
+      <sumStat type="Median">90</sumStat>
+      <sumStat type="Mean">101.4</sumStat>
+      <sumStat type="3rd Qu.">125</sumStat>
+      <sumStat type="Max.">400</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hm01" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">3</sumStat>
+      <sumStat type="Mean">2.079</sumStat>
+      <sumStat type="3rd Qu.">3</sumStat>
+      <sumStat type="Max.">3</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hm04" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">215.3</sumStat>
+      <sumStat type="3rd Qu.">430</sumStat>
+      <sumStat type="Max.">1480</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hm05" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.917</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hm06" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-0.5188</sumStat>
+      <sumStat type="3rd Qu.">1</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hm09" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-0.4485</sumStat>
+      <sumStat type="3rd Qu.">1</sumStat>
+      <sumStat type="Max.">3</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hm10" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">20.1</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">321</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hm11" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.67</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hzahl" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-0.6475</sumStat>
+      <sumStat type="3rd Qu.">1</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="he01" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">-0.07921</sumStat>
+      <sumStat type="3rd Qu.">2</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="he02" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-3</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">125.4</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">2500</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hzahl1" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.329</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="he03" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">2224</sumStat>
+      <sumStat type="3rd Qu.">1000</sumStat>
+      <sumStat type="Max.">2e+05</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="he05" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-3</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-1</sumStat>
+      <sumStat type="Mean">441.7</sumStat>
+      <sumStat type="3rd Qu.">650</sumStat>
+      <sumStat type="Max.">5220</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="he06" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">0.08317</sumStat>
+      <sumStat type="3rd Qu.">2</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="he07" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">8.304</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">480</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hverm1" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">2</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">1.89</sumStat>
+      <sumStat type="3rd Qu.">2</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hverm2" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-3</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">1108</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">75000</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hverm3" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">1248</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">750000</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hverm4" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">324.5</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">48000</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hkred1" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">2</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">1.772</sumStat>
+      <sumStat type="3rd Qu.">2</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hkred2" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-3</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">60.85</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">4500</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hwa" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">1.314</sumStat>
+      <sumStat type="3rd Qu.">2</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hzins1" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">388.2</sumStat>
+      <sumStat type="3rd Qu.">100</sumStat>
+      <sumStat type="Max.">50000</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hzins2" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-0.9762</sumStat>
+      <sumStat type="3rd Qu.">1</sumStat>
+      <sumStat type="Max.">6</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hdkg1" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">1.688</sumStat>
+      <sumStat type="3rd Qu.">2</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hdkg2" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">96.24</sumStat>
+      <sumStat type="3rd Qu.">184</sumStat>
+      <sumStat type="Max.">988</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hdkg3" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-0.8396</sumStat>
+      <sumStat type="3rd Qu.">1</sumStat>
+      <sumStat type="Max.">6</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hdkz1" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">2</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">1.989</sumStat>
+      <sumStat type="3rd Qu.">2</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hdkz2" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">0.1396</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">400</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hdag1" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">2</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">1.939</sumStat>
+      <sumStat type="3rd Qu.">2</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hdag2" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">35.97</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">1300</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hdpg1" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">2</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">1.965</sumStat>
+      <sumStat type="3rd Qu.">2</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hdpg2" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">10.15</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">1150</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hdsh1" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">2</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">1.988</sumStat>
+      <sumStat type="3rd Qu.">2</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hdsh2" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">1.404</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">1000</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hdgs1" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">2</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">1.985</sumStat>
+      <sumStat type="3rd Qu.">2</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hdgs2" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">1.462</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">774</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hdwg1" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">2</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">1.98</sumStat>
+      <sumStat type="3rd Qu.">2</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hdwg2" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-0.07327</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">204</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hnetto" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">1200</sumStat>
+      <sumStat type="Median">2000</sumStat>
+      <sumStat type="Mean">2269</sumStat>
+      <sumStat type="3rd Qu.">3000</sumStat>
+      <sumStat type="Max.">12000</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="znetto" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.55</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">31</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hspar1" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">-1</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">0.6554</sumStat>
+      <sumStat type="3rd Qu.">2</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hspar2" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">175.6</sumStat>
+      <sumStat type="3rd Qu.">200</sumStat>
+      <sumStat type="Max.">4000</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hpfleg" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">2</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">1.94</sumStat>
+      <sumStat type="3rd Qu.">2</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hpl" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.808</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hpstuf" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.838</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">3</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hkind" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">2</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">1.761</sumStat>
+      <sumStat type="3rd Qu.">2</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hknama" intrvl="string" files="H12_IS">
+      <labl></labl>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hknra" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-0.7762</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">6</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hkgeba" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">476.3</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">2012</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hkmoa" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-0.03861</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">12</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hksexa" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.185</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hknamb" intrvl="string" files="H12_IS">
+      <labl></labl>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hknrb" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.312</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">6</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hkgebb" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">224.6</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">2012</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hkmob" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.078</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">12</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hksexb" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.603</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hknamc" intrvl="string" files="H12_IS">
+      <labl></labl>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hknrc" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.8</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hkgebc" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">53.7</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">2011</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hkmoc" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.74</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">12</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hksexc" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.906</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hknamd" intrvl="string" files="H12_IS">
+      <labl></labl>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hknrd" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.959</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hkgebd" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">7.953</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">2012</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hkmod" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.966</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">8</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hksexd" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.985</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hkname" intrvl="string" files="H12_IS">
+      <labl></labl>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hknre" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.991</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hkgebe" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-0.008911</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">2009</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hkmoe" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.991</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hksexe" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.996</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hknamf" intrvl="string" files="H12_IS">
+      <labl></labl>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hknrf" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.99</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">8</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hkgebf" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-0.006931</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">2011</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hkmof" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.993</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">5</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hksexf" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.996</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hform" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">9</sumStat>
+      <sumStat type="1st Qu.">9</sumStat>
+      <sumStat type="Median">9</sumStat>
+      <sumStat type="Mean">9</sumStat>
+      <sumStat type="3rd Qu.">9</sumStat>
+      <sumStat type="Max.">9</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hdatt" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">7</sumStat>
+      <sumStat type="Median">14</sumStat>
+      <sumStat type="Mean">15.28</sumStat>
+      <sumStat type="3rd Qu.">24</sumStat>
+      <sumStat type="Max.">31</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hdatm" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">6</sumStat>
+      <sumStat type="1st Qu.">7</sumStat>
+      <sumStat type="Median">7</sumStat>
+      <sumStat type="Mean">7.663</sumStat>
+      <sumStat type="3rd Qu.">9</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hdatj" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">2012</sumStat>
+      <sumStat type="1st Qu.">2012</sumStat>
+      <sumStat type="Median">2012</sumStat>
+      <sumStat type="Mean">2012</sumStat>
+      <sumStat type="3rd Qu.">2012</sumStat>
+      <sumStat type="Max.">2012</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hintnr" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">1080</sumStat>
+      <sumStat type="1st Qu.">276400</sumStat>
+      <sumStat type="Median">309700</sumStat>
+      <sumStat type="Mean">269100</sumStat>
+      <sumStat type="3rd Qu.">321500</sumStat>
+      <sumStat type="Max.">330100</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hpmax" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">2.249</sumStat>
+      <sumStat type="3rd Qu.">3</sumStat>
+      <sumStat type="Max.">8</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="urhh" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">920100</sumStat>
+      <sumStat type="1st Qu.">935500</sumStat>
+      <sumStat type="Median">951500</sumStat>
+      <sumStat type="Mean">951100</sumStat>
+      <sumStat type="3rd Qu.">964900</sumStat>
+      <sumStat type="Max.">982500</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="modul" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">2.124</sumStat>
+      <sumStat type="3rd Qu.">3</sumStat>
+      <sumStat type="Max.">4</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="respid" intrvl="numeric" files="H12_IS">
+      <labl></labl>
+      <sumStat type="Min.">4715</sumStat>
+      <sumStat type="1st Qu.">392000</sumStat>
+      <sumStat type="Median">429500</sumStat>
+      <sumStat type="Mean">429300</sumStat>
+      <sumStat type="3rd Qu.">512500</sumStat>
+      <sumStat type="Max.">604200</sumStat>
+      <sumStat type="valid">1010</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+  </dataDscr>
+  <fileDscr ID="H12_IS"/>
+</codebook>

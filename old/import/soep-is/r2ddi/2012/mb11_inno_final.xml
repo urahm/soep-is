@@ -1,0 +1,691 @@
+<codebook>
+  <dataDscr>
+    <var ID="jahr" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">2011</sumStat>
+      <sumStat type="1st Qu.">2011</sumStat>
+      <sumStat type="Median">2011</sumStat>
+      <sumStat type="Mean">2011</sumStat>
+      <sumStat type="3rd Qu.">2011</sumStat>
+      <sumStat type="Max.">2011</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="stichu" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">19</sumStat>
+      <sumStat type="1st Qu.">19</sumStat>
+      <sumStat type="Median">19</sumStat>
+      <sumStat type="Mean">19</sumStat>
+      <sumStat type="3rd Qu.">19</sumStat>
+      <sumStat type="Max.">19</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hnr" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">850600</sumStat>
+      <sumStat type="1st Qu.">862900</sumStat>
+      <sumStat type="Median">875800</sumStat>
+      <sumStat type="Mean">875000</sumStat>
+      <sumStat type="3rd Qu.">886200</sumStat>
+      <sumStat type="Max.">900300</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="mpnr" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">1.533</sumStat>
+      <sumStat type="3rd Qu.">2</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bpnr" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">2</sumStat>
+      <sumStat type="1st Qu.">3</sumStat>
+      <sumStat type="Median">4</sumStat>
+      <sumStat type="Mean">3.8</sumStat>
+      <sumStat type="3rd Qu.">4</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="mname" intrvl="string" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bname" intrvl="string" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bgebj" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">2007</sumStat>
+      <sumStat type="1st Qu.">2008</sumStat>
+      <sumStat type="Median">2008</sumStat>
+      <sumStat type="Mean">2008</sumStat>
+      <sumStat type="3rd Qu.">2009</sumStat>
+      <sumStat type="Max.">2009</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bgebm" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">5</sumStat>
+      <sumStat type="Median">8</sumStat>
+      <sumStat type="Mean">7.378</sumStat>
+      <sumStat type="3rd Qu.">9</sumStat>
+      <sumStat type="Max.">12</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bein1" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">1.2</sumStat>
+      <sumStat type="3rd Qu.">1</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bein1s" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">3</sumStat>
+      <sumStat type="Median">6</sumStat>
+      <sumStat type="Mean">4.333</sumStat>
+      <sumStat type="3rd Qu.">7</sumStat>
+      <sumStat type="Max.">9</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bbet5" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.933</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bbet3" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.733</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bbet1" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.333</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bbet2" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.8</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bbet4" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">1</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bbetka" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-2</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">-2</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bver01" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">3</sumStat>
+      <sumStat type="Median">4</sumStat>
+      <sumStat type="Mean">4.133</sumStat>
+      <sumStat type="3rd Qu.">5</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bver02" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">2</sumStat>
+      <sumStat type="Median">3</sumStat>
+      <sumStat type="Mean">3.244</sumStat>
+      <sumStat type="3rd Qu.">4</sumStat>
+      <sumStat type="Max.">6</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bver03" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">4</sumStat>
+      <sumStat type="Median">5</sumStat>
+      <sumStat type="Mean">4.6</sumStat>
+      <sumStat type="3rd Qu.">6</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bver04" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">2</sumStat>
+      <sumStat type="Median">3</sumStat>
+      <sumStat type="Mean">3.556</sumStat>
+      <sumStat type="3rd Qu.">5</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bver05" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">2.311</sumStat>
+      <sumStat type="3rd Qu.">4</sumStat>
+      <sumStat type="Max.">6</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bver06" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">4</sumStat>
+      <sumStat type="Median">5</sumStat>
+      <sumStat type="Mean">4.756</sumStat>
+      <sumStat type="3rd Qu.">6</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bver07" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">2.556</sumStat>
+      <sumStat type="3rd Qu.">4</sumStat>
+      <sumStat type="Max.">6</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bver08" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">2.133</sumStat>
+      <sumStat type="3rd Qu.">3</sumStat>
+      <sumStat type="Max.">6</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bver09" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">2.067</sumStat>
+      <sumStat type="3rd Qu.">2</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bver10" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">4</sumStat>
+      <sumStat type="Median">5</sumStat>
+      <sumStat type="Mean">4.533</sumStat>
+      <sumStat type="3rd Qu.">6</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bver11" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">2</sumStat>
+      <sumStat type="Median">3</sumStat>
+      <sumStat type="Mean">3.156</sumStat>
+      <sumStat type="3rd Qu.">4</sumStat>
+      <sumStat type="Max.">6</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bver12" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">2</sumStat>
+      <sumStat type="Median">3</sumStat>
+      <sumStat type="Mean">2.756</sumStat>
+      <sumStat type="3rd Qu.">4</sumStat>
+      <sumStat type="Max.">6</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bver13" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">1.222</sumStat>
+      <sumStat type="3rd Qu.">1</sumStat>
+      <sumStat type="Max.">3</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bver14" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">3</sumStat>
+      <sumStat type="Median">5</sumStat>
+      <sumStat type="Mean">4.2</sumStat>
+      <sumStat type="3rd Qu.">6</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bver15" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">3</sumStat>
+      <sumStat type="Mean">2.889</sumStat>
+      <sumStat type="3rd Qu.">4</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bver16" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">2.556</sumStat>
+      <sumStat type="3rd Qu.">3</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bver17" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">3</sumStat>
+      <sumStat type="Median">4</sumStat>
+      <sumStat type="Mean">3.756</sumStat>
+      <sumStat type="3rd Qu.">5</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bgew" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">12</sumStat>
+      <sumStat type="Median">13</sumStat>
+      <sumStat type="Mean">12.93</sumStat>
+      <sumStat type="3rd Qu.">15</sumStat>
+      <sumStat type="Max.">20</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bgro" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">89</sumStat>
+      <sumStat type="Median">92</sumStat>
+      <sumStat type="Mean">85.51</sumStat>
+      <sumStat type="3rd Qu.">99</sumStat>
+      <sumStat type="Max.">120</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bstor" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">2</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">1.933</sumStat>
+      <sumStat type="3rd Qu.">2</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bstor01" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-2</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">-2</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bstor02" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.8</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bstor03" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.867</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bstor04" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.867</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bstor05" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.4</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bstor06" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-2</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">-2</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bstor07" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.8</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bstor08" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-2</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">-2</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bstor09" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.867</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bstor10" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-2</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">-2</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bstor11" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-2</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">-2</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bstor12" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.8</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bstor13" intrvl="string" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bstor14" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">-0.06667</sumStat>
+      <sumStat type="3rd Qu.">1</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bvergl1" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">2</sumStat>
+      <sumStat type="1st Qu.">7</sumStat>
+      <sumStat type="Median">9</sumStat>
+      <sumStat type="Mean">8</sumStat>
+      <sumStat type="3rd Qu.">10</sumStat>
+      <sumStat type="Max.">11</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bvergl2" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">2</sumStat>
+      <sumStat type="1st Qu.">3</sumStat>
+      <sumStat type="Median">6</sumStat>
+      <sumStat type="Mean">5.511</sumStat>
+      <sumStat type="3rd Qu.">7</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bvergl3" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">3</sumStat>
+      <sumStat type="Median">5</sumStat>
+      <sumStat type="Mean">5.2</sumStat>
+      <sumStat type="3rd Qu.">7</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bvergl4" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">2</sumStat>
+      <sumStat type="Median">3</sumStat>
+      <sumStat type="Mean">3.889</sumStat>
+      <sumStat type="3rd Qu.">6</sumStat>
+      <sumStat type="Max.">9</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="bform" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">9</sumStat>
+      <sumStat type="1st Qu.">9</sumStat>
+      <sumStat type="Median">9</sumStat>
+      <sumStat type="Mean">9</sumStat>
+      <sumStat type="3rd Qu.">9</sumStat>
+      <sumStat type="Max.">9</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="datt" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">7</sumStat>
+      <sumStat type="Median">13</sumStat>
+      <sumStat type="Mean">15.07</sumStat>
+      <sumStat type="3rd Qu.">24</sumStat>
+      <sumStat type="Max.">30</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="datm" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">3</sumStat>
+      <sumStat type="1st Qu.">10</sumStat>
+      <sumStat type="Median">10</sumStat>
+      <sumStat type="Mean">10</sumStat>
+      <sumStat type="3rd Qu.">11</sumStat>
+      <sumStat type="Max.">12</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="datj" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">2011</sumStat>
+      <sumStat type="1st Qu.">2011</sumStat>
+      <sumStat type="Median">2011</sumStat>
+      <sumStat type="Mean">2011</sumStat>
+      <sumStat type="3rd Qu.">2011</sumStat>
+      <sumStat type="Max.">2012</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="intnr" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1071</sumStat>
+      <sumStat type="1st Qu.">277000</sumStat>
+      <sumStat type="Median">291300</sumStat>
+      <sumStat type="Mean">272300</sumStat>
+      <sumStat type="3rd Qu.">309500</sumStat>
+      <sumStat type="Max.">326400</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="urhh" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">850600</sumStat>
+      <sumStat type="1st Qu.">862900</sumStat>
+      <sumStat type="Median">875800</sumStat>
+      <sumStat type="Mean">874500</sumStat>
+      <sumStat type="3rd Qu.">885900</sumStat>
+      <sumStat type="Max.">899800</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="pnrfest1" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">8506000</sumStat>
+      <sumStat type="1st Qu.">8629000</sumStat>
+      <sumStat type="Median">8758000</sumStat>
+      <sumStat type="Mean">8745000</sumStat>
+      <sumStat type="3rd Qu.">8859000</sumStat>
+      <sumStat type="Max.">8998000</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="pnrfest2" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">8506000</sumStat>
+      <sumStat type="1st Qu.">8629000</sumStat>
+      <sumStat type="Median">8758000</sumStat>
+      <sumStat type="Mean">8745000</sumStat>
+      <sumStat type="3rd Qu.">8859000</sumStat>
+      <sumStat type="Max.">8998000</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="respid" intrvl="numeric" files="mb11_inno_final">
+      <labl></labl>
+      <sumStat type="Min.">30020</sumStat>
+      <sumStat type="1st Qu.">895800</sumStat>
+      <sumStat type="Median">896700</sumStat>
+      <sumStat type="Mean">822600</sumStat>
+      <sumStat type="3rd Qu.">906600</sumStat>
+      <sumStat type="Max.">950600</sumStat>
+      <sumStat type="valid">45</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+  </dataDscr>
+  <fileDscr ID="mb11_inno_final"/>
+</codebook>

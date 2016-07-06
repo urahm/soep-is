@@ -1,0 +1,460 @@
+<codebook>
+  <dataDscr>
+    <var ID="urhh" intrvl="numeric" files="ap11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">850100</sumStat>
+      <sumStat type="1st Qu.">863100</sumStat>
+      <sumStat type="Median">876200</sumStat>
+      <sumStat type="Mean">875200</sumStat>
+      <sumStat type="3rd Qu.">886700</sumStat>
+      <sumStat type="Max.">9e+05</sumStat>
+      <sumStat type="valid">1701</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="pnrfest" intrvl="numeric" files="ap11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">8501000</sumStat>
+      <sumStat type="1st Qu.">8632000</sumStat>
+      <sumStat type="Median">8763000</sumStat>
+      <sumStat type="Mean">8753000</sumStat>
+      <sumStat type="3rd Qu.">8868000</sumStat>
+      <sumStat type="Max.">9004000</sumStat>
+      <sumStat type="valid">1701</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="w11pnr" intrvl="numeric" files="ap11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">85010000</sumStat>
+      <sumStat type="1st Qu.">86320000</sumStat>
+      <sumStat type="Median">87630000</sumStat>
+      <sumStat type="Mean">87550000</sumStat>
+      <sumStat type="3rd Qu.">88690000</sumStat>
+      <sumStat type="Max.">90040000</sumStat>
+      <sumStat type="valid">1701</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hnr" intrvl="numeric" files="ap11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">850100</sumStat>
+      <sumStat type="1st Qu.">863200</sumStat>
+      <sumStat type="Median">876300</sumStat>
+      <sumStat type="Mean">875500</sumStat>
+      <sumStat type="3rd Qu.">886900</sumStat>
+      <sumStat type="Max.">900400</sumStat>
+      <sumStat type="valid">1701</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="pnr" intrvl="numeric" files="ap11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">1.985</sumStat>
+      <sumStat type="3rd Qu.">3</sumStat>
+      <sumStat type="Max.">8</sumStat>
+      <sumStat type="valid">1701</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="ap_nam" intrvl="string" files="ap11_Inno_final">
+      <labl>Vorname</labl>
+      <sumStat type="valid">1701</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="ap_geb" intrvl="numeric" files="ap11_Inno_final">
+      <labl>Geburtsjahr</labl>
+      <sumStat type="Min.">1915</sumStat>
+      <sumStat type="1st Qu.">1949</sumStat>
+      <sumStat type="Median">1965</sumStat>
+      <sumStat type="Mean">1967</sumStat>
+      <sumStat type="3rd Qu.">1988</sumStat>
+      <sumStat type="Max.">2011</sumStat>
+      <sumStat type="valid">1701</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="ap_sex" intrvl="numeric" files="ap11_Inno_final">
+      <labl>Geschlecht</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">1.516</sumStat>
+      <sumStat type="3rd Qu.">2</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="valid">1701</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="ap_lebhh" intrvl="labeled_numeric" files="ap11_Inno_final">
+      <labl>Person lebt im Haushalt?</labl>
+      <sumStat type="valid">1701</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>Lebt noch hier im Haushalt</labl>
+        <catStat type="freq">1626</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>Lebt nicht mehr im Haushalt</labl>
+        <catStat type="freq">  39</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-2</catValu>
+        <catStat type="freq">  36</catStat>
+      </catgry>
+    </var>
+    <var ID="ap_pneu" intrvl="labeled_numeric" files="ap11_Inno_final">
+      <labl>Weitere Personen in diesem Haushalt?</labl>
+      <sumStat type="valid">1701</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>Ja</labl>
+        <catStat type="freq">  36</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>Nein</labl>
+        <catStat type="freq">1665</catStat>
+      </catgry>
+    </var>
+    <var ID="ap_stell" intrvl="labeled_numeric" files="ap11_Inno_final">
+      <labl>Stellung zum Haushaltsvorstand neue Person</labl>
+      <sumStat type="valid">1701</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>Haushaltsvorstand bzw. Bezugsperson</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>Ehegatte/-in</labl>
+        <catStat type="freq">   5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>Gleichgeschlechtliche/r Partner/in nach dem Lebenspartnergesetz</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>Lebenspartner/-in</labl>
+        <catStat type="freq">   5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-2</catValu>
+        <catStat type="freq">1665</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>21</catValu>
+        <labl>leibliches Kind</labl>
+        <catStat type="freq">  20</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>22</catValu>
+        <labl>Stiefkind (Kind des Ehegatten oder Lebenspartners)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>23</catValu>
+        <labl>Adoptivkind</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>24</catValu>
+        <labl>Pflegekind</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>25</catValu>
+        <labl>Enkelkind</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>26</catValu>
+        <labl>Urenkelkind</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>27</catValu>
+        <labl>Schwiegertochter, -sohn (Ehegatten oder Lebenspartner von Kindern)</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>31</catValu>
+        <labl>Leibliche Mutter, leiblicher Vater</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>32</catValu>
+        <labl>Stiefmutter, -vater/Partner der leiblichen Mutter, des leiblichen Vaters</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>33</catValu>
+        <labl>Adoptivmutter, -vater</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>34</catValu>
+        <labl>Pflegemutter, -vater</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>35</catValu>
+        <labl>Schwiegermutter, -vater</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>36</catValu>
+        <labl>Groﬂmutter, -vater</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>41</catValu>
+        <labl>Leibliche Schwester, leiblicher Bruder</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>42</catValu>
+        <labl>Halbschwester, -bruder</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>43</catValu>
+        <labl>Stiefschwester, -bruder</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>44</catValu>
+        <labl>Adoptivschwester, -bruder</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>45</catValu>
+        <labl>Pflegeschwester, -bruder</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>51</catValu>
+        <labl>Schw‰gerin/Schwager 1: Ehegatten oder Lebenspartner von Geschwistern</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>52</catValu>
+        <labl>Schw‰gerin/Schwager 2: Geschwister von Ehegatten oder Lebenspartner</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>61</catValu>
+        <labl>Tante/Onkel</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>62</catValu>
+        <labl>Nichte/Neffe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>63</catValu>
+        <labl>Cousine/Cousin</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>64</catValu>
+        <labl>Andere Verwandte</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>71</catValu>
+        <labl>Sonstige</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="ap_hh" intrvl="labeled_numeric" files="ap11_Inno_final">
+      <labl>Lebt ausschlieﬂlich hier im Haushalt oder zeitweise woanders?</labl>
+      <sumStat type="valid">1701</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>Ausschlieﬂlich hier im Haushalt</labl>
+        <catStat type="freq">1637</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>Zeitweise woanders</labl>
+        <catStat type="freq">  25</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-2</catValu>
+        <catStat type="freq">  39</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>Keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="ap_hhzeit" intrvl="labeled_numeric" files="ap11_Inno_final">
+      <labl>In welchem zeitlichen Umfang hier im Haushalt?</labl>
+      <sumStat type="valid">1701</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>Keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>Nur am Wochenende</labl>
+        <catStat type="freq">   5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>Jedes zweite Wochenende</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-2</catValu>
+        <catStat type="freq">1676</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>Nur unter der Woche</labl>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>Jede zweite Woche</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>Nur in den Schulferien/in der vorlesungsfreien Zeit</labl>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>Sonstiges, und zwar:</labl>
+        <catStat type="freq">  11</catStat>
+      </catgry>
+    </var>
+    <var ID="ap_hhso" intrvl="string" files="ap11_Inno_final">
+      <labl>Sonstiges</labl>
+      <sumStat type="valid">1701</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="ap_wo" intrvl="labeled_numeric" files="ap11_Inno_final">
+      <labl>Wo lebt Person sonst?</labl>
+      <sumStat type="valid">1701</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>Keine Angabe</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>Eigene Wohnung</labl>
+        <catStat type="freq">   8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>Freund/Freundin; Partner/Partnerin</labl>
+        <catStat type="freq">   5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-2</catValu>
+        <catStat type="freq">1676</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>Unterkunft am weiter entfernten Arbeitsort</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>Bei anderem Elternteil</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>Sch¸ler-/Studentenwohnheim</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>Internat</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>Kinderheim</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>Pflegeheim</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>Sonstiges, und zwar:</labl>
+        <catStat type="freq">   5</catStat>
+      </catgry>
+    </var>
+    <var ID="ap_woso" intrvl="string" files="ap11_Inno_final">
+      <labl>Sonstiges</labl>
+      <sumStat type="valid">1701</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="ap_haupt" intrvl="labeled_numeric" files="ap11_Inno_final">
+      <labl>Wo hat Person seinen Hauptwohnsitz?</labl>
+      <sumStat type="valid">1701</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>Keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>In diesem Haushalt</labl>
+        <catStat type="freq">  20</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>Woanders</labl>
+        <catStat type="freq">   5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-2</catValu>
+        <catStat type="freq">1676</catStat>
+      </catgry>
+    </var>
+    <var ID="ap_zweit" intrvl="labeled_numeric" files="ap11_Inno_final">
+      <labl>Ist Person in diesem Haushalt mit dem Zweitwohnsitz gemeldet?</labl>
+      <sumStat type="valid">1701</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>Keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>Ja</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>Nein</labl>
+        <catStat type="freq">   4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-2</catValu>
+        <catStat type="freq">1696</catStat>
+      </catgry>
+    </var>
+  </dataDscr>
+  <fileDscr ID="ap11_Inno_final"/>
+</codebook>

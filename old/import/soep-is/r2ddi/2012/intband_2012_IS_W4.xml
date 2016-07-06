@@ -1,0 +1,159 @@
+<codebook>
+  <dataDscr>
+    <var ID="intnr" intrvl="numeric" files="intband_2012_IS_W4">
+      <labl>Interviewernummer</labl>
+      <sumStat type="Min.">1071</sumStat>
+      <sumStat type="1st Qu.">239800</sumStat>
+      <sumStat type="Median">285200</sumStat>
+      <sumStat type="Mean">256400</sumStat>
+      <sumStat type="3rd Qu.">309600</sumStat>
+      <sumStat type="Max.">330800</sumStat>
+      <sumStat type="valid">211</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="SOEPseit" intrvl="numeric" files="intband_2012_IS_W4">
+      <labl>Jahr erste Mitarbeit SOEP</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">2000</sumStat>
+      <sumStat type="Median">2008</sumStat>
+      <sumStat type="Mean">1976</sumStat>
+      <sumStat type="3rd Qu.">2009</sumStat>
+      <sumStat type="Max.">2012</sumStat>
+      <sumStat type="valid">211</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="sex" intrvl="labeled_numeric" files="intband_2012_IS_W4">
+      <labl>Geschlecht</labl>
+      <sumStat type="valid">211</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>m‰nnlich</labl>
+        <catStat type="freq">126</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>weiblich</labl>
+        <catStat type="freq"> 85</catStat>
+      </catgry>
+    </var>
+    <var ID="geburt" intrvl="numeric" files="intband_2012_IS_W4">
+      <labl>Geburtsdatum</labl>
+      <sumStat type="Min.">1927</sumStat>
+      <sumStat type="1st Qu.">1943</sumStat>
+      <sumStat type="Median">1949</sumStat>
+      <sumStat type="Mean">1950</sumStat>
+      <sumStat type="3rd Qu.">1957</sumStat>
+      <sumStat type="Max.">1986</sumStat>
+      <sumStat type="valid">211</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="eintritt" intrvl="numeric" files="intband_2012_IS_W4">
+      <labl>Einstiegsjahr</labl>
+      <sumStat type="Min.">1969</sumStat>
+      <sumStat type="1st Qu.">1994</sumStat>
+      <sumStat type="Median">2004</sumStat>
+      <sumStat type="Mean">2000</sumStat>
+      <sumStat type="3rd Qu.">2008</sumStat>
+      <sumStat type="Max.">2012</sumStat>
+      <sumStat type="valid">211</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="beruf" intrvl="labeled_numeric" files="intband_2012_IS_W4">
+      <labl>Berufst‰tigkeit</labl>
+      <sumStat type="valid">211</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>Voll berufst‰tig</labl>
+        <catStat type="freq">26</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>Teilweise berufst‰tig</labl>
+        <catStat type="freq">98</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>Hausfrau / Hausmann</labl>
+        <catStat type="freq">70</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>Rentner, Pension‰r</labl>
+        <catStat type="freq">15</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>Student, in Ausbildung</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>Zurzeit arbeitslos</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="schule" intrvl="labeled_numeric" files="intband_2012_IS_W4">
+      <labl>Schulabschluss</labl>
+      <sumStat type="valid">211</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 = "Volksschule"</labl>
+        <catStat type="freq">32</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 = "Fach/Handels/Mittelschule"</labl>
+        <catStat type="freq">95</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 = "Abitur"</labl>
+        <catStat type="freq">24</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 = "Hochschule/Uni ohne Abschluﬂ"</labl>
+        <catStat type="freq"> 7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 = "Hochschule/Uni mit Abschluﬂ"</labl>
+        <catStat type="freq">53</catStat>
+      </catgry>
+    </var>
+    <var ID="famstand" intrvl="labeled_numeric" files="intband_2012_IS_W4">
+      <labl>Familienstand</labl>
+      <sumStat type="valid">211</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 = "unbekannt"</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 = "ledig"</labl>
+        <catStat type="freq"> 30</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 = "verheiratet"</labl>
+        <catStat type="freq">155</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 = "verwitwet/geschieden/getrennt"</labl>
+        <catStat type="freq"> 26</catStat>
+      </catgry>
+    </var>
+    <var ID="beruf2" intrvl="string" files="intband_2012_IS_W4">
+      <labl>Berufsbezeichnung</labl>
+      <sumStat type="valid">211</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+  </dataDscr>
+  <fileDscr ID="intband_2012_IS_W4"/>
+</codebook>

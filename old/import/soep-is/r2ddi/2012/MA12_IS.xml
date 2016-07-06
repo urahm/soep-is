@@ -1,0 +1,466 @@
+<codebook>
+  <dataDscr>
+    <var ID="jahr" intrvl="numeric" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="Min.">2012</sumStat>
+      <sumStat type="1st Qu.">2012</sumStat>
+      <sumStat type="Median">2012</sumStat>
+      <sumStat type="Mean">2012</sumStat>
+      <sumStat type="3rd Qu.">2012</sumStat>
+      <sumStat type="Max.">2012</sumStat>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="stichu" intrvl="numeric" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="Min.">22</sumStat>
+      <sumStat type="1st Qu.">22</sumStat>
+      <sumStat type="Median">22</sumStat>
+      <sumStat type="Mean">22</sumStat>
+      <sumStat type="3rd Qu.">22</sumStat>
+      <sumStat type="Max.">22</sumStat>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hnr" intrvl="numeric" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="Min.">921900</sumStat>
+      <sumStat type="1st Qu.">936900</sumStat>
+      <sumStat type="Median">960300</sumStat>
+      <sumStat type="Mean">954300</sumStat>
+      <sumStat type="3rd Qu.">970000</sumStat>
+      <sumStat type="Max.">982000</sumStat>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="mpnr" intrvl="numeric" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">1.318</sumStat>
+      <sumStat type="3rd Qu.">2</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="apnr" intrvl="numeric" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="Min.">2</sumStat>
+      <sumStat type="1st Qu.">3</sumStat>
+      <sumStat type="Median">4</sumStat>
+      <sumStat type="Mean">3.909</sumStat>
+      <sumStat type="3rd Qu.">4.25</sumStat>
+      <sumStat type="Max.">8</sumStat>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="mname" intrvl="string" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="aname" intrvl="string" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="agebj" intrvl="numeric" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="Min.">2010</sumStat>
+      <sumStat type="1st Qu.">2010</sumStat>
+      <sumStat type="Median">2011</sumStat>
+      <sumStat type="Mean">2011</sumStat>
+      <sumStat type="3rd Qu.">2011</sumStat>
+      <sumStat type="Max.">2012</sumStat>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="agebm" intrvl="numeric" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">3</sumStat>
+      <sumStat type="Median">6.5</sumStat>
+      <sumStat type="Mean">6.614</sumStat>
+      <sumStat type="3rd Qu.">10</sumStat>
+      <sumStat type="Max.">12</sumStat>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="awoch" intrvl="numeric" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="Min.">31</sumStat>
+      <sumStat type="1st Qu.">38</sumStat>
+      <sumStat type="Median">39.5</sumStat>
+      <sumStat type="Mean">38.89</sumStat>
+      <sumStat type="3rd Qu.">41</sumStat>
+      <sumStat type="Max.">45</sumStat>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="agew" intrvl="numeric" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="Min.">1560</sumStat>
+      <sumStat type="1st Qu.">2892</sumStat>
+      <sumStat type="Median">3275</sumStat>
+      <sumStat type="Mean">3304</sumStat>
+      <sumStat type="3rd Qu.">3719</sumStat>
+      <sumStat type="Max.">5020</sumStat>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="agro" intrvl="numeric" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="Min.">39</sumStat>
+      <sumStat type="1st Qu.">50</sumStat>
+      <sumStat type="Median">51</sumStat>
+      <sumStat type="Mean">51.07</sumStat>
+      <sumStat type="3rd Qu.">53.25</sumStat>
+      <sumStat type="Max.">56</sumStat>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="akop" intrvl="numeric" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">31.5</sumStat>
+      <sumStat type="Median">34</sumStat>
+      <sumStat type="Mean">26.7</sumStat>
+      <sumStat type="3rd Qu.">35</sumStat>
+      <sumStat type="Max.">50</sumStat>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="aunt" intrvl="numeric" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">5</sumStat>
+      <sumStat type="Median">6</sumStat>
+      <sumStat type="Mean">5.114</sumStat>
+      <sumStat type="3rd Qu.">6</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="auntno" intrvl="numeric" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.977</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">-1</sumStat>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="astor" intrvl="numeric" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">3</sumStat>
+      <sumStat type="Median">3</sumStat>
+      <sumStat type="Mean">2.909</sumStat>
+      <sumStat type="3rd Qu.">3</sumStat>
+      <sumStat type="Max.">3</sumStat>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="astor1" intrvl="numeric" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-2</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">-2</sumStat>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="astor2" intrvl="numeric" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.932</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="astor3" intrvl="numeric" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-2</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">-2</sumStat>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="astor4" intrvl="numeric" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-2</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">-2</sumStat>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="astor5" intrvl="numeric" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-2</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">-2</sumStat>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="astor6" intrvl="numeric" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-2</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">-2</sumStat>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="astor7" intrvl="numeric" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-2</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">-2</sumStat>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="astor8" intrvl="numeric" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-2</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">-2</sumStat>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="astor9" intrvl="numeric" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.932</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="aein1" intrvl="numeric" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">2</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">1.886</sumStat>
+      <sumStat type="3rd Qu.">2</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="aeins" intrvl="numeric" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.136</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">9</sumStat>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="abet5" intrvl="numeric" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-2</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">-2</sumStat>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="abet3" intrvl="numeric" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.864</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="abet1" intrvl="numeric" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.25</sumStat>
+      <sumStat type="3rd Qu.">-1.25</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="abet2" intrvl="numeric" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.932</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="abet4" intrvl="numeric" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">0.1136</sumStat>
+      <sumStat type="3rd Qu.">1</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="abetka" intrvl="numeric" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-2</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">-2</sumStat>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="form" intrvl="numeric" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="Min.">9</sumStat>
+      <sumStat type="1st Qu.">9</sumStat>
+      <sumStat type="Median">9</sumStat>
+      <sumStat type="Mean">9</sumStat>
+      <sumStat type="3rd Qu.">9</sumStat>
+      <sumStat type="Max.">9</sumStat>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="datt" intrvl="numeric" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="Min.">2</sumStat>
+      <sumStat type="1st Qu.">10.5</sumStat>
+      <sumStat type="Median">17</sumStat>
+      <sumStat type="Mean">16.64</sumStat>
+      <sumStat type="3rd Qu.">25</sumStat>
+      <sumStat type="Max.">31</sumStat>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="datm" intrvl="numeric" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="Min.">6</sumStat>
+      <sumStat type="1st Qu.">7</sumStat>
+      <sumStat type="Median">7</sumStat>
+      <sumStat type="Mean">7.523</sumStat>
+      <sumStat type="3rd Qu.">9</sumStat>
+      <sumStat type="Max.">9</sumStat>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="datj" intrvl="numeric" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="Min.">2012</sumStat>
+      <sumStat type="1st Qu.">2012</sumStat>
+      <sumStat type="Median">2012</sumStat>
+      <sumStat type="Mean">2012</sumStat>
+      <sumStat type="3rd Qu.">2012</sumStat>
+      <sumStat type="Max.">2012</sumStat>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="intnr" intrvl="numeric" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="Min.">5556</sumStat>
+      <sumStat type="1st Qu.">263700</sumStat>
+      <sumStat type="Median">300500</sumStat>
+      <sumStat type="Mean">268100</sumStat>
+      <sumStat type="3rd Qu.">324000</sumStat>
+      <sumStat type="Max.">327900</sumStat>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="urhh" intrvl="numeric" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="Min.">921900</sumStat>
+      <sumStat type="1st Qu.">936900</sumStat>
+      <sumStat type="Median">960300</sumStat>
+      <sumStat type="Mean">954300</sumStat>
+      <sumStat type="3rd Qu.">970000</sumStat>
+      <sumStat type="Max.">982000</sumStat>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="pnrfest1" intrvl="numeric" files="MA12_IS">
+      <labl>Unveränderliche Personennummer</labl>
+      <sumStat type="Min.">9219000</sumStat>
+      <sumStat type="1st Qu.">9369000</sumStat>
+      <sumStat type="Median">9603000</sumStat>
+      <sumStat type="Mean">9543000</sumStat>
+      <sumStat type="3rd Qu.">9700000</sumStat>
+      <sumStat type="Max.">9820000</sumStat>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="pnrfest2" intrvl="numeric" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="Min.">9219000</sumStat>
+      <sumStat type="1st Qu.">9369000</sumStat>
+      <sumStat type="Median">9603000</sumStat>
+      <sumStat type="Mean">9543000</sumStat>
+      <sumStat type="3rd Qu.">9700000</sumStat>
+      <sumStat type="Max.">9820000</sumStat>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="modul" intrvl="numeric" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">2.068</sumStat>
+      <sumStat type="3rd Qu.">3</sumStat>
+      <sumStat type="Max.">4</sumStat>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="respid" intrvl="numeric" files="MA12_IS">
+      <labl></labl>
+      <sumStat type="Min.">390100</sumStat>
+      <sumStat type="1st Qu.">392700</sumStat>
+      <sumStat type="Median">425100</sumStat>
+      <sumStat type="Mean">448200</sumStat>
+      <sumStat type="3rd Qu.">535700</sumStat>
+      <sumStat type="Max.">553300</sumStat>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+  </dataDscr>
+  <fileDscr ID="MA12_IS"/>
+</codebook>

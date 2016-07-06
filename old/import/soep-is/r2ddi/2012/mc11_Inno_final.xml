@@ -1,0 +1,801 @@
+<codebook>
+  <dataDscr>
+    <var ID="jahr" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">2011</sumStat>
+      <sumStat type="1st Qu.">2011</sumStat>
+      <sumStat type="Median">2011</sumStat>
+      <sumStat type="Mean">2011</sumStat>
+      <sumStat type="3rd Qu.">2011</sumStat>
+      <sumStat type="Max.">2011</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="stichu" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">19</sumStat>
+      <sumStat type="1st Qu.">19</sumStat>
+      <sumStat type="Median">19</sumStat>
+      <sumStat type="Mean">19</sumStat>
+      <sumStat type="3rd Qu.">19</sumStat>
+      <sumStat type="Max.">19</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hnr" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">850100</sumStat>
+      <sumStat type="1st Qu.">863100</sumStat>
+      <sumStat type="Median">874100</sumStat>
+      <sumStat type="Mean">874500</sumStat>
+      <sumStat type="3rd Qu.">885400</sumStat>
+      <sumStat type="Max.">900600</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="mpnr" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">1.431</sumStat>
+      <sumStat type="3rd Qu.">2</sumStat>
+      <sumStat type="Max.">3</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cpnr" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">2</sumStat>
+      <sumStat type="1st Qu.">3</sumStat>
+      <sumStat type="Median">3</sumStat>
+      <sumStat type="Mean">3.609</sumStat>
+      <sumStat type="3rd Qu.">4</sumStat>
+      <sumStat type="Max.">8</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="mname" intrvl="string" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cname" intrvl="string" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cgebj" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1995</sumStat>
+      <sumStat type="1st Qu.">1998</sumStat>
+      <sumStat type="Median">2000</sumStat>
+      <sumStat type="Mean">2001</sumStat>
+      <sumStat type="3rd Qu.">2004</sumStat>
+      <sumStat type="Max.">2007</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cgebm" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">3</sumStat>
+      <sumStat type="Median">7</sumStat>
+      <sumStat type="Mean">6.495</sumStat>
+      <sumStat type="3rd Qu.">9</sumStat>
+      <sumStat type="Max.">12</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cein4" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.438</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cein3" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">1.997</sumStat>
+      <sumStat type="3rd Qu.">4</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cein9" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">1.027</sumStat>
+      <sumStat type="3rd Qu.">2</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cein1" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1.5</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">1.749</sumStat>
+      <sumStat type="3rd Qu.">2</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cein1s" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-0.2074</sumStat>
+      <sumStat type="3rd Qu.">-0.5</sumStat>
+      <sumStat type="Max.">9</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cbet5" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.98</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cbet3" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.96</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cbet1" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.488</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cbet2" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.91</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cbet4" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">0.398</sumStat>
+      <sumStat type="3rd Qu.">1</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cbetka" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-2</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">-2</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cver01" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">4</sumStat>
+      <sumStat type="Median">6</sumStat>
+      <sumStat type="Mean">5.261</sumStat>
+      <sumStat type="3rd Qu.">6.5</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cver02" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">2.789</sumStat>
+      <sumStat type="3rd Qu.">4</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cver03" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">4</sumStat>
+      <sumStat type="Median">6</sumStat>
+      <sumStat type="Mean">5.298</sumStat>
+      <sumStat type="3rd Qu.">6</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cver04" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1.5</sumStat>
+      <sumStat type="Median">3</sumStat>
+      <sumStat type="Mean">3.04</sumStat>
+      <sumStat type="3rd Qu.">4</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cver05" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">2.244</sumStat>
+      <sumStat type="3rd Qu.">3</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cver06" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">5</sumStat>
+      <sumStat type="Median">6</sumStat>
+      <sumStat type="Mean">5.97</sumStat>
+      <sumStat type="3rd Qu.">7</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cver07" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">2.495</sumStat>
+      <sumStat type="3rd Qu.">4</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cver08" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">2.14</sumStat>
+      <sumStat type="3rd Qu.">3</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cver09" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">2.047</sumStat>
+      <sumStat type="3rd Qu.">3</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cver10" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">5</sumStat>
+      <sumStat type="Median">6</sumStat>
+      <sumStat type="Mean">5.676</sumStat>
+      <sumStat type="3rd Qu.">7</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cver11" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">2</sumStat>
+      <sumStat type="Median">3</sumStat>
+      <sumStat type="Mean">3.308</sumStat>
+      <sumStat type="3rd Qu.">5</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cver12" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">2.736</sumStat>
+      <sumStat type="3rd Qu.">4</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cver13" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">1.796</sumStat>
+      <sumStat type="3rd Qu.">2</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cver14" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">4</sumStat>
+      <sumStat type="Median">6</sumStat>
+      <sumStat type="Mean">5.237</sumStat>
+      <sumStat type="3rd Qu.">6</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cver15" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">2.676</sumStat>
+      <sumStat type="3rd Qu.">4</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cver16" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">2.351</sumStat>
+      <sumStat type="3rd Qu.">3</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cver17" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">3</sumStat>
+      <sumStat type="Median">5</sumStat>
+      <sumStat type="Mean">4.679</sumStat>
+      <sumStat type="3rd Qu.">6</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cgew" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">23</sumStat>
+      <sumStat type="Median">35</sumStat>
+      <sumStat type="Mean">35.75</sumStat>
+      <sumStat type="3rd Qu.">49</sumStat>
+      <sumStat type="Max.">90</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cgro" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">120.5</sumStat>
+      <sumStat type="Median">143</sumStat>
+      <sumStat type="Mean">135.6</sumStat>
+      <sumStat type="3rd Qu.">160</sumStat>
+      <sumStat type="Max.">190</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cstor" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">2</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">1.936</sumStat>
+      <sumStat type="3rd Qu.">2</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cstor1" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.548</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cstor2" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.448</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cstor3" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.769</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cstor4" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.86</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cstor5" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.94</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cstor6" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.86</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cstor7" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.809</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cstor8" intrvl="string" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cstor9" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">-0.1639</sumStat>
+      <sumStat type="3rd Qu.">1</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cverg01" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">2</sumStat>
+      <sumStat type="Median">3</sumStat>
+      <sumStat type="Mean">3.679</sumStat>
+      <sumStat type="3rd Qu.">5</sumStat>
+      <sumStat type="Max.">11</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cverg02" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">3</sumStat>
+      <sumStat type="Median">6</sumStat>
+      <sumStat type="Mean">5.853</sumStat>
+      <sumStat type="3rd Qu.">9</sumStat>
+      <sumStat type="Max.">11</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cverg03" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">2</sumStat>
+      <sumStat type="Median">3</sumStat>
+      <sumStat type="Mean">3.923</sumStat>
+      <sumStat type="3rd Qu.">6</sumStat>
+      <sumStat type="Max.">11</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cverg04" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">7</sumStat>
+      <sumStat type="Median">9</sumStat>
+      <sumStat type="Mean">8.569</sumStat>
+      <sumStat type="3rd Qu.">11</sumStat>
+      <sumStat type="Max.">11</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cverg05" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">2</sumStat>
+      <sumStat type="Median">3</sumStat>
+      <sumStat type="Mean">4.144</sumStat>
+      <sumStat type="3rd Qu.">6</sumStat>
+      <sumStat type="Max.">11</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cverg06" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">6</sumStat>
+      <sumStat type="Median">9</sumStat>
+      <sumStat type="Mean">8.572</sumStat>
+      <sumStat type="3rd Qu.">10</sumStat>
+      <sumStat type="Max.">11</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cverg07" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">2</sumStat>
+      <sumStat type="Median">5</sumStat>
+      <sumStat type="Mean">4.953</sumStat>
+      <sumStat type="3rd Qu.">7</sumStat>
+      <sumStat type="Max.">11</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cverg08" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">4</sumStat>
+      <sumStat type="Median">6</sumStat>
+      <sumStat type="Mean">6.258</sumStat>
+      <sumStat type="3rd Qu.">8.5</sumStat>
+      <sumStat type="Max.">11</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cverg09" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">2</sumStat>
+      <sumStat type="Median">3</sumStat>
+      <sumStat type="Mean">3.649</sumStat>
+      <sumStat type="3rd Qu.">5.5</sumStat>
+      <sumStat type="Max.">11</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cverg10" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">6</sumStat>
+      <sumStat type="Median">9</sumStat>
+      <sumStat type="Mean">7.779</sumStat>
+      <sumStat type="3rd Qu.">10</sumStat>
+      <sumStat type="Max.">11</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="csch1" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">2.575</sumStat>
+      <sumStat type="3rd Qu.">4</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="csch2" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">2</sumStat>
+      <sumStat type="Median">5</sumStat>
+      <sumStat type="Mean">4.294</sumStat>
+      <sumStat type="3rd Qu.">7</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="csch3" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">3</sumStat>
+      <sumStat type="Median">7</sumStat>
+      <sumStat type="Mean">4.987</sumStat>
+      <sumStat type="3rd Qu.">7</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="csch4" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">3.562</sumStat>
+      <sumStat type="3rd Qu.">7</sumStat>
+      <sumStat type="Max.">8</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="csch5" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">3</sumStat>
+      <sumStat type="Median">6</sumStat>
+      <sumStat type="Mean">4.746</sumStat>
+      <sumStat type="3rd Qu.">7</sumStat>
+      <sumStat type="Max.">8</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="csch6" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">-3</sumStat>
+      <sumStat type="1st Qu.">2</sumStat>
+      <sumStat type="Median">5</sumStat>
+      <sumStat type="Mean">4.314</sumStat>
+      <sumStat type="3rd Qu.">7</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="cform" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">9</sumStat>
+      <sumStat type="1st Qu.">9</sumStat>
+      <sumStat type="Median">9</sumStat>
+      <sumStat type="Mean">9</sumStat>
+      <sumStat type="3rd Qu.">9</sumStat>
+      <sumStat type="Max.">9</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="datt" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">10</sumStat>
+      <sumStat type="Median">17</sumStat>
+      <sumStat type="Mean">16.62</sumStat>
+      <sumStat type="3rd Qu.">24</sumStat>
+      <sumStat type="Max.">31</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="datm" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">2</sumStat>
+      <sumStat type="1st Qu.">10</sumStat>
+      <sumStat type="Median">10</sumStat>
+      <sumStat type="Mean">10.07</sumStat>
+      <sumStat type="3rd Qu.">11</sumStat>
+      <sumStat type="Max.">12</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="datj" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">2011</sumStat>
+      <sumStat type="1st Qu.">2011</sumStat>
+      <sumStat type="Median">2011</sumStat>
+      <sumStat type="Mean">2011</sumStat>
+      <sumStat type="3rd Qu.">2011</sumStat>
+      <sumStat type="Max.">2012</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="intnr" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">1071</sumStat>
+      <sumStat type="1st Qu.">262400</sumStat>
+      <sumStat type="Median">292800</sumStat>
+      <sumStat type="Mean">268100</sumStat>
+      <sumStat type="3rd Qu.">310600</sumStat>
+      <sumStat type="Max.">326600</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="urhh" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">850100</sumStat>
+      <sumStat type="1st Qu.">863100</sumStat>
+      <sumStat type="Median">874100</sumStat>
+      <sumStat type="Mean">874300</sumStat>
+      <sumStat type="3rd Qu.">885100</sumStat>
+      <sumStat type="Max.">899900</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="pnrfest1" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">8501000</sumStat>
+      <sumStat type="1st Qu.">8631000</sumStat>
+      <sumStat type="Median">8741000</sumStat>
+      <sumStat type="Mean">8743000</sumStat>
+      <sumStat type="3rd Qu.">8851000</sumStat>
+      <sumStat type="Max.">8999000</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="pnrfest2" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">8501000</sumStat>
+      <sumStat type="1st Qu.">8631000</sumStat>
+      <sumStat type="Median">8741000</sumStat>
+      <sumStat type="Mean">8744000</sumStat>
+      <sumStat type="3rd Qu.">8851000</sumStat>
+      <sumStat type="Max.">9002000</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="respid" intrvl="numeric" files="mc11_Inno_final">
+      <labl></labl>
+      <sumStat type="Min.">278</sumStat>
+      <sumStat type="1st Qu.">896000</sumStat>
+      <sumStat type="Median">896900</sumStat>
+      <sumStat type="Mean">841200</sumStat>
+      <sumStat type="3rd Qu.">910000</sumStat>
+      <sumStat type="Max.">987600</sumStat>
+      <sumStat type="valid">299</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+  </dataDscr>
+  <fileDscr ID="mc11_Inno_final"/>
+</codebook>

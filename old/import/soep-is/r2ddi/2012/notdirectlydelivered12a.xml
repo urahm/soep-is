@@ -1,0 +1,197 @@
+<codebook>
+  <dataDscr>
+    <var ID="hwohn09a_1981" intrvl="numeric" files="notdirectlydelivered12a">
+      <labl></labl>
+      <sumStat type="Min.">NA</sumStat>
+      <sumStat type="1st Qu.">NA</sumStat>
+      <sumStat type="Median">NA</sumStat>
+      <sumStat type="Mean">NaN</sumStat>
+      <sumStat type="3rd Qu.">NA</sumStat>
+      <sumStat type="Max.">NA</sumStat>
+      <sumStat type="NA's">1</sumStat>
+      <sumStat type="valid">0</sumStat>
+      <sumStat type="invalid">1</sumStat>
+    </var>
+    <var ID="hwohn09a_1991" intrvl="numeric" files="notdirectlydelivered12a">
+      <labl></labl>
+      <sumStat type="Min.">NA</sumStat>
+      <sumStat type="1st Qu.">NA</sumStat>
+      <sumStat type="Median">NA</sumStat>
+      <sumStat type="Mean">NaN</sumStat>
+      <sumStat type="3rd Qu.">NA</sumStat>
+      <sumStat type="Max.">NA</sumStat>
+      <sumStat type="NA's">1</sumStat>
+      <sumStat type="valid">0</sumStat>
+      <sumStat type="invalid">1</sumStat>
+    </var>
+    <var ID="hwohn09a_2001" intrvl="numeric" files="notdirectlydelivered12a">
+      <labl></labl>
+      <sumStat type="Min.">NA</sumStat>
+      <sumStat type="1st Qu.">NA</sumStat>
+      <sumStat type="Median">NA</sumStat>
+      <sumStat type="Mean">NaN</sumStat>
+      <sumStat type="3rd Qu.">NA</sumStat>
+      <sumStat type="Max.">NA</sumStat>
+      <sumStat type="NA's">1</sumStat>
+      <sumStat type="valid">0</sumStat>
+      <sumStat type="invalid">1</sumStat>
+    </var>
+    <var ID="hwohn09a_2011" intrvl="numeric" files="notdirectlydelivered12a">
+      <labl></labl>
+      <sumStat type="Min.">NA</sumStat>
+      <sumStat type="1st Qu.">NA</sumStat>
+      <sumStat type="Median">NA</sumStat>
+      <sumStat type="Mean">NaN</sumStat>
+      <sumStat type="3rd Qu.">NA</sumStat>
+      <sumStat type="Max.">NA</sumStat>
+      <sumStat type="NA's">1</sumStat>
+      <sumStat type="valid">0</sumStat>
+      <sumStat type="invalid">1</sumStat>
+    </var>
+    <var ID="znettox2" intrvl="numeric" files="notdirectlydelivered12a">
+      <labl></labl>
+      <sumStat type="Min.">NA</sumStat>
+      <sumStat type="1st Qu.">NA</sumStat>
+      <sumStat type="Median">NA</sumStat>
+      <sumStat type="Mean">NaN</sumStat>
+      <sumStat type="3rd Qu.">NA</sumStat>
+      <sumStat type="Max.">NA</sumStat>
+      <sumStat type="NA's">1</sumStat>
+      <sumStat type="valid">0</sumStat>
+      <sumStat type="invalid">1</sumStat>
+    </var>
+    <var ID="znettox3" intrvl="numeric" files="notdirectlydelivered12a">
+      <labl></labl>
+      <sumStat type="Min.">NA</sumStat>
+      <sumStat type="1st Qu.">NA</sumStat>
+      <sumStat type="Median">NA</sumStat>
+      <sumStat type="Mean">NaN</sumStat>
+      <sumStat type="3rd Qu.">NA</sumStat>
+      <sumStat type="Max.">NA</sumStat>
+      <sumStat type="NA's">1</sumStat>
+      <sumStat type="valid">0</sumStat>
+      <sumStat type="invalid">1</sumStat>
+    </var>
+    <var ID="znettox4" intrvl="numeric" files="notdirectlydelivered12a">
+      <labl></labl>
+      <sumStat type="Min.">NA</sumStat>
+      <sumStat type="1st Qu.">NA</sumStat>
+      <sumStat type="Median">NA</sumStat>
+      <sumStat type="Mean">NaN</sumStat>
+      <sumStat type="3rd Qu.">NA</sumStat>
+      <sumStat type="Max.">NA</sumStat>
+      <sumStat type="NA's">1</sumStat>
+      <sumStat type="valid">0</sumStat>
+      <sumStat type="invalid">1</sumStat>
+    </var>
+    <var ID="znettox5" intrvl="numeric" files="notdirectlydelivered12a">
+      <labl></labl>
+      <sumStat type="Min.">NA</sumStat>
+      <sumStat type="1st Qu.">NA</sumStat>
+      <sumStat type="Median">NA</sumStat>
+      <sumStat type="Mean">NaN</sumStat>
+      <sumStat type="3rd Qu.">NA</sumStat>
+      <sumStat type="Max.">NA</sumStat>
+      <sumStat type="NA's">1</sumStat>
+      <sumStat type="valid">0</sumStat>
+      <sumStat type="invalid">1</sumStat>
+    </var>
+    <var ID="lsab7y" intrvl="numeric" files="notdirectlydelivered12a">
+      <labl></labl>
+      <sumStat type="Min.">NA</sumStat>
+      <sumStat type="1st Qu.">NA</sumStat>
+      <sumStat type="Median">NA</sumStat>
+      <sumStat type="Mean">NaN</sumStat>
+      <sumStat type="3rd Qu.">NA</sumStat>
+      <sumStat type="Max.">NA</sumStat>
+      <sumStat type="NA's">1</sumStat>
+      <sumStat type="valid">0</sumStat>
+      <sumStat type="invalid">1</sumStat>
+    </var>
+    <var ID="labx2" intrvl="numeric" files="notdirectlydelivered12a">
+      <labl></labl>
+      <sumStat type="Min.">NA</sumStat>
+      <sumStat type="1st Qu.">NA</sumStat>
+      <sumStat type="Median">NA</sumStat>
+      <sumStat type="Mean">NaN</sumStat>
+      <sumStat type="3rd Qu.">NA</sumStat>
+      <sumStat type="Max.">NA</sumStat>
+      <sumStat type="NA's">1</sumStat>
+      <sumStat type="valid">0</sumStat>
+      <sumStat type="invalid">1</sumStat>
+    </var>
+    <var ID="labx4" intrvl="numeric" files="notdirectlydelivered12a">
+      <labl></labl>
+      <sumStat type="Min.">NA</sumStat>
+      <sumStat type="1st Qu.">NA</sumStat>
+      <sumStat type="Median">NA</sumStat>
+      <sumStat type="Mean">NaN</sumStat>
+      <sumStat type="3rd Qu.">NA</sumStat>
+      <sumStat type="Max.">NA</sumStat>
+      <sumStat type="NA's">1</sumStat>
+      <sumStat type="valid">0</sumStat>
+      <sumStat type="invalid">1</sumStat>
+    </var>
+    <var ID="labx9" intrvl="numeric" files="notdirectlydelivered12a">
+      <labl></labl>
+      <sumStat type="Min.">NA</sumStat>
+      <sumStat type="1st Qu.">NA</sumStat>
+      <sumStat type="Median">NA</sumStat>
+      <sumStat type="Mean">NaN</sumStat>
+      <sumStat type="3rd Qu.">NA</sumStat>
+      <sumStat type="Max.">NA</sumStat>
+      <sumStat type="NA's">1</sumStat>
+      <sumStat type="valid">0</sumStat>
+      <sumStat type="invalid">1</sumStat>
+    </var>
+    <var ID="x" intrvl="numeric" files="notdirectlydelivered12a">
+      <labl></labl>
+      <sumStat type="Min.">NA</sumStat>
+      <sumStat type="1st Qu.">NA</sumStat>
+      <sumStat type="Median">NA</sumStat>
+      <sumStat type="Mean">NaN</sumStat>
+      <sumStat type="3rd Qu.">NA</sumStat>
+      <sumStat type="Max.">NA</sumStat>
+      <sumStat type="NA's">1</sumStat>
+      <sumStat type="valid">0</sumStat>
+      <sumStat type="invalid">1</sumStat>
+    </var>
+    <var ID="psstx2" intrvl="numeric" files="notdirectlydelivered12a">
+      <labl></labl>
+      <sumStat type="Min.">NA</sumStat>
+      <sumStat type="1st Qu.">NA</sumStat>
+      <sumStat type="Median">NA</sumStat>
+      <sumStat type="Mean">NaN</sumStat>
+      <sumStat type="3rd Qu.">NA</sumStat>
+      <sumStat type="Max.">NA</sumStat>
+      <sumStat type="NA's">1</sumStat>
+      <sumStat type="valid">0</sumStat>
+      <sumStat type="invalid">1</sumStat>
+    </var>
+    <var ID="pkrka" intrvl="numeric" files="notdirectlydelivered12a">
+      <labl></labl>
+      <sumStat type="Min.">NA</sumStat>
+      <sumStat type="1st Qu.">NA</sumStat>
+      <sumStat type="Median">NA</sumStat>
+      <sumStat type="Mean">NaN</sumStat>
+      <sumStat type="3rd Qu.">NA</sumStat>
+      <sumStat type="Max.">NA</sumStat>
+      <sumStat type="NA's">1</sumStat>
+      <sumStat type="valid">0</sumStat>
+      <sumStat type="invalid">1</sumStat>
+    </var>
+    <var ID="pfska" intrvl="numeric" files="notdirectlydelivered12a">
+      <labl></labl>
+      <sumStat type="Min.">NA</sumStat>
+      <sumStat type="1st Qu.">NA</sumStat>
+      <sumStat type="Median">NA</sumStat>
+      <sumStat type="Mean">NaN</sumStat>
+      <sumStat type="3rd Qu.">NA</sumStat>
+      <sumStat type="Max.">NA</sumStat>
+      <sumStat type="NA's">1</sumStat>
+      <sumStat type="valid">0</sumStat>
+      <sumStat type="invalid">1</sumStat>
+    </var>
+  </dataDscr>
+  <fileDscr ID="notdirectlydelivered12a"/>
+</codebook>

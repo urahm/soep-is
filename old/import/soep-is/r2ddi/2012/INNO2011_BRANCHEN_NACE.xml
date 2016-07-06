@@ -1,0 +1,101 @@
+<codebook>
+  <dataDscr>
+    <var ID="hnr" intrvl="numeric" files="INNO2011_BRANCHEN_NACE">
+      <labl></labl>
+      <sumStat type="Min.">850100</sumStat>
+      <sumStat type="1st Qu.">864000</sumStat>
+      <sumStat type="Median">876600</sumStat>
+      <sumStat type="Mean">876400</sumStat>
+      <sumStat type="3rd Qu.">888800</sumStat>
+      <sumStat type="Max.">900800</sumStat>
+      <sumStat type="valid">910</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="pnr" intrvl="numeric" files="INNO2011_BRANCHEN_NACE">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">1.514</sumStat>
+      <sumStat type="3rd Qu.">2</sumStat>
+      <sumStat type="Max.">5</sumStat>
+      <sumStat type="valid">910</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="pnrfest" intrvl="numeric" files="INNO2011_BRANCHEN_NACE">
+      <labl></labl>
+      <sumStat type="Min.">8501000</sumStat>
+      <sumStat type="1st Qu.">8638000</sumStat>
+      <sumStat type="Median">8762000</sumStat>
+      <sumStat type="Mean">8754000</sumStat>
+      <sumStat type="3rd Qu.">8872000</sumStat>
+      <sumStat type="Max.">9008000</sumStat>
+      <sumStat type="valid">910</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="urhh" intrvl="string" files="INNO2011_BRANCHEN_NACE">
+      <labl></labl>
+      <sumStat type="valid">910</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="nace" intrvl="numeric" files="INNO2011_BRANCHEN_NACE">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">40</sumStat>
+      <sumStat type="Median">65</sumStat>
+      <sumStat type="Mean">59.76</sumStat>
+      <sumStat type="3rd Qu.">80</sumStat>
+      <sumStat type="Max.">100</sumStat>
+      <sumStat type="valid">910</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="kennung" intrvl="numeric" files="INNO2011_BRANCHEN_NACE">
+      <labl></labl>
+      <sumStat type="Min.">6</sumStat>
+      <sumStat type="1st Qu.">6</sumStat>
+      <sumStat type="Median">6</sumStat>
+      <sumStat type="Mean">6</sumStat>
+      <sumStat type="3rd Qu.">6</sumStat>
+      <sumStat type="Max.">6</sumStat>
+      <sumStat type="valid">910</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="auto" intrvl="numeric" files="INNO2011_BRANCHEN_NACE">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">1</sumStat>
+      <sumStat type="3rd Qu.">1</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="NA's">194</sumStat>
+      <sumStat type="valid">716</sumStat>
+      <sumStat type="invalid">194</sumStat>
+    </var>
+    <var ID="branprob" intrvl="numeric" files="INNO2011_BRANCHEN_NACE">
+      <labl></labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0.232</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="NA's">242</sumStat>
+      <sumStat type="valid">668</sumStat>
+      <sumStat type="invalid">242</sumStat>
+    </var>
+    <var ID="branman" intrvl="numeric" files="INNO2011_BRANCHEN_NACE">
+      <labl></labl>
+      <sumStat type="Min.">14</sumStat>
+      <sumStat type="1st Qu.">17</sumStat>
+      <sumStat type="Median">17</sumStat>
+      <sumStat type="Mean">16.93</sumStat>
+      <sumStat type="3rd Qu.">17</sumStat>
+      <sumStat type="Max.">17</sumStat>
+      <sumStat type="NA's">820</sumStat>
+      <sumStat type="valid">90</sumStat>
+      <sumStat type="invalid">820</sumStat>
+    </var>
+  </dataDscr>
+  <fileDscr ID="INNO2011_BRANCHEN_NACE"/>
+</codebook>

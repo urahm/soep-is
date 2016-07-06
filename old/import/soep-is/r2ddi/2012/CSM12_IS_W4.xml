@@ -1,0 +1,667 @@
+<codebook>
+  <dataDscr>
+    <var ID="jahr" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">2012</sumStat>
+      <sumStat type="1st Qu.">2012</sumStat>
+      <sumStat type="Median">2012</sumStat>
+      <sumStat type="Mean">2012</sumStat>
+      <sumStat type="3rd Qu.">2012</sumStat>
+      <sumStat type="Max.">2012</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="stichu" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">10</sumStat>
+      <sumStat type="1st Qu.">11</sumStat>
+      <sumStat type="Median">19</sumStat>
+      <sumStat type="Mean">16.72</sumStat>
+      <sumStat type="3rd Qu.">19</sumStat>
+      <sumStat type="Max.">19</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hnr" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">115400</sumStat>
+      <sumStat type="1st Qu.">220400</sumStat>
+      <sumStat type="Median">867800</sumStat>
+      <sumStat type="Mean">698300</sumStat>
+      <sumStat type="3rd Qu.">885900</sumStat>
+      <sumStat type="Max.">901400</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="pnr" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">1.56</sumStat>
+      <sumStat type="3rd Qu.">2</sumStat>
+      <sumStat type="Max.">9</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="name" intrvl="string" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM0901" intrvl="string" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM0902" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">1.689</sumStat>
+      <sumStat type="3rd Qu.">2</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM10" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-0.7909</sumStat>
+      <sumStat type="3rd Qu.">1</sumStat>
+      <sumStat type="Max.">3</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM11" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-0.249</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM1201" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">6</sumStat>
+      <sumStat type="Median">8</sumStat>
+      <sumStat type="Mean">7.168</sumStat>
+      <sumStat type="3rd Qu.">9</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM1202" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">3</sumStat>
+      <sumStat type="Median">5</sumStat>
+      <sumStat type="Mean">5.139</sumStat>
+      <sumStat type="3rd Qu.">7</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM1203" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">3</sumStat>
+      <sumStat type="Median">6</sumStat>
+      <sumStat type="Mean">5.422</sumStat>
+      <sumStat type="3rd Qu.">8</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM1204" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">6</sumStat>
+      <sumStat type="Median">8</sumStat>
+      <sumStat type="Mean">7.24</sumStat>
+      <sumStat type="3rd Qu.">9</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM1205" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">6</sumStat>
+      <sumStat type="Median">8</sumStat>
+      <sumStat type="Mean">7.135</sumStat>
+      <sumStat type="3rd Qu.">9</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM1206" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">5</sumStat>
+      <sumStat type="Median">7</sumStat>
+      <sumStat type="Mean">6.553</sumStat>
+      <sumStat type="3rd Qu.">8</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM1207" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">7</sumStat>
+      <sumStat type="Median">8</sumStat>
+      <sumStat type="Mean">7.898</sumStat>
+      <sumStat type="3rd Qu.">10</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM1208" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">5</sumStat>
+      <sumStat type="Median">7</sumStat>
+      <sumStat type="Mean">6.26</sumStat>
+      <sumStat type="3rd Qu.">8</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM1209" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">4</sumStat>
+      <sumStat type="Median">6</sumStat>
+      <sumStat type="Mean">5.856</sumStat>
+      <sumStat type="3rd Qu.">8</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM1210" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">5</sumStat>
+      <sumStat type="Median">6</sumStat>
+      <sumStat type="Mean">6.07</sumStat>
+      <sumStat type="3rd Qu.">8</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM1211" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">5</sumStat>
+      <sumStat type="Median">7</sumStat>
+      <sumStat type="Mean">6.353</sumStat>
+      <sumStat type="3rd Qu.">8</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM1212" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-1</sumStat>
+      <sumStat type="1st Qu.">6</sumStat>
+      <sumStat type="Median">7</sumStat>
+      <sumStat type="Mean">7.074</sumStat>
+      <sumStat type="3rd Qu.">9</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM0502" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">0.7325</sumStat>
+      <sumStat type="3rd Qu.">2</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM0501" intrvl="string" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM06" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.267</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">3</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM07" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-0.5585</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM0801" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">7</sumStat>
+      <sumStat type="Mean">4.554</sumStat>
+      <sumStat type="3rd Qu.">8</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM0802" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">4</sumStat>
+      <sumStat type="Mean">3.212</sumStat>
+      <sumStat type="3rd Qu.">7</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM0803" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">4</sumStat>
+      <sumStat type="Mean">3.087</sumStat>
+      <sumStat type="3rd Qu.">7</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM0804" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">7</sumStat>
+      <sumStat type="Mean">4.471</sumStat>
+      <sumStat type="3rd Qu.">8</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM0805" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">7</sumStat>
+      <sumStat type="Mean">4.621</sumStat>
+      <sumStat type="3rd Qu.">9</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM0806" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">5</sumStat>
+      <sumStat type="Mean">3.878</sumStat>
+      <sumStat type="3rd Qu.">8</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM0807" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">7</sumStat>
+      <sumStat type="Mean">4.864</sumStat>
+      <sumStat type="3rd Qu.">9</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM0808" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">5</sumStat>
+      <sumStat type="Mean">3.717</sumStat>
+      <sumStat type="3rd Qu.">8</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM0809" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">4</sumStat>
+      <sumStat type="Mean">3.203</sumStat>
+      <sumStat type="3rd Qu.">7</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM0810" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">5</sumStat>
+      <sumStat type="Mean">3.729</sumStat>
+      <sumStat type="3rd Qu.">7</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM0811" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">5</sumStat>
+      <sumStat type="Mean">3.938</sumStat>
+      <sumStat type="3rd Qu.">8</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM0812" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">7</sumStat>
+      <sumStat type="Mean">4.485</sumStat>
+      <sumStat type="3rd Qu.">8</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM0102" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.022</sumStat>
+      <sumStat type="3rd Qu.">1</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM0101" intrvl="string" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM02" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.629</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">3</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM03" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-1.583</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM0401" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">0.3601</sumStat>
+      <sumStat type="3rd Qu.">-1</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM0402" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-0.1511</sumStat>
+      <sumStat type="3rd Qu.">-1</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM0403" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-0.0268</sumStat>
+      <sumStat type="3rd Qu.">-1</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM0404" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">0.3358</sumStat>
+      <sumStat type="3rd Qu.">-1</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM0405" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">0.4186</sumStat>
+      <sumStat type="3rd Qu.">-1</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM0406" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">0.03655</sumStat>
+      <sumStat type="3rd Qu.">-1</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM0407" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">0.5015</sumStat>
+      <sumStat type="3rd Qu.">-1</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM0408" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">0.001462</sumStat>
+      <sumStat type="3rd Qu.">-1</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM0409" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">-0.01949</sumStat>
+      <sumStat type="3rd Qu.">-1</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM0410" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">0.1379</sumStat>
+      <sumStat type="3rd Qu.">-1</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM0411" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">0.02339</sumStat>
+      <sumStat type="3rd Qu.">-1</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="CSM0412" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">0.212</sumStat>
+      <sumStat type="3rd Qu.">-1</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="form" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">9</sumStat>
+      <sumStat type="1st Qu.">9</sumStat>
+      <sumStat type="Median">9</sumStat>
+      <sumStat type="Mean">9.009</sumStat>
+      <sumStat type="3rd Qu.">9</sumStat>
+      <sumStat type="Max.">10</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="datt" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">8</sumStat>
+      <sumStat type="Median">16</sumStat>
+      <sumStat type="Mean">15.56</sumStat>
+      <sumStat type="3rd Qu.">23</sumStat>
+      <sumStat type="Max.">31</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="datm" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">10</sumStat>
+      <sumStat type="Median">10</sumStat>
+      <sumStat type="Mean">10.04</sumStat>
+      <sumStat type="3rd Qu.">11</sumStat>
+      <sumStat type="Max.">12</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="datj" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">2012</sumStat>
+      <sumStat type="1st Qu.">2012</sumStat>
+      <sumStat type="Median">2012</sumStat>
+      <sumStat type="Mean">2012</sumStat>
+      <sumStat type="3rd Qu.">2012</sumStat>
+      <sumStat type="Max.">2013</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="intnr" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">1071</sumStat>
+      <sumStat type="1st Qu.">246400</sumStat>
+      <sumStat type="Median">288000</sumStat>
+      <sumStat type="Mean">268000</sumStat>
+      <sumStat type="3rd Qu.">310100</sumStat>
+      <sumStat type="Max.">1e+06</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="urhh" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">2e+05</sumStat>
+      <sumStat type="1st Qu.">219300</sumStat>
+      <sumStat type="Median">866200</sumStat>
+      <sumStat type="Mean">696800</sumStat>
+      <sumStat type="3rd Qu.">883900</sumStat>
+      <sumStat type="Max.">9e+05</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="pnrfest" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">1154000</sumStat>
+      <sumStat type="1st Qu.">2199000</sumStat>
+      <sumStat type="Median">8668000</sumStat>
+      <sumStat type="Mean">6968000</sumStat>
+      <sumStat type="3rd Qu.">8842000</sumStat>
+      <sumStat type="Max.">9014000</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="respid" intrvl="numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="Min.">2934</sumStat>
+      <sumStat type="1st Qu.">330000</sumStat>
+      <sumStat type="Median">573300</sumStat>
+      <sumStat type="Mean">899800</sumStat>
+      <sumStat type="3rd Qu.">574900</sumStat>
+      <sumStat type="Max.">86440000</sumStat>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="S1S2Split" intrvl="labeled_numeric" files="CSM12_IS_W4">
+      <labl></labl>
+      <sumStat type="valid">2052</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>Split 1</labl>
+        <catStat type="freq">1031</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>Split 2</labl>
+        <catStat type="freq">1021</catStat>
+      </catgry>
+    </var>
+  </dataDscr>
+  <fileDscr ID="CSM12_IS_W4"/>
+</codebook>

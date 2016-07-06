@@ -1,0 +1,474 @@
+<codebook>
+  <dataDscr>
+    <var ID="persnr" intrvl="numeric" files="kid">
+      <labl>Personennummer</labl>
+      <sumStat type="Min.">1154000</sumStat>
+      <sumStat type="1st Qu.">8658000</sumStat>
+      <sumStat type="Median">8969000</sumStat>
+      <sumStat type="Mean">8306000</sumStat>
+      <sumStat type="3rd Qu.">9480000</sumStat>
+      <sumStat type="Max.">9822000</sumStat>
+      <sumStat type="valid">777</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hhnr" intrvl="numeric" files="kid">
+      <labl>Ursprungshaushaltsnummer</labl>
+      <sumStat type="Min.">201100</sumStat>
+      <sumStat type="1st Qu.">864500</sumStat>
+      <sumStat type="Median">895600</sumStat>
+      <sumStat type="Mean">832200</sumStat>
+      <sumStat type="3rd Qu.">948000</sumStat>
+      <sumStat type="Max.">982200</sumStat>
+      <sumStat type="valid">777</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hhnrakt" intrvl="numeric" files="kid">
+      <labl>Aktuelle Haushaltsnummer (=*HHNR)</labl>
+      <sumStat type="Min.">115400</sumStat>
+      <sumStat type="1st Qu.">866000</sumStat>
+      <sumStat type="Median">897700</sumStat>
+      <sumStat type="Mean">831600</sumStat>
+      <sumStat type="3rd Qu.">948000</sumStat>
+      <sumStat type="Max.">982200</sumStat>
+      <sumStat type="valid">777</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="IS12hhnr" intrvl="numeric" files="kid">
+      <labl>Haushaltsnummer wave</labl>
+      <sumStat type="Min.">115400</sumStat>
+      <sumStat type="1st Qu.">866000</sumStat>
+      <sumStat type="Median">897700</sumStat>
+      <sumStat type="Mean">831600</sumStat>
+      <sumStat type="3rd Qu.">948000</sumStat>
+      <sumStat type="Max.">982200</sumStat>
+      <sumStat type="valid">777</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="IS12welle" intrvl="numeric" files="kid">
+      <labl>Befragungsjahr</labl>
+      <sumStat type="Min.">2012</sumStat>
+      <sumStat type="1st Qu.">2012</sumStat>
+      <sumStat type="Median">2012</sumStat>
+      <sumStat type="Mean">2012</sumStat>
+      <sumStat type="3rd Qu.">2012</sumStat>
+      <sumStat type="Max.">2012</sumStat>
+      <sumStat type="valid">777</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="IS12kgjahr" intrvl="numeric" files="kid">
+      <labl>Geburtsjahr</labl>
+      <sumStat type="Min.">1997</sumStat>
+      <sumStat type="1st Qu.">2000</sumStat>
+      <sumStat type="Median">2004</sumStat>
+      <sumStat type="Mean">2004</sumStat>
+      <sumStat type="3rd Qu.">2008</sumStat>
+      <sumStat type="Max.">2012</sumStat>
+      <sumStat type="valid">777</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="IS12ksex" intrvl="labeled_numeric" files="kid">
+      <labl>Geschlecht</labl>
+      <sumStat type="valid">777</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>männlich</labl>
+        <catStat type="freq">414</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>weiblich</labl>
+        <catStat type="freq">363</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>unbekannt</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+    </var>
+    <var ID="IS12kstell" intrvl="labeled_numeric" files="kid">
+      <labl>Stellung im HH</labl>
+      <sumStat type="valid">777</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>Haushaltsvorstand</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>Ehegatte/-in</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>Gleichgeschlechtliche/r Partner/in lt. Lebenspartnergesetz</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>Lebenspartner/-in</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>21</catValu>
+        <labl>leibliches Kind</labl>
+        <catStat type="freq">736</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>22</catValu>
+        <labl>Stiefkind</labl>
+        <catStat type="freq"> 21</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>23</catValu>
+        <labl>Adoptivkind</labl>
+        <catStat type="freq">  2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>24</catValu>
+        <labl>Pflegekind</labl>
+        <catStat type="freq">  9</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>25</catValu>
+        <labl>Enkelkind</labl>
+        <catStat type="freq">  7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>26</catValu>
+        <labl>Urenkelkind</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>27</catValu>
+        <labl>Schwiegertochter, -sohn (Ehegatten oder Lebenspartner von Kindern)</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>31</catValu>
+        <labl>Leibliche Mutter, leiblicher Vater</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>32</catValu>
+        <labl>Stiefmutter, -vater/Partner der leibl. Mutter, des leibl. Vaters</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>33</catValu>
+        <labl>Adoptivmutter, -vater</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>34</catValu>
+        <labl>Pflegemutter, -vater</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>35</catValu>
+        <labl>Schwiegermutter, -vater (Ehegatten oder Lebenspartner von Eltern)</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>36</catValu>
+        <labl>Großmutter, -vater</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>41</catValu>
+        <labl>Leibliche Schwester, leiblicher Bruder</labl>
+        <catStat type="freq">  1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>42</catValu>
+        <labl>Halbschwester, -bruder</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>43</catValu>
+        <labl>Stiefschwester, -bruder (von verh. oder in Partnerschaft lebenden Elternteilen)</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>44</catValu>
+        <labl>Adoptivschwester, -bruder</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>45</catValu>
+        <labl>Pflegeschwester, -bruder</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>51</catValu>
+        <labl>Schwägerin/Schwager 1: Ehegatten oder Lebenspartner von Geschwistern</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>52</catValu>
+        <labl>Schwägerin/Schwager 2: Geschwister von Ehegatten oder Lebenspartner</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>61</catValu>
+        <labl>Tante/Onkel</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>62</catValu>
+        <labl>Nichte/Neffe</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>63</catValu>
+        <labl>Cousine/Cousin</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>64</catValu>
+        <labl>Andere Verwandte</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>71</catValu>
+        <labl>Sonstige</labl>
+        <catStat type="freq">  1</catStat>
+      </catgry>
+    </var>
+    <var ID="IS12kinhh" intrvl="labeled_numeric" files="kid">
+      <labl>Haushaltszugehoerigkeit</labl>
+      <sumStat type="valid">777</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>Lebt noch im Haushalt</labl>
+        <catStat type="freq">391</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>Vorübergehend abwesend: Bundeswehr</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>Vorübergehend abwesend: Ausbildung/Studium</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>Vorübergehend abwesend: Beruf/Montage</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>Vorübergehend abwesend: Krankenhaus/Kur</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>Vorübergehend abwesend: Längere Zeit verreist</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>Vorübergehend abwesend: Sonstiges</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>Verstorben</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>Verzogen, jedoch keine Weiterverfolgung</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>Irrtümlich in Vorwellen als Haushaltsmitglied geführt</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>Geboren</labl>
+        <catStat type="freq"> 16</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>Zuzug aus Westdeutschland</labl>
+        <catStat type="freq">  3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>Zuzug aus dem Ausland</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <labl>In den Haushalt zurückgekehrt</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <labl>Zuzug a. d. Inland vor letzter Befragung, erstmals genannt</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <labl>Zuzug a. d. Ausland vor letzter Befragung, erstmals genannt</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>17</catValu>
+        <labl>Geboren in Vorwelle/lebte immer im Haushalt,erstm. genannt</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>18</catValu>
+        <labl>Zuzug aus Ostdeutschland</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>20</catValu>
+        <labl>Lebt im neuen Haushalt</labl>
+        <catStat type="freq">  1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>26</catValu>
+        <labl>Lebt im neuen Haushalt, jedoch vorübergehend abwesend</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>30</catValu>
+        <labl>Lebt in diesem Haushalt schon länger</labl>
+        <catStat type="freq">364</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>31</catValu>
+        <labl>Geboren im neuen Haushalt</labl>
+        <catStat type="freq">  2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>32</catValu>
+        <labl>Zuzug in neuen Haushalt aus Westdeutschland</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>33</catValu>
+        <labl>Zuzug in neuen Haushalt aus dem Ausland</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>38</catValu>
+        <labl>Zuzug in neuen Haushalt aus Ostdeutschland</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>40</catValu>
+        <labl>Lebt jetzt in diesem Haushalt</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>99</catValu>
+        <labl>Aktuelle Haushaltszugehörigkeit ungeklärt</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+    </var>
+    <var ID="IS12hhgr" intrvl="labeled_numeric" files="kid">
+      <labl>Zahl der Personen im HH</labl>
+      <sumStat type="valid">777</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>Aufgelöste/n.bearbeitete Haushalte</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <catStat type="freq"> 39</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <catStat type="freq">161</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <catStat type="freq">334</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <catStat type="freq">157</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <catStat type="freq"> 61</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <catStat type="freq"> 17</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <catStat type="freq">  8</catStat>
+      </catgry>
+    </var>
+    <var ID="IS12kzahl" intrvl="numeric" files="kid">
+      <labl>Zahl der Kinder bis 16 Jahre im HH</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">2.045</sumStat>
+      <sumStat type="3rd Qu.">2</sumStat>
+      <sumStat type="Max.">6</sumStat>
+      <sumStat type="valid">777</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="IS12khv" intrvl="numeric" files="kid">
+      <labl>Zeiger auf HV</labl>
+      <sumStat type="Min.">2011000</sumStat>
+      <sumStat type="1st Qu.">8645000</sumStat>
+      <sumStat type="Median">8956000</sumStat>
+      <sumStat type="Mean">8323000</sumStat>
+      <sumStat type="3rd Qu.">9480000</sumStat>
+      <sumStat type="Max.">9822000</sumStat>
+      <sumStat type="valid">777</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="IS12khvp" intrvl="numeric" files="kid">
+      <labl>Zeiger auf Partner des HV</labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">2310000</sumStat>
+      <sumStat type="Median">8847000</sumStat>
+      <sumStat type="Mean">7033000</sumStat>
+      <sumStat type="3rd Qu.">9405000</sumStat>
+      <sumStat type="Max.">9822000</sumStat>
+      <sumStat type="valid">777</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="IS12kmutti" intrvl="numeric" files="kid">
+      <labl>Zeiger auf Mutter</labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">8638000</sumStat>
+      <sumStat type="Median">8942000</sumStat>
+      <sumStat type="Mean">8168000</sumStat>
+      <sumStat type="3rd Qu.">9478000</sumStat>
+      <sumStat type="Max.">9822000</sumStat>
+      <sumStat type="valid">777</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="IS12kmup" intrvl="numeric" files="kid">
+      <labl>Zeiger auf Partner der Mutter</labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">2306000</sumStat>
+      <sumStat type="Median">8840000</sumStat>
+      <sumStat type="Mean">7011000</sumStat>
+      <sumStat type="3rd Qu.">9405000</sumStat>
+      <sumStat type="Max.">9822000</sumStat>
+      <sumStat type="valid">777</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+  </dataDscr>
+  <fileDscr ID="kid"/>
+</codebook>

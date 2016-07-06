@@ -1,0 +1,108 @@
+study,dataset,label,description,conceptual_dataset,analysis_unit,period
+soep-is,CSM12_IS,,,,,
+soep-is,CSM12_IS_W4,,,,,
+soep-is,DRM12_IS,,,,,
+soep-is,DRM12_IS_W4,,,,,
+soep-is,FM12_IS,,,,,
+soep-is,GM12_IS,,,,,
+soep-is,H12_IS,,,,,
+soep-is,H12_IS_W4,,,,,
+soep-is,HBRU2011i,,,,,
+soep-is,INNO2011_BERUFE_MC_ISCO,,,,,
+soep-is,INNO2011_BRANCHEN_NACE,,,,,
+soep-is,IS_BERUFE_BRANCHEN,,,,,
+soep-is,Innomodul11,,,,,
+soep-is,Intband2011i,,,,,
+soep-is,Intband_2012_IS_Aufwuchs,,,,,
+soep-is,L12_IS,,,,,
+soep-is,L12_IS_W4,,,,,
+soep-is,L12_IS_W4_PFAMST,,,,,
+soep-is,MA12_IS,,,,,
+soep-is,MA12_IS_W4,,,,,
+soep-is,MB12_IS,,,,,
+soep-is,MB12_IS_W4,,,,,
+soep-is,MC12_IS,,,,,
+soep-is,MC12_IS_W4,,,,,
+soep-is,MEM12_IS,,,,,
+soep-is,MIC_INNO2011,,,,,
+soep-is,P12_IS,,,,,
+soep-is,P12_IS_W4,,,,,
+soep-is,SIM12_IS,,,,,
+soep-is,SOEP_IS_W4_Berufe_Branchen,,,,,
+soep-is,Selbstwert Fragen & respid,,,,,
+soep-is,ap11_Inno_final,,,,,
+soep-is,ap11_inno_final,,,raw ,,2011
+soep-is,bio,,,org/net ,p,na
+soep-is,bioage,,,org/net ,p,long
+soep-is,biobirth,Birth Biography of Female Respondents,,track ,p,na
+soep-is,biobrthm,Birth Biography of Male Respondents,,track ,p,na
+soep-is,csm12_is,,,raw,,2012
+soep-is,csm12_is_w4,,,raw ,,2012
+soep-is,drm12_is,,,raw,,2012
+soep-is,drm12_is_w4,,,raw ,,2012
+soep-is,fm12_is,,,raw,,2012
+soep-is,gew12_IS_W4,,,,,
+soep-is,gew12_is_w4,,,raw ,,2012
+soep-is,gm12_is,,,raw,,2012
+soep-is,h,,,org/net ,h,long
+soep-is,h11_Inno_final,,,,,
+soep-is,h11_inno_final,,,raw ,,2011
+soep-is,h12_is,,,raw,,2012
+soep-is,h12_is_w4,,,raw ,,2012
+soep-is,hbru2011i,,,raw ,,2011
+soep-is,hbru_2012_IS_Aufwuchs,,,,,
+soep-is,hbru_2012_IS_W4,,,,,
+soep-is,hbru_2012_is_aufwuchs,,,raw,,2012
+soep-is,hbru_2012_is_w4,,,raw ,,2012
+soep-is,hbrutto,,,org/gross,h,long
+soep-is,hgen,Household-related Status and Generated Variables,,,h,long
+soep-is,hhrf,,,survey,h,long
+soep-is,hpfad,,,track ,h,na
+soep-is,inno,,,org/net ,p,long
+soep-is,inno2011_berufe_mc_isco,,,raw ,,2011
+soep-is,inno2011_branchen_nace,,,raw ,,2011
+soep-is,innomodul11,,,raw ,,2011
+soep-is,intband2011i,,,raw ,,2011
+soep-is,intband_2012_IS_W4,,,,,
+soep-is,intband_2012_is_aufwuchs,,,raw,,2012
+soep-is,intband_2012_is_w4,,,raw ,,2012
+soep-is,is_berufe_branchen,,,raw,,2012
+soep-is,kid,Pooled Dataset on Children,,track ,p,long
+soep-is,l11_inno_Jahresangabe Heirat,,,,,
+soep-is,l11_inno_final,,,raw ,,2011
+soep-is,l11_inno_jahresangabe heirat,,,raw ,,2011
+soep-is,l12_is,,,raw,,2012
+soep-is,l12_is_w4,,,raw ,,2012
+soep-is,l12_is_w4_pfamst,,,raw ,,2012
+soep-is,ma11_Inno_final,,,,,
+soep-is,ma11_inno_final,,,raw ,,2011
+soep-is,ma12_is,,,raw,,2012
+soep-is,ma12_is_w4,,,raw ,,2012
+soep-is,mb11_inno_final,,,raw ,,2011
+soep-is,mb12_is,,,raw,,2012
+soep-is,mb12_is_w4,,,raw ,,2012
+soep-is,mc11_Inno_final,,,,,
+soep-is,mc11_inno_final,,,raw ,,2011
+soep-is,mc12_is,,,raw,,2012
+soep-is,mc12_is_w4,,,raw ,,2012
+soep-is,mem12_is,,,raw,,2012
+soep-is,mic_inno2011,,,raw ,,2011
+soep-is,notdirectlydelivered11,,,raw,,2011
+soep-is,notdirectlydelivered12,,,raw,,2012
+soep-is,p,,,org/net ,p,long
+soep-is,p11_Inno_final,,,,,
+soep-is,p11_inno_final,,,raw ,,2011
+soep-is,p12_is,,,raw,,2012
+soep-is,p12_is_w4,,,raw ,,2012
+soep-is,pbru2011i,,,raw ,,2011
+soep-is,pbru_2012_IS_Aufwuchs,,,,,
+soep-is,pbru_2012_IS_W4,,,,,
+soep-is,pbru_2012_is_aufwuchs,,,raw,,2012
+soep-is,pbru_2012_is_w4,,,raw ,,2012
+soep-is,pbrutto,,,org/gross,p,long
+soep-is,pgen,Person-related Status and Generated Variables,,gen,p,long
+soep-is,phrf,,,survey,p,long
+soep-is,ppfad,Person-related Meta-dataset,,track ,p,na
+soep-is,selbstwert fragen & respid,,,raw ,,2012
+soep-is,sim12_is,,,raw,,2012
+soep-is,soep_is_w4_berufe_branchen,,,raw ,,2012

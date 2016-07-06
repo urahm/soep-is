@@ -1,0 +1,2311 @@
+<codebook>
+  <dataDscr>
+    <var ID="cid" intrvl="numeric" files="hgen">
+      <labl>Ursprungshaushaltsnummer</labl>
+      <sumStat type="Min.">2e+05</sumStat>
+      <sumStat type="1st Qu.">209800</sumStat>
+      <sumStat type="Median">219600</sumStat>
+      <sumStat type="Mean">530400</sumStat>
+      <sumStat type="3rd Qu.">879100</sumStat>
+      <sumStat type="Max.">982500</sumStat>
+      <sumStat type="valid">11970</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hid" intrvl="numeric" files="hgen">
+      <labl>Aktuelle Haushaltsnummer</labl>
+      <sumStat type="Min.">115400</sumStat>
+      <sumStat type="1st Qu.">208900</sumStat>
+      <sumStat type="Median">230100</sumStat>
+      <sumStat type="Mean">527300</sumStat>
+      <sumStat type="3rd Qu.">879500</sumStat>
+      <sumStat type="Max.">982500</sumStat>
+      <sumStat type="valid">11970</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="syear" intrvl="numeric" files="hgen">
+      <labl>Survey-Year, Erhebungsjahr</labl>
+      <sumStat type="Min.">1998</sumStat>
+      <sumStat type="1st Qu.">2005</sumStat>
+      <sumStat type="Median">2009</sumStat>
+      <sumStat type="Mean">2008</sumStat>
+      <sumStat type="3rd Qu.">2011</sumStat>
+      <sumStat type="Max.">2012</sumStat>
+      <sumStat type="valid">11970</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hgmoveyr" intrvl="numeric" files="hgen">
+      <labl>Jahr des Einzugs</labl>
+      <sumStat type="Min.">1921</sumStat>
+      <sumStat type="1st Qu.">1980</sumStat>
+      <sumStat type="Median">1995</sumStat>
+      <sumStat type="Mean">1990</sumStat>
+      <sumStat type="3rd Qu.">2004</sumStat>
+      <sumStat type="Max.">2013</sumStat>
+      <sumStat type="NA's">305</sumStat>
+      <sumStat type="valid">11665</sumStat>
+      <sumStat type="invalid">305</sumStat>
+    </var>
+    <var ID="hgcnstyr" intrvl="labeled_numeric" files="hgen">
+      <labl>Baujahr des Hauses</labl>
+      <sumStat type="valid">11519</sumStat>
+      <sumStat type="invalid">451</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq"> 451</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] vor 1918</labl>
+        <catStat type="freq">1535</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] 1918 bis 1948</labl>
+        <catStat type="freq">1718</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] 1949 bis 1971</labl>
+        <catStat type="freq">3613</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] 1972 bis 1980</labl>
+        <catStat type="freq">1824</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] 1981 bis 1990</labl>
+        <catStat type="freq">1293</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] 1991 bis 2000</labl>
+        <catStat type="freq">1173</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] 2001 bis 2010</labl>
+        <catStat type="freq"> 354</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] 2011 oder spaeter</labl>
+        <catStat type="freq">   9</catStat>
+      </catgry>
+    </var>
+    <var ID="hgcondit" intrvl="labeled_numeric" files="hgen">
+      <labl>Renovierungsbeduerftigkeit</labl>
+      <sumStat type="valid">9680</sumStat>
+      <sumStat type="invalid">2290</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">2277</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">  13</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] in gutem Zustand</labl>
+        <catStat type="freq">6997</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] teilw.ren.beduerftig</labl>
+        <catStat type="freq">2422</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] ganz ren.beduerftig</labl>
+        <catStat type="freq"> 250</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] abbruchreif</labl>
+        <catStat type="freq">  11</catStat>
+      </catgry>
+    </var>
+    <var ID="hgseval" intrvl="labeled_numeric" files="hgen">
+      <labl>Beurteilung der Wohnungsgroesse</labl>
+      <sumStat type="valid">8636</sumStat>
+      <sumStat type="invalid">3334</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">3317</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">  17</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] viel zu klein</labl>
+        <catStat type="freq"> 132</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] etwas zu klein</labl>
+        <catStat type="freq">1107</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] gerade richtig</labl>
+        <catStat type="freq">6302</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] etwas zu gross</labl>
+        <catStat type="freq"> 947</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] viel zu gross</labl>
+        <catStat type="freq"> 148</catStat>
+      </catgry>
+    </var>
+    <var ID="hgeqpkit" intrvl="labeled_numeric" files="hgen">
+      <labl>Ausstattung: Kueche</labl>
+      <sumStat type="valid">8635</sumStat>
+      <sumStat type="invalid">3335</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">3317</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">  18</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] ja</labl>
+        <catStat type="freq">8558</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] nein</labl>
+        <catStat type="freq">  77</catStat>
+      </catgry>
+    </var>
+    <var ID="hgeqpshw" intrvl="labeled_numeric" files="hgen">
+      <labl>Ausstattung: Bad, Dusche</labl>
+      <sumStat type="valid">8635</sumStat>
+      <sumStat type="invalid">3335</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">3317</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">  18</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] ja</labl>
+        <catStat type="freq">8588</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] nein</labl>
+        <catStat type="freq">  47</catStat>
+      </catgry>
+    </var>
+    <var ID="hgeqpiwc" intrvl="labeled_numeric" files="hgen">
+      <labl>Ausstattung: WC in Wohnung</labl>
+      <sumStat type="valid">5895</sumStat>
+      <sumStat type="invalid">6075</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">3317</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">2758</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] ja</labl>
+        <catStat type="freq">5876</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] nein</labl>
+        <catStat type="freq">  19</catStat>
+      </catgry>
+    </var>
+    <var ID="hgeqphea" intrvl="labeled_numeric" files="hgen">
+      <labl>Ausstattung: Zentral-, Etagenheizung</labl>
+      <sumStat type="valid">8633</sumStat>
+      <sumStat type="invalid">3337</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">3317</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">  20</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] ja</labl>
+        <catStat type="freq">8327</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] nein</labl>
+        <catStat type="freq"> 306</catStat>
+      </catgry>
+    </var>
+    <var ID="hgeqpter" intrvl="labeled_numeric" files="hgen">
+      <labl>Ausstattung: Balkon, Terrasse</labl>
+      <sumStat type="valid">8610</sumStat>
+      <sumStat type="invalid">3360</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">3317</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">  43</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] ja</labl>
+        <catStat type="freq">7023</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] nein</labl>
+        <catStat type="freq">1587</catStat>
+      </catgry>
+    </var>
+    <var ID="hgeqpbas" intrvl="labeled_numeric" files="hgen">
+      <labl>Ausstattung: Keller</labl>
+      <sumStat type="valid">8621</sumStat>
+      <sumStat type="invalid">3349</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">3317</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">  32</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] ja</labl>
+        <catStat type="freq">8202</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] nein</labl>
+        <catStat type="freq"> 419</catStat>
+      </catgry>
+    </var>
+    <var ID="hgeqpgar" intrvl="labeled_numeric" files="hgen">
+      <labl>Ausstattung: Garten</labl>
+      <sumStat type="valid">8626</sumStat>
+      <sumStat type="invalid">3344</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">3317</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">  27</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] ja</labl>
+        <catStat type="freq">5598</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] nein</labl>
+        <catStat type="freq">3028</catStat>
+      </catgry>
+    </var>
+    <var ID="hgeqpwat" intrvl="labeled_numeric" files="hgen">
+      <labl>Ausstattung: Fl. Warmwasser, Boiler</labl>
+      <sumStat type="valid">8628</sumStat>
+      <sumStat type="invalid">3342</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">3317</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">  25</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] ja</labl>
+        <catStat type="freq">8600</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] nein</labl>
+        <catStat type="freq">  28</catStat>
+      </catgry>
+    </var>
+    <var ID="hgeqptel" intrvl="labeled_numeric" files="hgen">
+      <labl>Ausstattung: Telefon</labl>
+      <sumStat type="valid">9393</sumStat>
+      <sumStat type="invalid">2577</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">2277</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq"> 300</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] ja</labl>
+        <catStat type="freq">9327</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] nein</labl>
+        <catStat type="freq">  66</catStat>
+      </catgry>
+    </var>
+    <var ID="hgeqpalm" intrvl="labeled_numeric" files="hgen">
+      <labl>Ausstattung: Alarmanlage</labl>
+      <sumStat type="valid">5835</sumStat>
+      <sumStat type="invalid">6135</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">5712</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq"> 423</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] ja</labl>
+        <catStat type="freq"> 230</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] nein</labl>
+        <catStat type="freq">5605</catStat>
+      </catgry>
+    </var>
+    <var ID="hgeqpsol" intrvl="labeled_numeric" files="hgen">
+      <labl>Ausstattung: Solaranlage</labl>
+      <sumStat type="valid">4925</sumStat>
+      <sumStat type="invalid">7045</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">7038</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] ja</labl>
+        <catStat type="freq"> 254</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] nein</labl>
+        <catStat type="freq">4671</catStat>
+      </catgry>
+    </var>
+    <var ID="hgeqpair" intrvl="labeled_numeric" files="hgen">
+      <labl>Ausstattung: Klimaanlage</labl>
+      <sumStat type="valid">4925</sumStat>
+      <sumStat type="invalid">7045</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">7038</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] ja</labl>
+        <catStat type="freq">  56</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] nein</labl>
+        <catStat type="freq">4869</catStat>
+      </catgry>
+    </var>
+    <var ID="hgeqplif" intrvl="labeled_numeric" files="hgen">
+      <labl>Ausstattung: Aufzug, Lift</labl>
+      <sumStat type="valid">4020</sumStat>
+      <sumStat type="invalid">7950</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">7936</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">  14</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] ja</labl>
+        <catStat type="freq"> 255</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] nein</labl>
+        <catStat type="freq">3765</catStat>
+      </catgry>
+    </var>
+    <var ID="hgeqpnrj" intrvl="labeled_numeric" files="hgen">
+      <labl>Ausstattung: Alternative Energiequelle</labl>
+      <sumStat type="valid">4021</sumStat>
+      <sumStat type="invalid">7949</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">7936</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">  13</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] ja</labl>
+        <catStat type="freq">  75</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] nein</labl>
+        <catStat type="freq">3946</catStat>
+      </catgry>
+    </var>
+    <var ID="hgowner" intrvl="labeled_numeric" files="hgen">
+      <labl>Eigentuemer, Mieter</labl>
+      <sumStat type="valid">11970</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Eigentuemer</labl>
+        <catStat type="freq">6077</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Hauptmieter</labl>
+        <catStat type="freq">5705</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Untermieter</labl>
+        <catStat type="freq"> 174</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Mieter</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Heimbewohner</labl>
+        <catStat type="freq">  14</catStat>
+      </catgry>
+    </var>
+    <var ID="hgacquis" intrvl="labeled_numeric" files="hgen">
+      <labl>Art des Eigentumerwerbs</labl>
+      <sumStat type="valid">2590</sumStat>
+      <sumStat type="invalid">9380</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">3317</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">4313</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">1750</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] vom Vorbesitzer gekauft</labl>
+        <catStat type="freq"> 841</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Erbschaft, Schenkung</labl>
+        <catStat type="freq"> 629</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] neu gekauft oder gebaut</labl>
+        <catStat type="freq">1120</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] aus Volkseigentum rueckueberf.</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="hgsubsid" intrvl="labeled_numeric" files="hgen">
+      <labl>Eigentumsfoerderung mit oeff. Darlehen</labl>
+      <sumStat type="valid">164</sumStat>
+      <sumStat type="invalid">11806</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">11214</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">  478</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">  114</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] ja</labl>
+        <catStat type="freq">   38</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] nein</labl>
+        <catStat type="freq">  126</catStat>
+      </catgry>
+    </var>
+    <var ID="hgosubs" intrvl="labeled_numeric" files="hgen">
+      <labl>Foerderung mit oeff. Darlehen letztes Jahr</labl>
+      <sumStat type="valid">3389</sumStat>
+      <sumStat type="invalid">8581</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">4073</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">4464</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">  44</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] ja</labl>
+        <catStat type="freq"> 416</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] nein</labl>
+        <catStat type="freq">2973</catStat>
+      </catgry>
+    </var>
+    <var ID="hgreval" intrvl="labeled_numeric" files="hgen">
+      <labl>Beurteilung Miethoehe</labl>
+      <sumStat type="valid">3633</sumStat>
+      <sumStat type="invalid">8337</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">4174</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">4101</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">  62</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] sehr guenstig</labl>
+        <catStat type="freq"> 267</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] guenstig</labl>
+        <catStat type="freq"> 879</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] angemessen</labl>
+        <catStat type="freq">1711</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] etwas zu hoch</labl>
+        <catStat type="freq"> 640</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] viel zu hoch</labl>
+        <catStat type="freq"> 136</catStat>
+      </catgry>
+    </var>
+    <var ID="hgrsubs" intrvl="labeled_numeric" files="hgen">
+      <labl>Sozialwohnung</labl>
+      <sumStat type="valid">4294</sumStat>
+      <sumStat type="invalid">7676</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">3317</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">4340</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">  19</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] ja, mit bestehender Sozialbindung</labl>
+        <catStat type="freq"> 212</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] ja, mit abgelaufener Sozialbindung</labl>
+        <catStat type="freq"> 177</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] nein</labl>
+        <catStat type="freq">3905</catStat>
+      </catgry>
+    </var>
+    <var ID="hgreduc" intrvl="labeled_numeric" files="hgen">
+      <labl>verbilligt ueberlassene Wohnung</labl>
+      <sumStat type="valid">4074</sumStat>
+      <sumStat type="invalid">7896</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">3317</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">4340</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq"> 239</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] ja</labl>
+        <catStat type="freq"> 301</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] nein</labl>
+        <catStat type="freq">3773</catStat>
+      </catgry>
+    </var>
+    <var ID="hgsize" intrvl="numeric" files="hgen">
+      <labl>Wohnflaeche in qm</labl>
+      <sumStat type="Min.">8</sumStat>
+      <sumStat type="1st Qu.">70</sumStat>
+      <sumStat type="Median">90</sumStat>
+      <sumStat type="Mean">99.63</sumStat>
+      <sumStat type="3rd Qu.">120</sumStat>
+      <sumStat type="Max.">754</sumStat>
+      <sumStat type="NA's">18</sumStat>
+      <sumStat type="valid">11952</sumStat>
+      <sumStat type="invalid">18</sumStat>
+    </var>
+    <var ID="hgroom" intrvl="numeric" files="hgen">
+      <labl>Zahl der Wohnraeume ueber 6 qm</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">3</sumStat>
+      <sumStat type="Median">4</sumStat>
+      <sumStat type="Mean">3.942</sumStat>
+      <sumStat type="3rd Qu.">5</sumStat>
+      <sumStat type="Max.">12</sumStat>
+      <sumStat type="NA's">3317</sumStat>
+      <sumStat type="valid">8653</sumStat>
+      <sumStat type="invalid">3317</sumStat>
+    </var>
+    <var ID="hgheat" intrvl="numeric" files="hgen">
+      <labl>Heiz- und Warmwasserkosten (gen.)</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">50</sumStat>
+      <sumStat type="Median">75</sumStat>
+      <sumStat type="Mean">83.44</sumStat>
+      <sumStat type="3rd Qu.">100</sumStat>
+      <sumStat type="Max.">493</sumStat>
+      <sumStat type="NA's">7875</sumStat>
+      <sumStat type="valid">4095</sumStat>
+      <sumStat type="invalid">7875</sumStat>
+    </var>
+    <var ID="hgutil" intrvl="numeric" files="hgen">
+      <labl>Umlagen (gen.)</labl>
+      <sumStat type="Min.">2</sumStat>
+      <sumStat type="1st Qu.">48</sumStat>
+      <sumStat type="Median">66</sumStat>
+      <sumStat type="Mean">75.38</sumStat>
+      <sumStat type="3rd Qu.">93</sumStat>
+      <sumStat type="Max.">1213</sumStat>
+      <sumStat type="NA's">7160</sumStat>
+      <sumStat type="valid">4810</sumStat>
+      <sumStat type="invalid">7160</sumStat>
+    </var>
+    <var ID="hgrent" intrvl="numeric" files="hgen">
+      <labl>Bruttokaltmiete in EURO</labl>
+      <sumStat type="Min.">15</sumStat>
+      <sumStat type="1st Qu.">328</sumStat>
+      <sumStat type="Median">420</sumStat>
+      <sumStat type="Mean">464.5</sumStat>
+      <sumStat type="3rd Qu.">550</sumStat>
+      <sumStat type="Max.">2902</sumStat>
+      <sumStat type="NA's">6391</sumStat>
+      <sumStat type="valid">5579</sumStat>
+      <sumStat type="invalid">6391</sumStat>
+    </var>
+    <var ID="hgelectr" intrvl="numeric" files="hgen">
+      <labl>Stromkosten (gen.)</labl>
+      <sumStat type="Min.">3</sumStat>
+      <sumStat type="1st Qu.">36</sumStat>
+      <sumStat type="Median">50</sumStat>
+      <sumStat type="Mean">58.69</sumStat>
+      <sumStat type="3rd Qu.">73</sumStat>
+      <sumStat type="Max.">279</sumStat>
+      <sumStat type="NA's">11025</sumStat>
+      <sumStat type="valid">945</sumStat>
+      <sumStat type="invalid">11025</sumStat>
+    </var>
+    <var ID="hgnorent" intrvl="labeled_numeric" files="hgen">
+      <labl>Zahle keine Miete</labl>
+      <sumStat type="valid">297</sumStat>
+      <sumStat type="invalid">11673</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">11661</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   12</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] zahle keine Miete</labl>
+        <catStat type="freq">  297</catStat>
+      </catgry>
+    </var>
+    <var ID="hgfsize" intrvl="labeled_numeric" files="hgen">
+      <labl>Imputation Flag, Wohnflaeche in qm</labl>
+      <sumStat type="valid">8653</sumStat>
+      <sumStat type="invalid">3317</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">3317</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] nicht imputiert</labl>
+        <catStat type="freq">8609</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] imputiert</labl>
+        <catStat type="freq">  44</catStat>
+      </catgry>
+    </var>
+    <var ID="hgfroom" intrvl="labeled_numeric" files="hgen">
+      <labl>Imputation Flag, Zahl der Wohnraeume ueber 6 qm</labl>
+      <sumStat type="valid">8653</sumStat>
+      <sumStat type="invalid">3317</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">3317</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] nicht imputiert</labl>
+        <catStat type="freq">8632</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] imputiert</labl>
+        <catStat type="freq">  21</catStat>
+      </catgry>
+    </var>
+    <var ID="hgfheat" intrvl="labeled_numeric" files="hgen">
+      <labl>Imputation Flag, Heiz- und Warmwasserkosten</labl>
+      <sumStat type="valid">8653</sumStat>
+      <sumStat type="invalid">3317</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">3317</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] nicht imputiert</labl>
+        <catStat type="freq">7464</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] imputiert</labl>
+        <catStat type="freq">1189</catStat>
+      </catgry>
+    </var>
+    <var ID="hgfutil" intrvl="labeled_numeric" files="hgen">
+      <labl>Imputation Flag, Umlagen</labl>
+      <sumStat type="valid">8653</sumStat>
+      <sumStat type="invalid">3317</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">3317</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] nicht imputiert</labl>
+        <catStat type="freq">5648</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] imputiert</labl>
+        <catStat type="freq">3005</catStat>
+      </catgry>
+    </var>
+    <var ID="hgfrent" intrvl="labeled_numeric" files="hgen">
+      <labl>Imputation Flag, Bruttokaltmiete</labl>
+      <sumStat type="valid">8653</sumStat>
+      <sumStat type="invalid">3317</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">3317</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] nicht imputiert</labl>
+        <catStat type="freq">6397</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Bruttokaltmiete imputiert</labl>
+        <catStat type="freq">  87</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Umlagen imputiert</labl>
+        <catStat type="freq">1207</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Heizkosten imputiert</labl>
+        <catStat type="freq"> 962</catStat>
+      </catgry>
+    </var>
+    <var ID="hgfelectr" intrvl="labeled_numeric" files="hgen">
+      <labl>Imputation Flag, Stromkosten</labl>
+      <sumStat type="valid">2092</sumStat>
+      <sumStat type="invalid">9878</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">9878</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] nicht imputiert</labl>
+        <catStat type="freq">1971</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] imputiert</labl>
+        <catStat type="freq"> 121</catStat>
+      </catgry>
+    </var>
+    <var ID="hgtyp1hh" intrvl="labeled_numeric" files="hgen">
+      <labl>HH-Typologie (1-Steller)</labl>
+      <sumStat type="valid">11970</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] 1-Pers.-HH</labl>
+        <catStat type="freq">3440</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Ehe-Paar ohne K.</labl>
+        <catStat type="freq">4240</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Alleinerziehende</labl>
+        <catStat type="freq"> 701</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Paar + K. LE 16</labl>
+        <catStat type="freq">1806</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Paar + K. GT 16</labl>
+        <catStat type="freq">1078</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] Paar + K. LE und GT 16</labl>
+        <catStat type="freq"> 447</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] Mehr-Generationen-HH</labl>
+        <catStat type="freq">  83</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] Sonst. Kombination</labl>
+        <catStat type="freq"> 175</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] Keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="hgtyp2hh" intrvl="labeled_numeric" files="hgen">
+      <labl>HH-Typologie (2-Steller)</labl>
+      <sumStat type="valid">11970</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] 1-P-HH Mann LE 35 J.</labl>
+        <catStat type="freq"> 319</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>[12] 1-P-HH Mann 35- LT 60 J.</labl>
+        <catStat type="freq"> 704</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>[13] 1-P-HH Mann GE 60 J.</labl>
+        <catStat type="freq"> 450</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <labl>[14] 1-P-HH Frau LE 35 J.</labl>
+        <catStat type="freq"> 302</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <labl>[15] 1-P-HH Frau 35- LT 60 J.</labl>
+        <catStat type="freq"> 476</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <labl>[16] 1-P-HH Frau GE 60 J.</labl>
+        <catStat type="freq">1189</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>21</catValu>
+        <labl>[21] (Ehe-)Paar ohne K.</labl>
+        <catStat type="freq">4240</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>31</catValu>
+        <labl>[31] Alleinerz.+1 K. LE 16</labl>
+        <catStat type="freq"> 161</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>32</catValu>
+        <labl>[32] Alleinerz.+2 u.m K. LE 16</labl>
+        <catStat type="freq"> 115</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>33</catValu>
+        <labl>[33] Alleinerz.+1 K. GT 16</labl>
+        <catStat type="freq"> 270</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>34</catValu>
+        <labl>[34] Alleinerz.+2 u.m. K. GT 16</labl>
+        <catStat type="freq">  78</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>35</catValu>
+        <labl>[35] Alleinerz.+2 K. LE und GT 16</labl>
+        <catStat type="freq">  36</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>36</catValu>
+        <labl>[36] Alleinerz.+3 u.m. K. LE und GT 16</labl>
+        <catStat type="freq">  41</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>41</catValu>
+        <labl>[41] Paar+1 K. LE 16</labl>
+        <catStat type="freq"> 680</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>42</catValu>
+        <labl>[42] Paar+2 K. LE 16</labl>
+        <catStat type="freq"> 825</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>43</catValu>
+        <labl>[43] Paar+3 u.m. K. LE 16</labl>
+        <catStat type="freq"> 301</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>51</catValu>
+        <labl>[51] Paar+1 K. GT 16</labl>
+        <catStat type="freq"> 744</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>52</catValu>
+        <labl>[52] Paar+2 K. GT 16</labl>
+        <catStat type="freq"> 297</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>53</catValu>
+        <labl>[53] Paar+3 u.m. K. GT 16</labl>
+        <catStat type="freq">  37</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>61</catValu>
+        <labl>[61] Paar+2 K. LE und GT 16</labl>
+        <catStat type="freq"> 276</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>62</catValu>
+        <labl>[62] Paar+3 u.m. K. LE und GT 16</labl>
+        <catStat type="freq"> 171</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>71</catValu>
+        <labl>[71] 3-Generationen-HH</labl>
+        <catStat type="freq">  67</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>72</catValu>
+        <labl>[72] 4-Generationen-HH</labl>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>73</catValu>
+        <labl>[73] GrossEltern-Enkel-HH</labl>
+        <catStat type="freq">  13</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>81</catValu>
+        <labl>[81] Sonst. Kombination ohne K. LE 16</labl>
+        <catStat type="freq"> 167</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>82</catValu>
+        <labl>[82] Sonst. Kombination mit K. LE 16</labl>
+        <catStat type="freq">   8</catStat>
+      </catgry>
+    </var>
+    <var ID="hghmonth" intrvl="labeled_numeric" files="hgen">
+      <labl>Monat des Interviews</labl>
+      <sumStat type="valid">11970</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Januar</labl>
+        <catStat type="freq">1037</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Februar</labl>
+        <catStat type="freq">1826</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Maerz</labl>
+        <catStat type="freq">1430</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] April</labl>
+        <catStat type="freq"> 693</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Mai</labl>
+        <catStat type="freq"> 537</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] Juni</labl>
+        <catStat type="freq"> 402</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] Juli</labl>
+        <catStat type="freq"> 723</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] August</labl>
+        <catStat type="freq"> 331</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] September</labl>
+        <catStat type="freq">1061</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] Oktober</labl>
+        <catStat type="freq">2361</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] November</labl>
+        <catStat type="freq">1108</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>[12] Dezember</labl>
+        <catStat type="freq"> 461</catStat>
+      </catgry>
+    </var>
+    <var ID="hghmode" intrvl="labeled_numeric" files="hgen">
+      <labl>Interviewmethode</labl>
+      <sumStat type="valid">11970</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>100</catValu>
+        <labl>[100] mit Interviewerbetreuung</labl>
+        <catStat type="freq">  15</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>110</catValu>
+        <labl>[110] muendliches Interview</labl>
+        <catStat type="freq">1460</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>120</catValu>
+        <labl>[120] Selbstausfuellung o. I.</labl>
+        <catStat type="freq"> 949</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>130</catValu>
+        <labl>[130] Mischform</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>131</catValu>
+        <labl>[131] Selbstausfuellung m. I.</labl>
+        <catStat type="freq">  88</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>132</catValu>
+        <labl>[132] teils-teils</labl>
+        <catStat type="freq">  85</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>133</catValu>
+        <labl>[133] Proxy</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>134</catValu>
+        <labl>[134] mit Begleitperson</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>135</catValu>
+        <labl>[135] ohne Begleitperson</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>140</catValu>
+        <labl>[140] CAPI - ab Welle O</labl>
+        <catStat type="freq">9247</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>200</catValu>
+        <labl>[200] mit telefonischer Betreuung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>210</catValu>
+        <labl>[210] schriftlich-postalisch</labl>
+        <catStat type="freq"> 117</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>220</catValu>
+        <labl>[220] Telefon-Interview</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>300</catValu>
+        <labl>[300] Web-based Interview</labl>
+        <catStat type="freq">   9</catStat>
+      </catgry>
+    </var>
+    <var ID="hghinc" intrvl="numeric" files="hgen">
+      <labl>Monatliches HH-Nettoeinkommen (EUR)</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">1400</sumStat>
+      <sumStat type="Median">2000</sumStat>
+      <sumStat type="Mean">2375</sumStat>
+      <sumStat type="3rd Qu.">3000</sumStat>
+      <sumStat type="Max.">30000</sumStat>
+      <sumStat type="NA's">1132</sumStat>
+      <sumStat type="valid">10838</sumStat>
+      <sumStat type="invalid">1132</sumStat>
+    </var>
+    <var ID="hgahinc" intrvl="numeric" files="hgen">
+      <labl>Korrigiertes monatl. HH-Nettoeinkommen (EUR)</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">1465</sumStat>
+      <sumStat type="Median">2122</sumStat>
+      <sumStat type="Mean">2444</sumStat>
+      <sumStat type="3rd Qu.">3068</sumStat>
+      <sumStat type="Max.">30000</sumStat>
+      <sumStat type="NA's">5066</sumStat>
+      <sumStat type="valid">6904</sumStat>
+      <sumStat type="invalid">5066</sumStat>
+    </var>
+    <var ID="hgnuts1" intrvl="labeled_numeric" files="hgen">
+      <labl>NUTS-Systematik-1(Bundesland)</labl>
+      <sumStat type="valid">11970</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] [DE100] Baden-Wuerttemberg</labl>
+        <catStat type="freq">1281</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] [DE200] Bayern</labl>
+        <catStat type="freq">1917</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] [DE300] Berlin</labl>
+        <catStat type="freq"> 512</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] [DE400] Brandenburg</labl>
+        <catStat type="freq"> 322</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] [DE500] Bremen</labl>
+        <catStat type="freq"> 113</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] [DE600] Hamburg</labl>
+        <catStat type="freq"> 203</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] [DE700] Hessen</labl>
+        <catStat type="freq"> 733</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] [DE800] Mecklenburg-Vorpommern</labl>
+        <catStat type="freq"> 299</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] [DE900] Niedersachsen</labl>
+        <catStat type="freq">1436</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] [DEA00] Nordrhein-Westfalen</labl>
+        <catStat type="freq">2671</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] [DEB00] Rheinland-Pfalz</labl>
+        <catStat type="freq"> 376</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>[12] [DEC00] Saarland</labl>
+        <catStat type="freq"> 141</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>[13] [DED00] Sachsen</labl>
+        <catStat type="freq"> 647</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <labl>[14] [DEE00] Sachsen-Anhalt</labl>
+        <catStat type="freq"> 446</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <labl>[15] [DEF00] Schleswig-Holstein</labl>
+        <catStat type="freq"> 441</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <labl>[16] [DEG00] Thueringen</labl>
+        <catStat type="freq"> 432</catStat>
+      </catgry>
+    </var>
+    <var ID="hgi1hinc" intrvl="numeric" files="hgen">
+      <labl>1.Imput.monatl.HH-Nettoeinkommen (EUR)</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">1400</sumStat>
+      <sumStat type="Median">2000</sumStat>
+      <sumStat type="Mean">2327</sumStat>
+      <sumStat type="3rd Qu.">3000</sumStat>
+      <sumStat type="Max.">30000</sumStat>
+      <sumStat type="NA's">3317</sumStat>
+      <sumStat type="valid">8653</sumStat>
+      <sumStat type="invalid">3317</sumStat>
+    </var>
+    <var ID="hgi2hinc" intrvl="numeric" files="hgen">
+      <labl>2.Imput.monatl.HH-Nettoeinkommen (EUR)</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">1400</sumStat>
+      <sumStat type="Median">2000</sumStat>
+      <sumStat type="Mean">2328</sumStat>
+      <sumStat type="3rd Qu.">3000</sumStat>
+      <sumStat type="Max.">30000</sumStat>
+      <sumStat type="NA's">3317</sumStat>
+      <sumStat type="valid">8653</sumStat>
+      <sumStat type="invalid">3317</sumStat>
+    </var>
+    <var ID="hgi3hinc" intrvl="numeric" files="hgen">
+      <labl>3.Imput.monatl.HH-Nettoeinkommen (EUR)</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">1400</sumStat>
+      <sumStat type="Median">2000</sumStat>
+      <sumStat type="Mean">2324</sumStat>
+      <sumStat type="3rd Qu.">3000</sumStat>
+      <sumStat type="Max.">30000</sumStat>
+      <sumStat type="NA's">3317</sumStat>
+      <sumStat type="valid">8653</sumStat>
+      <sumStat type="invalid">3317</sumStat>
+    </var>
+    <var ID="hgi4hinc" intrvl="numeric" files="hgen">
+      <labl>4.Imput.monatl.HH-Nettoeinkommen (EUR)</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">1400</sumStat>
+      <sumStat type="Median">2000</sumStat>
+      <sumStat type="Mean">2325</sumStat>
+      <sumStat type="3rd Qu.">3000</sumStat>
+      <sumStat type="Max.">30000</sumStat>
+      <sumStat type="NA's">3317</sumStat>
+      <sumStat type="valid">8653</sumStat>
+      <sumStat type="invalid">3317</sumStat>
+    </var>
+    <var ID="hgi5hinc" intrvl="numeric" files="hgen">
+      <labl>5.Imput.monatl.HH-Nettoeinkommen (EUR)</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">1400</sumStat>
+      <sumStat type="Median">2000</sumStat>
+      <sumStat type="Mean">2329</sumStat>
+      <sumStat type="3rd Qu.">3000</sumStat>
+      <sumStat type="Max.">30000</sumStat>
+      <sumStat type="NA's">3317</sumStat>
+      <sumStat type="valid">8653</sumStat>
+      <sumStat type="invalid">3317</sumStat>
+    </var>
+    <var ID="hgfhinc" intrvl="labeled_numeric" files="hgen">
+      <labl>Imputation Flag, monatl.HH-Nettoeinkommen</labl>
+      <sumStat type="valid">8653</sumStat>
+      <sumStat type="invalid">3317</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">3317</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] nicht imputiert</labl>
+        <catStat type="freq">7767</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] imputiert</labl>
+        <catStat type="freq"> 886</catStat>
+      </catgry>
+    </var>
+  </dataDscr>
+  <fileDscr ID="hgen"/>
+</codebook>

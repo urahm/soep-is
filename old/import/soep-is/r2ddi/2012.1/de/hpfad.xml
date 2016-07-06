@@ -1,0 +1,1836 @@
+<codebook>
+  <dataDscr>
+    <var ID="cid" intrvl="numeric" files="hpfad">
+      <labl>Ursprungshaushaltsnummer</labl>
+      <sumStat type="Min.">2e+05</sumStat>
+      <sumStat type="1st Qu.">871400</sumStat>
+      <sumStat type="Median">925800</sumStat>
+      <sumStat type="Mean">841800</sumStat>
+      <sumStat type="3rd Qu.">954100</sumStat>
+      <sumStat type="Max.">982500</sumStat>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hid" intrvl="numeric" files="hpfad">
+      <labl>Aktuelle Haushaltsnummer</labl>
+      <sumStat type="Min.">115400</sumStat>
+      <sumStat type="1st Qu.">873200</sumStat>
+      <sumStat type="Median">925800</sumStat>
+      <sumStat type="Mean">843900</sumStat>
+      <sumStat type="3rd Qu.">954100</sumStat>
+      <sumStat type="Max.">982500</sumStat>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hsample" intrvl="labeled_numeric" files="hpfad">
+      <labl>Stichprobenart</labl>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] E Ergaenzung 1998</labl>
+        <catStat type="freq"> 617</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] I Incentivierung 2009</labl>
+        <catStat type="freq">1827</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>22</catValu>
+        <labl>[22] Innovationssample 2012 Aufstockung</labl>
+        <catStat type="freq">3000</catStat>
+      </catgry>
+    </var>
+    <var ID="hnetto98" intrvl="labeled_numeric" files="hpfad">
+      <labl>Befragungsstatus 1998</labl>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Realisiertes Haushaltsinterview</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] HH nur in Brutto-Bestand</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">5071</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>201</catValu>
+        <catStat type="freq"> 373</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="hid98" intrvl="numeric" files="hpfad">
+      <labl>Aktuelle Haushaltsnummer 1998</labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">14380</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">220500</sumStat>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hpop98" intrvl="labeled_numeric" files="hpfad">
+      <labl>Populationszugehoerigkeit 1998</labl>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">5071</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Privat_HH,deut.HV</labl>
+        <catStat type="freq"> 365</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Privat_HH,ausl.HV</labl>
+        <catStat type="freq">   8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Anstalts_HH,deut.HV</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Anstalts_HH,ausl.HV</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="hnetto99" intrvl="labeled_numeric" files="hpfad">
+      <labl>Befragungsstatus 1999</labl>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Realisiertes Haushaltsinterview</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] HH nur in Brutto-Bestand</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">5056</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>201</catValu>
+        <catStat type="freq"> 383</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>202</catValu>
+        <catStat type="freq">   5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="hid99" intrvl="numeric" files="hpfad">
+      <labl>Aktuelle Haushaltsnummer 1999</labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">15010</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">230300</sumStat>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hpop99" intrvl="labeled_numeric" files="hpfad">
+      <labl>Populationszugehoerigkeit 1999</labl>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">5056</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Privat_HH,deut.HV</labl>
+        <catStat type="freq"> 377</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Privat_HH,ausl.HV</labl>
+        <catStat type="freq">  10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Anstalts_HH,deut.HV</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Anstalts_HH,ausl.HV</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="hnetto00" intrvl="labeled_numeric" files="hpfad">
+      <labl>Befragungsstatus 2000</labl>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Realisiertes Haushaltsinterview</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] HH nur in Brutto-Bestand</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">5039</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>201</catValu>
+        <catStat type="freq"> 391</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>202</catValu>
+        <catStat type="freq">  14</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="hid00" intrvl="numeric" files="hpfad">
+      <labl>Aktuelle Haushaltsnummer 2000</labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">15730</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">230700</sumStat>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hpop00" intrvl="labeled_numeric" files="hpfad">
+      <labl>Populationszugehoerigkeit 2000</labl>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">5040</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Privat_HH,deut.HV</labl>
+        <catStat type="freq"> 394</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Privat_HH,ausl.HV</labl>
+        <catStat type="freq">  10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Anstalts_HH,deut.HV</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Anstalts_HH,ausl.HV</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="hnetto01" intrvl="labeled_numeric" files="hpfad">
+      <labl>Befragungsstatus 2001</labl>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Realisiertes Haushaltsinterview</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] HH nur in Brutto-Bestand</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">5016</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>201</catValu>
+        <catStat type="freq"> 409</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>202</catValu>
+        <catStat type="freq">  19</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="hid01" intrvl="numeric" files="hpfad">
+      <labl>Aktuelle Haushaltsnummer 2001</labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">16710</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">231100</sumStat>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hpop01" intrvl="labeled_numeric" files="hpfad">
+      <labl>Populationszugehoerigkeit 2001</labl>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">5016</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Privat_HH,deut.HV</labl>
+        <catStat type="freq"> 412</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Privat_HH,ausl.HV</labl>
+        <catStat type="freq">  11</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Anstalts_HH,deut.HV</labl>
+        <catStat type="freq">   5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Anstalts_HH,ausl.HV</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="hnetto02" intrvl="labeled_numeric" files="hpfad">
+      <labl>Befragungsstatus 2002</labl>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Realisiertes Haushaltsinterview</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] HH nur in Brutto-Bestand</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">5012</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>201</catValu>
+        <catStat type="freq"> 415</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>202</catValu>
+        <catStat type="freq">  17</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="hid02" intrvl="numeric" files="hpfad">
+      <labl>Aktuelle Haushaltsnummer 2002</labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">16580</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">231100</sumStat>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hpop02" intrvl="labeled_numeric" files="hpfad">
+      <labl>Populationszugehoerigkeit 2002</labl>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">5013</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Privat_HH,deut.HV</labl>
+        <catStat type="freq"> 418</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Privat_HH,ausl.HV</labl>
+        <catStat type="freq">  10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Anstalts_HH,deut.HV</labl>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Anstalts_HH,ausl.HV</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="hnetto03" intrvl="labeled_numeric" files="hpfad">
+      <labl>Befragungsstatus 2003</labl>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Realisiertes Haushaltsinterview</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] HH nur in Brutto-Bestand</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">5001</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>201</catValu>
+        <catStat type="freq"> 424</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>202</catValu>
+        <catStat type="freq">  19</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="hid03" intrvl="numeric" files="hpfad">
+      <labl>Aktuelle Haushaltsnummer 2003</labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">16680</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">231100</sumStat>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hpop03" intrvl="labeled_numeric" files="hpfad">
+      <labl>Populationszugehoerigkeit 2003</labl>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">5002</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Privat_HH,deut.HV</labl>
+        <catStat type="freq"> 431</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Privat_HH,ausl.HV</labl>
+        <catStat type="freq">  10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Anstalts_HH,deut.HV</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Anstalts_HH,ausl.HV</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="hnetto04" intrvl="labeled_numeric" files="hpfad">
+      <labl>Befragungsstatus 2004</labl>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Realisiertes Haushaltsinterview</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] HH nur in Brutto-Bestand</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">4993</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>201</catValu>
+        <catStat type="freq"> 433</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>202</catValu>
+        <catStat type="freq">  18</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="hid04" intrvl="numeric" files="hpfad">
+      <labl>Aktuelle Haushaltsnummer 2004</labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">16730</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">231100</sumStat>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hpop04" intrvl="labeled_numeric" files="hpfad">
+      <labl>Populationszugehoerigkeit 2004</labl>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">4993</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Privat_HH,deut.HV</labl>
+        <catStat type="freq"> 440</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Privat_HH,ausl.HV</labl>
+        <catStat type="freq">  11</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Anstalts_HH,deut.HV</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Anstalts_HH,ausl.HV</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="hnetto05" intrvl="labeled_numeric" files="hpfad">
+      <labl>Befragungsstatus 2005</labl>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Realisiertes Haushaltsinterview</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] HH nur in Brutto-Bestand</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">4981</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>201</catValu>
+        <catStat type="freq"> 441</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>202</catValu>
+        <catStat type="freq">  22</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="hid05" intrvl="numeric" files="hpfad">
+      <labl>Aktuelle Haushaltsnummer 2005</labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">16970</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">231100</sumStat>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hpop05" intrvl="labeled_numeric" files="hpfad">
+      <labl>Populationszugehoerigkeit 2005</labl>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">4982</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Privat_HH,deut.HV</labl>
+        <catStat type="freq"> 450</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Privat_HH,ausl.HV</labl>
+        <catStat type="freq">  11</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Anstalts_HH,deut.HV</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Anstalts_HH,ausl.HV</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="hnetto06" intrvl="labeled_numeric" files="hpfad">
+      <labl>Befragungsstatus 2006</labl>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Realisiertes Haushaltsinterview</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] HH nur in Brutto-Bestand</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">4967</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>201</catValu>
+        <catStat type="freq"> 452</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>202</catValu>
+        <catStat type="freq">  25</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="hid06" intrvl="numeric" files="hpfad">
+      <labl>Aktuelle Haushaltsnummer 2006</labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">17250</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">231100</sumStat>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hpop06" intrvl="labeled_numeric" files="hpfad">
+      <labl>Populationszugehoerigkeit 2006</labl>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">4969</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Privat_HH,deut.HV</labl>
+        <catStat type="freq"> 463</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Privat_HH,ausl.HV</labl>
+        <catStat type="freq">  10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Anstalts_HH,deut.HV</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Anstalts_HH,ausl.HV</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="hnetto07" intrvl="labeled_numeric" files="hpfad">
+      <labl>Befragungsstatus 2007</labl>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Realisiertes Haushaltsinterview</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] HH nur in Brutto-Bestand</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">4968</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>201</catValu>
+        <catStat type="freq"> 451</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>202</catValu>
+        <catStat type="freq">  25</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="hid07" intrvl="numeric" files="hpfad">
+      <labl>Aktuelle Haushaltsnummer 2007</labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">17170</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">231100</sumStat>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hpop07" intrvl="labeled_numeric" files="hpfad">
+      <labl>Populationszugehoerigkeit 2007</labl>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">4968</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Privat_HH,deut.HV</labl>
+        <catStat type="freq"> 463</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Privat_HH,ausl.HV</labl>
+        <catStat type="freq">  10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Anstalts_HH,deut.HV</labl>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Anstalts_HH,ausl.HV</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="hnetto08" intrvl="labeled_numeric" files="hpfad">
+      <labl>Befragungsstatus 2008</labl>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Realisiertes Haushaltsinterview</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] HH nur in Brutto-Bestand</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">4973</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>201</catValu>
+        <catStat type="freq"> 447</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>202</catValu>
+        <catStat type="freq">  24</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="hid08" intrvl="numeric" files="hpfad">
+      <labl>Aktuelle Haushaltsnummer 2008</labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">16970</sumStat>
+      <sumStat type="3rd Qu.">-2</sumStat>
+      <sumStat type="Max.">231100</sumStat>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hpop08" intrvl="labeled_numeric" files="hpfad">
+      <labl>Populationszugehoerigkeit 2008</labl>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">4973</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Privat_HH,deut.HV</labl>
+        <catStat type="freq"> 461</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Privat_HH,ausl.HV</labl>
+        <catStat type="freq">  10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Anstalts_HH,deut.HV</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Anstalts_HH,ausl.HV</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="hnetto09" intrvl="labeled_numeric" files="hpfad">
+      <labl>Befragungsstatus 2009</labl>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Realisiertes Haushaltsinterview</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] HH nur in Brutto-Bestand</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">3484</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>201</catValu>
+        <catStat type="freq">1942</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>202</catValu>
+        <catStat type="freq">  18</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="hid09" intrvl="numeric" files="hpfad">
+      <labl>Aktuelle Haushaltsnummer 2009</labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">257200</sumStat>
+      <sumStat type="3rd Qu.">855100</sumStat>
+      <sumStat type="Max.">9e+05</sumStat>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hpop09" intrvl="labeled_numeric" files="hpfad">
+      <labl>Populationszugehoerigkeit 2009</labl>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">3486</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Privat_HH,deut.HV</labl>
+        <catStat type="freq">1854</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Privat_HH,ausl.HV</labl>
+        <catStat type="freq"> 100</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Anstalts_HH,deut.HV</labl>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Anstalts_HH,ausl.HV</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+    </var>
+    <var ID="hnetto10" intrvl="labeled_numeric" files="hpfad">
+      <labl>Befragungsstatus 2010</labl>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Realisiertes Haushaltsinterview</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] HH nur in Brutto-Bestand</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">3221</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>201</catValu>
+        <catStat type="freq">1628</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>202</catValu>
+        <catStat type="freq"> 595</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="hid10" intrvl="numeric" files="hpfad">
+      <labl>Aktuelle Haushaltsnummer 2010</labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">299300</sumStat>
+      <sumStat type="3rd Qu.">862400</sumStat>
+      <sumStat type="Max.">900400</sumStat>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hpop10" intrvl="labeled_numeric" files="hpfad">
+      <labl>Populationszugehoerigkeit 2010</labl>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">3351</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Privat_HH,deut.HV</labl>
+        <catStat type="freq">1984</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Privat_HH,ausl.HV</labl>
+        <catStat type="freq"> 102</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Anstalts_HH,deut.HV</labl>
+        <catStat type="freq">   5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Anstalts_HH,ausl.HV</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+    </var>
+    <var ID="hnetto11" intrvl="labeled_numeric" files="hpfad">
+      <labl>Befragungsstatus 2011</labl>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Realisiertes Haushaltsinterview</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] HH nur in Brutto-Bestand</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">3604</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>201</catValu>
+        <catStat type="freq">1504</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>202</catValu>
+        <catStat type="freq"> 336</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="hid11" intrvl="numeric" files="hpfad">
+      <labl>Aktuelle Haushaltsnummer 2011</labl>
+      <sumStat type="Min.">-2</sumStat>
+      <sumStat type="1st Qu.">-2</sumStat>
+      <sumStat type="Median">-2</sumStat>
+      <sumStat type="Mean">236400</sumStat>
+      <sumStat type="3rd Qu.">850100</sumStat>
+      <sumStat type="Max.">900800</sumStat>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hpop11" intrvl="labeled_numeric" files="hpfad">
+      <labl>Populationszugehoerigkeit 2011</labl>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">3604</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Privat_HH,deut.HV</labl>
+        <catStat type="freq">1750</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Privat_HH,ausl.HV</labl>
+        <catStat type="freq">  78</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Anstalts_HH,deut.HV</labl>
+        <catStat type="freq">  10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Anstalts_HH,ausl.HV</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+    </var>
+    <var ID="hnetto12" intrvl="labeled_numeric" files="hpfad">
+      <labl>Befragungsstatus 2012</labl>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Realisiertes Haushaltsinterview</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] HH nur in Brutto-Bestand</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq"> 811</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>200</catValu>
+        <catStat type="freq">1976</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>201</catValu>
+        <catStat type="freq">2277</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>202</catValu>
+        <catStat type="freq"> 342</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>203</catValu>
+        <catStat type="freq">  14</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">  24</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="hid12" intrvl="numeric" files="hpfad">
+      <labl>Aktuelle Haushaltsnummer 2012</labl>
+      <sumStat type="Min.">-3</sumStat>
+      <sumStat type="1st Qu.">853800</sumStat>
+      <sumStat type="Median">925800</sumStat>
+      <sumStat type="Mean">727900</sumStat>
+      <sumStat type="3rd Qu.">954100</sumStat>
+      <sumStat type="Max.">982500</sumStat>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hpop12" intrvl="labeled_numeric" files="hpfad">
+      <labl>Populationszugehoerigkeit 2012</labl>
+      <sumStat type="valid">5444</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterführung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-5</catValu>
+        <labl>[-5] in Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">2811</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Privat_HH,deut.HV</labl>
+        <catStat type="freq">2501</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Privat_HH,ausl.HV</labl>
+        <catStat type="freq"> 120</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Anstalts_HH,deut.HV</labl>
+        <catStat type="freq">  10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Anstalts_HH,ausl.HV</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+    </var>
+  </dataDscr>
+  <fileDscr ID="hpfad"/>
+</codebook>
