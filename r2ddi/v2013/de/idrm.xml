@@ -1,0 +1,946 @@
+<codebook>
+  <dataDscr>
+    <var ID="cid" intrvl="numeric" files="idrm">
+      <labl>Ursprungshaushaltsnummer</labl>
+      <sumStat type="Min.">2e+05</sumStat>
+      <sumStat type="1st Qu.">850900</sumStat>
+      <sumStat type="Median">871400</sumStat>
+      <sumStat type="Mean">724600</sumStat>
+      <sumStat type="3rd Qu.">889200</sumStat>
+      <sumStat type="Max.">982400</sumStat>
+      <sumStat type="valid">69090</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hid" intrvl="numeric" files="idrm">
+      <labl>Aktuelle Haushaltsnummer</labl>
+      <sumStat type="Min.">115400</sumStat>
+      <sumStat type="1st Qu.">851300</sumStat>
+      <sumStat type="Median">873100</sumStat>
+      <sumStat type="Mean">725900</sumStat>
+      <sumStat type="3rd Qu.">891600</sumStat>
+      <sumStat type="Max.">982400</sumStat>
+      <sumStat type="valid">69090</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="pid" intrvl="numeric" files="idrm">
+      <labl>Unveraenderliche Personennummer</labl>
+      <sumStat type="Min.">1154000</sumStat>
+      <sumStat type="1st Qu.">8509000</sumStat>
+      <sumStat type="Median">8717000</sumStat>
+      <sumStat type="Mean">7246000</sumStat>
+      <sumStat type="3rd Qu.">8895000</sumStat>
+      <sumStat type="Max.">9824000</sumStat>
+      <sumStat type="valid">69090</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="syear" intrvl="numeric" files="idrm">
+      <labl>Erhebungsjahr (Survey-Year)</labl>
+      <sumStat type="Min.">2012</sumStat>
+      <sumStat type="1st Qu.">2012</sumStat>
+      <sumStat type="Median">2012</sumStat>
+      <sumStat type="Mean">2012</sumStat>
+      <sumStat type="3rd Qu.">2012</sumStat>
+      <sumStat type="Max.">2012</sumStat>
+      <sumStat type="valid">69090</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="im_drm_pre" intrvl="labeled_numeric" files="idrm">
+      <labl>Innovatives Modul: Pretest Day Reconstruction Method</labl>
+      <sumStat type="valid">69090</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Trifft nicht zu</labl>
+        <catStat type="freq">61560</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Trifft zu</labl>
+        <catStat type="freq"> 7530</catStat>
+      </catgry>
+    </var>
+    <var ID="im_drm" intrvl="labeled_numeric" files="idrm">
+      <labl>Innovatives Modul: Day Reconstruction Method</labl>
+      <sumStat type="valid">69090</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Trifft nicht zu</labl>
+        <catStat type="freq"> 7530</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Trifft zu</labl>
+        <catStat type="freq">61560</catStat>
+      </catgry>
+    </var>
+    <var ID="drm_wt" intrvl="labeled_numeric" files="idrm">
+      <labl>Wochentag der Befragung</labl>
+      <sumStat type="valid">69090</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>Sonntag</labl>
+        <catStat type="freq">  870</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>Montag</labl>
+        <catStat type="freq"> 6540</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>Dienstag</labl>
+        <catStat type="freq">17490</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>Mittwoch</labl>
+        <catStat type="freq">14520</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>Donnerstag</labl>
+        <catStat type="freq">12900</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>Freitag</labl>
+        <catStat type="freq">10560</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>Samstag</labl>
+        <catStat type="freq"> 6210</catStat>
+      </catgry>
+    </var>
+    <var ID="drm_a" intrvl="string" files="idrm">
+      <labl>Wann sind Sie gestern aufgestanden?</labl>
+      <sumStat type="valid">69090</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="aktnr" intrvl="numeric" files="idrm">
+      <labl>Episodennummer</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">8</sumStat>
+      <sumStat type="Median">15.5</sumStat>
+      <sumStat type="Mean">15.5</sumStat>
+      <sumStat type="3rd Qu.">23</sumStat>
+      <sumStat type="Max.">30</sumStat>
+      <sumStat type="valid">69090</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="akt" intrvl="labeled_numeric" files="idrm">
+      <labl>NA</labl>
+      <sumStat type="valid">26724</sumStat>
+      <sumStat type="invalid">42366</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">42366</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>Auf dem Weg zur Arbeit / Studium oder von dort nach Hause</labl>
+        <catStat type="freq"> 1465</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <catStat type="freq">  808</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>Arbeiten / Studieren</labl>
+        <catStat type="freq"> 1288</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>Einkaufen</labl>
+        <catStat type="freq">  784</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>Essen zubereiten</labl>
+        <catStat type="freq"> 1932</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>Essen</labl>
+        <catStat type="freq"> 4428</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <catStat type="freq"> 2761</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>Hausarbeit erledigen</labl>
+        <catStat type="freq"> 1756</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>Kind(er) betreuen /auch Bringen oder abholen der Kinder</labl>
+        <catStat type="freq">  758</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>mit Freunden treffen</labl>
+        <catStat type="freq">  426</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>Ausruhen / ein Nickerchen machen</labl>
+        <catStat type="freq">  726</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>Entspannen</labl>
+        <catStat type="freq">  818</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>intime Beziehungen</labl>
+        <catStat type="freq">   25</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <labl>Beten, Gottesdienst besuchen, Meditieren</labl>
+        <catStat type="freq">   53</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <labl>Fernsehen</labl>
+        <catStat type="freq"> 2171</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <labl>Lesen</labl>
+        <catStat type="freq">  668</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>17</catValu>
+        <catStat type="freq">  701</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>18</catValu>
+        <labl>Telefonieren</labl>
+        <catStat type="freq">  303</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>19</catValu>
+        <labl>Sport treiben</labl>
+        <catStat type="freq">  288</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>20</catValu>
+        <labl>Arztbesuch</labl>
+        <catStat type="freq">  158</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>21</catValu>
+        <labl>Gartenarbeit</labl>
+        <catStat type="freq">  268</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>22</catValu>
+        <catStat type="freq">  353</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>23</catValu>
+        <catStat type="freq"> 1484</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>24</catValu>
+        <labl>Ende des Tages / Beginn der Nachtruhe</labl>
+        <catStat type="freq"> 2302</catStat>
+      </catgry>
+    </var>
+    <var ID="akt_s" intrvl="string" files="idrm">
+      <labl>NA</labl>
+      <sumStat type="valid">69090</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="akt_e" intrvl="string" files="idrm">
+      <labl>NA</labl>
+      <sumStat type="valid">69090</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="akt_sek_jn" intrvl="labeled_numeric" files="idrm">
+      <labl>NA</labl>
+      <sumStat type="valid">24422</sumStat>
+      <sumStat type="invalid">44668</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">44668</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>Ja</labl>
+        <catStat type="freq"> 2837</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>Nein</labl>
+        <catStat type="freq">21585</catStat>
+      </catgry>
+    </var>
+    <var ID="akt_sek" intrvl="labeled_numeric" files="idrm">
+      <labl>NA</labl>
+      <sumStat type="valid">2837</sumStat>
+      <sumStat type="invalid">66253</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>Auf dem Weg zur Arbeit / Studium oder von dort nach Hause</labl>
+        <catStat type="freq">    6</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>mit Freunden treffen</labl>
+        <catStat type="freq">   53</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>Ausruhen / ein Nickerchen machen</labl>
+        <catStat type="freq">   37</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>Entspannen</labl>
+        <catStat type="freq">   58</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>intime Beziehungen</labl>
+        <catStat type="freq">    3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <labl>Beten, Gottesdienst besuchen, Meditieren</labl>
+        <catStat type="freq">    7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <labl>Fernsehen</labl>
+        <catStat type="freq">  440</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <labl>Lesen</labl>
+        <catStat type="freq">  429</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>17</catValu>
+        <catStat type="freq">   92</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>18</catValu>
+        <labl>Telefonieren</labl>
+        <catStat type="freq">  169</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>19</catValu>
+        <labl>Sport treiben</labl>
+        <catStat type="freq">   12</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <catStat type="freq">    9</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">66253</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>20</catValu>
+        <catStat type="freq">   97</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>21</catValu>
+        <catStat type="freq">    8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>22</catValu>
+        <catStat type="freq">   54</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>23</catValu>
+        <catStat type="freq">  359</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>Arbeiten / Studieren</labl>
+        <catStat type="freq">   22</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>Einkaufen</labl>
+        <catStat type="freq">   69</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>Essen zubereiten</labl>
+        <catStat type="freq">   97</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>Essen</labl>
+        <catStat type="freq">  579</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <catStat type="freq">   47</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>Hausarbeit erledigen</labl>
+        <catStat type="freq">   99</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>Kind(er) betreuen /auch Bringen oder abholen der Kinder zur</labl>
+        <catStat type="freq">   91</catStat>
+      </catgry>
+    </var>
+    <var ID="akt_sek_s" intrvl="string" files="idrm">
+      <labl>NA</labl>
+      <sumStat type="valid">69090</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="akt_sek_e" intrvl="string" files="idrm">
+      <labl>NA</labl>
+      <sumStat type="valid">69090</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="akt_pleasant" intrvl="labeled_numeric" files="idrm">
+      <labl>Episode angenehm / unangenehm</labl>
+      <sumStat type="valid">24273</sumStat>
+      <sumStat type="invalid">44817</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">44668</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">  149</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>eher angenehm</labl>
+        <catStat type="freq">22803</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>eher unangenehm</labl>
+        <catStat type="freq"> 1470</catStat>
+      </catgry>
+    </var>
+    <var ID="ort" intrvl="labeled_numeric" files="idrm">
+      <labl>Ort der Episode</labl>
+      <sumStat type="valid">6843</sumStat>
+      <sumStat type="invalid">62247</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">62221</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   26</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>Zu Hause</labl>
+        <catStat type="freq"> 4963</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>Auf der Arbeit</labl>
+        <catStat type="freq">  388</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>Woanders</labl>
+        <catStat type="freq"> 1492</catStat>
+      </catgry>
+    </var>
+    <var ID="around1" intrvl="numeric" files="idrm">
+      <labl>Niemand anwesend</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">0.5397</sumStat>
+      <sumStat type="3rd Qu.">1</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="NA's">62221</sumStat>
+      <sumStat type="valid">6869</sumStat>
+      <sumStat type="invalid">62221</sumStat>
+    </var>
+    <var ID="around2" intrvl="numeric" files="idrm">
+      <labl>Partner anwesend</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0.2712</sumStat>
+      <sumStat type="3rd Qu.">1</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="NA's">62221</sumStat>
+      <sumStat type="valid">6869</sumStat>
+      <sumStat type="invalid">62221</sumStat>
+    </var>
+    <var ID="around3" intrvl="numeric" files="idrm">
+      <labl>Freunde anwesend</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0.03829</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="NA's">62221</sumStat>
+      <sumStat type="valid">6869</sumStat>
+      <sumStat type="invalid">62221</sumStat>
+    </var>
+    <var ID="around4" intrvl="numeric" files="idrm">
+      <labl>Kollegen anwesend</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0.04892</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="NA's">62221</sumStat>
+      <sumStat type="valid">6869</sumStat>
+      <sumStat type="invalid">62221</sumStat>
+    </var>
+    <var ID="around5" intrvl="numeric" files="idrm">
+      <labl>Kunden anwesend</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0.01354</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="NA's">62221</sumStat>
+      <sumStat type="valid">6869</sumStat>
+      <sumStat type="invalid">62221</sumStat>
+    </var>
+    <var ID="around6" intrvl="numeric" files="idrm">
+      <labl>Kinder anwesend</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0.08269</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="NA's">62221</sumStat>
+      <sumStat type="valid">6869</sumStat>
+      <sumStat type="invalid">62221</sumStat>
+    </var>
+    <var ID="around7" intrvl="numeric" files="idrm">
+      <labl>Verwandte anwesend</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0.03159</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="NA's">62221</sumStat>
+      <sumStat type="valid">6869</sumStat>
+      <sumStat type="invalid">62221</sumStat>
+    </var>
+    <var ID="around8" intrvl="numeric" files="idrm">
+      <labl>Vorgesetze anwesend</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0.01179</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="NA's">62221</sumStat>
+      <sumStat type="valid">6869</sumStat>
+      <sumStat type="invalid">62221</sumStat>
+    </var>
+    <var ID="around9" intrvl="numeric" files="idrm">
+      <labl>andere Person anwesend</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0.02912</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="NA's">62221</sumStat>
+      <sumStat type="valid">6869</sumStat>
+      <sumStat type="invalid">62221</sumStat>
+    </var>
+    <var ID="around10" intrvl="numeric" files="idrm">
+      <labl>keine Angabe zur anwesenden Personen</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="NA's">62256</sumStat>
+      <sumStat type="valid">6834</sumStat>
+      <sumStat type="invalid">62256</sumStat>
+    </var>
+    <var ID="emotion1" intrvl="numeric" files="idrm">
+      <labl>NA</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">3</sumStat>
+      <sumStat type="Median">4</sumStat>
+      <sumStat type="Mean">3.99</sumStat>
+      <sumStat type="3rd Qu.">5</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="NA's">62531</sumStat>
+      <sumStat type="valid">6559</sumStat>
+      <sumStat type="invalid">62531</sumStat>
+    </var>
+    <var ID="emotion2" intrvl="numeric" files="idrm">
+      <labl>NA</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">1.585</sumStat>
+      <sumStat type="3rd Qu.">2</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="NA's">62530</sumStat>
+      <sumStat type="valid">6560</sumStat>
+      <sumStat type="invalid">62530</sumStat>
+    </var>
+    <var ID="emotion3" intrvl="numeric" files="idrm">
+      <labl>Frust</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">1.508</sumStat>
+      <sumStat type="3rd Qu.">1</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="NA's">62525</sumStat>
+      <sumStat type="valid">6565</sumStat>
+      <sumStat type="invalid">62525</sumStat>
+    </var>
+    <var ID="emotion4" intrvl="numeric" files="idrm">
+      <labl>NA</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">2.49</sumStat>
+      <sumStat type="3rd Qu.">4</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="NA's">62515</sumStat>
+      <sumStat type="valid">6575</sumStat>
+      <sumStat type="invalid">62515</sumStat>
+    </var>
+    <var ID="emotion5" intrvl="numeric" files="idrm">
+      <labl>Trauer</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">1.293</sumStat>
+      <sumStat type="3rd Qu.">1</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="NA's">62531</sumStat>
+      <sumStat type="valid">6559</sumStat>
+      <sumStat type="invalid">62531</sumStat>
+    </var>
+    <var ID="emotion6" intrvl="numeric" files="idrm">
+      <labl>Sorgen</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">1.528</sumStat>
+      <sumStat type="3rd Qu.">1</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="NA's">62525</sumStat>
+      <sumStat type="valid">6565</sumStat>
+      <sumStat type="invalid">62525</sumStat>
+    </var>
+    <var ID="emotion7" intrvl="numeric" files="idrm">
+      <labl>Schmerzen</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">1.612</sumStat>
+      <sumStat type="3rd Qu.">1</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="NA's">62527</sumStat>
+      <sumStat type="valid">6563</sumStat>
+      <sumStat type="invalid">62527</sumStat>
+    </var>
+    <var ID="emotion8" intrvl="numeric" files="idrm">
+      <labl>Begeisterung</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">3</sumStat>
+      <sumStat type="Mean">3.145</sumStat>
+      <sumStat type="3rd Qu.">5</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="NA's">62516</sumStat>
+      <sumStat type="valid">6574</sumStat>
+      <sumStat type="invalid">62516</sumStat>
+    </var>
+    <var ID="emotion9" intrvl="numeric" files="idrm">
+      <labl>Zufriedenheit</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">3</sumStat>
+      <sumStat type="Median">4</sumStat>
+      <sumStat type="Mean">4.31</sumStat>
+      <sumStat type="3rd Qu.">6</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="NA's">62493</sumStat>
+      <sumStat type="valid">6597</sumStat>
+      <sumStat type="invalid">62493</sumStat>
+    </var>
+    <var ID="emotion10" intrvl="numeric" files="idrm">
+      <labl>Langeweile</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">1.543</sumStat>
+      <sumStat type="3rd Qu.">2</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="NA's">62525</sumStat>
+      <sumStat type="valid">6565</sumStat>
+      <sumStat type="invalid">62525</sumStat>
+    </var>
+    <var ID="emotion11" intrvl="numeric" files="idrm">
+      <labl>Einsamkeit</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">1.421</sumStat>
+      <sumStat type="3rd Qu.">1</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="NA's">62527</sumStat>
+      <sumStat type="valid">6563</sumStat>
+      <sumStat type="invalid">62527</sumStat>
+    </var>
+    <var ID="emotion12" intrvl="numeric" files="idrm">
+      <labl>Stress</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">1.651</sumStat>
+      <sumStat type="3rd Qu.">2</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="NA's">62522</sumStat>
+      <sumStat type="valid">6568</sumStat>
+      <sumStat type="invalid">62522</sumStat>
+    </var>
+    <var ID="emotion13" intrvl="numeric" files="idrm">
+      <labl>tieferen Sinn</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">2.491</sumStat>
+      <sumStat type="3rd Qu.">4</sumStat>
+      <sumStat type="Max.">7</sumStat>
+      <sumStat type="NA's">62636</sumStat>
+      <sumStat type="valid">6454</sumStat>
+      <sumStat type="invalid">62636</sumStat>
+    </var>
+  </dataDscr>
+  <fileDscr ID="idrm"/>
+</codebook>
