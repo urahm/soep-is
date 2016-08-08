@@ -63,8 +63,8 @@ def study():
 def r2ddi():
     os.system("""
         rm -r ddionrails/r2ddi
-        mkdir -p ddionrails/r2ddi/v1
-        cp -r r2ddi/v1/en ddionrails/r2ddi/v1
+        mkdir -p ddionrails/r2ddi/v2013
+        cp -r r2ddi/v2013/en ddionrails/r2ddi/v2013
     """)
 
 def main():
