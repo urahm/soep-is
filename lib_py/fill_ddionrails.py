@@ -1,5 +1,6 @@
 import os
 import pandas as pd
+import merge_instruments
 
 def lower_all_names(x):
     def lower_x(x):
@@ -73,6 +74,7 @@ def main():
     variables()
     questions()
     answers()
+    merge_instruments.main()
     r2ddi()
 
 if __name__ == "__main__":
