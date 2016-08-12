@@ -49,23 +49,23 @@ Additional information and all the required forms can be found on the SOEP webpa
 
 ## Data description
 
-    **data** | **description**
-    :----------:|---------------------
-    H| Variables from the Household Question Module
-    P| Variables from the Individual Question Module
-    INNO| Variables from the Innovation Modules
-    BIO| Variables from the Life Course Question Module
-    BIOBIRTH| Birth Biography of Female Respondents
-    BIOBRTHM| Birth Biography of Male Respondents
-    KID| Pooled Dataset on Children
-    BIOAGE| Variables from the Modules of Questions on Children
-    HGEN| Household-related Status and Generated Variables
-    PGEN| Person-related Status and Generated Variables
-    PPFAD| Person-related Meta-dataset
-    HBRUTTO| Household-related Gross File
-    PBRUTTO| Person-related Gross File
-    HHRF| Household-related Weighting Factors
-    PHRF| Person-related Weighting Factors
+data        | description
+------------|------------------------------------------------------
+H           | Variables from the Household Question Module
+P           | Variables from the Individual Question Module
+INNO        | Variables from the Innovation Modules
+BIO         | Variables from the Life Course Question Module
+BIOBIRTH    | Birth Biography of Female Respondents
+BIOBRTHM    | Birth Biography of Male Respondents
+KID         | Pooled Dataset on Children
+BIOAGE      | Variables from the Modules of Questions on Children
+HGEN        | Household-related Status and Generated Variables
+PGEN        | Person-related Status and Generated Variables
+PPFAD       | Person-related Meta-dataset
+HBRUTTO     | Household-related Gross File
+PBRUTTO     | Person-related Gross File
+HHRF        | Household-related Weighting Factors
+PHRF        | Person-related Weighting Factors
 
 The datasets are available for Stata and SPSS in versions with German and English labels.
 
