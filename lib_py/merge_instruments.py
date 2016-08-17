@@ -24,7 +24,7 @@ def get_instruments(tables):
     instruments = dict([(x["questionnaire"], x) for x in instrument_list])
     for instrument in instruments.values():
         instrument["instrument"] = instrument["questionnaire"]
-        instrument["questions"] = list()
+        instrument["questions"] = defaultdict(list)
     return instruments
 
 def fill_questions(tables, instruments, answers):
@@ -34,14 +34,15 @@ def fill_questions(tables, instruments, answers):
         if not i_name in instruments:
             instruments[i_name] = dict(
                 instrument=i_name,
-                questions=list()
+                questions=defaultdict(list)
             )
         try:
             key = (question["questionnaire"], question["answer_list"])
             question["answers"] = answers[key]
         except:
             pass
-        instruments[i_name]["questions"].append(question)
+        q_name = question["question"]
+        instruments[i_name]["questions"][q_name].append(question)
     return instruments
 
 def export(instruments, export_json=True, export_yaml=False):
