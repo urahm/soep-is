@@ -1,6 +1,6 @@
 import json
 import yaml
-from collections import defaultdict
+from collections import defaultdict, OrderedDict
 import pandas as pd
 
 def import_tables():
@@ -39,12 +39,12 @@ def fill_questions(tables, instruments, answers):
         if not inst_name in instruments:
             instruments[inst_name] = dict(
                 instrument=inst_name,
-                questions=dict(),
+                questions=OrderedDict(),
             )
         if not q_name in instruments[inst_name]["questions"]:
             instruments[inst_name]["questions"][q_name] = dict(
                 question=q_name,
-                items=dict(),
+                items=OrderedDict(),
             )
         try:
             key = (item["questionnaire"], item["answer_list"])
