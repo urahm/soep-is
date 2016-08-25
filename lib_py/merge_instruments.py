@@ -28,21 +28,30 @@ def get_instruments(tables):
     return instruments
 
 def fill_questions(tables, instruments, answers):
-    for i, question in tables["questions"].iterrows():
-        question = dict(question.dropna())
-        i_name = question["questionnaire"]
-        if not i_name in instruments:
-            instruments[i_name] = dict(
-                instrument=i_name,
-                questions=defaultdict(list)
+    for i, item in tables["questions"].iterrows():
+        item = dict(item.dropna())
+        inst_name = item["questionnaire"]
+        q_name = item["question"]
+        if "item" in item.keys():
+            i_name = item["item"]
+        else:
+            i_name = "root"
+        if not inst_name in instruments:
+            instruments[inst_name] = dict(
+                instrument=inst_name,
+                questions=dict(),
+            )
+        if not q_name in instruments[inst_name]["questions"]:
+            instruments[inst_name]["questions"][q_name] = dict(
+                question=q_name,
+                items=dict(),
             )
         try:
-            key = (question["questionnaire"], question["answer_list"])
-            question["answers"] = answers[key]
+            key = (item["questionnaire"], item["answer_list"])
+            item["answers"] = answers[key]
         except:
             pass
-        q_name = question["question"]
-        instruments[i_name]["questions"][q_name].append(question)
+        instruments[inst_name]["questions"][q_name]["items"][i_name] = item
     return instruments
 
 def export(instruments, export_json=True, export_yaml=False):
