@@ -63,7 +63,6 @@ def study():
 
 def r2ddi():
     os.system("""
-        rm -r ddionrails/r2ddi
         mkdir -p ddionrails/r2ddi/v2013
         cp -r r2ddi/v2013/en ddionrails/r2ddi/v2013
     """)
@@ -72,8 +71,8 @@ def main():
     study()
     #datasets()
     variables()
-    questions()
-    answers()
+    #questions()
+    #answers()
     merge_instruments.main()
     r2ddi()
 
