@@ -1,6 +1,9 @@
-import os
+import os, sys
 import pandas as pd
-import merge_instruments
+
+sys.path.append(os.path.expanduser("~/github/ddi.py/"))
+
+from ddi.onrails.repos import merge_instruments
 
 def lower_all_names(x):
     def lower_x(x):
