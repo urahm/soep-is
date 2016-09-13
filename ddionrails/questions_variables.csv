@@ -1,4 +1,4 @@
-study_name,dataset_name,variable_name,questionnaire_name,question_name
+study_name,dataset_name,variable_name,instrument_name,question_name
 soep-is,innomodul11,ieb_iat_1,soep-is-2011,q11113
 soep-is,innomodul11,ieb_iat_2,soep-is-2011,q11113
 soep-is,innomodul11,ieb_iat_3,soep-is-2011,q11114
