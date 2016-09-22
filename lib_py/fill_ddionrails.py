@@ -12,7 +12,7 @@ def main():
     dor1.questions_variables()
     merge_instruments.main()
     convert_r2ddi.Parser(version="v2013").write_json()
-    copy.r2ddi("r2ddi/v2013/en", "ddionrails/r2ddi/v2013")
+    copy.bibtex()
 
 if __name__ == "__main__":
     main()
