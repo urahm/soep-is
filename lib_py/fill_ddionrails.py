@@ -52,6 +52,7 @@ def main():
     copy.study()
     dor1.datasets()
     dor1.variables()
+    dor1.concepts_questions()
     questions_from_generations()
     merge_instruments.main()
     convert_r2ddi.Parser(version="v2013").write_json()
