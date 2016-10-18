@@ -3,8 +3,7 @@ import pandas as pd
 
 sys.path.append(os.path.expanduser("~/github/ddi.py/"))
 
-from ddi.onrails.repos import merge_instruments, dor1, copy, convert_r2ddi
-from ddi.onrails.repos.merge_instruments import read_tables
+from ddi.onrails.repos import merge_instruments
 
 def questions_from_generations():
 
@@ -49,13 +48,7 @@ def questions_from_generations():
     questions_variables.to_csv("ddionrails/questions_variables.csv", index=False)
 
 def main():
-    copy.study()
-    dor1.datasets()
-    dor1.variables()
     questions_from_generations()
-    merge_instruments.main()
-    convert_r2ddi.Parser(version="v2013").write_json()
-    copy.bibtex()
 
 if __name__ == "__main__":
     main()
