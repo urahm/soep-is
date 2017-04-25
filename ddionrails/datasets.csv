@@ -1,0 +1,104 @@
+study_name,dataset_name,label,description,conceptual_dataset_name,analysis_unit_name,period_name
+soep-is,pgen,Person-related Status and Generated Variables,,gen,p,long
+soep-is,hbrutto,,,org/gross,h,long
+soep-is,pbrutto,,,org/gross,p,long
+soep-is,bioage,,,org/net,p,long
+soep-is,h,,,org/net,h,long
+soep-is,p,,,org/net,p,long
+soep-is,bio,,,org/net,p,
+soep-is,hhrf,,,survey,h,long
+soep-is,phrf,,,survey,p,long
+soep-is,kid,Pooled Dataset on Children,,track,p,long
+soep-is,biobirth,Birth Biography of Female Respondents,,track,p,
+soep-is,biobrthm,Birth Biography of Male Respondents,,track,p,
+soep-is,hpfad,,,track,h,
+soep-is,ppfad,Person-related Meta-dataset,,track,p,
+soep-is,hgen,Household-related Status and Generated Variables,,gen,h,long
+soep-is,inno,Innovative Modules,,org/net,p,long
+soep-is,idrm,Innovative Module DRM,,org/net,p,
+soep-is,bioparen,,,org/net,p,
+soep-is,cognit,,,org/net,p,
+soep-is,csm12_is_w4,,,raw,,2012
+soep-is,drm12_is_w4,,,raw,,2012
+soep-is,h12_is_w4,,,raw,,2012
+soep-is,l12_is_w4,,,raw,,2012
+soep-is,l12_is_w4_pfamst,,,raw,,2012
+soep-is,ma12_is_w4,,,raw,,2012
+soep-is,mb12_is_w4,,,raw,,2012
+soep-is,mc12_is_w4,,,raw,,2012
+soep-is,p12_is_w4,,,raw,,2012
+soep-is,soep_is_w4_berufe_branchen,,,raw,,2012
+soep-is,selbstwert fragen & respid,,,raw,,2012
+soep-is,gew12_is_w4,,,raw,,2012
+soep-is,hbru_2012_is_w4,,,raw,,2012
+soep-is,intband_2012_is_w4,,,raw,,2012
+soep-is,pbru_2012_is_w4,,,raw,,2012
+soep-is,notdirectlydelivered12,,,raw,,2012
+soep-is,csm12_is,,,raw,,2012
+soep-is,drm12_is,,,raw,,2012
+soep-is,fm12_is,,,raw,,2012
+soep-is,gm12_is,,,raw,,2012
+soep-is,h12_is,,,raw,,2012
+soep-is,l12_is,,,raw,,2012
+soep-is,ma12_is,,,raw,,2012
+soep-is,mb12_is,,,raw,,2012
+soep-is,mc12_is,,,raw,,2012
+soep-is,mem12_is,,,raw,,2012
+soep-is,notdirectlydelivered12a,,,raw,,2012
+soep-is,p12_is,,,raw,,2012
+soep-is,sim12_is,,,raw,,2012
+soep-is,151023_wuma_2012_is_aufwuchs,,,raw,,2012
+soep-is,drm_2013_is_f,,,raw,,2013
+soep-is,haushalt_2013_is_f,,,raw,,2013
+soep-is,muki_a_2013_is_f,,,raw,,2013
+soep-is,muki_b_2013_is_f,,,raw,,2013
+soep-is,muki_c_2013_is_f,,,raw,,2013
+soep-is,p-l_2013_is_f_zusatz_rollen_aug_14,,,raw,,2013
+soep-is,personen&lebenslauf_2013_is_f,,,raw,,2013
+soep-is,schlaf_2013_is_f_aug_2014_geliefert,,,raw,,2013
+soep-is,sim_2013_is_f,,,raw,,2013
+soep-is,sport_2013_is_f,,,raw,,2013
+soep-is,sprache_2013_is_f,,,raw,,2013
+soep-is,vignetten_2013_is_f,,,raw,,2013
+soep-is,vignetten_2013_is_f_zusatz_aug_14,,,raw,,2013
+soep-is,haushalt_2013_is_a,,,raw,,2013
+soep-is,personen&lebenslauf_2013_is_a,,,raw,,2013
+soep-is,sport_2013_is_a,,,raw,,2013
+soep-is,taetigkeiten_2013_is_a,,,raw,,2013
+soep-is,notdirectlydelivered13a,,,raw,,2013
+soep-is,notdirectlydelivered13f,,,raw,,2013
+soep-is,notdirectlydelivered11,,,raw,,2011
+soep-is,ap11_inno_final,,,raw,,2011
+soep-is,h11_inno_final,,,raw,,2011
+soep-is,hbru2011i,,,raw,,2011
+soep-is,inno2011_berufe_mc_isco,,,raw,,2011
+soep-is,inno2011_branchen_nace,,,raw,,2011
+soep-is,innomodul11,,,raw,,2011
+soep-is,intband2011i,,,raw,,2011
+soep-is,l11_inno_final,,,raw,,2011
+soep-is,l11_inno_jahresangabe heirat,,,raw,,2011
+soep-is,l11_inno_letzte_stelle,,,raw,,2011
+soep-is,ma11_inno_final,,,raw,,2011
+soep-is,mb11_inno_final,,,raw,,2011
+soep-is,mc11_inno_final,,,raw,,2011
+soep-is,mic_inno2011,,,raw,,2011
+soep-is,p11_inno_final,,,raw,,2011
+soep-is,pbru2011i,,,raw,,2011
+soep-is,notdirectlydelivered14a,,,raw,,2014
+soep-is,notdirectlydelivered14f,,,raw,,2014
+soep-is,camces_survey fragen,,,raw,,2014
+soep-is,drm14_is_f,,,raw,,2014
+soep-is,ds14_is_f,,,raw,,2014
+soep-is,fm14_is_f,,,raw,,2014
+soep-is,h14_is_f,,,raw,,2014
+soep-is,ma14_is_f,,,raw,,2014
+soep-is,mb14_is_f,,,raw,,2014
+soep-is,mc14_is_f,,,raw,,2014
+soep-is,p14_is_f,,,raw,,2014
+soep-is,prh14_is_f,,,raw,,2014
+soep-is,sim14_is_f,,,raw,,2014
+soep-is,h14_is_a,,,raw,,2014
+soep-is,p14_is_a,,,raw,,2014
+soep-is,ib14_is_a,,,raw,,2014
+soep-is,sim14_is_a,,,raw,,2014
+soep-is,wuma14_is_a,,,raw,,2014
