@@ -1,23 +1,23 @@
 study_name,dataset_name,label,description,conceptual_dataset_name,analysis_unit_name,period_name
-soep-is,pgen,Person-related Status and Generated Variables,,gen,p,long
-soep-is,hbrutto,,,org/gross,h,long
-soep-is,pbrutto,,,org/gross,p,long
-soep-is,bioage,,,org/net,p,long
-soep-is,h,,,org/net,h,long
-soep-is,p,,,org/net,p,long
-soep-is,bio,,,org/net,p,
-soep-is,hhrf,,,survey,h,long
-soep-is,phrf,,,survey,p,long
-soep-is,kid,Pooled Dataset on Children,,track,p,long
-soep-is,biobirth,Birth Biography of Female Respondents,,track,p,
-soep-is,biobrthm,Birth Biography of Male Respondents,,track,p,
-soep-is,hpfad,,,track,h,
-soep-is,ppfad,Person-related Meta-dataset,,track,p,
+soep-is,bio,Variables from the Life Course Question Module,,org/net,p,long
+soep-is,bioage,Variables from the Modules of Questions on Children,,org/net,p,long
+soep-is,biobirth,Birth Biography of Female and Male Respondents,,track,p,long
+soep-is,bioparen,,,org/net,p,long
+soep-is,h,Variables from the Household Question Module,,org/net,h,long
+soep-is,hbrutto,Household-related Gross File,,org/gross,h,long
 soep-is,hgen,Household-related Status and Generated Variables,,gen,h,long
-soep-is,inno,Innovative Modules,,org/net,p,long
-soep-is,idrm,Innovative Module DRM,,org/net,p,
-soep-is,bioparen,,,org/net,p,
-soep-is,cognit,,,org/net,p,
+soep-is,hhrf,,,survey,h,long
+soep-is,idrm,Person-related Data from Innovative DRM Module,,org/net,p,long
+soep-is,idrm_esm,,,org/net,p,long
+soep-is,iesm,,,org/net,p,long
+soep-is,inno,Variables from the Innovation Modules,,org/net,p,long
+soep-is,kid,Pooled Dataset on Children,,track,p,long
+soep-is,p,Variables from the Individual Question Module,,org/net,p,long
+soep-is,pbrutto,Person-related Gross File,,org/gross,p,long
+soep-is,pgen,Person-related Status and Generated Variables,,gen,p,long
+soep-is,phrf,,,survey,p,long
+soep-is,ppfad,Person-related Meta-dataset,,track,p,long
+soep-is,cognit,,,org/net,p,long
 soep-is,csm12_is_w4,,,raw,,2012
 soep-is,drm12_is_w4,,,raw,,2012
 soep-is,h12_is_w4,,,raw,,2012
@@ -102,3 +102,17 @@ soep-is,p14_is_a,,,raw,,2014
 soep-is,ib14_is_a,,,raw,,2014
 soep-is,sim14_is_a,,,raw,,2014
 soep-is,wuma14_is_a,,,raw,,2014
+soep-is,notdirectlydelivered15,,,raw,,2015
+soep-is,p15_inno,,,raw,,2015
+soep-is,h15_inno,,,raw,,2015
+soep-is,ie15_inno_korr,,,raw,,2015
+soep-is,intb15_inno,,,raw,,2015
+soep-is,ma15_inno,,,raw,,2015
+soep-is,mb15_inno,,,raw,,2015
+soep-is,mc15_inno,,,raw,,2015
+soep-is,os15_inno,,,raw,,2015
+soep-is,prh15_inno,,,raw,,2015
+soep-is,prp15_inno,,,raw,,2015
+soep-is,sim15_inno,,,raw,,2015
+soep-is,spo15_inno,,,raw,,2015
+soep-is,drm15_inno,,,raw,,2015
