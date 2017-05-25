@@ -1,0 +1,71 @@
+<codebook>
+  <dataDscr>
+    <var ID="cid" intrvl="numeric" files="phrf">
+      <labl>Ursprungshaushaltsnummer</labl>
+      <sumStat type="Min.">2e+05</sumStat>
+      <sumStat type="1st Qu.">875000</sumStat>
+      <sumStat type="Median">940100</sumStat>
+      <sumStat type="Mean">1874000</sumStat>
+      <sumStat type="3rd Qu.">4031000</sumStat>
+      <sumStat type="Max.">4127000</sumStat>
+      <sumStat type="valid">26197</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hid" intrvl="numeric" files="phrf">
+      <labl>Aktuelle Haushaltsnummer</labl>
+      <sumStat type="Min.">115400</sumStat>
+      <sumStat type="1st Qu.">876600</sumStat>
+      <sumStat type="Median">937800</sumStat>
+      <sumStat type="Mean">1866000</sumStat>
+      <sumStat type="3rd Qu.">4030000</sumStat>
+      <sumStat type="Max.">4127000</sumStat>
+      <sumStat type="valid">26197</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="pid" intrvl="numeric" files="phrf">
+      <labl>NA</labl>
+      <sumStat type="Min.">1154000</sumStat>
+      <sumStat type="1st Qu.">8758000</sumStat>
+      <sumStat type="Median">9396000</sumStat>
+      <sumStat type="Mean">18730000</sumStat>
+      <sumStat type="3rd Qu.">40300000</sumStat>
+      <sumStat type="Max.">41270000</sumStat>
+      <sumStat type="valid">26197</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="syear" intrvl="numeric" files="phrf">
+      <labl>Befragungsjahr</labl>
+      <sumStat type="Min.">2011</sumStat>
+      <sumStat type="1st Qu.">2012</sumStat>
+      <sumStat type="Median">2014</sumStat>
+      <sumStat type="Mean">2013</sumStat>
+      <sumStat type="3rd Qu.">2014</sumStat>
+      <sumStat type="Max.">2015</sumStat>
+      <sumStat type="valid">26197</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="pbleib" intrvl="numeric" files="phrf">
+      <labl>Inverse Bleibewahrscheinlichkeit</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">1.09</sumStat>
+      <sumStat type="Mean">0.9017</sumStat>
+      <sumStat type="3rd Qu.">1.19</sumStat>
+      <sumStat type="Max.">5.07</sumStat>
+      <sumStat type="valid">26197</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="phrf" intrvl="numeric" files="phrf">
+      <labl>Hochrechnungsfaktor</labl>
+      <sumStat type="Min.">300.2</sumStat>
+      <sumStat type="1st Qu.">7690</sumStat>
+      <sumStat type="Median">11690</sumStat>
+      <sumStat type="Mean">15290</sumStat>
+      <sumStat type="3rd Qu.">18140</sumStat>
+      <sumStat type="Max.">224700</sumStat>
+      <sumStat type="valid">26197</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+  </dataDscr>
+  <fileDscr ID="phrf"/>
+</codebook>
