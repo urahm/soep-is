@@ -55,7 +55,7 @@ def main():
     dor1.concepts_questions()
     questions_from_generations()
     merge_instruments.main()
-    convert_r2ddi.Parser("soep-is", version="v2015").write_json()
+    convert_r2ddi.Parser("soep-is", version="v2015.1").write_json()
     copy.bibtex()
 
 if __name__ == "__main__":
