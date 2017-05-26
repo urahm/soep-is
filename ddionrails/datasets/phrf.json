@@ -1,0 +1,230 @@
+{
+  "cid": {
+    "study": "soep-is",
+    "name": "cid",
+    "name_cs": "cid",
+    "variable": "cid",
+    "dataset": "phrf",
+    "label": "Case-ID, Original Household Number",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2e+05",
+        "875000",
+        "940100",
+        "1874000",
+        "4031000",
+        "4127000",
+        "26197",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Ursprungshaushaltsnummer"
+  },
+  "hid": {
+    "study": "soep-is",
+    "name": "hid",
+    "name_cs": "hid",
+    "variable": "hid",
+    "dataset": "phrf",
+    "label": "Current Wave HH Number",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "115400",
+        "876600",
+        "937800",
+        "1866000",
+        "4030000",
+        "4127000",
+        "26197",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Aktuelle Haushaltsnummer"
+  },
+  "pid": {
+    "study": "soep-is",
+    "name": "pid",
+    "name_cs": "pid",
+    "variable": "pid",
+    "dataset": "phrf",
+    "label": "Never Changing Person ID",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1154000",
+        "8758000",
+        "9396000",
+        "18730000",
+        "40300000",
+        "41270000",
+        "26197",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "NA"
+  },
+  "syear": {
+    "study": "soep-is",
+    "name": "syear",
+    "name_cs": "syear",
+    "variable": "syear",
+    "dataset": "phrf",
+    "label": "Survey Year",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2011",
+        "2012",
+        "2014",
+        "2013",
+        "2014",
+        "2015",
+        "26197",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Befragungsjahr"
+  },
+  "pbleib": {
+    "study": "soep-is",
+    "name": "pbleib",
+    "name_cs": "pbleib",
+    "variable": "pbleib",
+    "dataset": "phrf",
+    "label": "Inverse Staying Probability",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "1.09",
+        "0.9017",
+        "1.19",
+        "5.07",
+        "26197",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Inverse Bleibewahrscheinlichkeit"
+  },
+  "phrf": {
+    "study": "soep-is",
+    "name": "phrf",
+    "name_cs": "phrf",
+    "variable": "phrf",
+    "dataset": "phrf",
+    "label": "Weighting Factor",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "300.2",
+        "7690",
+        "11690",
+        "15290",
+        "18140",
+        "224700",
+        "26197",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Hochrechnungsfaktor"
+  }
+}
