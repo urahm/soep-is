@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Ursprungshaushaltsnummer"
   },
   "hid": {
@@ -73,6 +76,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Aktuelle Haushaltsnummer"
   },
   "pid": {
@@ -111,6 +117,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "NA"
   },
   "syear": {
@@ -149,6 +158,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Erhebungsjahr (Survey-Year)"
   },
   "sample1": {
@@ -206,6 +218,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Stichprobenkennzeichen"
   },
   "pform": {
@@ -253,6 +268,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Bearbeitungsform"
   },
   "pdatt": {
@@ -450,6 +468,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Befragungstag"
   },
   "pdatm": {
@@ -552,6 +573,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Befragungsmonat"
   },
   "pdatj": {
@@ -604,6 +628,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Befragungsjahr"
   },
   "intid": {
@@ -2006,6 +2033,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Interviewer ID"
   },
   "capistat": {
@@ -2068,6 +2098,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Teilnehmerstatus am CAPI-Kognitionstest"
   },
   "f025": {
@@ -2120,6 +2153,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Worttest starten?"
   },
   "f025r": {
@@ -2312,6 +2348,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "NA"
   },
   "f025item1ex": {
@@ -2379,6 +2418,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Worttest Item 1 (Beispiel)"
   },
   "f025item2": {
@@ -2446,6 +2488,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wordtest Item 2"
   },
   "f025item3": {
@@ -2513,6 +2558,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wordtest Item 3"
   },
   "f025item4": {
@@ -2580,6 +2628,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wordtest Item 4"
   },
   "f025item5": {
@@ -2647,6 +2698,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wordtest Item 5"
   },
   "f025item6": {
@@ -2714,6 +2768,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wordtest Item 6"
   },
   "f025item7": {
@@ -2781,6 +2838,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wordtest Item 7"
   },
   "f025item8": {
@@ -2848,6 +2908,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wordtest Item 8"
   },
   "f025item9": {
@@ -2915,6 +2978,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wordtest Item 9"
   },
   "f025item10": {
@@ -2982,6 +3048,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wordtest Item 10"
   },
   "f025item11": {
@@ -3049,6 +3118,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wordtest Item 11"
   },
   "f025item12": {
@@ -3116,6 +3188,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wordtest Item 12"
   },
   "f025item13": {
@@ -3183,6 +3258,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wordtest Item 13"
   },
   "f025item14": {
@@ -3250,6 +3328,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wordtest Item 14"
   },
   "f025item15": {
@@ -3317,6 +3398,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wordtest Item 15"
   },
   "f025item16": {
@@ -3384,6 +3468,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wordtest Item 16"
   },
   "f025item17": {
@@ -3451,6 +3538,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wordtest Item 17"
   },
   "f025item18": {
@@ -3518,6 +3608,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wordtest Item 18"
   },
   "f025item19": {
@@ -3585,6 +3678,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wordtest Item 19"
   },
   "f025item20": {
@@ -3652,6 +3748,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wordtest Item 20"
   },
   "f025item21": {
@@ -3719,6 +3818,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wordtest Item 21"
   },
   "f025item22": {
@@ -3786,6 +3888,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wordtest Item 22"
   },
   "f025item23": {
@@ -3853,6 +3958,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wordtest Item 23"
   },
   "f025item24": {
@@ -3920,6 +4028,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wordtest Item 24"
   },
   "f025item25": {
@@ -3987,6 +4098,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wordtest Item 25"
   },
   "f025item26": {
@@ -4054,6 +4168,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wordtest Item 26"
   },
   "f025item27": {
@@ -4121,6 +4238,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wordtest Item 27"
   },
   "f025item28": {
@@ -4188,6 +4308,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wordtest Item 28"
   },
   "f025item29": {
@@ -4255,6 +4378,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wordtest Item 29"
   },
   "f025item30": {
@@ -4322,6 +4448,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wordtest Item 30"
   },
   "f025item31": {
@@ -4389,6 +4518,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wordtest Item 31"
   },
   "f025item32": {
@@ -4456,6 +4588,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wordtest Item 32"
   },
   "f025item33": {
@@ -4523,6 +4658,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wordtest Item 33"
   },
   "f025item34": {
@@ -4590,6 +4728,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wordtest Item 34"
   },
   "f025item35": {
@@ -4657,6 +4798,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wordtest Item 35"
   },
   "f025item36": {
@@ -4724,6 +4868,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wordtest Item 36"
   },
   "f025item37": {
@@ -4791,6 +4938,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wordtest Item 37"
   },
   "f099": {
@@ -4843,6 +4993,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test starten?"
   },
   "f099r30": {
@@ -5010,6 +5163,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Richtige Zahleneingaben in 30s"
   },
   "f099f30": {
@@ -5107,6 +5263,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Falsche Zahleneingaben in 30s"
   },
   "f099s30": {
@@ -5279,6 +5438,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Summe der Zahleneingaben in 30s"
   },
   "f099r60": {
@@ -5526,6 +5688,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Richtige Zahleneingaben in 60s"
   },
   "f099f60": {
@@ -5638,6 +5803,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Falsche Zahleneingaben in 60s"
   },
   "f099s60": {
@@ -5895,6 +6063,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Summe der Zahleneingaben in 60s"
   },
   "f099r90": {
@@ -6232,6 +6403,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Richtige Zahleneingaben in 90s"
   },
   "f099f90": {
@@ -6349,6 +6523,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Falsche Zahleneingaben in 90s"
   },
   "f099s90": {
@@ -6686,6 +6863,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Summe der Zahleneingaben in 90s"
   },
   "f099item1": {
@@ -6773,6 +6953,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 1"
   },
   "f099item2": {
@@ -6855,6 +7038,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 2"
   },
   "f099item3": {
@@ -6937,6 +7123,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 3"
   },
   "f099item4": {
@@ -7024,6 +7213,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 4"
   },
   "f099item5": {
@@ -7106,6 +7298,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 5"
   },
   "f099item6": {
@@ -7188,6 +7383,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 6"
   },
   "f099item7": {
@@ -7275,6 +7473,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 7"
   },
   "f099item8": {
@@ -7357,6 +7558,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 8"
   },
   "f099item9": {
@@ -7429,6 +7633,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 9"
   },
   "f099item10": {
@@ -7501,6 +7708,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 10"
   },
   "f099item11": {
@@ -7588,6 +7798,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 11"
   },
   "f099item12": {
@@ -7670,6 +7883,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 12"
   },
   "f099item13": {
@@ -7742,6 +7958,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 13"
   },
   "f099item14": {
@@ -7809,6 +8028,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 14"
   },
   "f099item15": {
@@ -7876,6 +8098,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 15"
   },
   "f099item16": {
@@ -7953,6 +8178,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 16"
   },
   "f099item17": {
@@ -8025,6 +8253,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 17"
   },
   "f099item18": {
@@ -8102,6 +8333,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 18"
   },
   "f099item19": {
@@ -8169,6 +8403,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 19"
   },
   "f099item20": {
@@ -8246,6 +8483,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 20"
   },
   "f099item21": {
@@ -8323,6 +8563,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 21"
   },
   "f099item22": {
@@ -8395,6 +8638,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 22"
   },
   "f099item23": {
@@ -8467,6 +8713,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 23"
   },
   "f099item24": {
@@ -8544,6 +8793,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 24"
   },
   "f099item25": {
@@ -8616,6 +8868,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 25"
   },
   "f099item26": {
@@ -8683,6 +8938,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 26"
   },
   "f099item27": {
@@ -8765,6 +9023,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 27"
   },
   "f099item28": {
@@ -8842,6 +9103,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 28"
   },
   "f099item29": {
@@ -8914,6 +9178,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 29"
   },
   "f099item30": {
@@ -8991,6 +9258,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 30"
   },
   "f099item31": {
@@ -9068,6 +9338,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 31"
   },
   "f099item32": {
@@ -9145,6 +9418,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 32"
   },
   "f099item33": {
@@ -9212,6 +9488,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 33"
   },
   "f099item34": {
@@ -9279,6 +9558,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 34"
   },
   "f099item35": {
@@ -9351,6 +9633,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 35"
   },
   "f099item36": {
@@ -9423,6 +9708,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 36"
   },
   "f099item37": {
@@ -9490,6 +9778,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 37"
   },
   "f099item38": {
@@ -9557,6 +9848,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 38"
   },
   "f099item39": {
@@ -9634,6 +9928,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 39"
   },
   "f099item40": {
@@ -9701,6 +9998,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 40"
   },
   "f099item41": {
@@ -9763,6 +10063,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 41"
   },
   "f099item42": {
@@ -9825,6 +10128,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 42"
   },
   "f099item43": {
@@ -9892,6 +10198,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 43"
   },
   "f099item44": {
@@ -9954,6 +10263,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 44"
   },
   "f099item45": {
@@ -10031,6 +10343,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 45"
   },
   "f099item46": {
@@ -10093,6 +10408,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 46"
   },
   "f099item47": {
@@ -10155,6 +10473,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 47"
   },
   "f099item48": {
@@ -10212,6 +10533,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 48"
   },
   "f099item49": {
@@ -10264,6 +10588,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 49"
   },
   "f099item50": {
@@ -10321,6 +10648,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 50"
   },
   "f099item51": {
@@ -10373,6 +10703,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 51"
   },
   "f099item52": {
@@ -10420,6 +10753,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 52"
   },
   "f099item53": {
@@ -10482,6 +10818,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 53"
   },
   "f099item54": {
@@ -10539,6 +10878,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 54"
   },
   "f099item55": {
@@ -10591,6 +10933,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 55"
   },
   "f099item56": {
@@ -10643,6 +10988,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 56"
   },
   "f099item57": {
@@ -10695,6 +11043,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 57"
   },
   "f099item58": {
@@ -10747,6 +11098,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 58"
   },
   "f099item59": {
@@ -10794,6 +11148,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 59"
   },
   "f099item60": {
@@ -10846,6 +11203,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 60"
   },
   "f099item61": {
@@ -10898,6 +11258,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 61"
   },
   "f099item62": {
@@ -10945,6 +11308,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 62"
   },
   "f099item63": {
@@ -10986,6 +11352,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 63"
   },
   "f099item64": {
@@ -11027,6 +11396,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 64"
   },
   "f099item65": {
@@ -11068,6 +11440,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 65"
   },
   "f099item66": {
@@ -11109,6 +11484,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 66"
   },
   "f099item67": {
@@ -11150,6 +11528,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 67"
   },
   "f099item68": {
@@ -11191,6 +11572,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 68"
   },
   "f099item69": {
@@ -11232,6 +11616,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 69"
   },
   "f099item70": {
@@ -11273,6 +11660,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 70"
   },
   "f099item71": {
@@ -11314,6 +11704,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 71"
   },
   "f099item72": {
@@ -11355,6 +11748,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 72"
   },
   "f099item73": {
@@ -11396,6 +11792,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 73"
   },
   "f099item74": {
@@ -11437,6 +11836,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 74"
   },
   "f099item75": {
@@ -11478,6 +11880,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 75"
   },
   "f099item76": {
@@ -11519,6 +11924,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 76"
   },
   "f099item77": {
@@ -11560,6 +11968,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 77"
   },
   "f099item78": {
@@ -11601,6 +12012,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 78"
   },
   "f099item79": {
@@ -11642,6 +12056,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 79"
   },
   "f099item80": {
@@ -11683,6 +12100,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 80"
   },
   "f099item81": {
@@ -11724,6 +12144,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 81"
   },
   "f099item82": {
@@ -11765,6 +12188,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 82"
   },
   "f099item83": {
@@ -11806,6 +12232,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 83"
   },
   "f099item84": {
@@ -11847,6 +12276,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 84"
   },
   "f099item85": {
@@ -11888,6 +12320,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 85"
   },
   "f099item86": {
@@ -11929,6 +12364,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 86"
   },
   "f099item87": {
@@ -11970,6 +12408,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 87"
   },
   "f099item88": {
@@ -12011,6 +12452,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 88"
   },
   "f099item89": {
@@ -12052,6 +12496,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 89"
   },
   "f099item90": {
@@ -12093,6 +12540,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 90"
   },
   "f099item91": {
@@ -12134,6 +12584,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 91"
   },
   "f099item92": {
@@ -12175,6 +12628,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 92"
   },
   "f099item93": {
@@ -12216,6 +12672,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 93"
   },
   "f099time1": {
@@ -12488,6 +12947,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 1 Dauer"
   },
   "f099time2": {
@@ -12790,6 +13252,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 2 Dauer"
   },
   "f099time3": {
@@ -13142,6 +13607,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 3 Dauer"
   },
   "f099time4": {
@@ -13534,6 +14002,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 4 Dauer"
   },
   "f099time5": {
@@ -13971,6 +14442,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 5 Dauer"
   },
   "f099time6": {
@@ -14438,6 +14912,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 6 Dauer"
   },
   "f099time7": {
@@ -14920,6 +15397,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 7 Dauer"
   },
   "f099time8": {
@@ -15397,6 +15877,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 8 Dauer"
   },
   "f099time9": {
@@ -15874,6 +16357,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 9 Dauer"
   },
   "f099time10": {
@@ -16366,6 +16852,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 10 Dauer"
   },
   "f099time11": {
@@ -16873,6 +17362,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 11 Dauer"
   },
   "f099time12": {
@@ -17360,6 +17852,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 12 Dauer"
   },
   "f099time13": {
@@ -17837,6 +18332,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 13 Dauer"
   },
   "f099time14": {
@@ -18299,6 +18797,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 14 Dauer"
   },
   "f099time15": {
@@ -18751,6 +19252,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 15 Dauer"
   },
   "f099time16": {
@@ -19203,6 +19707,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 16 Dauer"
   },
   "f099time17": {
@@ -19650,6 +20157,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 17 Dauer"
   },
   "f099time18": {
@@ -20097,6 +20607,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 18 Dauer"
   },
   "f099time19": {
@@ -20524,6 +21037,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 19 Dauer"
   },
   "f099time20": {
@@ -20946,6 +21462,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 20 Dauer"
   },
   "f099time21": {
@@ -21383,6 +21902,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 21 Dauer"
   },
   "f099time22": {
@@ -21780,6 +22302,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 22 Dauer"
   },
   "f099time23": {
@@ -22192,6 +22717,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 23 Dauer"
   },
   "f099time24": {
@@ -22584,6 +23112,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 24 Dauer"
   },
   "f099time25": {
@@ -22961,6 +23492,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 25 Dauer"
   },
   "f099time26": {
@@ -23348,6 +23882,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 26 Dauer"
   },
   "f099time27": {
@@ -23730,6 +24267,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 27 Dauer"
   },
   "f099time28": {
@@ -24082,6 +24622,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 28 Dauer"
   },
   "f099time29": {
@@ -24419,6 +24962,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 29 Dauer"
   },
   "f099time30": {
@@ -24761,6 +25307,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 30 Dauer"
   },
   "f099time31": {
@@ -25088,6 +25637,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 31 Dauer"
   },
   "f099time32": {
@@ -25400,6 +25952,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 32 Dauer"
   },
   "f099time33": {
@@ -25697,6 +26252,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 33 Dauer"
   },
   "f099time34": {
@@ -25994,6 +26552,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 34 Dauer"
   },
   "f099time35": {
@@ -26276,6 +26837,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 35 Dauer"
   },
   "f099time36": {
@@ -26548,6 +27112,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 36 Dauer"
   },
   "f099time37": {
@@ -26800,6 +27367,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 37 Dauer"
   },
   "f099time38": {
@@ -27052,6 +27622,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 38 Dauer"
   },
   "f099time39": {
@@ -27299,6 +27872,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 39 Dauer"
   },
   "f099time40": {
@@ -27531,6 +28107,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 40 Dauer"
   },
   "f099time41": {
@@ -27768,6 +28347,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 41 Dauer"
   },
   "f099time42": {
@@ -27985,6 +28567,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 42 Dauer"
   },
   "f099time43": {
@@ -28177,6 +28762,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 43 Dauer"
   },
   "f099time44": {
@@ -28364,6 +28952,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 44 Dauer"
   },
   "f099time45": {
@@ -28551,6 +29142,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 45 Dauer"
   },
   "f099time46": {
@@ -28728,6 +29322,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 46 Dauer"
   },
   "f099time47": {
@@ -28895,6 +29492,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 47 Dauer"
   },
   "f099time48": {
@@ -29042,6 +29642,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 48 Dauer"
   },
   "f099time49": {
@@ -29179,6 +29782,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 49 Dauer"
   },
   "f099time50": {
@@ -29311,6 +29917,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 50 Dauer"
   },
   "f099time51": {
@@ -29428,6 +30037,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 51 Dauer"
   },
   "f099time52": {
@@ -29550,6 +30162,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 52 Dauer"
   },
   "f099time53": {
@@ -29662,6 +30277,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 53 Dauer"
   },
   "f099time54": {
@@ -29769,6 +30387,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 54 Dauer"
   },
   "f099time55": {
@@ -29866,6 +30487,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 55 Dauer"
   },
   "f099time56": {
@@ -29953,6 +30577,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 56 Dauer"
   },
   "f099time57": {
@@ -30030,6 +30657,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 57 Dauer"
   },
   "f099time58": {
@@ -30107,6 +30737,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 58 Dauer"
   },
   "f099time59": {
@@ -30169,6 +30802,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 59 Dauer"
   },
   "f099time60": {
@@ -30226,6 +30862,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 60 Dauer"
   },
   "f099time61": {
@@ -30283,6 +30922,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 61 Dauer"
   },
   "f099time62": {
@@ -30330,6 +30972,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 62 Dauer"
   },
   "f099time63": {
@@ -30366,6 +31011,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 63 Dauer"
   },
   "f099time64": {
@@ -30402,6 +31050,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 64 Dauer"
   },
   "f099time65": {
@@ -30438,6 +31089,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 65 Dauer"
   },
   "f099time66": {
@@ -30474,6 +31128,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 66 Dauer"
   },
   "f099time67": {
@@ -30510,6 +31167,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 67 Dauer"
   },
   "f099time68": {
@@ -30546,6 +31206,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 68 Dauer"
   },
   "f099time69": {
@@ -30582,6 +31245,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 69 Dauer"
   },
   "f099time70": {
@@ -30618,6 +31284,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 70 Dauer"
   },
   "f099time71": {
@@ -30654,6 +31323,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 71 Dauer"
   },
   "f099time72": {
@@ -30690,6 +31362,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 72 Dauer"
   },
   "f099time73": {
@@ -30726,6 +31401,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 73 Dauer"
   },
   "f099time74": {
@@ -30762,6 +31440,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 74 Dauer"
   },
   "f099time75": {
@@ -30798,6 +31479,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 75 Dauer"
   },
   "f099time76": {
@@ -30834,6 +31518,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 76 Dauer"
   },
   "f099time77": {
@@ -30870,6 +31557,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 77 Dauer"
   },
   "f099time78": {
@@ -30906,6 +31596,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 78 Dauer"
   },
   "f099time79": {
@@ -30942,6 +31635,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 79 Dauer"
   },
   "f099time80": {
@@ -30978,6 +31674,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 80 Dauer"
   },
   "f099time81": {
@@ -31014,6 +31713,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 81 Dauer"
   },
   "f099time82": {
@@ -31050,6 +31752,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 82 Dauer"
   },
   "f099time83": {
@@ -31086,6 +31791,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 83 Dauer"
   },
   "f099time84": {
@@ -31122,6 +31830,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 84 Dauer"
   },
   "f099time85": {
@@ -31158,6 +31869,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 85 Dauer"
   },
   "f099time86": {
@@ -31194,6 +31908,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 86 Dauer"
   },
   "f099time87": {
@@ -31230,6 +31947,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 87 Dauer"
   },
   "f099time88": {
@@ -31266,6 +31986,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 88 Dauer"
   },
   "f099time89": {
@@ -31302,6 +32025,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 89 Dauer"
   },
   "f099time90": {
@@ -31338,6 +32064,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 90 Dauer"
   },
   "f099time91": {
@@ -31374,6 +32103,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 91 Dauer"
   },
   "f099time92": {
@@ -31410,6 +32142,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 92 Dauer"
   },
   "f099time93": {
@@ -31446,6 +32181,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Z.-Z.-Test Item 93 Dauer"
   }
 }

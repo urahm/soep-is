@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Ursprungshaushaltsnummer"
   },
   "pid": {
@@ -73,6 +76,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "NA"
   },
   "psample": {
@@ -205,6 +211,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Stichprobenart"
   },
   "sex": {
@@ -277,6 +286,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Geschlecht"
   },
   "gebjahr": {
@@ -869,6 +881,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Geburtsjahr"
   },
   "gebmonat": {
@@ -991,6 +1006,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Geburtsmonat"
   },
   "gebmoval": {
@@ -1128,6 +1146,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Geburtsmonat, Datenquelle"
   },
   "erstbefr": {
@@ -1280,6 +1301,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Jahr der ersten Befragung"
   },
   "letztbef": {
@@ -1432,6 +1456,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Jahr der letzten Befragung"
   },
   "eintritt": {
@@ -1584,6 +1611,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Jahr des ersten Kontaktes"
   },
   "austritt": {
@@ -1731,6 +1761,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Jahr des letzten Kontaktes"
   },
   "todjahr": {
@@ -1818,6 +1851,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Todesjahr - 4Steller"
   },
   "todinfo": {
@@ -1913,6 +1949,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Todesjahr - Infoquelle"
   },
   "loc1989": {
@@ -1995,6 +2034,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Where did you live in 1989?"
   },
   "germborn": {
@@ -2067,6 +2109,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Born In Germany"
   },
   "immiyear": {
@@ -2459,6 +2504,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Year of Immigration to Germany"
   },
   "corigin": {
@@ -3421,6 +3469,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Country of Origin"
   },
   "migback": {
@@ -3503,6 +3554,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Migrationshintergrund"
   },
   "miginfo": {
@@ -3590,6 +3644,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Informationsquellen von MIGBACK"
   },
   "netto98": {
@@ -3837,6 +3894,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Befragungsstatus 1998"
   },
   "netto99": {
@@ -4084,6 +4144,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Befragungsstatus 1999"
   },
   "netto00": {
@@ -4331,6 +4394,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Befragungsstatus 2000"
   },
   "netto01": {
@@ -4578,6 +4644,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Befragungsstatus 2001"
   },
   "netto02": {
@@ -4825,6 +4894,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Befragungsstatus 2002"
   },
   "netto03": {
@@ -5072,6 +5144,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Befragungsstatus 2003"
   },
   "netto04": {
@@ -5319,6 +5394,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Befragungsstatus 2004"
   },
   "netto05": {
@@ -5566,6 +5644,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Befragungsstatus 2005"
   },
   "netto06": {
@@ -5813,6 +5894,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Befragungsstatus 2006"
   },
   "netto07": {
@@ -6060,6 +6144,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Befragungsstatus 2007"
   },
   "netto08": {
@@ -6307,6 +6394,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Befragungsstatus 2008"
   },
   "netto09": {
@@ -6554,6 +6644,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Befragungsstatus 2009"
   },
   "netto10": {
@@ -6801,6 +6894,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Befragungsstatus 2010"
   },
   "netto11": {
@@ -7048,6 +7144,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Befragungsstatus 2011"
   },
   "netto12": {
@@ -7295,6 +7394,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Befragungsstatus 2012"
   },
   "netto13": {
@@ -7542,6 +7644,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Befragungsstatus 2013"
   },
   "netto14": {
@@ -7789,6 +7894,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Befragungsstatus 2014"
   },
   "netto15": {
@@ -8036,6 +8144,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Befragungsstatus 2015"
   },
   "pop98": {
@@ -8138,6 +8249,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "NA"
   },
   "pop99": {
@@ -8240,6 +8354,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "NA"
   },
   "pop00": {
@@ -8342,6 +8459,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "NA"
   },
   "pop01": {
@@ -8444,6 +8564,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "NA"
   },
   "pop02": {
@@ -8546,6 +8669,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "NA"
   },
   "pop03": {
@@ -8648,6 +8774,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "NA"
   },
   "pop04": {
@@ -8750,6 +8879,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "NA"
   },
   "pop05": {
@@ -8852,6 +8984,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "NA"
   },
   "pop06": {
@@ -8954,6 +9089,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "NA"
   },
   "pop07": {
@@ -9056,6 +9194,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "NA"
   },
   "pop08": {
@@ -9158,6 +9299,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "NA"
   },
   "pop09": {
@@ -9260,6 +9404,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "NA"
   },
   "pop10": {
@@ -9362,6 +9509,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "NA"
   },
   "pop11": {
@@ -9464,6 +9614,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "NA"
   },
   "pop12": {
@@ -9566,6 +9719,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "NA"
   },
   "pop13": {
@@ -9668,6 +9824,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "NA"
   },
   "pop14": {
@@ -9770,6 +9929,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "NA"
   },
   "pop15": {
@@ -9872,6 +10034,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "NA"
   },
   "hid98": {
@@ -11418,6 +11583,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Haushaltsnummer 1998"
   },
   "hid99": {
@@ -13024,6 +13192,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Haushaltsnummer 1999"
   },
   "hid00": {
@@ -14694,6 +14865,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Haushaltsnummer 2000"
   },
   "hid01": {
@@ -16460,6 +16634,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Haushaltsnummer 2001"
   },
   "hid02": {
@@ -18238,6 +18415,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Haushaltsnummer 2002"
   },
   "hid03": {
@@ -20060,6 +20240,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Haushaltsnummer 2003"
   },
   "hid04": {
@@ -21918,6 +22101,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Haushaltsnummer 2004"
   },
   "hid05": {
@@ -23820,6 +24006,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Haushaltsnummer 2005"
   },
   "hid06": {
@@ -25774,6 +25963,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Haushaltsnummer 2006"
   },
   "hid07": {
@@ -27732,6 +27924,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Haushaltsnummer 2007"
   },
   "hid08": {
@@ -29670,6 +29865,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Haushaltsnummer 2008"
   },
   "hid09": {
@@ -37556,6 +37754,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Haushaltsnummer 2009"
   },
   "hid10": {
@@ -45982,6 +46183,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Haushaltsnummer 2010"
   },
   "hid11": {
@@ -53396,6 +53600,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Haushaltsnummer 2011"
   },
   "hid12": {
@@ -63986,6 +64193,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Haushaltsnummer 2012"
   },
   "hid13": {
@@ -78620,6 +78830,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Haushaltsnummer 2013"
   },
   "hid14": {
@@ -98422,6 +98635,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Haushaltsnummer 2014"
   },
   "hid15": {
@@ -116784,6 +117000,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Haushaltsnummer 2015"
   },
   "sampreg98": {
@@ -116856,6 +117075,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Aktuelle Stichprobenregion 1998"
   },
   "sampreg99": {
@@ -116928,6 +117150,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Aktuelle Stichprobenregion 1999"
   },
   "sampreg00": {
@@ -117000,6 +117225,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Aktuelle Stichprobenregion 2000"
   },
   "sampreg01": {
@@ -117072,6 +117300,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Aktuelle Stichprobenregion 2001"
   },
   "sampreg02": {
@@ -117144,6 +117375,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Aktuelle Stichprobenregion 2002"
   },
   "sampreg03": {
@@ -117216,6 +117450,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Aktuelle Stichprobenregion 2003"
   },
   "sampreg04": {
@@ -117288,6 +117525,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Aktuelle Stichprobenregion 2004"
   },
   "sampreg05": {
@@ -117360,6 +117600,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Aktuelle Stichprobenregion 2005"
   },
   "sampreg06": {
@@ -117432,6 +117675,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Aktuelle Stichprobenregion 2006"
   },
   "sampreg07": {
@@ -117504,6 +117750,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Aktuelle Stichprobenregion 2007"
   },
   "sampreg08": {
@@ -117576,6 +117825,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Aktuelle Stichprobenregion 2008"
   },
   "sampreg09": {
@@ -117648,6 +117900,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Aktuelle Stichprobenregion 2009"
   },
   "sampreg10": {
@@ -117720,6 +117975,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Aktuelle Stichprobenregion 2010"
   },
   "sampreg11": {
@@ -117792,6 +118050,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Aktuelle Stichprobenregion 2011"
   },
   "sampreg12": {
@@ -117864,6 +118125,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Aktuelle Stichprobenregion 2012"
   },
   "sampreg13": {
@@ -117936,6 +118200,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Aktuelle Stichprobenregion 2013"
   },
   "sampreg14": {
@@ -118008,6 +118275,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Aktuelle Stichprobenregion 2014"
   },
   "sampreg15": {
@@ -118080,6 +118350,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Aktuelle Stichprobenregion 2015"
   },
   "casemat98": {
@@ -118141,6 +118414,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Case-Match, zusammengez. Panelhaushalte 1998"
   },
   "casemat99": {
@@ -118202,6 +118478,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Case-Match, zusammengez. Panelhaushalte 1999"
   },
   "casemat00": {
@@ -118263,6 +118542,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Case-Match, zusammengez. Panelhaushalte 2000"
   },
   "casemat01": {
@@ -118324,6 +118606,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Case-Match, zusammengez. Panelhaushalte 2001"
   },
   "casemat02": {
@@ -118385,6 +118670,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Case-Match, zusammengez. Panelhaushalte 2002"
   },
   "casemat03": {
@@ -118446,6 +118734,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Case-Match, zusammengez. Panelhaushalte 2003"
   },
   "casemat04": {
@@ -118507,6 +118798,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Case-Match, zusammengez. Panelhaushalte 2004"
   },
   "casemat05": {
@@ -118568,6 +118862,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Case-Match, zusammengez. Panelhaushalte 2005"
   },
   "casemat06": {
@@ -118629,6 +118926,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Case-Match, zusammengez. Panelhaushalte 2006"
   },
   "casemat07": {
@@ -118690,6 +118990,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Case-Match, zusammengez. Panelhaushalte 2007"
   },
   "casemat08": {
@@ -118751,6 +119054,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Case-Match, zusammengez. Panelhaushalte 2008"
   },
   "casemat09": {
@@ -118812,6 +119118,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Case-Match, zusammengez. Panelhaushalte 2009"
   },
   "casemat10": {
@@ -118884,6 +119193,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Case-Match, zusammengez. Panelhaushalte 2010"
   },
   "casemat11": {
@@ -118945,6 +119257,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Case-Match, zusammengez. Panelhaushalte 2011"
   },
   "casemat12": {
@@ -119006,6 +119321,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Case-Match, zusammengez. Panelhaushalte 2012"
   },
   "casemat13": {
@@ -119067,6 +119385,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Case-Match, zusammengez. Panelhaushalte 2013"
   },
   "casemat14": {
@@ -119128,6 +119449,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Case-Match, zusammengez. Panelhaushalte 2014"
   },
   "casemat15": {
@@ -119189,6 +119513,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Case-Match, zusammengez. Panelhaushalte 2015"
   }
 }

@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Ursprungshaushaltsnummer"
   },
   "hid": {
@@ -73,6 +76,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Aktuelle Haushaltsnummer"
   },
   "syear": {
@@ -225,6 +231,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Erhebungsjahr (survey year)"
   },
   "sample1": {
@@ -322,6 +331,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Stichprobenkennzeichen"
   },
   "sampreg": {
@@ -394,6 +406,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Aktuelle Stichprobenregion"
   },
   "htyp": {
@@ -481,6 +496,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Haushaltstyp"
   },
   "hpmax": {
@@ -603,6 +621,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "NA"
   },
   "datumtg": {
@@ -825,6 +846,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Tag letzter HH-Kontakt"
   },
   "datummo": {
@@ -952,6 +976,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Monat letzter HH-Kontakt"
   },
   "bula": {
@@ -1094,6 +1121,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Bundesland"
   },
   "hader": {
@@ -1196,6 +1226,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Adressenermittlung Haushalt"
   },
   "hadq": {
@@ -1278,6 +1311,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Informationsquelle"
   },
   "intza": {
@@ -1365,6 +1401,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Zahl der eingesetzten Interviewer"
   },
   "intk": {
@@ -1477,6 +1516,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Interviewerkontakte"
   },
   "telk1": {
@@ -1559,6 +1601,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Telefonkontakte 1, Bearbeitung"
   },
   "telk2": {
@@ -1636,6 +1681,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Telefonkontakte 2, Nacherhebung"
   },
   "schk": {
@@ -1708,6 +1756,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Schriftliche Kontakte"
   },
   "hform1": {
@@ -1815,6 +1866,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Hauptb.Bearbeitungsform"
   },
   "herg1": {
@@ -1927,6 +1981,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Hauptb.Bearbeitungsergebnis"
   },
   "hforms": {
@@ -2039,6 +2096,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Schlusscode Bearbeitungsform"
   },
   "hergs": {
@@ -2276,6 +2336,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Schlusscode Bearbeitungsergebnis"
   },
   "hstu": {
@@ -2358,6 +2421,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Bearbeitungsstufen Haushalt"
   },
   "split": {
@@ -2505,6 +2571,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Startbearbeitungsform"
   },
   "hhgr": {
@@ -2617,6 +2686,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Zahl der Personen im Haushalt"
   },
   "wum1": {
@@ -2724,6 +2796,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Wohnumfeld 1 - Haustyp"
   },
   "wum2": {
@@ -2836,6 +2911,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Wohnumfeld 2 - Privat-,Anstaltshaushalt"
   },
   "wum3": {
@@ -2933,6 +3011,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Wohnumfeld 3 - Quartier"
   },
   "wein": {
@@ -3085,6 +3166,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Welle Einzug an diese Adresse"
   },
   "htel": {
@@ -3152,6 +3236,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Telefon"
   },
   "regtyp": {
@@ -3229,6 +3316,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Siedlungsstruktureller Regionsgrundtyp des BBSR"
   },
   "intid": {
@@ -6886,6 +6976,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Interviewer ID"
   },
   "intid1": {
@@ -10463,6 +10556,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Nr des zuerst eingesetzten Interviewers"
   },
   "email": {
@@ -10530,6 +10626,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Haushalt mit e-mail-Anschluss"
   },
   "nach": {
@@ -10607,6 +10706,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Nachbearbeitung von Haushalten und Personen"
   },
   "modul": {
@@ -10689,6 +10791,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Splitvariante Ausgangsbrutto Aufwuchs 2012"
   },
   "nach_cawi": {
@@ -10756,6 +10861,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Nachbearbeitung CAWI 2012"
   },
   "split_film": {
@@ -10828,6 +10936,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Anschreiben Split: Hinweis zu SOEP-Motivationsfilm ls_2012"
   },
   "wuma1": {
@@ -10905,6 +11016,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Sprachprobleme"
   },
   "wuma2": {
@@ -10987,6 +11101,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Zustand Wohnlage"
   },
   "wuma3": {
@@ -11069,6 +11186,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Zustand Haus"
   },
   "wuma401": {
@@ -11136,6 +11256,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Zugangsprobleme: Absperrungen"
   },
   "wuma402": {
@@ -11203,6 +11326,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Zugangsprobleme: Sprechanlage"
   },
   "wuma403": {
@@ -11270,6 +11396,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Sonstige Zugangsprobleme"
   },
   "wuma404": {
@@ -11337,6 +11466,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Keine Zugangsprobleme"
   },
   "wuma5": {
@@ -11419,6 +11551,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "NA"
   },
   "wuma6": {
@@ -11506,6 +11641,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Wohngegend"
   },
   "wuma7": {
@@ -11603,6 +11741,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Haustyp"
   }
 }

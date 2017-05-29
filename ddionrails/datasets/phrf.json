@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "survey",
+    "period": "long",
     "label_de": "Ursprungshaushaltsnummer"
   },
   "hid": {
@@ -73,6 +76,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "survey",
+    "period": "long",
     "label_de": "Aktuelle Haushaltsnummer"
   },
   "pid": {
@@ -111,6 +117,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "survey",
+    "period": "long",
     "label_de": "NA"
   },
   "syear": {
@@ -149,6 +158,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "survey",
+    "period": "long",
     "label_de": "Befragungsjahr"
   },
   "pbleib": {
@@ -187,6 +199,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "survey",
+    "period": "long",
     "label_de": "Inverse Bleibewahrscheinlichkeit"
   },
   "phrf": {
@@ -225,6 +240,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "survey",
+    "period": "long",
     "label_de": "Hochrechnungsfaktor"
   }
 }

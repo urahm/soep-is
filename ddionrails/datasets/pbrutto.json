@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Ursprungshaushaltsnummer"
   },
   "hid": {
@@ -73,6 +76,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Aktuelle Haushaltsnummer"
   },
   "pid": {
@@ -111,6 +117,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "NA"
   },
   "syear": {
@@ -263,6 +272,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Erhebungsjahr (survey year)"
   },
   "geburt": {
@@ -855,6 +867,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Geburtsjahr"
   },
   "sex": {
@@ -927,6 +942,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Geschlecht"
   },
   "pnat": {
@@ -1869,6 +1887,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "NA"
   },
   "stistat": {
@@ -1951,6 +1972,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Stichprobenstatus"
   },
   "befstat": {
@@ -2053,6 +2077,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Befragungsstatus"
   },
   "lint": {
@@ -2210,6 +2237,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Letztes Interview in Welle"
   },
   "luecke": {
@@ -2292,6 +2322,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "NA"
   },
   "zupan": {
@@ -2444,6 +2477,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Zugangswelle zum Panel"
   },
   "pzug": {
@@ -2726,6 +2762,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "NA"
   },
   "pform": {
@@ -2833,6 +2872,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Bearbeitungsform"
   },
   "perg": {
@@ -2935,6 +2977,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Bearbeitungsergebnis 1-Steller"
   },
   "pergz": {
@@ -3127,6 +3172,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Bearbeitungsergebnis 2-Steller"
   },
   "pnrold": {
@@ -73189,6 +73237,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "lfd. Personen-Nr. im HH im Vorjahr"
   },
   "pzugv": {
@@ -73471,6 +73522,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "NA"
   },
   "pformv": {
@@ -73583,6 +73637,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Bearbeitungsform im Vorjahr"
   },
   "pergzv": {
@@ -73780,6 +73837,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Bearbeitungsergebnis im Vorjahr"
   },
   "pader": {
@@ -73882,6 +73942,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Adressermittlung"
   },
   "paderq": {
@@ -73964,6 +74027,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "NA"
   },
   "auszugm": {
@@ -74086,6 +74152,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Monat des Auszugs"
   },
   "auszugj": {
@@ -74243,6 +74312,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Jahr des Auszugs"
   },
   "einzugm": {
@@ -74365,6 +74437,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Monat des Einzugs"
   },
   "einzugj": {
@@ -74547,6 +74622,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Jahr des Einzugs"
   },
   "abwesm": {
@@ -74669,6 +74747,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Monat der temp. Abwesenheit"
   },
   "abwesj": {
@@ -74816,6 +74897,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Jahr der temp. Abwesenheit"
   },
   "pbio": {
@@ -74928,6 +75012,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Bearbeitungsergebnis Biographie"
   },
   "sample1": {
@@ -75025,6 +75112,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Stichprobenart"
   },
   "berv": {
@@ -75107,6 +75197,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Teilnahmebereitschaft Vorjahr"
   },
   "ber": {
@@ -75189,6 +75282,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Teilnahmebereitschaft"
   },
   "ewstatu": {
@@ -75281,6 +75377,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Erwerbsstatus von Nicht-Teilnehmern"
   },
   "dj": {
@@ -75358,6 +75457,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Kognitiver Test - Lust auf DJ"
   },
   "bio": {
@@ -75475,6 +75577,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Biographie"
   },
   "modul": {
@@ -75557,6 +75662,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Splitvariante Ausgangsbrutto"
   },
   "stell": {
@@ -75794,6 +75902,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Stellung zum HV, Bezugsperson"
   },
   "stell1": {
@@ -75931,6 +76042,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Stellung zum Haushaltsvorstand (Einsteller)"
   },
   "anker": {
@@ -75998,6 +76112,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Ankerkind (Bonn Intervention Panel)"
   },
   "salivaerg": {
@@ -76085,6 +76202,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "SALIVA Speichelprobe - Ergebnis"
   },
   "apperg": {
@@ -76167,6 +76287,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Happiness App - Ergebnis"
   },
   "bipperg": {
@@ -76249,6 +76372,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "Bearbeitungsergebnis Ankerkind BIP-Instrumente"
   },
   "balu_id": {
@@ -79171,6 +79297,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "BALU-ID (Bonn Intervention Panel)"
   },
   "pnrakt": {
@@ -79283,6 +79412,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "long",
     "label_de": "lfd. Personnen-Nr. im HH"
   }
 }

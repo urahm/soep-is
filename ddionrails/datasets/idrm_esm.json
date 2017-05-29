@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Urhaushaltsnummer"
   },
   "hid": {
@@ -73,6 +76,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Haushaltsnummer"
   },
   "pid": {
@@ -111,6 +117,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "NA"
   },
   "syear": {
@@ -149,6 +158,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Erhebungsjahr"
   },
   "im_drm_esm": {
@@ -216,6 +228,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Innovatives Modul: Day Reconstruction Method - Experience Sampling Method"
   },
   "drm_wt": {
@@ -313,6 +328,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wochentag der Befragung"
   },
   "drm_a": {
@@ -339,6 +357,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wann sind Sie gestern aufgestanden?"
   },
   "aktnr": {
@@ -551,6 +572,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Episodennummer"
   },
   "akt": {
@@ -743,6 +767,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "NA"
   },
   "akt_s": {
@@ -769,6 +796,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "NA"
   },
   "akt_e": {
@@ -795,6 +825,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "NA"
   },
   "akt_sek_jn": {
@@ -867,6 +900,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "NA"
   },
   "akt_sek": {
@@ -1054,6 +1090,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "NA"
   },
   "akt_pleasant": {
@@ -1126,6 +1165,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Episode angenehm / unangenehm"
   },
   "ort": {
@@ -1203,6 +1245,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Ort der Episode"
   },
   "around1": {
@@ -1275,6 +1320,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Niemand anwesend"
   },
   "around2": {
@@ -1347,6 +1395,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Partner anwesend"
   },
   "around3": {
@@ -1419,6 +1470,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Freunde anwesend"
   },
   "around4": {
@@ -1491,6 +1545,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kollegen anwesend"
   },
   "around5": {
@@ -1563,6 +1620,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kunden anwesend"
   },
   "around6": {
@@ -1635,6 +1695,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kinder anwesend"
   },
   "around7": {
@@ -1707,6 +1770,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Verwandte anwesend"
   },
   "around8": {
@@ -1779,6 +1845,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Vorgesetzte anwesend"
   },
   "around9": {
@@ -1851,6 +1920,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Andere Person anwesend"
   },
   "around10": {
@@ -1923,6 +1995,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Keine Angabe zur anwesenden Personen"
   },
   "emotion1": {
@@ -2020,6 +2095,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "NA"
   },
   "emotion2": {
@@ -2117,6 +2195,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "NA"
   },
   "emotion3": {
@@ -2214,6 +2295,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Frust"
   },
   "emotion4": {
@@ -2311,6 +2395,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "NA"
   },
   "emotion5": {
@@ -2408,6 +2495,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Trauer"
   },
   "emotion6": {
@@ -2505,6 +2595,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Sorgen"
   },
   "emotion7": {
@@ -2602,6 +2695,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Schmerzen"
   },
   "emotion8": {
@@ -2699,6 +2795,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Begeisterung"
   },
   "emotion9": {
@@ -2796,6 +2895,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zufriedenheit"
   },
   "emotion10": {
@@ -2888,6 +2990,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Langeweile"
   },
   "emotion11": {
@@ -2985,6 +3090,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Einsamkeit"
   },
   "emotion12": {
@@ -3082,6 +3190,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Stress"
   },
   "emotion13": {
@@ -3179,6 +3290,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Tieferen Sinn"
   },
   "pzuf01": {
@@ -3296,6 +3410,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wie zufrieden sind Sie mit Ihrer Gesundheit?"
   },
   "pzuf20": {
@@ -3413,6 +3530,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wie zufrieden sind Sie mit Ihrem Schlaf?"
   },
   "pzuf02": {
@@ -3530,6 +3650,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "NA"
   },
   "pzuf04": {
@@ -3647,6 +3770,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wie zufrieden sind Sie mit dem Einkommen Ihres Haushalts?"
   },
   "pzuf05": {
@@ -3764,6 +3890,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "NA"
   },
   "pzuf07": {
@@ -3881,6 +4010,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wie zufrieden sind Sie mit Ihrer Wohnung?"
   },
   "pzuf08": {
@@ -3998,6 +4130,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wie zufrieden sind Sie mit Ihrer Freizeit?"
   },
   "pzuf13": {
@@ -4115,6 +4250,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wie zufrieden sind Sie mit Ihrem Familienleben?"
   },
   "pzule1": {
@@ -4232,6 +4370,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Lebenszufriedenheit jetzt"
   },
   "pgef1": {
@@ -4319,6 +4460,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "NA"
   },
   "pgef2": {
@@ -4406,6 +4550,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "NA"
   },
   "pgef3": {
@@ -4493,6 +4640,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "NA"
   },
   "pgef4": {
@@ -4580,6 +4730,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "NA"
   },
   "bb1": {
@@ -4677,6 +4830,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Bewertung Teilnahme Blitzbefragungen"
   },
   "bb2": {
@@ -4774,6 +4930,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "NA"
   },
   "bb3": {
@@ -4846,6 +5005,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Blitzbefragung nicht bearbeitet"
   },
   "bb4": {
@@ -4938,6 +5100,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "NA"
   },
   "bb5": {
@@ -5010,6 +5175,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "NA"
   },
   "bb6": {
@@ -5092,6 +5260,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "NA"
   },
   "bb7": {
@@ -5179,6 +5350,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Blitzbefragung hektisch / unaufmerksam"
   }
 }

@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "Ursprungshaushaltsnummer"
   },
   "hid": {
@@ -73,6 +76,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "Aktuelle Haushaltsnummer"
   },
   "syear": {
@@ -111,6 +117,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "Survey-Year, Erhebungsjahr"
   },
   "hgnrpers": {
@@ -218,6 +227,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "Zahl der Personen im Haushalt"
   },
   "hgnrkid14": {
@@ -310,6 +322,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "Zahl der Kinder unter 14 Jahren im HH"
   },
   "hgnrkid16": {
@@ -402,6 +417,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "Zahl der Kinder unter 16 Jahren im HH"
   },
   "hgmoveyr": {
@@ -919,6 +937,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "Jahr des Einzugs"
   },
   "hgcnstyr": {
@@ -1021,6 +1042,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "Baujahr des Hauses"
   },
   "hgcondit": {
@@ -1103,6 +1127,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "NA"
   },
   "hgseval": {
@@ -1190,6 +1217,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "NA"
   },
   "hgeqpkit": {
@@ -1262,6 +1292,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "NA"
   },
   "hgeqpshw": {
@@ -1334,6 +1367,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "Ausstattung: Bad, Dusche"
   },
   "hgeqpiwc": {
@@ -1406,6 +1442,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "Ausstattung: WC in Wohnung"
   },
   "hgeqphea": {
@@ -1478,6 +1517,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "Ausstattung: Zentral-, Etagenheizung"
   },
   "hgeqpter": {
@@ -1550,6 +1592,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "Ausstattung: Balkon, Terrasse"
   },
   "hgeqpbas": {
@@ -1622,6 +1667,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "Ausstattung: Keller"
   },
   "hgeqpgar": {
@@ -1694,6 +1742,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "Ausstattung: Garten"
   },
   "hgeqpwat": {
@@ -1766,6 +1817,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "Ausstattung: Fl. Warmwasser, Boiler"
   },
   "hgeqptel": {
@@ -1838,6 +1892,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "Ausstattung: Telefon"
   },
   "hgeqpalm": {
@@ -1910,6 +1967,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "Ausstattung: Alarmanlage"
   },
   "hgeqpsol": {
@@ -1982,6 +2042,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "Ausstattung: Solaranlage"
   },
   "hgeqpair": {
@@ -2054,6 +2117,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "Ausstattung: Klimaanlage"
   },
   "hgeqplif": {
@@ -2126,6 +2192,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "Ausstattung: Aufzug, Lift"
   },
   "hgeqpnrj": {
@@ -2198,6 +2267,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "Ausstattung: Alternative Energiequelle"
   },
   "hgowner": {
@@ -2285,6 +2357,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "NA"
   },
   "hgacquis": {
@@ -2367,6 +2442,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "Art des Eigentumerwerbs"
   },
   "hgsubsid": {
@@ -2439,6 +2517,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "NA"
   },
   "hgosubs": {
@@ -2511,6 +2592,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "NA"
   },
   "hgreval": {
@@ -2598,6 +2682,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "NA"
   },
   "hgrsubs": {
@@ -2675,6 +2762,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "Sozialwohnung"
   },
   "hgreduc": {
@@ -2747,6 +2837,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "NA"
   },
   "hgsize": {
@@ -3884,6 +3977,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "NA"
   },
   "hgroom": {
@@ -4006,6 +4102,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "NA"
   },
   "hgheat": {
@@ -5178,6 +5277,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "Heiz- und Warmwasserkosten (gen.)"
   },
   "hgutil": {
@@ -6390,6 +6492,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "Umlagen (gen.)"
   },
   "hgrent": {
@@ -11102,6 +11207,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "Bruttokaltmiete in EURO"
   },
   "hgelectr": {
@@ -11849,6 +11957,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "Stromkosten (gen.)"
   },
   "hgnorent": {
@@ -11926,6 +12037,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "Zahle keine Miete"
   },
   "hgfsize": {
@@ -11998,6 +12112,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "NA"
   },
   "hgfroom": {
@@ -12070,6 +12187,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "NA"
   },
   "hgfheat": {
@@ -12142,6 +12262,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "Imputation Flag, Heiz- und Warmwasserkosten"
   },
   "hgfutil": {
@@ -12214,6 +12337,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "Imputation Flag, Umlagen"
   },
   "hgfrent": {
@@ -12296,6 +12422,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "Imputation Flag, Bruttokaltmiete"
   },
   "hgfelectr": {
@@ -12368,6 +12497,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "Imputation Flag, Stromkosten"
   },
   "hgtyp1hh": {
@@ -12470,6 +12602,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "HH-Typologie (1-Steller)"
   },
   "hgtyp2hh": {
@@ -12662,6 +12797,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "HH-Typologie (2-Steller)"
   },
   "hghmonth": {
@@ -12784,6 +12922,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "Monat des Interviews"
   },
   "hghmode": {
@@ -12916,6 +13057,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "Interviewmethode"
   },
   "hghinc": {
@@ -20808,6 +20952,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "Monatliches HH-Nettoeinkommen (EUR)"
   },
   "hgahinc": {
@@ -30435,6 +30582,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "Korrigiertes monatl. HH-Nettoeinkommen (EUR)"
   },
   "hgnuts1": {
@@ -30577,6 +30727,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "NUTS-Systematik-1(Bundesland)"
   },
   "hgi1hinc": {
@@ -38659,6 +38812,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "1.Imput.monatl.HH-Nettoeinkommen (EUR)"
   },
   "hgi2hinc": {
@@ -46806,6 +46962,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "2.Imput.monatl.HH-Nettoeinkommen (EUR)"
   },
   "hgi3hinc": {
@@ -54953,6 +55112,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "3.Imput.monatl.HH-Nettoeinkommen (EUR)"
   },
   "hgi4hinc": {
@@ -63160,6 +63322,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "4.Imput.monatl.HH-Nettoeinkommen (EUR)"
   },
   "hgi5hinc": {
@@ -71317,6 +71482,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "5.Imput.monatl.HH-Nettoeinkommen (EUR)"
   },
   "hgfhinc": {
@@ -71389,6 +71557,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "period": "long",
     "label_de": "Imputation Flag, monatl.HH-Nettoeinkommen"
   }
 }

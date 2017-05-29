@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Case ID, Ursprungshaushaltsnummer"
   },
   "hid": {
@@ -73,6 +76,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Wellen-spezifische Haushaltsnummer"
   },
   "pid": {
@@ -111,6 +117,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Personennummer des Kindes"
   },
   "syear": {
@@ -263,6 +272,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Erhebungsjahr"
   },
   "k_samp": {
@@ -355,6 +367,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "NA"
   },
   "k_rel": {
@@ -507,6 +522,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Stellung im HH"
   },
   "k_inhh": {
@@ -679,6 +697,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Haushaltszugehoerigkeit"
   },
   "k_nrinhh": {
@@ -786,6 +807,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Lfd. Nr. des Kindes"
   },
   "k_size": {
@@ -888,6 +912,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Zahl der Personen im HH"
   },
   "k_nrkid": {
@@ -980,6 +1007,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Zahl der Kinder unter 16 Jahren im HH"
   },
   "k_phead": {
@@ -10842,6 +10872,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Zeiger auf HV"
   },
   "k_pheadp": {
@@ -18579,6 +18612,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Zeiger auf Partner des HV"
   },
   "k_pmum": {
@@ -27991,6 +28027,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Zeiger auf Mutter"
   },
   "k_pmump": {
@@ -35503,6 +35542,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Zeiger auf Partner der Mutter"
   },
   "ks_pre": {
@@ -35590,6 +35632,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Krippe, KiGa,KiTa, Hort"
   },
   "ks_gen": {
@@ -35697,6 +35742,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Allg. Schule"
   },
   "ks_vocat": {
@@ -35763,6 +35811,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Berufsschule"
   },
   "ks_none": {
@@ -35840,6 +35891,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "keine dieser Einrichtungen"
   },
   "ks_east": {
@@ -35931,6 +35985,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Allg. Schule Ost"
   },
   "ks_eastp": {
@@ -35992,6 +36049,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Schulhort Ost"
   },
   "ks_other": {
@@ -36158,6 +36218,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Andere Schultypen"
   },
   "kd_publ": {
@@ -36235,6 +36298,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "NA"
   },
   "kd_priv": {
@@ -36312,6 +36378,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Traeger: private-gemeinn. Einrichtung"
   },
   "kd_indep": {
@@ -36389,6 +36458,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Traeger: kirchlich, gemeinn. Einrichtung"
   },
   "kd_comp": {
@@ -36455,6 +36527,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Traeger: betriebl. Einrichtung"
   },
   "kd_comm": {
@@ -36532,6 +36607,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Traeger: private-gewerbl. Einrichtung"
   },
   "kd_time": {
@@ -36614,6 +36692,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Zeit des Einrichtungsbesuchs"
   },
   "kd_hrs": {
@@ -36726,6 +36807,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Stunden pro Tag in der Einrichtung"
   },
   "kd_rely": {
@@ -36803,6 +36887,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Einhaltung der Betreuungszeiten"
   },
   "kd_lunch": {
@@ -36885,6 +36972,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Mittagessen in der Einrichtung"
   },
   "kd_fee": {
@@ -36957,6 +37047,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Besuch der Einrichtung kostenpflichtig"
   },
   "kd_amtp": {
@@ -37279,6 +37372,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Einrichtungskosten in Euro/Monat"
   },
   "kc_relat": {
@@ -37346,6 +37442,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Verwandte"
   },
   "kc_frnd": {
@@ -37413,6 +37512,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Freunde, Bekannte, Nachbarn"
   },
   "kc_paid": {
@@ -37480,6 +37582,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "bezahlte Betr.person kommt ins Haus"
   },
   "kc_mindr": {
@@ -37547,6 +37652,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "NA"
   },
   "kc_none": {
@@ -37614,6 +37722,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "keine externe Betreuung"
   },
   "kc_amtp": {
@@ -37701,6 +37812,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "externe Betreuung: durchschnittl. Kosten pro Monat"
   },
   "kc_cost": {
@@ -37768,6 +37882,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "externe Betreuung: keine Kosten"
   },
   "ka06_spo": {
@@ -37835,6 +37952,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "Unter 6: KiTurnen, Schwimmen"
   },
   "ka06_mus": {
@@ -37902,6 +38022,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "NA"
   },
   "ka06_art": {
@@ -37969,6 +38092,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "NA"
   },
   "ka06_oth": {
@@ -38036,6 +38162,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "NA"
   },
   "ka06_non": {
@@ -38103,6 +38232,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "NA"
   },
   "ka16_ssp": {
@@ -38170,6 +38302,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "ab 6 Schul-Sport AG"
   },
   "ka16_smu": {
@@ -38237,6 +38372,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "ab 6 Schul-Musik AG"
   },
   "ka16_sar": {
@@ -38304,6 +38442,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "ab 6 Schul-Kunst AG"
   },
   "ka16_sth": {
@@ -38371,6 +38512,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "ab 6 Schul-Theater AG"
   },
   "ka16_sot": {
@@ -38438,6 +38582,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "ab 6 Schul-Sonstige AG"
   },
   "ka16_spo": {
@@ -38505,6 +38652,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "NA"
   },
   "ka16_mus": {
@@ -38572,6 +38722,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "NA"
   },
   "ka16_art": {
@@ -38639,6 +38792,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "NA"
   },
   "ka16_org": {
@@ -38706,6 +38862,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "NA"
   },
   "ka16_yth": {
@@ -38773,6 +38932,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "NA"
   },
   "ka16_ctr": {
@@ -38840,6 +39002,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "NA"
   },
   "ka16_non": {
@@ -38907,6 +39072,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "NA"
   },
   "k_amtp": {
@@ -39384,6 +39552,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "durchschnittl. Kosten pro Monat"
   },
   "k_cost": {
@@ -39451,6 +39622,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "long",
     "label_de": "keine Kosten"
   }
 }

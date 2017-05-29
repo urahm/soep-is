@@ -7329,6 +7329,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Ursprungshaushaltsnummer"
   },
   "hid": {
@@ -14821,6 +14824,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Aktuelle Haushaltsnummer"
   },
   "pid": {
@@ -27878,6 +27884,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "unveraenderliche Personennummer des Kindes"
   },
   "pidresp": {
@@ -36290,6 +36299,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "unveraenderliche Personennummer des Elternteiles"
   },
   "syear": {
@@ -36417,6 +36429,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Erhebungsjahr"
   },
   "bioage": {
@@ -36534,6 +36549,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Bioage (SOEP & SOEP-IS) Datensatz"
   },
   "activ1": {
@@ -36616,6 +36634,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Haeufigkeit(Vor-)Singen Kinderlieder letzte 14 Tage"
   },
   "activ2": {
@@ -36698,6 +36719,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Haeufigkeit Spaziergaenge an frischer Luft letzte 14 Tage"
   },
   "activ3": {
@@ -36780,6 +36804,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Haeufigkeit Malen,Basteln letzte 14 Tage"
   },
   "activ4": {
@@ -36862,6 +36889,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Haeufigkeit Geschichten vorlesen,erzaehlen letzte 14 Tage"
   },
   "activ5": {
@@ -36944,6 +36974,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Haeufigkeit Bilderbuecher anschauen letzte 14 Tage"
   },
   "activ6": {
@@ -37026,6 +37059,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Haeufigkeit zum Spielplatz gehen letzte 14 Tage"
   },
   "activ7": {
@@ -37108,6 +37144,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Haeufigkeit Besuch bei anderen Familien letzte 14 Tage"
   },
   "activ8": {
@@ -37190,6 +37229,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Haeufigkeit einkaufen gehen letzte 14 Tage"
   },
   "activ9": {
@@ -37272,6 +37314,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Haeufigkeit zusammen Video,TV anschauen letzte 14 Tage"
   },
   "activ10": {
@@ -37354,6 +37399,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Haeufigkeit Karten-/Wuerfelspiele spielen letzte 14 Tage"
   },
   "activ11": {
@@ -37436,6 +37484,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Haeufigkeit zusammen PC-/Internetspiele letzte 14 Tage"
   },
   "activ12": {
@@ -37518,6 +37569,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Hfgkt Besuch Kindertheater/Zirkus/Museum letzte 14 Tage"
   },
   "activ13": {
@@ -37600,6 +37654,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Hfgkt Geschichte vorlesen/erzaehlen and.Sprache letzte 14 Tage"
   },
   "bepar1": {
@@ -37687,6 +37744,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Elternrolle: eigene Wuensche zugunsten des Kindes opfern"
   },
   "bepar2": {
@@ -37774,6 +37834,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Elternrolle: K. will mich aergern, wenn es nicht gehorcht, Verbotenes tut"
   },
   "bepar3": {
@@ -37861,6 +37924,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Elternrolle: Betreuung und Erziehung bestimmen mein ganzes Leben"
   },
   "bepar4": {
@@ -37948,6 +38014,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Elternrolle: Wunsch, nicht durch Elternpflichten gefangen zu sein"
   },
   "bepar5": {
@@ -38035,6 +38104,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Elternrolle: Probleme in der Erziehung liegen am Kind"
   },
   "bepar6": {
@@ -38122,6 +38194,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Elternrolle: wenn mit Kind zus. gibt es nicht anderes, was man lieber"
   },
   "bepar7": {
@@ -38209,6 +38284,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Elternrolle: fuer das Wohl des Kindes alles aushalten"
   },
   "bepar8": {
@@ -38296,6 +38374,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Elternrolle: wenn K. sich falsch verhaelt, dann mit Absicht"
   },
   "bepar9": {
@@ -38383,6 +38464,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Elternrolle: oft all. stehen, liegen lasse, um K. zu unterstuetzen"
   },
   "bepar10": {
@@ -38470,6 +38554,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Elternrolle: darauf freuen, mit Kind zusammen zu sein"
   },
   "biochild": {
@@ -38542,6 +38629,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "leibliches Kind"
   },
   "breastf": {
@@ -38619,6 +38709,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind gestillt"
   },
   "breastfm": {
@@ -38766,6 +38859,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Stillzeit in Monaten"
   },
   "change1": {
@@ -38848,6 +38944,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Lebensumstaende stark veraendert"
   },
   "change2": {
@@ -38930,6 +39029,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind bereitet Glueck und Freude"
   },
   "change3": {
@@ -39012,6 +39114,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "oft am Ende der Kraefte"
   },
   "change4": {
@@ -39094,6 +39199,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Mutterrolle sehr befriedigend"
   },
   "change5": {
@@ -39176,6 +39284,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "neuen Aufgaben,Anforderungen oft nicht gew."
   },
   "change6": {
@@ -39258,6 +39369,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "ueber Kind neue Kontakte knuepfen"
   },
   "change7": {
@@ -39340,6 +39454,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "unter Einschr. auf Mutterrolle leiden"
   },
   "change8": {
@@ -39422,6 +39539,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind viel Zaertlichkeit geben ist wichtig"
   },
   "delivcs": {
@@ -39494,6 +39614,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Entbindung mit Kaiserschnitt"
   },
   "delivpl": {
@@ -39571,6 +39694,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Ort der Enbindung"
   },
   "edbeh1": {
@@ -39658,6 +39784,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Erziehung: Mit Worten und Gesten zeigen, dass man Kind gern hat"
   },
   "edbeh2": {
@@ -39745,6 +39874,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Erziehung: Kind kritisieren"
   },
   "edbeh3": {
@@ -39832,6 +39964,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Erziehung: Nachfragen, was Kind getan und erlebt hat"
   },
   "edbeh4": {
@@ -39919,6 +40054,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Erziehung: Kind bestrafen, wenn es etwas gegen eigenen Willen tut"
   },
   "edbeh5": {
@@ -40006,6 +40144,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Erziehung: Strafe androhen, aber nicht ausfuehren"
   },
   "edbeh6": {
@@ -40093,6 +40234,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Erziehung: Wissen, wo das Kind sich ausser Haus aufhaelt"
   },
   "edbeh7": {
@@ -40180,6 +40324,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Erziehung: streng zu dem Kind sein"
   },
   "edbeh8": {
@@ -40267,6 +40414,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Erziehung: Kind troesten, wenn es traurig ist"
   },
   "edbeh9": {
@@ -40354,6 +40504,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Erziehung: anschreien, wenn es etwas falsch gemacht hat"
   },
   "edbeh10": {
@@ -40441,6 +40594,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Erziehung: Kind fuer undankbar halten, weil es nicht gehorcht"
   },
   "edbeh11": {
@@ -40528,6 +40684,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Erziehung: eine Weile nicht mit Kind reden, wenn es etwas angestellt hat"
   },
   "edbeh12": {
@@ -40615,6 +40774,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Erziehung: Kind soll sich Anordnungen/Entscheidungen nicht widersetzen"
   },
   "edbeh13": {
@@ -40702,6 +40864,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Erziehung: Kind loben"
   },
   "edbeh14": {
@@ -40789,6 +40954,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Erziehung: beschimpfen, wenn wuetend auf es"
   },
   "edbeh15": {
@@ -40876,6 +41044,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Erziehung: Freundeskreis des Kindes aktiv beeinflussen"
   },
   "edbeh16": {
@@ -40963,6 +41134,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Erziehung: Bestrafung abschwaechen/vorzeitig aufheben"
   },
   "edbeh17": {
@@ -41050,6 +41224,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Erziehung: enttaeuscht, traurig, wenn K. sich schlecht benommen hat"
   },
   "edbeh18": {
@@ -41137,6 +41314,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Erziehung: faellt schwer, in der Erziehung konsequent zu sein"
   },
   "edgoal1": {
@@ -41224,6 +41404,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Erziehungsziel: guter Schueler"
   },
   "edgoal2": {
@@ -41311,6 +41494,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Erziehungsziel: Kind versteh sich gut mit anderen"
   },
   "edgoal3": {
@@ -41398,6 +41584,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Erziehungsziel: Interesse, wie und warum Dinge passieren"
   },
   "edgoal4": {
@@ -41485,6 +41674,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Erziehungsziel: Verhalten wie normaler Junge/normales Maedchen"
   },
   "edgoal5": {
@@ -41572,6 +41764,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Erziehungsziel: Ehrlichkeit"
   },
   "edgoal6": {
@@ -41659,6 +41854,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Erziehungsziel: gute Umgangsformen"
   },
   "edgoal7": {
@@ -41746,6 +41944,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Erziehungsziel: Selbstbeherrschung"
   },
   "edgoal8": {
@@ -41833,6 +42034,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Erziehungsziel: Verantwortungsbewusstsein"
   },
   "edgoal9": {
@@ -41920,6 +42124,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Erziehungsziel: Ruecksichtnahme auf andere"
   },
   "edgoal10": {
@@ -42007,6 +42214,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Erziehungsziel: Gehorsam gegenueber Eltern"
   },
   "edgoal11": {
@@ -42094,6 +42304,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Erziehungsziel: gutes Urteilsvermoegen"
   },
   "edgoal12": {
@@ -42181,6 +42394,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Erziehungsziel: ordentlich und sauber sein"
   },
   "edgoal13": {
@@ -42268,6 +42484,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Erziehungsziel: Bemuehen, Ziele zu erreichen"
   },
   "edgoal14": {
@@ -42355,6 +42574,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Erziehungsziel: Faehigkeit, sich in Gruppen einfuegen"
   },
   "edgoal15": {
@@ -42442,6 +42664,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Erziehungsziel: sich gegen Widerstaende durchzusetzen"
   },
   "edgoal16": {
@@ -42529,6 +42754,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Erziehungsziel: zufrieden mit dem sein, was man hat und kann"
   },
   "edgoal17": {
@@ -42616,6 +42844,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Erziehungsziel: Risiken im Leben vermeiden"
   },
   "edgoal18": {
@@ -42703,6 +42934,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Erziehungsziel: von anderen gemocht werden, liebenswert sein"
   },
   "fathinhh": {
@@ -42775,6 +43009,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Vater lebt im Haushalt"
   },
   "feeling1": {
@@ -42857,6 +43094,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Koerperliches Befinden letz.Drittel der SS"
   },
   "feeling2": {
@@ -42939,6 +43179,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Koerperliches Befinden erste 3 Monate n.G."
   },
   "feeling3": {
@@ -43021,6 +43264,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Seelisches Befinden letz.Drittel der SS"
   },
   "feeling4": {
@@ -43103,6 +43349,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Seelisches Befinden erste 3 Monate n.G."
   },
   "health": {
@@ -43185,6 +43434,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Gesundheit des Kindes macht Sorgen"
   },
   "hospital3mb": {
@@ -43287,6 +43539,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Dauer KHausaufent. i. erst. 3 Mon. in Tg"
   },
   "hospital12m": {
@@ -43399,6 +43654,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Dauer Krankenhausaufent. i. d. letzten 12 Mon. in Tg"
   },
   "language": {
@@ -43476,6 +43734,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Umgangssprache des Kindes"
   },
   "maincare": {
@@ -43548,6 +43809,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Mutter Hauptbetreuungsperson"
   },
   "medaid3mb": {
@@ -43650,6 +43914,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Anzahl aerztl. Hilfe i. d. ersten 3 Monaten"
   },
   "medaid3m": {
@@ -43747,6 +44014,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Anzahl aerztl. Hilfe i. d. letzten 3 Monaten"
   },
   "mvmn1": {
@@ -43824,6 +44094,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind laeuft Treppen vorwaerts hinunter"
   },
   "mvmn2": {
@@ -43901,6 +44174,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind oeffnet Tueren mit Tuerklinke"
   },
   "mvmn3": {
@@ -43978,6 +44254,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind klettert auf Klettergeruste und hohe Spielgeraete"
   },
   "mvmn4": {
@@ -44055,6 +44334,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind schneidet mit Schere Papier durch"
   },
   "mvmn5": {
@@ -44132,6 +44414,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind malt auf Papier erkennbare Formen"
   },
   "nchild": {
@@ -44219,6 +44504,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Neugeborenes wievieltes Kind"
   },
   "pregplan": {
@@ -44296,6 +44584,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Schwangerschaft geplant,ungeplant"
   },
   "pregy": {
@@ -44423,6 +44714,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Mutter: Schwanger Bei Personeninterview, jahr"
   },
   "pregmo": {
@@ -44535,6 +44829,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Mutter: Schwangerschaftsmonat bei Interview"
   },
   "prebeg": {
@@ -45452,6 +45749,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Spell Beginn Schwangerschaft(Monat,01.83=1)"
   },
   "preend": {
@@ -46409,6 +46709,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Spell Ende Schwangersch.,Geburt(Monat,01.83=1)"
   },
   "scare1h": {
@@ -46641,6 +46944,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Betreuung durch (Ehe-)Partner (h/Woche)"
   },
   "scare2h": {
@@ -46733,6 +47039,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Betreuung durch Vater des Kindes (h/Woche)"
   },
   "scare3h": {
@@ -46885,6 +47194,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Betreuung durch Grosseltern (h/Woche)"
   },
   "scare4h": {
@@ -47002,6 +47314,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Betreuung durch aeltere Geschwister (h/Woche)"
   },
   "scare5h": {
@@ -47099,6 +47414,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Betreuung durch andere Verwandte (h/Woche)"
   },
   "scare6h": {
@@ -47196,6 +47514,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Betreuung durch Tagesmutter (in h pro woche)"
   },
   "scare7h": {
@@ -47252,6 +47573,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Betreuung durch Kinderfrau (im HH) (in h/woche)"
   },
   "scare8h": {
@@ -47414,6 +47738,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Betreuung durch Krippe (in h pro woche)"
   },
   "scare9h": {
@@ -47561,6 +47888,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Betreuung in Schule (h/Woche)"
   },
   "scare10h": {
@@ -47663,6 +47993,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Betreuung in Hort und ausserschulischen Einrichtungen (h/Woche)"
   },
   "scare11h": {
@@ -47755,6 +48088,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Betreuung in sozialen Einrichtungen (h/Woche)"
   },
   "scare12h": {
@@ -47857,6 +48193,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Betreuung durch Andere (h/Woche)"
   },
   "sclenrolm": {
@@ -47979,6 +48318,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Einschulungsmonat des Kindes"
   },
   "sclenroly": {
@@ -48061,6 +48403,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Einschulungsjahr des Kindes"
   },
   "sclenroln": {
@@ -48122,6 +48467,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind noch nicht in der Schule"
   },
   "sexresp": {
@@ -48194,6 +48542,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Geschlecht des Elternteiles"
   },
   "sclr1": {
@@ -48271,6 +48622,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind nennt vertraute Personen beim Namen"
   },
   "sclr2": {
@@ -48348,6 +48702,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind nimmt an Spielen mit anderen Kindern teil"
   },
   "sclr3": {
@@ -48425,6 +48782,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind beschaeftigt sich mit Rollenspielen"
   },
   "sclr4": {
@@ -48502,6 +48862,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind zeigt Vorliebe fuer Spielgefaehrten/Freunde"
   },
   "sclr5": {
@@ -48579,6 +48942,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind benennt eigene Gefuehle"
   },
   "spch1": {
@@ -48656,6 +49022,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind versteht kurze Anweisungen"
   },
   "spch2": {
@@ -48733,6 +49102,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind bildet Saetze mit min. 2 Woertern"
   },
   "spch3": {
@@ -48810,6 +49182,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind spricht in ganzen Saetzen"
   },
   "spch4": {
@@ -48887,6 +49262,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind hoert einer Geschichte 5 Min. o. laenger aufm. zu"
   },
   "spch5": {
@@ -48964,6 +49342,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind ueberbringt einfache Nachrichten"
   },
   "skll1": {
@@ -49041,6 +49422,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind isst selbstaendig mit Loeffel ohne zu kleckern"
   },
   "skll2": {
@@ -49118,6 +49502,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind putzt sich selbst die Nase"
   },
   "skll3": {
@@ -49195,6 +49582,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind benuetzt fur grosses Geschaeft Toilette"
   },
   "skll4": {
@@ -49272,6 +49662,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind zieht sich Hosen und Unterhosen selbst richtig an"
   },
   "skll5": {
@@ -49349,6 +49742,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind putzt sich selbst die Zaehne"
   },
   "suppartn": {
@@ -49436,6 +49832,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Unterstuetzung durch den Partner"
   },
   "temp1": {
@@ -49518,6 +49917,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind meist froehlich, zufrieden"
   },
   "temp2": {
@@ -49600,6 +50002,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind leicht erregbar,weint haeufig"
   },
   "temp3": {
@@ -49682,6 +50087,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind schwer zu troesten"
   },
   "temp4": {
@@ -49764,6 +50172,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind neugierig,aktiv"
   },
   "temp5": {
@@ -49846,6 +50257,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind eher zurueckhaltend"
   },
   "temp6": {
@@ -49928,6 +50342,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind gespraechig, redet gern"
   },
   "temp7": {
@@ -50010,6 +50427,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind zeigt Mitgefuehl, wenn andere traurig sind"
   },
   "tvyn": {
@@ -50087,6 +50507,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Darf das Kind allein Fernsehen,Video schauen"
   },
   "tvhrs": {
@@ -50214,6 +50637,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Allein Fernsehen,Video schauen (in h/Woche)"
   },
   "birthy": {
@@ -50381,6 +50807,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Geburtsjahr des Kindes"
   },
   "birthm": {
@@ -50503,6 +50932,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Geburtsmonat des Kindes"
   },
   "age": {
@@ -51610,6 +52042,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Alter des Kindes in Monaten"
   },
   "sex": {
@@ -51682,6 +52117,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Geschlecht des Kindes"
   },
   "birthpw": {
@@ -51844,6 +52282,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Geburt in Schwangerschaftswoche"
   },
   "height": {
@@ -52661,6 +53102,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Koerpergroesse des Kindes in cm"
   },
   "weightb": {
@@ -53763,6 +54207,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Geburtsgewicht des Kindes in Gramm"
   },
   "weight": {
@@ -54275,6 +54722,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Gewicht des Kindes in Kilo"
   },
   "circum": {
@@ -54482,6 +54932,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kopfumfang des Kindes in cm"
   },
   "lstmedex": {
@@ -54589,6 +55042,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Letzte aerztliche Vorsorgeuntersuchung"
   },
   "disord": {
@@ -54666,6 +55122,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Anhaltspunkte fuer Stoerungen"
   },
   "disord1": {
@@ -54733,6 +55192,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Stoerungen: Wahrnehmung"
   },
   "disord2": {
@@ -54800,6 +55262,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Stoerungen: Motorik"
   },
   "disord3": {
@@ -54867,6 +55332,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Stoerungen: Neurolog. Stoerung"
   },
   "disord4": {
@@ -54934,6 +55402,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Stoerungen: Sprache"
   },
   "disord5": {
@@ -54995,6 +55466,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Stoerungen: Regulation"
   },
   "disord6": {
@@ -55062,6 +55536,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Stoerungen: Chronische Krankheit"
   },
   "disord7": {
@@ -55129,6 +55606,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Stoerungen: koerperliche Behinderung"
   },
   "disord8": {
@@ -55190,6 +55670,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Stoerungen: geistige Behinderung"
   },
   "disord9": {
@@ -55257,6 +55740,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Stoerungen: sonstige"
   },
   "disordno": {
@@ -55324,6 +55810,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Keine Einschraenken, Stoerungen, Behinderungen"
   },
   "ill0": {
@@ -55396,6 +55885,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Einschraenkungen im Vergleich zu Gleichaltrigen"
   },
   "ill10": {
@@ -55463,6 +55955,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Atemwegserkrankungen"
   },
   "ill11": {
@@ -55530,6 +56025,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Asthma"
   },
   "ill12": {
@@ -55597,6 +56095,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "chronische Bronchitis"
   },
   "ill13": {
@@ -55664,6 +56165,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "spast.,akute Bronchitis"
   },
   "ill14": {
@@ -55731,6 +56235,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Pseudokrupp/Kruppsyndrom"
   },
   "ill2": {
@@ -55798,6 +56305,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Mittelohrentzuendung"
   },
   "ill3": {
@@ -55865,6 +56375,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Heuschnupfen"
   },
   "ill4": {
@@ -55932,6 +56445,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Neurodermitis"
   },
   "ill5": {
@@ -55999,6 +56515,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Fehlsichtigkeit"
   },
   "ill6": {
@@ -56066,6 +56585,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Schwerhoerigkeit"
   },
   "ill7": {
@@ -56133,6 +56655,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Ernaehrungsstoerungen"
   },
   "ill8": {
@@ -56200,6 +56725,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Motorik,Bewegungsapparat"
   },
   "ill9": {
@@ -56267,6 +56795,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Sonstige Stoerungen,Behinderungen"
   },
   "illno": {
@@ -56334,6 +56865,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Keine Einschraenken, Stoerungen, Behinderungen"
   },
   "care1": {
@@ -56406,6 +56940,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Betreuung durch Krippe / Kindergarten / Hort"
   },
   "care1h": {
@@ -56533,6 +57070,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Betreuung durch Krippe / Kindergarten / Hort (in h/Tag)"
   },
   "care2": {
@@ -56600,6 +57140,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Betreuung durch Tagesmutter"
   },
   "care3": {
@@ -56667,6 +57210,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Betreuung durch Kinderfrau"
   },
   "care4": {
@@ -56734,6 +57280,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Betreuung durch Verwandte"
   },
   "care5": {
@@ -56801,6 +57350,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Betreuung durch Freunde oder Nachbarn"
   },
   "care6": {
@@ -56868,6 +57420,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Keine Betreuung ausser durch die Befragungsperson"
   },
   "behav1": {
@@ -56965,6 +57520,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind ist ruecksichtsvoll"
   },
   "behav2": {
@@ -57062,6 +57620,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind ist unruhig, ueberaktiv, kann nicht still sitzen"
   },
   "behav3": {
@@ -57159,6 +57720,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind teilt gerne mit anderen"
   },
   "behav4": {
@@ -57256,6 +57820,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind hat oft Wutanfaelle, ist aufbrausend"
   },
   "behav5": {
@@ -57353,6 +57920,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind ist Einzelgaenger, spielt meist alleine"
   },
   "behav6": {
@@ -57450,6 +58020,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind ist hilfsbereit, wenn andere verletzt,krank,betruebt sind"
   },
   "behav7": {
@@ -57547,6 +58120,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind ist zappelig"
   },
   "behav8": {
@@ -57644,6 +58220,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind streitet oft mit anderen Kindern, schikaniert sie"
   },
   "behav9": {
@@ -57741,6 +58320,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind ist oft ungluecklich o. niedergeschlagen; weint haeufig"
   },
   "behav10": {
@@ -57838,6 +58420,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind ist bei anderen Kindern beliebt"
   },
   "behav11": {
@@ -57935,6 +58520,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind ist leicht ablenkbar, unkonzentriert"
   },
   "behav12": {
@@ -58032,6 +58620,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind ist in neuen Situationen nervoes,anklammernd"
   },
   "behav13": {
@@ -58129,6 +58720,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind wird von anderen gehaenselt o. schikaniert"
   },
   "behav14": {
@@ -58226,6 +58820,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind hilft anderen oft freiwillig"
   },
   "behav15": {
@@ -58323,6 +58920,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind kommt mit Erwachsenen besser aus als mit anderen Kindern"
   },
   "behav16": {
@@ -58420,6 +59020,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind hat viele Aengste, fuerchtet sich leicht"
   },
   "behav17": {
@@ -58517,6 +59120,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind fuehrt Aufgaben zu Ende, kann sich lange konzentrieren"
   },
   "char1a": {
@@ -58634,6 +59240,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind ist eher schuechtern,kontaktfreudig"
   },
   "char1b": {
@@ -58751,6 +59360,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind ist gespraechig/still"
   },
   "char2": {
@@ -58868,6 +59480,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind ist eher konzentriert,leicht ablenkbar"
   },
   "char3": {
@@ -58985,6 +59600,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind ist eher trotzig,fuegsam"
   },
   "char4": {
@@ -59102,6 +59720,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind begreift eher schnell, braucht mehr Zeit"
   },
   "char5": {
@@ -59219,6 +59840,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind ist unordentlich/ordentlich"
   },
   "char6": {
@@ -59336,6 +59960,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind ist gutmuetig/leicht reizbar"
   },
   "char7": {
@@ -59453,6 +60080,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind ist wenig interessiert/wissensdurstig"
   },
   "char8": {
@@ -59570,6 +60200,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind hat Selbstvertrauen/ist unsicher"
   },
   "char9": {
@@ -59687,6 +60320,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind ist zurueckgezogen/kontaktfreudig"
   },
   "char10": {
@@ -59804,6 +60440,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Kind ist aengstlich/unaengstlich"
   },
   "school": {
@@ -59876,6 +60515,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Schulbesuch"
   },
   "schooltype": {
@@ -59963,6 +60605,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Schulart (harmonisiert)"
   },
   "schooltypebis13ab15": {
@@ -60070,6 +60715,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Schultyp bis 2013 und ab 2015"
   },
   "schooltypeb": {
@@ -60162,6 +60810,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Schultyp 2014"
   },
   "pres1": {
@@ -60234,6 +60885,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Abitur angeboten"
   },
   "pres2": {
@@ -60306,6 +60960,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "NA"
   },
   "schoolallday": {
@@ -60378,6 +61035,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Ganztagsschule"
   },
   "idegrad1": {
@@ -60475,6 +61135,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Idealvorstellung Schulabschluss: Hauptschule"
   },
   "idegrad2": {
@@ -60572,6 +61235,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Idealvorstellung Schulabschluss: Realschule"
   },
   "idegrad3": {
@@ -60669,6 +61335,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Idealvorstellung Schulabluss: Gymnasium"
   },
   "probgra1": {
@@ -60766,6 +61435,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wahrscheinlichkeit Hauptschulabschluss"
   },
   "donegra1": {
@@ -60833,6 +61505,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Hauptschulabschluss bereits erworben"
   },
   "probgra2": {
@@ -60930,6 +61605,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wahrscheinlichkeit Realschulabschluss"
   },
   "donegra2": {
@@ -60997,6 +61675,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Realschulabschluss bereits erworben"
   },
   "probgra3": {
@@ -61094,6 +61775,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Wahrscheinlichkeit Abitur"
   },
   "donegra3": {
@@ -61161,6 +61845,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Abitur bereits erworben"
   },
   "pnrfest_ak": {
@@ -63863,6 +64550,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "NA"
   },
   "pnrfest_ak_2": {
@@ -63980,6 +64670,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "NA"
   },
   "anker": {
@@ -64047,6 +64740,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "BIP Ankerkind"
   },
   "balu_ak1": {
@@ -66624,6 +67320,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "NA"
   },
   "balu_ak2": {
@@ -66746,6 +67445,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "NA"
   }
 }

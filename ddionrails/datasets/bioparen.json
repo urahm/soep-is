@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Ursprungshaushaltsnummer"
   },
   "pid": {
@@ -73,6 +76,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Unveraenderliche Personennummer"
   },
   "bioyear": {
@@ -225,6 +231,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Jahr der Biographieerhebung"
   },
   "fpid": {
@@ -3212,6 +3221,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Pers.-Nummer Vater"
   },
   "mpid": {
@@ -6929,6 +6941,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Pers.-Nummer Mutter"
   },
   "bio": {
@@ -7006,6 +7021,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Type of Bio-Questionnaire"
   },
   "alter": {
@@ -7463,6 +7481,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Alter der Befragungspersonen"
   },
   "valter": {
@@ -7865,6 +7886,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Alter des Vaters"
   },
   "malter": {
@@ -8262,6 +8286,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Alter der Mutter"
   },
   "vgebj": {
@@ -8869,6 +8896,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Geburtsjahr Vater"
   },
   "mgebj": {
@@ -9426,6 +9456,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Geburtsjahr Mutter"
   },
   "vtodj": {
@@ -9913,6 +9946,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Todesjahr Vater"
   },
   "mtodj": {
@@ -10385,6 +10421,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Todesjahr Mutter"
   },
   "vsbil": {
@@ -10487,6 +10526,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Schulbildung Vater"
   },
   "msbil": {
@@ -10589,6 +10631,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Schulbildung Mutter"
   },
   "vsinfo": {
@@ -10666,6 +10711,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Herkunft SBIL Vater"
   },
   "msinfo": {
@@ -10743,6 +10791,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Herkunft SBIL Mutter"
   },
   "vbbil": {
@@ -10890,6 +10941,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Berufsbildung Vater"
   },
   "mbbil": {
@@ -11037,6 +11091,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Berufsbildung Mutter"
   },
   "vbinfo": {
@@ -11114,6 +11171,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Herkunft BBIL Vater"
   },
   "mbinfo": {
@@ -11191,6 +11251,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Herkunft BBIL Mutter"
   },
   "vnat": {
@@ -11263,6 +11326,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Nationalitaet Vater"
   },
   "mnat": {
@@ -11335,6 +11401,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Nationalitaet Mutter"
   },
   "vorigin": {
@@ -12297,6 +12366,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Herkunftsland des Vaters (Country of Origin)"
   },
   "morigin": {
@@ -13259,6 +13331,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Herkunftsland der Mutter (Country of Origin)"
   },
   "vreli": {
@@ -13356,6 +13431,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Religionszug. Vater"
   },
   "mreli": {
@@ -13453,6 +13531,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Religionszug. Mutter"
   },
   "vbstell": {
@@ -13755,6 +13836,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Berufl.Stellg. Vater - im Alter 15"
   },
   "mbstell": {
@@ -14066,6 +14150,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Berufl.Stellg. Mutter  - im Alter 15"
   },
   "vbsinfo": {
@@ -14143,6 +14230,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Herk. VBSTELL Vater"
   },
   "mbsinfo": {
@@ -14220,6 +14310,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Herkunft Stellung Mutter"
   },
   "vbklas": {
@@ -25712,6 +25805,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "VATER Klassifik. der Berufe nach StaBua-Stand 92"
   },
   "mbklas": {
@@ -37204,6 +37300,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "MUTTER Klassifik. der Berufe nach StaBua-Stand 92"
   },
   "visco88": {
@@ -39731,6 +39830,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "VATER ISCO88-Neue Generierung"
   },
   "misco88": {
@@ -42258,6 +42360,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "MUTTER ISCO88-Neue Generierung"
   },
   "vmps": {
@@ -43210,6 +43315,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "VATER Magnitude Prestigeskala (Klas)"
   },
   "mmps": {
@@ -44027,6 +44135,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "MUTTER Magnitude Prestigeskala (Klas)"
   },
   "vsiops": {
@@ -44394,6 +44505,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "VATER TREIMANS STANDARD INT.OCC.PR.SCORE (IS88)"
   },
   "msiops": {
@@ -44736,6 +44850,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "MUTTER TREIMANS STANDARD INT.OCC.PR.SCORE (IS88)"
   },
   "visei": {
@@ -45103,6 +45220,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "VATER ISEI-Status88 nach Ganzeboom (IS88)"
   },
   "misei": {
@@ -45445,6 +45565,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "MUTTER ISEI-Status88 nach Ganzeboom (IS88)"
   },
   "vegp": {
@@ -45567,6 +45690,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "VATER ERIKSON,GOLDTHORPE Class Categorie (IS88)"
   },
   "megp": {
@@ -45689,6 +45815,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "MUTTER ERIKSON,GOLDTHORPE Class Categorie (IS88)"
   },
   "vbklas_old": {
@@ -58066,6 +58195,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Old: VATER Klassifik. der Berufe nach StaBua-Stand 92"
   },
   "mbklas_old": {
@@ -70443,6 +70575,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Old: MUTTER Klassifik. der Berufe nach StaBua-Stand 92"
   },
   "visco88_old": {
@@ -72825,6 +72960,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Old: VATER ISCO88-Neue Generierung"
   },
   "misco88_old": {
@@ -75207,6 +75345,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Old: MUTTER ISCO88-Neue Generierung"
   },
   "vsiops_old": {
@@ -75559,6 +75700,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Old: VATER TREIMANS STANDARD INT.OCC.PR.SCORE (IS88)"
   },
   "msiops_old": {
@@ -75876,6 +76020,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Old: MUTTER TREIMANS STANDARD INT.OCC.PR.SCORE (IS88)"
   },
   "visei_old": {
@@ -76243,6 +76390,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Old: VATER ISEI-Status88 nach Ganzeboom (IS88)"
   },
   "misei_old": {
@@ -76575,6 +76725,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Old: MUTTER ISEI-Status88 nach Ganzeboom (IS88)"
   },
   "vegp_old": {
@@ -76702,6 +76855,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Old: VATER ERIKSON,GOLDTHORPE Class Categorie (IS88)"
   },
   "megp_old": {
@@ -76829,6 +76985,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Old: MUTTER ERIKSON,GOLDTHORPE Class Categorie (IS88)"
   },
   "vmps_old": {
@@ -77731,6 +77890,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Old: VATER Magnitude Prestigeskala (Klas)"
   },
   "mmps_old": {
@@ -78408,6 +78570,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Old: MUTTER Magnitude Prestigeskala (Klas)"
   },
   "ortkindh": {
@@ -78490,6 +78655,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Ueberwieg.Ort d.Kindheit bis 15. Lj."
   },
   "ortkind1": {
@@ -78567,6 +78735,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Lebt noch am Ort der Kindheit"
   },
   "living1": {
@@ -78709,6 +78880,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Anzahl Jahre Leben bei leibl. Eltern"
   },
   "living2": {
@@ -78851,6 +79025,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Anzahl Jahre Leben bei alleinst. Mutter"
   },
   "living3": {
@@ -78993,6 +79170,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Anzahl Jahre Leben bei Mutter mit Partner"
   },
   "living4": {
@@ -79135,6 +79315,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Anzahl Jahre Leben bei alleinst. Vater"
   },
   "living5": {
@@ -79277,6 +79460,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Anzahl Jahre Leben bei Vater mit Partnerin"
   },
   "living6": {
@@ -79419,6 +79605,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Anzahl Jahre Leben bei anderen Verwandten"
   },
   "living7": {
@@ -79561,6 +79750,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Anzahl Jahre Leben bei Pflegeeltern"
   },
   "living8": {
@@ -79698,6 +79890,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Anzahl Jahre Leben im Heim"
   },
   "vstreit": {
@@ -79790,6 +79985,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Streit mit Vater - im Alter 15"
   },
   "mstreit": {
@@ -79882,6 +80080,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Streit mit Mutter - im Alter 15"
   },
   "vaortakt": {
@@ -79999,6 +80200,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Aktueller Aufenthaltsort des Vaters"
   },
   "vaortup": {
@@ -80111,6 +80315,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeitpunkt des Updates - VAORTAKT"
   },
   "maortakt": {
@@ -80228,6 +80435,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Aktueller Aufenthaltsort der Mutter"
   },
   "maortup": {
@@ -80340,6 +80550,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeitpunkt des Updates - MAORTAKT"
   },
   "vaort91": {
@@ -80451,6 +80664,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Aufenthalt Vater 91"
   },
   "maort91": {
@@ -80562,6 +80778,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Aufenthalt Mutter 91"
   },
   "vaort96": {
@@ -80673,6 +80892,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Aufenthalt Vater 96"
   },
   "maort96": {
@@ -80784,6 +81006,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Aufenthalt Mutter 96"
   },
   "vaort01": {
@@ -80901,6 +81126,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Aufenthalt Vater 2001"
   },
   "maort01": {
@@ -81018,6 +81246,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Aufenthalt Mutter 2001"
   },
   "vaort06": {
@@ -81135,6 +81366,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Aufenthalt Vater 2006"
   },
   "maort06": {
@@ -81252,6 +81486,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Aufenthalt Mutter 2006"
   },
   "vaort11": {
@@ -81369,6 +81606,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Aufenthalt Vater 2011"
   },
   "maort11": {
@@ -81486,6 +81726,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Aufenthalt Mutter 2011"
   },
   "geschw": {
@@ -81558,6 +81801,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Geschwister ja/nein"
   },
   "nums": {
@@ -81675,6 +81921,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Anzahl Schwestern"
   },
   "numb": {
@@ -81787,6 +82036,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Anzahl Brueder"
   },
   "twin": {
@@ -81864,6 +82116,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zwillingsschwester / Bruder"
   },
   "geschwup": {
@@ -81991,6 +82246,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "long",
     "label_de": "Zeitpunkt des Updates - Geschw"
   }
 }
