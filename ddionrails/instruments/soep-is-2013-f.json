@@ -527,7 +527,8 @@
             }
           ],
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         }
       ],
       "sn": 10,
@@ -610,7 +611,8 @@
             }
           ],
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         }
       ],
       "sn": 11,
@@ -693,7 +695,8 @@
             }
           ],
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         }
       ],
       "sn": 12,
@@ -776,7 +779,8 @@
             }
           ],
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         }
       ],
       "sn": 13,
@@ -814,7 +818,8 @@
             }
           ],
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         }
       ],
       "sn": 14,
@@ -2633,7 +2638,8 @@
             }
           ],
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         }
       ],
       "sn": 59,
@@ -3291,7 +3297,8 @@
               "label": "No answer"
             }
           ],
-          "sn": 8
+          "sn": 8,
+          "number": ""
         },
         {
           "item": "PZUF13",
@@ -4183,7 +4190,8 @@
           "scale": "txt",
           "concept": "pego09",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "PEGO09",
@@ -5263,7 +5271,8 @@
           "text": "Please turn the laptop in a way, so that only the respondent can see the screen. The respondent should click the responses on the next two pages by himself!",
           "scale": "txt",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         }
       ],
       "sn": 75,

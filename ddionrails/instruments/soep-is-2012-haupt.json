@@ -5952,7 +5952,8 @@
           "text": "(Other) Please state",
           "scale": "chr",
           "concept": "ppolso",
-          "sn": 1
+          "sn": 1,
+          "number": ""
         }
       ],
       "sn": 76,
@@ -6504,7 +6505,8 @@
           "text": "(Other) Please state",
           "scale": "chr",
           "concept": "msprx",
-          "sn": 1
+          "sn": 1,
+          "number": ""
         }
       ],
       "sn": 88,
@@ -14285,7 +14287,8 @@
           "text": "What is <first name>'s current height?",
           "scale": "txt",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "bgro",
@@ -14967,7 +14970,8 @@
           "text": "Continued. Please answer regarding the child's behavior in the last six months. My child \u2026",
           "scale": "txt",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "bver09",
@@ -19735,7 +19739,8 @@
           "text": "\u2026 times",
           "scale": "int",
           "concept": "lal10b",
-          "sn": 1
+          "sn": 1,
+          "number": ""
         }
       ],
       "sn": 203,
@@ -22010,7 +22015,8 @@
           "text_de": "Es wird gepr\u00fcft, ob der Test bereits durchgef\u00fchrt wurde.",
           "scale": "chr",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         }
       ],
       "sn": 253,
@@ -25722,7 +25728,8 @@
           "text": "(Other activities) namely",
           "scale": "chr",
           "concept": "q6drm_so",
-          "sn": 1
+          "sn": 1,
+          "number": ""
         }
       ],
       "sn": 275,
@@ -25741,7 +25748,8 @@
           "scale": "chr",
           "concept": "q7drm_s",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         }
       ],
       "sn": 276,
@@ -25760,7 +25768,8 @@
           "scale": "chr",
           "concept": "q8drm_e",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         }
       ],
       "sn": 277,
@@ -28347,7 +28356,8 @@
           "instruction": "Show list 277",
           "scale": "txt",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "pges10",

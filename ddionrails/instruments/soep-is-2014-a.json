@@ -19415,7 +19415,8 @@
           "text": "Other illness, namely",
           "scale": "chr",
           "concept": "pkr16",
-          "sn": 13
+          "sn": 13,
+          "number": ""
         },
         {
           "item": "PKRNO",
@@ -21132,7 +21133,8 @@
           "text": "Thanks a lot for the interview!",
           "scale": "txt",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         }
       ],
       "sn": 285,

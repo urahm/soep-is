@@ -8066,7 +8066,8 @@
           "text": "No answer",
           "scale": "bin",
           "concept": "lkhka",
-          "sn": 9
+          "sn": 9,
+          "number": ""
         }
       ],
       "sn": 134,
@@ -9733,7 +9734,8 @@
           "text": "No answer",
           "scale": "bin",
           "concept": "pendka",
-          "sn": 3
+          "sn": 3,
+          "number": ""
         }
       ],
       "sn": 165,

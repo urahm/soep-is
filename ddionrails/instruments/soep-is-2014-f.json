@@ -133,7 +133,8 @@
               "label": "December"
             }
           ],
-          "sn": 1
+          "sn": 1,
+          "number": ""
         }
       ],
       "sn": 1,
@@ -1677,7 +1678,8 @@
           "scale": "txt",
           "filter": "(Q16:HM01=3 & Q1701:HBAU1=1) | Q1702:HBAU7 X=2,3",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "HBAU111",
@@ -1706,7 +1708,8 @@
           "scale": "txt",
           "filter": "(Q16:HM01=3 & Q1701:HBAU2=1) | Q1702:HBAU7 X=2,3",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "HBAU112",
@@ -1715,7 +1718,8 @@
           "text": "Euros",
           "scale": "int",
           "concept": "hbau112",
-          "sn": 1
+          "sn": 1,
+          "number": ""
         }
       ],
       "sn": 33,
@@ -1734,7 +1738,8 @@
           "scale": "txt",
           "filter": "(Q16:HM01=3 & Q1701:HBAU3=1) | Q1702:HBAU7 X=2,3",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "HBAU113",
@@ -1743,7 +1748,8 @@
           "text": "Euros",
           "scale": "int",
           "concept": "hbau113",
-          "sn": 1
+          "sn": 1,
+          "number": ""
         }
       ],
       "sn": 34,
@@ -1762,7 +1768,8 @@
           "scale": "txt",
           "filter": "(Q16:HM01=3 & Q1701:HBAU4=1) | Q1702:HBAU7 X=2,3",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "HBAU114",
@@ -1771,7 +1778,8 @@
           "text": "Euros",
           "scale": "int",
           "concept": "hbau114",
-          "sn": 1
+          "sn": 1,
+          "number": ""
         }
       ],
       "sn": 35,
@@ -1790,7 +1798,8 @@
           "scale": "txt",
           "filter": "(Q16:HM01=3 & Q1701:HBAU9=1) | Q1702:HBAU7 X=2,3",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "HBAU119",
@@ -1799,7 +1808,8 @@
           "text": "Euros",
           "scale": "int",
           "concept": "hbau119",
-          "sn": 1
+          "sn": 1,
+          "number": ""
         }
       ],
       "sn": 36,
@@ -1818,7 +1828,8 @@
           "scale": "txt",
           "filter": "(Q16:HM01=3 & Q1701:HBAU10=1) | Q1702:HBAU7 X=2,3",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "HBAU1110",
@@ -1827,7 +1838,8 @@
           "text": "Euros",
           "scale": "int",
           "concept": "hbau1110",
-          "sn": 1
+          "sn": 1,
+          "number": ""
         }
       ],
       "sn": 37,
@@ -1846,7 +1858,8 @@
           "scale": "txt",
           "filter": "(Q16:HM01=3 & Q1701:HBAU5=1) | Q1702:HBAU7 X=2,3",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "HBAU115",
@@ -1855,7 +1868,8 @@
           "text": "Euros",
           "scale": "int",
           "concept": "hbau115",
-          "sn": 1
+          "sn": 1,
+          "number": ""
         }
       ],
       "sn": 38,
@@ -1884,7 +1898,8 @@
           "text": "Yes, with the amount of ... euros",
           "scale": "int",
           "concept": "hbau122",
-          "sn": 1
+          "sn": 1,
+          "number": ""
         },
         {
           "item": "HBAU132",
@@ -1893,7 +1908,8 @@
           "text": "No",
           "scale": "bin",
           "concept": "hbau132",
-          "sn": 2
+          "sn": 2,
+          "number": ""
         }
       ],
       "sn": 39,
@@ -1922,7 +1938,8 @@
           "text": "Yes, with the amount of ... euros",
           "scale": "int",
           "concept": "hbau123",
-          "sn": 1
+          "sn": 1,
+          "number": ""
         },
         {
           "item": "HBAU133",
@@ -1931,7 +1948,8 @@
           "text": "No",
           "scale": "bin",
           "concept": "hbau133",
-          "sn": 2
+          "sn": 2,
+          "number": ""
         }
       ],
       "sn": 40,
@@ -1960,7 +1978,8 @@
           "text": "Yes, with the amount of ... euros",
           "scale": "int",
           "concept": "hbau124",
-          "sn": 1
+          "sn": 1,
+          "number": ""
         },
         {
           "item": "HBAU134",
@@ -1969,7 +1988,8 @@
           "text": "No",
           "scale": "bin",
           "concept": "hbau134",
-          "sn": 2
+          "sn": 2,
+          "number": ""
         }
       ],
       "sn": 41,
@@ -1998,7 +2018,8 @@
           "text": "Yes, with the amount of ... euros",
           "scale": "int",
           "concept": "hbau129",
-          "sn": 1
+          "sn": 1,
+          "number": ""
         },
         {
           "item": "HBAU139",
@@ -2007,7 +2028,8 @@
           "text": "No",
           "scale": "bin",
           "concept": "hbau139",
-          "sn": 2
+          "sn": 2,
+          "number": ""
         }
       ],
       "sn": 42,
@@ -2036,7 +2058,8 @@
           "text": "Yes, with the amount of ... euros",
           "scale": "int",
           "concept": "hbau1210",
-          "sn": 1
+          "sn": 1,
+          "number": ""
         },
         {
           "item": "HBAU1310",
@@ -2045,7 +2068,8 @@
           "text": "No",
           "scale": "bin",
           "concept": "hbau1310",
-          "sn": 2
+          "sn": 2,
+          "number": ""
         }
       ],
       "sn": 43,
@@ -2074,7 +2098,8 @@
           "text": "Yes, with the amount of ... euros",
           "scale": "int",
           "concept": "hbau125",
-          "sn": 1
+          "sn": 1,
+          "number": ""
         },
         {
           "item": "HBAU135",
@@ -2083,7 +2108,8 @@
           "text": "No",
           "scale": "bin",
           "concept": "hbau135",
-          "sn": 2
+          "sn": 2,
+          "number": ""
         }
       ],
       "sn": 44,
@@ -3013,7 +3039,8 @@
           "text": "Don't know",
           "scale": "bin",
           "concept": "pren1ka",
-          "sn": 2
+          "sn": 2,
+          "number": ""
         }
       ],
       "sn": 60,
@@ -3054,7 +3081,8 @@
           "text": "Don't know",
           "scale": "bin",
           "concept": "pren2ka",
-          "sn": 2
+          "sn": 2,
+          "number": ""
         }
       ],
       "sn": 61,
@@ -3257,7 +3285,8 @@
           "instruction": "Please show list 33A!\n\nPlease mark all that applies.",
           "scale": "txt",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "PREN41",
@@ -3397,7 +3426,8 @@
           "instruction": "Please show list 33A!\n\nPlease mark all that applies.",
           "scale": "txt",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "PREN54",
@@ -6876,7 +6906,8 @@
           "text": "euros:",
           "scale": "int",
           "concept": "fm04",
-          "sn": 1
+          "sn": 1,
+          "number": ""
         }
       ],
       "sn": 141,
@@ -8283,7 +8314,8 @@
               "label": "10 fully prepared to take risks"
             }
           ],
-          "sn": 1
+          "sn": 1,
+          "number": ""
         }
       ],
       "sn": 150,
@@ -9553,7 +9585,8 @@
           "text": "Others, namely\u2026",
           "scale": "chr",
           "concept": "ppolso",
-          "sn": 1
+          "sn": 1,
+          "number": ""
         }
       ],
       "sn": 159,
@@ -9639,7 +9672,8 @@
               "label": "10 far right"
             }
           ],
-          "sn": 1
+          "sn": 1,
+          "number": ""
         }
       ],
       "sn": 160,
@@ -10386,7 +10420,8 @@
           "text": "[Do not conduct test, because:]",
           "scale": "chr",
           "concept": "worttestno",
-          "sn": 3
+          "sn": 3,
+          "number": ""
         }
       ],
       "sn": 169,
@@ -12545,7 +12580,8 @@
             }
           ],
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         }
       ],
       "sn": 213,
@@ -20886,7 +20922,8 @@
           "text": "Years",
           "scale": "int",
           "concept": "bilyear",
-          "sn": 1
+          "sn": 1,
+          "number": ""
         }
       ],
       "sn": 337,
@@ -22285,7 +22322,8 @@
           "template.id": 2531,
           "scale": "chr",
           "concept": "lsab9",
-          "sn": 1
+          "sn": 1,
+          "number": ""
         }
       ],
       "sn": 360,
@@ -24265,7 +24303,8 @@
           "text_de": "[Andere Stellung, und zwar:]",
           "scale": "chr",
           "concept": "pstellso",
-          "sn": 1
+          "sn": 1,
+          "number": ""
         }
       ],
       "sn": 402,
@@ -25429,7 +25468,8 @@
           "text": "[I don't like to participate, because]",
           "scale": "chr",
           "concept": "vorfin2o",
-          "sn": 1
+          "sn": 1,
+          "number": ""
         }
       ],
       "sn": 424,
@@ -26857,7 +26897,8 @@
           "text": "[Yes, in fact:]",
           "scale": "chr",
           "concept": "eb_finanz2o",
-          "sn": 1
+          "sn": 1,
+          "number": ""
         }
       ],
       "sn": 437,
@@ -31594,7 +31635,8 @@
           "text": "Other illness, namely",
           "scale": "chr",
           "concept": "pkr16",
-          "sn": 13
+          "sn": 13,
+          "number": ""
         },
         {
           "item": "PKRNO",
@@ -31824,7 +31866,8 @@
           "text": "Other family changes, in fact",
           "scale": "bin",
           "concept": "pfs101",
-          "sn": 14
+          "sn": 14,
+          "number": ""
         },
         {
           "item": "PFSNO",
@@ -32408,7 +32451,8 @@
           "instruction": "Input not later than date of request (show current month / 2014).",
           "scale": "txt",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "PFS103",
@@ -32417,7 +32461,8 @@
           "text": "2014 in month:",
           "scale": "int",
           "concept": "pfs103",
-          "sn": 1
+          "sn": 1,
+          "number": ""
         },
         {
           "item": "PFS102",
@@ -32426,7 +32471,8 @@
           "text": "2013 in month:",
           "scale": "int",
           "concept": "pfs102",
-          "sn": 2
+          "sn": 2,
+          "number": ""
         }
       ],
       "sn": 520,
@@ -34905,7 +34951,8 @@
           "text": "[I don't like to participate, because]",
           "scale": "chr",
           "concept": "schirm1lx",
-          "sn": 1
+          "sn": 1,
+          "number": ""
         }
       ],
       "sn": 555,
@@ -34997,7 +35044,8 @@
           "text": "Interviewer: Please check the householdnumber including attended person number and adjust, if necessary.\n\nHousehold-person-number: <household number>",
           "scale": "txt",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "1",
@@ -35005,7 +35053,8 @@
           "text_de": "Bitte lesen Sie vor: Bitte bearbeiten Sie die Aufgaben selbst am Computer. Lesen Sie die Texte bitte aufmerksam durch und nehmen Sie sich so viel Zeit f\u00fcr die Beantwortung, wie Sie brauchen. Falls Sie Fragen haben sollten, k\u00f6nnen Sie sich gerne an mich wenden.",
           "text": "Please read out: Please deal with the questions yourself on the computer. Read the questions carefully taking as much time as you need. If you have any questions, just get to the interviewer.",
           "scale": "txt",
-          "sn": 1
+          "sn": 1,
+          "number": ""
         },
         {
           "item": "2",
@@ -35021,7 +35070,8 @@
               "label": "START"
             }
           ],
-          "sn": 2
+          "sn": 2,
+          "number": ""
         }
       ],
       "sn": 558,
@@ -35039,7 +35089,8 @@
           "text": "Welcome!",
           "scale": "txt",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "1",
@@ -35047,7 +35098,8 @@
           "text_de": "Wir werden Ihnen gleich die zwei verschiedenen Typen von Lotterie-Aufgaben vorstellen. Jede dieser beiden Lotterie-Aufgaben besteht aus vier verschiedenen Lotterien. Am Ende der heutigen Befragung werden Ihnen die Gewinne von zwei der insgesamt acht Lotterien 1:1 bar in Euro ausbezahlt. Aus welchen beiden Lotterien diese Gewinne stammen, wird zuf\u00e4llig ausgew\u00e4hlt.",
           "text": "Immediately we will present you two exercises about lotteries. Each of the exercises consists of four different lotteries. At the end of the today's survey, we will pay you two of the totally eight lotteries 1:1 in cash and euros. Which two lotteries will yield your prize, will be selected randomly.",
           "scale": "txt",
-          "sn": 1
+          "sn": 1,
+          "number": ""
         },
         {
           "item": "2",
@@ -35055,7 +35107,8 @@
           "text_de": "Falls Sie Fragen haben, wenden Sie sich bitte jederzeit an die Interviewerin / den Interviewer.",
           "text": "If you have any question, you can ask the interviewer at any time.",
           "scale": "txt",
-          "sn": 2
+          "sn": 2,
+          "number": ""
         }
       ],
       "sn": 559,
@@ -35073,7 +35126,8 @@
           "text": "In the following exercise we will present you 4 different lotteries one after another.",
           "scale": "txt",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "1",
@@ -35081,7 +35135,8 @@
           "text_de": "In jeder Lotterie sehen Sie eine bestimmte Anzahl Boxen. Auf jeder Box steht, welche Geldbetr\u00e4ge mit welcher Wahrscheinlichkeit daraus gezogen werden k\u00f6nnen. Sie m\u00fcssen sich bei jeder Lotterie direkt f\u00fcr eine Box entscheiden.",
           "text": "In each lottery you will see a certain number of boxes. On each box you will find the sum of money and the probability with which each amount can be drawn. In each lottery you have to decide for one box.",
           "scale": "txt",
-          "sn": 1
+          "sn": 1,
+          "number": ""
         },
         {
           "item": "2",
@@ -35097,7 +35152,8 @@
               "label": "Continue"
             }
           ],
-          "sn": 2
+          "sn": 2,
+          "number": ""
         }
       ],
       "sn": 560,
@@ -35115,7 +35171,8 @@
           "text": "In the example below you can see 4 boxes. Each box is labelled by the sum of money and the probability with which the related amount can be drawn.\nPlease look at all the information on the boxes and then decide for one among them: Once you click on one box, an amount is drawn. At the end of the survey, you will get to know which earnings you have yielded.",
           "scale": "txt",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "1",
@@ -35146,7 +35203,8 @@
               "label": "80% 4 Euro / 20% 2 Euro"
             }
           ],
-          "sn": 1
+          "sn": 1,
+          "number": ""
         }
       ],
       "sn": 561,
@@ -35164,7 +35222,8 @@
           "text": "In the lotteries after this example, we will draw an amount in each lottery according to your chosen box (after your final decision) and save the result. We will display all results of the lotteries at the end of both lottery exercises.",
           "scale": "txt",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "1",
@@ -35172,7 +35231,8 @@
           "text_de": "Haben Sie Fragen? Dann melden Sie sich jetzt bitte bei der Interviewerin / dem Interviewer. Andernfalls k\u00f6nnen Sie mit der ersten Lotterie beginnen.",
           "text": "Do you have any question? Then please get to the interviewer. Otherwise you can start with the first lottery.",
           "scale": "txt",
-          "sn": 1
+          "sn": 1,
+          "number": ""
         },
         {
           "item": "2",
@@ -35188,7 +35248,8 @@
               "label": "START"
             }
           ],
-          "sn": 2
+          "sn": 2,
+          "number": ""
         }
       ],
       "sn": 562,
@@ -35206,7 +35267,8 @@
           "text": "Lottery 1 / 4",
           "scale": "txt",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "1",
@@ -35237,7 +35299,8 @@
               "label": "70% 4 Euro / 30% 0 Euro"
             }
           ],
-          "sn": 1
+          "sn": 1,
+          "number": ""
         }
       ],
       "sn": 563,
@@ -35255,7 +35318,8 @@
           "text": "The amount is drawn and saved from your chosen box.",
           "scale": "txt",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "1",
@@ -35271,7 +35335,8 @@
               "label": "Continue"
             }
           ],
-          "sn": 1
+          "sn": 1,
+          "number": ""
         }
       ],
       "sn": 564,
@@ -35289,7 +35354,8 @@
           "text": "Lottery 2 / 4",
           "scale": "txt",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "1",
@@ -35320,7 +35386,8 @@
               "label": "70% 4 Euro / 30% 0 Euro"
             }
           ],
-          "sn": 1
+          "sn": 1,
+          "number": ""
         }
       ],
       "sn": 565,
@@ -35338,7 +35405,8 @@
           "text": "The amount is drawn and saved from your chosen box.",
           "scale": "txt",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "1",
@@ -35354,7 +35422,8 @@
               "label": "Continue"
             }
           ],
-          "sn": 1
+          "sn": 1,
+          "number": ""
         }
       ],
       "sn": 566,
@@ -35372,7 +35441,8 @@
           "text": "Lottery 3 / 4",
           "scale": "txt",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "1",
@@ -35393,7 +35463,8 @@
               "label": "100% 3 Euro"
             }
           ],
-          "sn": 1
+          "sn": 1,
+          "number": ""
         }
       ],
       "sn": 567,
@@ -35411,7 +35482,8 @@
           "text": "The amount is drawn and saved from your chosen box.",
           "scale": "txt",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "1",
@@ -35427,7 +35499,8 @@
               "label": "Continue"
             }
           ],
-          "sn": 1
+          "sn": 1,
+          "number": ""
         }
       ],
       "sn": 568,
@@ -35445,7 +35518,8 @@
           "text": "Lottery 4 / 4",
           "scale": "txt",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "1",
@@ -35466,7 +35540,8 @@
               "label": "100% 3 Euro"
             }
           ],
-          "sn": 1
+          "sn": 1,
+          "number": ""
         }
       ],
       "sn": 569,
@@ -35484,7 +35559,8 @@
           "text": "The amount is drawn and saved from your chosen box.",
           "scale": "txt",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         }
       ],
       "sn": 570,
@@ -35510,7 +35586,8 @@
             }
           ],
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         }
       ],
       "sn": 571,
@@ -35528,7 +35605,8 @@
           "text": "Exercise 2",
           "scale": "txt",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "1",
@@ -35536,7 +35614,8 @@
           "text_de": "Jede Lotterie besteht aus einer bestimmten Anzahl Boxen, die verschiedene Geldbetr\u00e4ge enthalten. Zu Beginn haben Sie noch keine Informationen dar\u00fcber, welche Geldbetr\u00e4ge mit welcher Wahrscheinlichkeit in den verschiedenen Boxen enthalten sind. Sie k\u00f6nnen diese Informationen jedoch beliebig lange und oft einholen, indem Sie wiederholt auf die Boxen klicken. Bei jedem Klick wird Ihnen f\u00fcr kurze Zeit angezeigt, welcher Betrag gerade aus der entsprechenden Box gezogen wurde. Danach verschwindet dieser Betrag wieder, und Sie k\u00f6nnen weiter ausprobieren.",
           "text": "Each lottery consists of a certain number of boxes, which contain different sums of money. At the begin you have no information about the amounts and related probabilities in the boxes. But you can collect this information as long and as often as you like by clicking repeatedly on the boxes. With each click you can see the drawn amount for a short time in that box. Afterwards this amount disappears and you can try again.",
           "scale": "txt",
-          "sn": 1
+          "sn": 1,
+          "number": ""
         },
         {
           "item": "2",
@@ -35544,7 +35623,8 @@
           "text_de": "Wenn Sie gen\u00fcgend Informationen \u00fcber die verschiedenen Boxen eingeholt haben, dann k\u00f6nnen Sie eine endg\u00fcltige Entscheidung zwischen den Boxen treffen. Dazu gibt es eine Schaltfl\u00e4che \u201eENTSCHEIDUNG\u201c unterhalb der Boxen.",
           "text": "When you have collected enough information about the different boxes, you can make your decision which one to choose. You can initiate this by clicking \u201cDecision\u201d below the boxes.",
           "scale": "txt",
-          "sn": 2
+          "sn": 2,
+          "number": ""
         },
         {
           "item": "3",
@@ -35560,7 +35640,8 @@
               "label": "Continue"
             }
           ],
-          "sn": 3
+          "sn": 3,
+          "number": ""
         }
       ],
       "sn": 572,
@@ -35578,7 +35659,8 @@
           "text": "In the example below you see 4 boxes.\nFirst fo all you can click as often as you want on each box to gather some information, which amounts are in the box.\nIf you click repeatedly on the boxes you will notice that the amounts can occur with different probabilities.",
           "scale": "txt",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "1",
@@ -35586,7 +35668,8 @@
           "text_de": "Anschlie\u00dfend m\u00fcssen Sie sich endg\u00fcltig f\u00fcr eine der Boxen entscheiden. Aus dieser Box wird dann ein Geldbetrag gezogen, der Ihnen am Ende der Befragung angezeigt wird und zu Ihrem Gesamtgewinn z\u00e4hlen kann.",
           "text": "In the following you have to decide finally for one of these boxes. From your chosen box an amount is drawn. You will see this amount at the end of this survey, and it can be part of your total gain.",
           "scale": "txt",
-          "sn": 1
+          "sn": 1,
+          "number": ""
         },
         {
           "item": "2",
@@ -35617,7 +35700,8 @@
               "label": "example"
             }
           ],
-          "sn": 2
+          "sn": 2,
+          "number": ""
         }
       ],
       "sn": 573,
@@ -35635,7 +35719,8 @@
           "text": "final decision:",
           "scale": "txt",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "1",
@@ -35666,7 +35751,8 @@
               "label": "example"
             }
           ],
-          "sn": 1
+          "sn": 1,
+          "number": ""
         }
       ],
       "sn": 574,
@@ -35684,7 +35770,8 @@
           "text": "In the lotteries after this example, we will draw an amount in each lottery according to your chosen box (after your final decision) and save the result. We will display all results of the lotteries at the end of both lottery exercises.",
           "scale": "txt",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "1",
@@ -35692,7 +35779,8 @@
           "text_de": "Haben Sie Fragen? Dann melden Sie sich jetzt bitte bei der Interviewerin / dem Interviewer. Andernfalls k\u00f6nnen Sie mit der ersten Lotterie beginnen.",
           "text": "Do you have any question? Then please get to the interviewer. Otherwise you can start with the first lottery.",
           "scale": "txt",
-          "sn": 1
+          "sn": 1,
+          "number": ""
         },
         {
           "item": "2",
@@ -35708,7 +35796,8 @@
               "label": "START"
             }
           ],
-          "sn": 2
+          "sn": 2,
+          "number": ""
         }
       ],
       "sn": 575,
@@ -35726,7 +35815,8 @@
           "text": "Lottery 1 / 4",
           "scale": "txt",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "1",
@@ -35742,7 +35832,8 @@
               "label": "DECISION"
             }
           ],
-          "sn": 1
+          "sn": 1,
+          "number": ""
         }
       ],
       "sn": 576,
@@ -35783,7 +35874,8 @@
             }
           ],
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         }
       ],
       "sn": 577,
@@ -35801,7 +35893,8 @@
           "text": "The amount is drawn and saved from your chosen box.",
           "scale": "txt",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "1",
@@ -35817,7 +35910,8 @@
               "label": "Continue"
             }
           ],
-          "sn": 1
+          "sn": 1,
+          "number": ""
         }
       ],
       "sn": 578,
@@ -35835,7 +35929,8 @@
           "text": "Lottery 2 / 4",
           "scale": "txt",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "1",
@@ -35851,7 +35946,8 @@
               "label": "DECISION"
             }
           ],
-          "sn": 1
+          "sn": 1,
+          "number": ""
         }
       ],
       "sn": 579,
@@ -35892,7 +35988,8 @@
             }
           ],
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         }
       ],
       "sn": 580,
@@ -35910,7 +36007,8 @@
           "text": "The amount is drawn and saved from your chosen box.",
           "scale": "txt",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "1",
@@ -35926,7 +36024,8 @@
               "label": "Continue"
             }
           ],
-          "sn": 1
+          "sn": 1,
+          "number": ""
         }
       ],
       "sn": 581,
@@ -35944,7 +36043,8 @@
           "text": "Lottery 3 / 4",
           "scale": "txt",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "1",
@@ -35960,7 +36060,8 @@
               "label": "DECISION"
             }
           ],
-          "sn": 1
+          "sn": 1,
+          "number": ""
         }
       ],
       "sn": 582,
@@ -35991,7 +36092,8 @@
             }
           ],
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         }
       ],
       "sn": 583,
@@ -36009,7 +36111,8 @@
           "text": "The amount is drawn and saved from your chosen box.",
           "scale": "txt",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "1",
@@ -36025,7 +36128,8 @@
               "label": "Continue"
             }
           ],
-          "sn": 1
+          "sn": 1,
+          "number": ""
         }
       ],
       "sn": 584,
@@ -36043,7 +36147,8 @@
           "text": "Lottery 4 / 4",
           "scale": "txt",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "1",
@@ -36059,7 +36164,8 @@
               "label": "DECISION"
             }
           ],
-          "sn": 1
+          "sn": 1,
+          "number": ""
         }
       ],
       "sn": 585,
@@ -36090,7 +36196,8 @@
             }
           ],
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         }
       ],
       "sn": 586,
@@ -36108,7 +36215,8 @@
           "text": "The amount is drawn and saved from your chosen box.",
           "scale": "txt",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "1",
@@ -36124,7 +36232,8 @@
               "label": "Continue"
             }
           ],
-          "sn": 1
+          "sn": 1,
+          "number": ""
         }
       ],
       "sn": 587,
@@ -36150,7 +36259,8 @@
             }
           ],
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         }
       ],
       "sn": 588,
@@ -36168,7 +36278,8 @@
           "text": "Below you can see the amounts you have won so far for each lottery.",
           "scale": "txt",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "1",
@@ -36176,7 +36287,8 @@
           "text_de": "<Tabelle mit Spiel 1 bis 8 in Spalte 1 und jeweils erspieltem Betrag in Spalte 2>",
           "text": "<table with lottery 1 to 8 in the first collumn and the related amounts in the second collumn>",
           "scale": "txt",
-          "sn": 1
+          "sn": 1,
+          "number": ""
         },
         {
           "item": "2",
@@ -36192,7 +36304,8 @@
               "label": "STOP"
             }
           ],
-          "sn": 2
+          "sn": 2,
+          "number": ""
         }
       ],
       "sn": 589,
@@ -36210,7 +36323,8 @@
           "text": "Below you can see the amounts you have won so far for each lottery.",
           "scale": "txt",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "1",
@@ -36218,7 +36332,8 @@
           "text_de": "<Tabelle mit Spiel 1 bis 8 in Spalte 1 und jeweils erspieltem Betrag in Spalte 2>",
           "text": "<table with lottery 1 to 8 in the first collumn and the related amounts in the second collumn>",
           "scale": "txt",
-          "sn": 1
+          "sn": 1,
+          "number": ""
         },
         {
           "item": "2",
@@ -36226,7 +36341,8 @@
           "text_de": "F\u00fcr Ihre Bezahlung werden nun zuf\u00e4llig zwei dieser Lotterien ausgew\u00e4hlt.\n\nKlicken Sie bitte zu einem beliebigen Zeitpunkt auf STOPP.",
           "text": "For your payment we will select now 2 out of the 8 lotteries randomly.\n\nPlease click STOP at a moment of your choice.",
           "scale": "txt",
-          "sn": 2
+          "sn": 2,
+          "number": ""
         },
         {
           "item": "3",
@@ -36242,7 +36358,8 @@
               "label": "Final accout"
             }
           ],
-          "sn": 3
+          "sn": 3,
+          "number": ""
         }
       ],
       "sn": 590,
@@ -36260,7 +36377,8 @@
           "text": "Your final payment is calculated as it follows:",
           "scale": "txt",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "1",
@@ -36268,7 +36386,8 @@
           "text_de": "Bonus 1: <k> Euro",
           "text": "Bonus 1: <k> euros",
           "scale": "txt",
-          "sn": 1
+          "sn": 1,
+          "number": ""
         },
         {
           "item": "2",
@@ -36276,7 +36395,8 @@
           "text_de": "Bonus 2: <l> Euro",
           "text": "Bonus 2: <l> euros",
           "scale": "txt",
-          "sn": 2
+          "sn": 2,
+          "number": ""
         },
         {
           "item": "3",
@@ -36284,7 +36404,8 @@
           "text_de": "Auszahlung: <k+l> Euro",
           "text": "payment: <k+l> euros",
           "scale": "txt",
-          "sn": 3
+          "sn": 3,
+          "number": ""
         },
         {
           "item": "4",
@@ -36292,7 +36413,8 @@
           "text_de": "Bitte wenden Sie sich nun an die Interviewerin / den Interviewer.",
           "text": "Please get now to your interviewer.",
           "scale": "txt",
-          "sn": 4
+          "sn": 4,
+          "number": ""
         },
         {
           "item": "5",
@@ -36308,7 +36430,8 @@
               "label": "Close window"
             }
           ],
-          "sn": 5
+          "sn": 5,
+          "number": ""
         }
       ],
       "sn": 591,
@@ -36325,7 +36448,8 @@
           "instruction": "Please turn the laptop in a way, so just you can look at the screen.",
           "scale": "txt",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         }
       ],
       "sn": 592,
@@ -36342,7 +36466,8 @@
           "instruction": "Please note once more the amount the respondend receives.",
           "scale": "txt",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "1",
@@ -36350,7 +36475,8 @@
           "instruction_de": "Bitte maximal auf eine Stelle nach dem Komma eingeben (z.B. xx.x)!\nBitte Punkt anstatt Komma verwenden!",
           "instruction": "Please only fill in at most one digit after the comma, e.g. xx.x, and use a decimal point instead of a comma.",
           "scale": "txt",
-          "sn": 1
+          "sn": 1,
+          "number": ""
         },
         {
           "item": "2",
@@ -36358,7 +36484,8 @@
           "instruction_de": "Achtung! Sollte das Lotteriespiel nicht eingeblendet worden sein, wenden Sie sich bitte an die Hotline!",
           "instruction": "Attention: Should the lottery game not have shown up, please call the hotline!",
           "scale": "txt",
-          "sn": 2
+          "sn": 2,
+          "number": ""
         },
         {
           "item": "Schirm4L",
@@ -36367,7 +36494,8 @@
           "instruction": "euros",
           "scale": "int",
           "concept": "schirm4l",
-          "sn": 3
+          "sn": 3,
+          "number": ""
         }
       ],
       "sn": 593,
@@ -36385,7 +36513,8 @@
           "text": "Please indicate for the exercise \u201dlottery\u201c right before,\nhow understandable it is formulated for the target subject and how you would evaluate the willingness to participate of the target subject.",
           "scale": "txt",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "1",
@@ -36393,7 +36522,8 @@
           "text_de": "Bewertung nach Schulnoten!\n\n1 = \u201esehr gut\u201c\n\n2 = \u201egut\u201c\n\n3 = \u201ebefriedigend\u201c\n\n4 = \u201eausreichend\u201c\n\n5 = \u201emangelhaft\u201c\n\n6 = \u201eungen\u00fcgend\u201c",
           "text": "Evaluation by school grades:\n\n1 = \u201dvery good\u201c\n\n2 = \u201dgood\u201c\n\n3 = \u201dsatisfactory\u201c\n\n4 = \u201dsufficient\u201c\n\n5 = \u201dpoor / fail\u201c\n\n6 = \u201dvery poor / fail\u201c",
           "scale": "txt",
-          "sn": 1
+          "sn": 1,
+          "number": ""
         },
         {
           "item": "2",
@@ -36402,7 +36532,8 @@
           "text": "intelligibility",
           "scale": "int",
           "concept": "schirm5l1",
-          "sn": 2
+          "sn": 2,
+          "number": ""
         },
         {
           "item": "3",
@@ -36411,7 +36542,8 @@
           "text": "willingness to participate",
           "scale": "int",
           "concept": "schirm5l2",
-          "sn": 3
+          "sn": 3,
+          "number": ""
         }
       ],
       "sn": 594,
@@ -36426,7 +36558,8 @@
           "template.id": 2720,
           "scale": "txt",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "1",
@@ -36447,7 +36580,8 @@
               "label": "No further explanation"
             }
           ],
-          "sn": 1
+          "sn": 1,
+          "number": ""
         }
       ],
       "sn": 595,
@@ -36466,7 +36600,8 @@
           "scale": "txt",
           "concept": "schirm6l",
           "sn": 0,
-          "item": "root"
+          "item": "root",
+          "number": ""
         },
         {
           "item": "1",
@@ -36475,7 +36610,8 @@
           "text": "Signature recipient:",
           "scale": "txt",
           "concept": "schirm6lx",
-          "sn": 1
+          "sn": 1,
+          "number": ""
         }
       ],
       "sn": 596,
