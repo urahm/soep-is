@@ -1,0 +1,265 @@
+{
+  "cid": {
+    "study": "soep-is",
+    "name": "cid",
+    "name_cs": "cid",
+    "variable": "cid",
+    "dataset": "hhrf",
+    "label": "Case-ID, Original Household Number",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": [],
+      "labels_de": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2e+05",
+        "871900",
+        "937300",
+        "1852000",
+        "4033000",
+        "4127000",
+        "13920",
+        "0"
+      ]
+    },
+    "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "survey",
+    "boost": "1",
+    "period": "long",
+    "label_de": "Ursprungshaushaltsnummer"
+  },
+  "hid": {
+    "study": "soep-is",
+    "name": "hid",
+    "name_cs": "hid",
+    "variable": "hid",
+    "dataset": "hhrf",
+    "label": "Current Wave HH Number",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": [],
+      "labels_de": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "115400",
+        "874300",
+        "934600",
+        "1841000",
+        "4031000",
+        "4127000",
+        "13920",
+        "0"
+      ]
+    },
+    "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "survey",
+    "boost": "1",
+    "period": "long",
+    "label_de": "Aktuelle Haushaltsnummer"
+  },
+  "syear": {
+    "study": "soep-is",
+    "name": "syear",
+    "name_cs": "syear",
+    "variable": "syear",
+    "dataset": "hhrf",
+    "label": "Survey Year",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1504,
+        2277,
+        3173,
+        3721,
+        3245
+      ],
+      "labels": [
+        "-6",
+        "[-5] nicht im Fragebogen enthalten",
+        "-4",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "labels_de": [
+        "-6",
+        "[-5] nicht im Fragebogen enthalten",
+        "-4",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "13920",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "survey",
+    "boost": "1",
+    "period": "long",
+    "label_de": "Befragungsjahr"
+  },
+  "hbleib": {
+    "study": "soep-is",
+    "name": "hbleib",
+    "name_cs": "hbleib",
+    "variable": "hbleib",
+    "dataset": "hhrf",
+    "label": "Inverse Staying Probability",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": [],
+      "labels_de": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "1.08",
+        "0.8873",
+        "1.19",
+        "5.07",
+        "13920",
+        "0"
+      ]
+    },
+    "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "survey",
+    "boost": "1",
+    "period": "long",
+    "label_de": "Inverse Bleibewahrscheinlichkeit"
+  },
+  "hhrf": {
+    "study": "soep-is",
+    "name": "hhrf",
+    "name_cs": "hhrf",
+    "variable": "hhrf",
+    "dataset": "hhrf",
+    "label": "Weighting Factor",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": [],
+      "labels_de": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "7323",
+        "11210",
+        "14460",
+        "17530",
+        "139700",
+        "13920",
+        "0"
+      ]
+    },
+    "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "survey",
+    "boost": "1",
+    "period": "long",
+    "label_de": "Hochrechnungsfaktor"
+  }
+}
