@@ -1,0 +1,4 @@
+input_study,input_dataset,input_version,input_variable,output_study,output_dataset,output_version,output_variable
+s1,d1,y1,v1,s1,d1,y1,v2
+s1,d1,y1,v2,s1,d1,y1,v3
+s1,d1,y1,v3,s1,d1,y1,v4
