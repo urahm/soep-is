@@ -1,54 +1,150 @@
-import os, sys
 import pandas as pd
 
-sys.path.append(os.path.expanduser("~/github/ddi.py/"))
 
-from ddi.onrails.repos import merge_instruments
+def create_indirect_links_once(df: pd.DataFrame) -> pd.DataFrame:
+    """ This function gets a Dataframe as input.
+
+        The function then merges the Dataframe with itself on given keys.
+        The function returns the Dataframe with newly added lines that result from indirect links.
+    """
+
+    # merge the Dataframe with itself based on keys of input study etc. and output study.
+    # two rows match if the contents of the left side match the contents of the right side.
+
+    # row 1
+    # input_study, input_dataset, input_version, input_variable
+    # 1, 1, 1, 1
+
+    # matches row 2
+    # output_study, output_dataset, output_version, output_variable
+    # 1, 1, 1, 1
+
+    temp = df.merge(
+        df,
+        right_on=["input_study", "input_dataset", "input_version", "input_variable"],
+        left_on=["output_study", "output_dataset", "output_version", "output_variable"],
+    )
+    WANTED_COLUMNS = [
+        "input_study_x",
+        "input_dataset_x",
+        "input_version_x",
+        "input_variable_x",
+        "output_study_y",
+        "output_dataset_y",
+        "output_version_y",
+        "output_variable_y",
+    ]
+    # select only the columns for
+    # input study etc. from the left Dataframe and the output study etc. from the right Dataframe
+    temp = temp[WANTED_COLUMNS]
+
+    # Rename the rows to be of the original format
+    RENAME_COLUMNS = {
+        "input_study_x": "input_study",
+        "input_dataset_x": "input_dataset",
+        "input_version_x": "input_version",
+        "input_variable_x": "input_variable",
+        "output_study_y": "output_study",
+        "output_dataset_y": "output_dataset",
+        "output_version_y": "output_version",
+        "output_variable_y": "output_variable",
+    }
+    temp.rename(columns=RENAME_COLUMNS, inplace=True)
+
+    # add new rows to the original Dataframe, dropping duplicates
+    return df.append(temp).drop_duplicates().reset_index(drop=True)
+
+
+def create_indirect_links_recursive(df: pd.DataFrame) -> pd.DataFrame:
+    """" This function gets a Dataframe as input.
+
+        The function calls create_indirect_links_once() until no more new lines are added to the Dataframe.
+    """
+
+    df_copy = df.copy()
+
+    # As long as new lines are added to the Dataframe continue looking for indirect links
+    while True:
+        old_len = len(df_copy)
+        df_copy = create_indirect_links_once(df_copy)
+        new_len = len(df_copy)
+        if old_len == new_len:
+            break
+
+    SORT_COLUMNS = ["input_study", "input_dataset", "input_version", "input_variable"]
+    return df_copy.sort_values(by=SORT_COLUMNS).reset_index(drop=True)
+
 
 def questions_from_generations():
 
-    # Direct links
+    # The file "logical_variables.csv" contains direct links between variables and questions
+    # variable1 <relates to> question1
 
-    questions_variables = pd.read_csv("metadata/logical_variables.csv")
-    questions_variables.rename(columns={
-        "study":"study_name",
-        "dataset":"dataset_name",
-        "variable":"variable_name",
-        "questionnaire":"instrument_name",
-        "question":"question_name"
-    }, inplace=True)
-    questions_variables = questions_variables[["study_name", "dataset_name",
-        "variable_name", "instrument_name", "question_name"]]
+    logical_variables = pd.read_csv("metadata/logical_variables.csv")
+    RENAME_COLUMNS = {
+        "study": "study_name",
+        "dataset": "dataset_name",
+        "variable": "variable_name",
+        "questionnaire": "instrument_name",
+        "question": "question_name",
+    }
+    logical_variables.rename(columns=RENAME_COLUMNS, inplace=True)
+    logical_variables = logical_variables[RENAME_COLUMNS.values()]
 
-    # Indirect links
+    # There are indirect links between variables and questions if we look into "generations.csv".
+    # A variable name can be the output of another variable name, which is related to a question.
+    # variable1 <relates to> variable2
+    # variable2 <relates to> question1
+    # so variable1 relates to question1
 
     generations = pd.read_csv("metadata/generations.csv")
-    logical_variables = pd.read_csv("metadata/logical_variables.csv")
-    logical_variables = logical_variables[["dataset", "variable", "questionnaire", "question"]]
-    x = generations.merge(
+    updated_generations = create_indirect_links_recursive(generations)
+
+    indirect_relations = updated_generations.merge(
         logical_variables,
-        how="left",
         left_on=("input_dataset", "input_variable"),
-        right_on=("dataset", "variable"),
+        right_on=("dataset_name", "variable_name"),
     )
-    x = x[["output_study", "output_dataset", "output_variable", "questionnaire", "question"]]
-    x.rename(columns={
-        "output_study":"study_name",
-        "output_dataset":"dataset_name",
-        "output_variable":"variable_name",
-        "questionnaire":"instrument_name",
-        "question":"question_name",
-    }, inplace=True)
 
-    # Append
+    WANTED_COLUMNS = [
+        "output_study",
+        "output_dataset",
+        "output_variable",
+        "instrument_name",
+        "question_name",
+    ]
+    indirect_relations = indirect_relations[WANTED_COLUMNS]
 
-    questions_variables = questions_variables.append(x)
-    questions_variables.dropna(axis=0, how="any", inplace=True)
+    RENAME_COLUMNS = {
+        "output_study": "study_name",
+        "output_dataset": "dataset_name",
+        "output_variable": "variable_name",
+        "questionnaire": "instrument_name",
+        "question": "question_name",
+    }
+
+    indirect_relations.rename(columns=RENAME_COLUMNS, inplace=True)
+    # indirect_relations.dropna(inplace=True)
+
+    questions_variables = logical_variables.append(indirect_relations)
+    questions_variables.dropna(inplace=True)
     questions_variables.drop_duplicates(inplace=True)
+
+    SORT_COLUMNS = [
+        "study_name",
+        "dataset_name",
+        "variable_name",
+        "instrument_name",
+        "question_name",
+    ]
+
+    questions_variables.sort_values(by=SORT_COLUMNS, inplace=True)
     questions_variables.to_csv("ddionrails/questions_variables.csv", index=False)
+
 
 def main():
     questions_from_generations()
+
 
 if __name__ == "__main__":
     main()
