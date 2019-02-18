@@ -75,7 +75,8 @@ def create_indirect_links_recursive(df: pd.DataFrame) -> pd.DataFrame:
     return df_copy.sort_values(by=SORT_COLUMNS).reset_index(drop=True)
 
 
-def questions_from_generations(
+def create_questions_from_generations(
+    version: str,
     logical_variables_path: str = "metadata/logical_variables.csv",
     generations_path: str = "metadata/generations.csv",
 ) -> pd.DataFrame:
@@ -102,6 +103,11 @@ def questions_from_generations(
 
     generations = pd.read_csv(generations_path)
     updated_generations = create_indirect_links_recursive(generations)
+
+    # Remove rows when output version is not the specified version
+    updated_generations = updated_generations[
+        updated_generations["output_version"] == version
+    ]
 
     indirect_relations = updated_generations.merge(
         logical_variables,
@@ -141,13 +147,9 @@ def questions_from_generations(
     ]
 
     questions_variables.sort_values(by=SORT_COLUMNS, inplace=True)
-    return questions_variables
+    return questions_variables.reset_index(drop=True)
 
 
-def main():
-    questions_variables = questions_from_generations()
+def questions_from_generations(version):
+    questions_variables = create_questions_from_generations(version)
     questions_variables.to_csv("ddionrails/questions_variables.csv", index=False)
-
-
-if __name__ == "__main__":
-    main()
