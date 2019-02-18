@@ -1,2 +1,4 @@
 study_name,dataset_name,variable_name,instrument_name,question_name
+s1,d1,v1,q1,qu1
+s1,d1,v2,q1,qu1
 s1,d1,v3,q1,qu1
