@@ -75,12 +75,15 @@ def create_indirect_links_recursive(df: pd.DataFrame) -> pd.DataFrame:
     return df_copy.sort_values(by=SORT_COLUMNS).reset_index(drop=True)
 
 
-def questions_from_generations():
+def questions_from_generations(
+    logical_variables_path: str = "metadata/logical_variables.csv",
+    generations_path: str = "metadata/generations.csv",
+) -> pd.DataFrame:
 
     # The file "logical_variables.csv" contains direct links between variables and questions
     # variable1 <relates to> question1
 
-    logical_variables = pd.read_csv("metadata/logical_variables.csv")
+    logical_variables = pd.read_csv(logical_variables_path)
     RENAME_COLUMNS = {
         "study": "study_name",
         "dataset": "dataset_name",
@@ -97,7 +100,7 @@ def questions_from_generations():
     # variable2 <relates to> question1
     # so variable1 relates to question1
 
-    generations = pd.read_csv("metadata/generations.csv")
+    generations = pd.read_csv(generations_path)
     updated_generations = create_indirect_links_recursive(generations)
 
     indirect_relations = updated_generations.merge(
@@ -124,7 +127,6 @@ def questions_from_generations():
     }
 
     indirect_relations.rename(columns=RENAME_COLUMNS, inplace=True)
-    # indirect_relations.dropna(inplace=True)
 
     questions_variables = logical_variables.append(indirect_relations)
     questions_variables.dropna(inplace=True)
@@ -139,11 +141,12 @@ def questions_from_generations():
     ]
 
     questions_variables.sort_values(by=SORT_COLUMNS, inplace=True)
-    questions_variables.to_csv("ddionrails/questions_variables.csv", index=False)
+    return questions_variables
 
 
 def main():
-    questions_from_generations()
+    questions_variables = questions_from_generations()
+    questions_variables.to_csv("ddionrails/questions_variables.csv", index=False)
 
 
 if __name__ == "__main__":
