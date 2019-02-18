@@ -19,7 +19,7 @@
         "ddi": {
             "editable": true,
             "git": "https://github.com/ddionrails/ddi.py.git",
-            "ref": "a29f667c149ee9f6583dec6f6d93ece829f0b4dd"
+            "ref": "946b60b2547660130992f588c38aff80c499efc7"
         },
         "jinja2": {
             "hashes": [
