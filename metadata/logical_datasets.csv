@@ -3,6 +3,7 @@ soep-is,bio,Variables from the Life Course Question Module,,org/net,p,long
 soep-is,bioage,Variables from the Modules of Questions on Children,,org/net,p,long
 soep-is,biobirth,Birth Biography of Female and Male Respondents,,track,p,long
 soep-is,bioparen,,,org/net,p,long
+soep-is,cognit,,,org/net,p,long
 soep-is,h,Variables from the Household Question Module,,org/net,h,long
 soep-is,hbrutto,Household-related Gross File,,org/gross,h,long
 soep-is,hgen,Household-related Status and Generated Variables,,gen,h,long
@@ -11,13 +12,16 @@ soep-is,idrm,Person-related Data from Innovative DRM Module,,org/net,p,long
 soep-is,idrm_esm,,,org/net,p,long
 soep-is,iesm,,,org/net,p,long
 soep-is,inno,Variables from the Innovation Modules,,org/net,p,long
+soep-is,inno_h,HOUSEHOLD? Variables from the Innovation Modules,,org/net,p,long
+soep-is,intv,,,org/net,p,long
+soep-is,irisk,,,,p,long
 soep-is,kid,Pooled Dataset on Children,,track,p,long
 soep-is,p,Variables from the Individual Question Module,,org/net,p,long
 soep-is,pbrutto,Person-related Gross File,,org/gross,p,long
 soep-is,pgen,Person-related Status and Generated Variables,,gen,p,long
 soep-is,phrf,,,survey,p,long
 soep-is,ppfad,Person-related Meta-dataset,,track,p,long
-soep-is,cognit,,,org/net,p,long
+soep-is,hpfad,DEPRECATED (2012 ist last version which contains daatset),,track,h,long
 soep-is,CSM12_IS_W4,,,raw,,2012
 soep-is,DRM12_IS_W4,,,raw,,2012
 soep-is,H12_IS_W4,,,raw,,2012
@@ -116,3 +120,25 @@ soep-is,PRP15_Inno,,,raw,,2015
 soep-is,SIM15_Inno,,,raw,,2015
 soep-is,SPO15_Inno,,,raw,,2015
 soep-is,DRM15_Inno,,,raw,,2015
+soep-is,Inno16F_EXP_final,,,raw,,2016
+soep-is,Inno16F_HH_final,,,raw,,2016
+soep-is,Inno16F_IEA_final,,,raw,,2016
+soep-is,Inno16F_IEB_final,,,raw,,2016
+soep-is,Inno16F_IHAP_final,,,raw,,2016
+soep-is,Inno16F_IMF_final,,,raw,,2016
+soep-is,Inno16F_IP_final,,,raw,,2016
+soep-is,Inno16F_ISK_final,,,raw,,2016
+soep-is,Inno16F_ISS_final,,,raw,,2016
+soep-is,Inno16F_IT_final,,,raw,,2016
+soep-is,Inno16F_IWA_final,,,raw,,2016
+soep-is,Inno16F_IWD_final,,,raw,,2016
+soep-is,Inno16F_MA_final,,,raw,,2016
+soep-is,Inno16F_MB_final,,,raw,,2016
+soep-is,Inno16F_MC_final,,,raw,,2016
+soep-is,Inno16F_PE_final,,,raw,,2016
+soep-is,Inno16F_PRE_final,,,raw,,2016
+soep-is,Inno16F_SIM_final,,,raw,,2016
+soep-is,notdirectlydelivered2016,,,raw,,2016
+soep-is,H16_InnoA,,,raw,,2016
+soep-is,P16_InnoA,,,raw,,2016
+soep-is,SIM16_InnoA,,,raw,,2016
