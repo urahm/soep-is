@@ -6,11 +6,11 @@ def test_questions_questionnaries():
     Every question in "questions.csv" should reference a
     questionnaire that is defined in questionnaires.csv
     """
-    questions = pd.read_csv("../metadata/questions.csv")
+    questions = pd.read_csv("metadata/questions.csv")
     assert "questionnaire" in questions.columns
     assert "study" in questions.columns
 
-    questionnaires = pd.read_csv("../metadata/questionnaires.csv")
+    questionnaires = pd.read_csv("metadata/questionnaires.csv")
     assert "questionnaire" in questionnaires.columns
     assert "study" in questionnaires.columns
 
