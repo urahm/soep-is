@@ -1,0 +1,13 @@
+dist: xenial
+language: python
+python: "3.6"
+cache:
+  - pip
+before_install:
+  - cd lib_py/
+install:
+  - pip install pipenv
+  - pipenv install --dev
+script:
+  - pytest
+  
