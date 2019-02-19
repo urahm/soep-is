@@ -26,7 +26,6 @@ for particularly innovative research projects. The SOEP-IS is primarily availabl
 SOEP-IS
 * is based on an evaluation conducted by the German Council of Science and Humanities.
 * is a longitudinal sample for particularly innovative survey methods and behavioral experiments.
-* will be further developed in the period from 2012 to 2017 and should be fully developed by 2017.
 
 A two-step module of Governance is established to regulate topics and question modules: first, the SOEP survey
 management runs a basic methodological test to establish whether the size, format, and survey mode outlined in
