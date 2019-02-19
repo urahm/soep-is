@@ -5,9 +5,14 @@ cache:
   - pip
 before_install:
   - cd lib_py/
+  - pwd
 install:
   - pip install pipenv
   - pipenv install --dev
+  - pip list
+  - pipenv graph
+  - pwd
+before_script:
+  - cd ..
 script:
   - pytest lib_py/validators.py -sv
-  
