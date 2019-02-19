@@ -1,6 +1,6 @@
 import json
-from pprint import pprint
 
+import click
 import pytest
 
 import great_expectations as ge
@@ -39,7 +39,7 @@ def validate(data_filename, expectations_filename):
     results = df.validate(result_format="COMPLETE")
     for result in results["results"]:
         if result["success"] is False:
-            pprint(result)
+            click.secho(json.dumps(result, indent=2), fg="red")
     assert results["success"] is True
 
 
@@ -68,8 +68,9 @@ def validate_question_questionnaire_relationship(questions, questionnaires):
     results = questions.expect_column_values_to_be_in_set(
         "questionnaire", unique_questionnaires, result_format="COMPLETE"
     )
-    pprint(results)
-    assert results["success"]
+    if results["success"] is False:
+        click.secho(json.dumps(results, indent=2), fg="red")
+    assert results["success"] is True
 
 
 def validate_questionnaires():
