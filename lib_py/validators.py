@@ -1,4 +1,8 @@
+from colorama import Fore, init
+
 import pandas as pd
+
+init()
 
 
 def test_questions_questionnaries():
@@ -28,11 +32,12 @@ def test_questions_questionnaries():
         unique_questionnaires = questionnaires_not_defined["questionnaire"].unique()
         print()
         print(
-            f'Questionnaires not defined in "questionnaires.csv": {unique_questionnaires}'
+            Fore.RED
+            + f'Questionnaires not defined in "questionnaires.csv": {unique_questionnaires}'
         )
-        print('\nAffected rows in "questions.csv"')
+        print('\nAffected rows in "questions.csv":')
         print(questions[questions["questionnaire"].isin(unique_questionnaires)])
-        print()
+        print(Style.RESET_ALL, end="")
 
     assert len(questionnaires_not_used) == 0
     assert (
