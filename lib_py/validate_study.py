@@ -5,9 +5,11 @@ import pytest
 
 import great_expectations as ge
 
+ANSWERS_FILENAME = "../metadata/answers.csv"
 QUESTIONS_FILENAME = "../metadata/questions.csv"
 QUESTIONNAIRES_FILENAME = "../metadata/questionnaires.csv"
 
+ANSWERS_EXPECTATIONS_FILENAME = "expectations/answers.json"
 QUESTIONS_EXPECTATIONS_FILENAME = "expectations/questions.json"
 QUESTIONNAIRES_EXPECTATIONS_FILENAME = "expectations/questionnaires.json"
 
@@ -22,6 +24,14 @@ def questions():
     return ge.read_csv(
         QUESTIONS_FILENAME,
         expectations_config=load_expectations(QUESTIONS_EXPECTATIONS_FILENAME),
+    )
+
+
+@pytest.fixture
+def answers():
+    return ge.read_csv(
+        ANSWERS_FILENAME,
+        expectations_config=load_expectations(ANSWERS_EXPECTATIONS_FILENAME),
     )
 
 
@@ -44,7 +54,7 @@ def validate(data_filename, expectations_filename):
 
 
 def validate_answers():
-    pass
+    validate(ANSWERS_FILENAME, ANSWERS_EXPECTATIONS_FILENAME)
 
 
 def validate_logical_variables():
@@ -63,14 +73,28 @@ def validate_questions():
     validate(QUESTIONS_FILENAME, QUESTIONS_EXPECTATIONS_FILENAME)
 
 
-def validate_question_questionnaire_relationship(questions, questionnaires):
-    unique_questionnaires = questionnaires["questionnaire"].unique()
-    results = questions.expect_column_values_to_be_in_set(
-        "questionnaire", unique_questionnaires, result_format="COMPLETE"
+def foreign_key_relationship(df1, df2, key):
+    unique_values = df2[key].unique()
+    results = df1.expect_column_values_to_be_in_set(
+        key, unique_values, result_format="COMPLETE"
     )
     if results["success"] is False:
         click.secho(json.dumps(results, indent=2), fg="red")
     assert results["success"] is True
+
+
+def validate_question_questionnaire_relationship(questions, questionnaires):
+    """ Every entry in the column "questionnaire" in "questions.csv"
+        has to be defined in "questionnaires.csv"
+    """
+    foreign_key_relationship(questions, questionnaires, "questionnaire")
+
+
+def validate_answers_questionnaire_relationship(answers, questionnaires):
+    """ Every entry in the column "questionnaire" in "answers.csv"
+        has to be defined in "questionnaires.csv"
+    """
+    foreign_key_relationship(answers, questionnaires, "questionnaire")
 
 
 def validate_questionnaires():
