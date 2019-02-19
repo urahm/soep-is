@@ -10,13 +10,12 @@ def test_questions_questionnaries():
     Every question in "questions.csv" should reference a
     questionnaire that is defined in questionnaires.csv
     """
+    WANTED_COLUMNS = {"study", "questionnaire"}
     questions = pd.read_csv("metadata/questions.csv")
-    assert "questionnaire" in questions.columns
-    assert "study" in questions.columns
+    assert WANTED_COLUMNS.issubset(questions.columns)
 
     questionnaires = pd.read_csv("metadata/questionnaires.csv")
-    assert "questionnaire" in questionnaires.columns
-    assert "study" in questionnaires.columns
+    assert WANTED_COLUMNS.issubset(questionnaires.columns)
 
     # merge two files based on "questionnaire"
     merged = questions.merge(questionnaires, on="questionnaire", how="outer")
@@ -35,8 +34,15 @@ def test_questions_questionnaries():
             Fore.RED
             + f'Questionnaires not defined in "questionnaires.csv": {unique_questionnaires}'
         )
-        print('\nAffected rows in "questions.csv":')
-        print(questions[questions["questionnaire"].isin(unique_questionnaires)])
+
+        row_indices = questions[
+            questions["questionnaire"].isin(unique_questionnaires)
+        ].index.tolist()
+        print(Fore.RED + f'\nAffected rows in "questions.csv": {row_indices}')
+        print(
+            Fore.RED
+            + f'{questions[questions["questionnaire"].isin(unique_questionnaires)]}'
+        )
         print(Style.RESET_ALL, end="")
 
     assert len(questionnaires_not_used) == 0
