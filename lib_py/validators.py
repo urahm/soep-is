@@ -1,4 +1,4 @@
-from colorama import Fore, init
+from colorama import Fore, Style, init
 
 import pandas as pd
 
