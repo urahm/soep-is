@@ -1603,11 +1603,11 @@ soep-is,soep-is-2012-aufwuchs,46+,9,September,September
 soep-is,soep-is-2012-aufwuchs,46+,10,Oktober,October
 soep-is,soep-is-2012-aufwuchs,46+,11,November,November
 soep-is,soep-is-2012-aufwuchs,46+,12,Dezember,December
-soep-is,soep-is-2012-aufwuchs,469+,1,Ein reines Wohngebiet mit überwiegend Altbauten,
-soep-is,soep-is-2012-aufwuchs,469+,2,Ein reines Wohngebiet mit überwiegend Neubauten,
-soep-is,soep-is-2012-aufwuchs,469+,3,Ein Mischgebiet mit Wohnungen und Geschäften bzw. Gewerbebetrieben,
-soep-is,soep-is-2012-aufwuchs,469+,4,"Ein Geschäftszentrum (Läden, Banken, Verwaltungen) mit wenigen Wohnungen",
-soep-is,soep-is-2012-aufwuchs,469+,5,Ein Gewerbe- bzw. Industriegebiet mit wenigen Wohnungen,
+soep-is,soep-is-2012-aufwuchs,469+,1,Ein reines Wohngebiet mit überwiegend Altbauten,A residential area with mostly old buildings
+soep-is,soep-is-2012-aufwuchs,469+,2,Ein reines Wohngebiet mit überwiegend Neubauten,A residential area with mostly newer buildings
+soep-is,soep-is-2012-aufwuchs,469+,3,Ein Mischgebiet mit Wohnungen und Geschäften bzw. Gewerbebetrieben,"A residential and commercial area with flats, houses, shops and businesses"
+soep-is,soep-is-2012-aufwuchs,469+,4,"Ein Geschäftszentrum (Läden, Banken, Verwaltungen) mit wenigen Wohnungen","A commercial area (shops, banks, offices) with few residential dwellings"
+soep-is,soep-is-2012-aufwuchs,469+,5,Ein Gewerbe- bzw. Industriegebiet mit wenigen Wohnungen,An industrial area with few residential dwellings
 soep-is,soep-is-2012-aufwuchs,53+173,1,1 Trifft überhaupt nicht zu,1  Absolutly does not apply
 soep-is,soep-is-2012-aufwuchs,53+173,2,2,2
 soep-is,soep-is-2012-aufwuchs,53+173,3,3,3
@@ -2102,19 +2102,19 @@ soep-is,soep-is-2012-haupt,413+16,6,6,6
 soep-is,soep-is-2012-haupt,413+16,7,7 langweilig,7 boring
 soep-is,soep-is-2012-haupt,413+16,-1,Keine Angabe,No answer
 soep-is,soep-is-2012-haupt,414+16,1,1 glaubwürdig,1 authentic
-soep-is,soep-is-2012-haupt,414+16,2,2,
-soep-is,soep-is-2012-haupt,414+16,3,3,
-soep-is,soep-is-2012-haupt,414+16,4,4,
-soep-is,soep-is-2012-haupt,414+16,5,5,
-soep-is,soep-is-2012-haupt,414+16,6,6,
+soep-is,soep-is-2012-haupt,414+16,2,2,2
+soep-is,soep-is-2012-haupt,414+16,3,3,3
+soep-is,soep-is-2012-haupt,414+16,4,4,4
+soep-is,soep-is-2012-haupt,414+16,5,5,5
+soep-is,soep-is-2012-haupt,414+16,6,6,6
 soep-is,soep-is-2012-haupt,414+16,7,7 unglaubwürdig,7 not authentic
 soep-is,soep-is-2012-haupt,414+16,-1,Keine Angabe,No answer
 soep-is,soep-is-2012-haupt,415+16,1,1 zu kurz,1 too short
-soep-is,soep-is-2012-haupt,415+16,2,2,
-soep-is,soep-is-2012-haupt,415+16,3,3,
-soep-is,soep-is-2012-haupt,415+16,4,4,
-soep-is,soep-is-2012-haupt,415+16,5,5,
-soep-is,soep-is-2012-haupt,415+16,6,6,
+soep-is,soep-is-2012-haupt,415+16,2,2,2
+soep-is,soep-is-2012-haupt,415+16,3,3,3
+soep-is,soep-is-2012-haupt,415+16,4,4,4
+soep-is,soep-is-2012-haupt,415+16,5,5,5
+soep-is,soep-is-2012-haupt,415+16,6,6,6
 soep-is,soep-is-2012-haupt,415+16,7,7 zu lang,7 to long
 soep-is,soep-is-2012-haupt,415+16,-1,Keine Angabe,No answer
 soep-is,soep-is-2012-haupt,416+,1,Werde den Film auf jeden Fall weiterempfehlen oder zeigen,Will recommend or show the film definitely
@@ -5347,13 +5347,13 @@ soep-is,soep-is-2014-f,567+568,-2,Keine Angabe,No Answer
 soep-is,soep-is-2014-f,569+16,1,PKW,Household Has One Or More Cars
 soep-is,soep-is-2014-f,569+16,2,Motorrad / Moped,"Motorcycle, moped"
 soep-is,soep-is-2014-f,569+16,-1,Keine Angabe,No answer
-soep-is,soep-is-2014-f,570+16,1,"5,00%","5,00%"
-soep-is,soep-is-2014-f,570+16,2,"20,00%","20,00%"
-soep-is,soep-is-2014-f,570+16,3,"33,00%","33,00%"
-soep-is,soep-is-2014-f,570+16,4,"50,00%","50,00%"
-soep-is,soep-is-2014-f,570+16,5,"66,00%","66,00%"
-soep-is,soep-is-2014-f,570+16,6,"80,00%","80,00%"
-soep-is,soep-is-2014-f,570+16,7,"95,00%","95,00%"
+soep-is,soep-is-2014-f,570+16,1,"5,00 %","5,00 %"
+soep-is,soep-is-2014-f,570+16,2,"20,00 %","20,00 %"
+soep-is,soep-is-2014-f,570+16,3,"33,00 %","33,00 %"
+soep-is,soep-is-2014-f,570+16,4,"50,00 %","50,00 %"
+soep-is,soep-is-2014-f,570+16,5,"66,00 %","66,00 %"
+soep-is,soep-is-2014-f,570+16,6,"80,00 %","80,00 %"
+soep-is,soep-is-2014-f,570+16,7,"95,00 %","95,00 %"
 soep-is,soep-is-2014-f,570+16,8,weiß nicht,Don’t know
 soep-is,soep-is-2014-f,570+16,-1,Keine Angabe,No answer
 soep-is,soep-is-2014-f,571+,1,Split 1,Split 1
@@ -7192,3 +7192,1757 @@ soep-is,soep-is-2015,90+16,1,Täglich,Daily
 soep-is,soep-is-2015,90+16,2,Wöchentlich,Weekly
 soep-is,soep-is-2015,90+16,3,Seltener,Less often
 soep-is,soep-is-2015,90+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,1+,1,Ja,Yes
+soep-is,soep-is-2016-a,1+,2,Nein,No
+soep-is,soep-is-2016-a,1+16,1,Ja,Yes
+soep-is,soep-is-2016-a,1+16,2,Nein,No
+soep-is,soep-is-2016-a,1+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,101+16,1,Einfacher Dienst,Lower level
+soep-is,soep-is-2016-a,101+16,2,Mittlerer Dienst,Middle level
+soep-is,soep-is-2016-a,101+16,3,Gehobener Dienst,Upper level
+soep-is,soep-is-2016-a,101+16,4,Höherer Dienst,Executive level
+soep-is,soep-is-2016-a,101+16,5,Weiß nicht,Don't know
+soep-is,soep-is-2016-a,101+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,1015+16,1,unter 5 Beschäftigte,less than 5 people
+soep-is,soep-is-2016-a,1015+16,2,5 bis 10 Beschäftigte,from 5 up to 10 people
+soep-is,soep-is-2016-a,1015+16,3,11 bis unter 20 Beschäftigte,"from 11 up to, but less than 20 people"
+soep-is,soep-is-2016-a,1015+16,4,20 bis unter 100 Beschäftigte,"from 20 up to, but less than 100 people"
+soep-is,soep-is-2016-a,1015+16,5,100 bis unter 200 Beschäftigte,"from 100 up to, but less than 200 people"
+soep-is,soep-is-2016-a,1015+16,6,200 bis unter 2.000 Beschäftigte,"from 200 up to, but less than 2,000 people"
+soep-is,soep-is-2016-a,1015+16,7,2.000 und mehr Beschäftigte,"2,000 or more people"
+soep-is,soep-is-2016-a,1015+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,102+16,1,Selbständiger Landwirt ohne Beschäftigte,Self-employed farmer without employees
+soep-is,soep-is-2016-a,102+16,2,Selbständiger Landwirt mit Beschäftigte,Self-employed farmer with employees
+soep-is,soep-is-2016-a,102+16,3,"Freie Berufe, selbständiger Akademiker ohne Beschäftigte",Freelance professional or academic without employees
+soep-is,soep-is-2016-a,102+16,4,"Freie Berufe, selbständiger Akademiker mit Beschäftigte",Freelance professional or academic with employees
+soep-is,soep-is-2016-a,102+16,5,Sonstige Selbständiger ohne Beschäftigte,Other self-employed professional without employees
+soep-is,soep-is-2016-a,102+16,6,Sonstige Selbständiger mit Beschäftigte,Other self-employed professional with employees
+soep-is,soep-is-2016-a,102+16,7,Mithelfender Familienangehöriger,Assisting self-employed family member
+soep-is,soep-is-2016-a,102+16,8,Weiß nicht,Don't know
+soep-is,soep-is-2016-a,102+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,1037+16,1,Gar nicht risikobereit 0,Risk averse 0
+soep-is,soep-is-2016-a,1037+16,2,1,1
+soep-is,soep-is-2016-a,1037+16,3,2,2
+soep-is,soep-is-2016-a,1037+16,4,3,3
+soep-is,soep-is-2016-a,1037+16,5,4,4
+soep-is,soep-is-2016-a,1037+16,6,5,5
+soep-is,soep-is-2016-a,1037+16,7,6,6
+soep-is,soep-is-2016-a,1037+16,8,7,7
+soep-is,soep-is-2016-a,1037+16,9,8,8
+soep-is,soep-is-2016-a,1037+16,10,9,9
+soep-is,soep-is-2016-a,1037+16,11,Sehr risikobereit 10,Risk prone 10
+soep-is,soep-is-2016-a,1037+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,104+16,1,Ungelernte Arbeiterin,Unskilled worker (ungelernt)
+soep-is,soep-is-2016-a,104+16,2,Angelernte Arbeiterin,Semi-skilled worker (angelernt)
+soep-is,soep-is-2016-a,104+16,3,Gelernte und Facharbeiterin,Trained worker (gelernter Arbeiter) or skilled worker (Facharbeiter)
+soep-is,soep-is-2016-a,104+16,4,"Vorarbeiterin, Kolonnenführerin",Foreman / forewoman (Vorarbeiter / Kolonnenführer)
+soep-is,soep-is-2016-a,104+16,5,"Meister, Polier",Master craftsperson (Meister / Polierer)
+soep-is,soep-is-2016-a,104+16,6,Weiß nicht,Don't know
+soep-is,soep-is-2016-a,104+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,107+16,1,Katholisch,Catholic
+soep-is,soep-is-2016-a,107+16,2,Evangelisch,Protestant
+soep-is,soep-is-2016-a,107+16,3,Mitglied einer anderen christlichen Religionsgemeinschaft,Member of another Christian denomination or religious community
+soep-is,soep-is-2016-a,107+16,4,Mitglied einer islamischen Religionsgemeinschaft,Member of an Islamic religious community
+soep-is,soep-is-2016-a,107+16,5,Mitglied einer anderen Religionsgemeinschaft,Member of another religious community
+soep-is,soep-is-2016-a,107+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,108+16,1,Sehr gut,Very good
+soep-is,soep-is-2016-a,108+16,2,Gut,Good
+soep-is,soep-is-2016-a,108+16,3,Zufriedenstellend,Satisfactory
+soep-is,soep-is-2016-a,108+16,4,Weniger gut,Poor
+soep-is,soep-is-2016-a,108+16,5,Schlecht,Bad
+soep-is,soep-is-2016-a,108+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,109+41,1,Stark,A lot
+soep-is,soep-is-2016-a,109+41,2,Ein wenig,A little
+soep-is,soep-is-2016-a,109+41,3,Gar nicht,Not at all
+soep-is,soep-is-2016-a,109+41,-2,Keine Angabe,No answer
+soep-is,soep-is-2016-a,112+16,1,In einer gesetzlichen Krankenversicherung,Statutory health insurance
+soep-is,soep-is-2016-a,112+16,2,Ausschließlich privat versichert,Private insurance only
+soep-is,soep-is-2016-a,112+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,120+,1,Fragen zum Haushalt beantworten,Answer questions about the houshold
+soep-is,soep-is-2016-a,120+,2,Fragen zum Haushalt überspringen,Skip questions about the houshold
+soep-is,soep-is-2016-a,128+,1,Hauptmieter,Main tenant
+soep-is,soep-is-2016-a,128+,2,Untermieter,Subtenant
+soep-is,soep-is-2016-a,128+,3,Eigentümer,Owner
+soep-is,soep-is-2016-a,1301+,1,Weiß nicht,Don't know
+soep-is,soep-is-2016-a,1301+,2,"Betrag kann nicht getrennt werde, ist in den Heizkosten enthalten","Cannot separate gas from heating costs, amount stated above"
+soep-is,soep-is-2016-a,1301+,3,Keine Kosten für Gas,No gas costs
+soep-is,soep-is-2016-a,135+16,1,Sehr stark,Very interested
+soep-is,soep-is-2016-a,135+16,2,Stark,Moderately interested
+soep-is,soep-is-2016-a,135+16,3,Nicht so stark,Not so interested
+soep-is,soep-is-2016-a,135+16,4,Überhaupt nicht,Completely disinterested
+soep-is,soep-is-2016-a,135+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,137+,1,Seit Geburt,Since birth
+soep-is,soep-is-2016-a,137+,2,Erst später erworben,At a later date
+soep-is,soep-is-2016-a,140+16,1,durch Trennung,Separation
+soep-is,soep-is-2016-a,140+16,2,durch Tod,Death
+soep-is,soep-is-2016-a,140+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,178+16,1,Hauptschule,Lower secondary school (Hauptschule)
+soep-is,soep-is-2016-a,178+16,2,Realschule,Intermediate secondary school (Realschule)
+soep-is,soep-is-2016-a,178+16,3,Gymnasium,Upper secondary school (Gymnasium)
+soep-is,soep-is-2016-a,178+16,4,Gesamtschule,Comprehensive school (Gesamtschule)
+soep-is,soep-is-2016-a,178+16,5,"Abendrealschule, Abendgymnasium",Evening intermediate / upper secondary school (Abendrealschule / Abendgymnasium)
+soep-is,soep-is-2016-a,178+16,6,Fachoberschule,Specialized upper secondary school (Fachoberschule)
+soep-is,soep-is-2016-a,178+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,18+16,1,Niedriger als 1.500 Euro,less than 1.500 euros
+soep-is,soep-is-2016-a,18+16,2,Höher als 1.500 Euro,more than 1.500 euros
+soep-is,soep-is-2016-a,18+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,182+16,1,Industrie- und Werkmeister im Angestelltenverhältnis,"Industry or factory foreman / forewoman (Industriemeister, Werkmeister) in a salaried position"
+soep-is,soep-is-2016-a,182+16,2,Angestellte mit einfacher Tätigkeit ohne Ausbildungsabschluss,Salaried employee engaged in unskilled activities (Angestellter mit einfacher Tätigkeit) without completed training/education
+soep-is,soep-is-2016-a,182+16,3,Angestellte mit einfacher Tätigkeit mit Ausbildungsabschluss,Salaried employee engaged in unskilled activities (Angestellter mit einfacher Tätigkeit) with completed training/education
+soep-is,soep-is-2016-a,182+16,4,"Angestellte mit qualifizierter Tätigkeit wie zum Beispiel Sachbearbeiter, Buchhalter oder technischer Zeichner","Salaried employee engaged in skilled activities (Angestellter mit qualifizierter Tätigkeit) (e.g., executive officer, bookkeeper, technical draftsperson)"
+soep-is,soep-is-2016-a,182+16,5,"Angestellte mit hochqualifizierter Tätigkeit oder Leitungsfunktionen wie zum Beispiel wissenschaftlicher Mitarbeiter, Ingenieur oder Abteilungsleiter","Salaried employee engaged in highly skilled activities (Angestellter mit hochqualifizierter Tätigkeit) or managerial functions (e.g., scientist, engineer, department head)"
+soep-is,soep-is-2016-a,182+16,6,"Angestellte mit umfassenden Führungsaufgaben wie zum Beispiel Direktor, Geschäftsführer oder Vorstand größerer Betriebe und Verbände","Salaried employee with extensive managerial duties (Angestellter mit umfassenden Führungsaufgaben) (e.g., managing director, head of a large firm or association)"
+soep-is,soep-is-2016-a,182+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,183+16,1,Auszubildende im gewerblich-technischen Bereich,Apprentice / trainee in industry of technology
+soep-is,soep-is-2016-a,183+16,2,Auszubildende im kaufmännischen Bereich,Apprentice / trainee in trade and commerce
+soep-is,soep-is-2016-a,183+16,3,"Volontäre, Praktikanten und ähnliches","Volunteer, intern, etc"
+soep-is,soep-is-2016-a,183+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,187+16,1,Selbständige Landwirte,Self-employed farmer
+soep-is,soep-is-2016-a,187+16,2,"Freie Berufe, selbständige Akademiker",Freelance professional / self-employed academic
+soep-is,soep-is-2016-a,187+16,3,Sonstige Selbständige,Other self-employed people
+soep-is,soep-is-2016-a,187+16,4,Mithelfende Familienangehörige,Working for a self-employed relative
+soep-is,soep-is-2016-a,187+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,188+16,1,Keine,None
+soep-is,soep-is-2016-a,188+16,2,1-9,1-9
+soep-is,soep-is-2016-a,188+16,3,10 und mehr,more than 10
+soep-is,soep-is-2016-a,188+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,19+16,1,Niedriger als 750 Euro,less than 750 euros
+soep-is,soep-is-2016-a,19+16,2,Höher als 750 Euro,more than 750 euros
+soep-is,soep-is-2016-a,19+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2+16,1,männlich,Male
+soep-is,soep-is-2016-a,2+16,2,weiblich,Female
+soep-is,soep-is-2016-a,2+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,20+16,1,Niedriger als 2.500 Euro,less than 2.500 euros
+soep-is,soep-is-2016-a,20+16,2,Höher als 2.500 Euro,more than 2.500 euros
+soep-is,soep-is-2016-a,20+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2015+,1,"[Befragung in der gleichen Wohnung, unter der gleichen Adresse:] - auch sonst keine Veränderung, es ist die gleiche Person / sind die gleichen Personen",
+soep-is,soep-is-2016-a,2015+,2,"[Befragung in der gleichen Wohnung, unter der gleichen Adresse:] - aber mindestens eine Person ist zum Haushalt hinzugekommen oder hat den Haushalt verlassen",
+soep-is,soep-is-2016-a,2015+,3,"[Befragung das erste Mal in dieser Wohnung, unter dieser Adresse:] - nach Umzug des Haushalts von Leben in Deutschland",
+soep-is,soep-is-2016-a,2015+,4,"[Befragung das erste Mal in dieser Wohnung, unter dieser Adresse:] - nach Neugründung eines Haushalts für Leben in Deutschland, durch Zuzug eines oder mehrerer Teilnehmer von Leben in Deutschland",
+soep-is,soep-is-2016-a,2016+16,1,Landwirtschaftliches Wohngebäude,
+soep-is,soep-is-2016-a,2016+16,2,Freistehendes Ein- oder Zweifamilienhaus,
+soep-is,soep-is-2016-a,2016+16,3,Ein- oder Zweifamilienhaus als Reihenhaus oder Doppelhaus,
+soep-is,soep-is-2016-a,2016+16,4,Wohnhaus mit 3 bis 4 Wohnungen,
+soep-is,soep-is-2016-a,2016+16,5,Wohnhaus mit 5-8 Wohnungen,
+soep-is,soep-is-2016-a,2016+16,6,"Wohnhaus mit 9 und mehr Wohnungen, aber höchstens 8 Stockwerken; also kein Hochhaus",
+soep-is,soep-is-2016-a,2016+16,7,Hochhaus mit 9 und mehr Stockwerken,
+soep-is,soep-is-2016-a,2016+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2017+16,1,Vor 1919,
+soep-is,soep-is-2016-a,2017+16,2,1919 bis 1948,
+soep-is,soep-is-2016-a,2017+16,3,1949 bis 1971,
+soep-is,soep-is-2016-a,2017+16,4,1972 bis 1980,
+soep-is,soep-is-2016-a,2017+16,5,1981 bis 1990,
+soep-is,soep-is-2016-a,2017+16,6,1991 bis 2000,
+soep-is,soep-is-2016-a,2017+16,7,2001 bis 2010,
+soep-is,soep-is-2016-a,2017+16,8,2011 und später,
+soep-is,soep-is-2016-a,2017+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2018+16,1,2011,
+soep-is,soep-is-2016-a,2018+16,2,2012,
+soep-is,soep-is-2016-a,2018+16,3,2013,
+soep-is,soep-is-2016-a,2018+16,4,2014,
+soep-is,soep-is-2016-a,2018+16,5,2015,
+soep-is,soep-is-2016-a,2018+16,6,2016,
+soep-is,soep-is-2016-a,2018+16,7,Nein,
+soep-is,soep-is-2016-a,2018+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2019+,1,Zahle keine Miete aber Nebenkosten,"I do not pay rent, but incidentals"
+soep-is,soep-is-2016-a,2019+,2,Zahle weder Miete noch Nebenkosten,I do neither pay rent nor incidentals
+soep-is,soep-is-2016-a,2020+16,1,unter 250 Euro,
+soep-is,soep-is-2016-a,2020+16,2,250 bis unter 1.000 Euro,
+soep-is,soep-is-2016-a,2020+16,3,1.000 bis unter 2500 Euro,
+soep-is,soep-is-2016-a,2020+16,4,2.500 bis unter 5.000 Euro,
+soep-is,soep-is-2016-a,2020+16,5,5.000 bis unter 10.000 Euro,
+soep-is,soep-is-2016-a,2020+16,6,10.000 Euro und mehr,
+soep-is,soep-is-2016-a,2020+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2021+16,1,Die Mieten werden steigen,
+soep-is,soep-is-2016-a,2021+16,2,Die Mieten werden fallen,
+soep-is,soep-is-2016-a,2021+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2022+16,2,Die Mieten werden steigen,
+soep-is,soep-is-2016-a,2022+16,3,Die Mieten werden fallen,
+soep-is,soep-is-2016-a,2022+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2023+16,1,Der Kaufpreis wird steigen,
+soep-is,soep-is-2016-a,2023+16,2,Der Kaufpreis wird fallen,
+soep-is,soep-is-2016-a,2023+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2024+16,2,Der Kaufpreis wird steigen,
+soep-is,soep-is-2016-a,2024+16,3,Der Kaufpreis wird fallen,
+soep-is,soep-is-2016-a,2024+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2025+16,1,Überhaupt nicht wertvoll und nützlich 0,
+soep-is,soep-is-2016-a,2025+16,2,1,
+soep-is,soep-is-2016-a,2025+16,3,2,
+soep-is,soep-is-2016-a,2025+16,4,3,
+soep-is,soep-is-2016-a,2025+16,5,4,
+soep-is,soep-is-2016-a,2025+16,6,5,
+soep-is,soep-is-2016-a,2025+16,7,6,
+soep-is,soep-is-2016-a,2025+16,8,7,
+soep-is,soep-is-2016-a,2025+16,9,8,
+soep-is,soep-is-2016-a,2025+16,10,9,
+soep-is,soep-is-2016-a,2025+16,11,Vollkommen wertvoll und nützlich 10,
+soep-is,soep-is-2016-a,2025+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2026+16,1,SPD,
+soep-is,soep-is-2016-a,2026+16,2,CDU,
+soep-is,soep-is-2016-a,2026+16,3,CDU,
+soep-is,soep-is-2016-a,2026+16,4,FDP,
+soep-is,soep-is-2016-a,2026+16,5,Bündnis 90/Die Grünen,
+soep-is,soep-is-2016-a,2026+16,6,Die Linke,
+soep-is,soep-is-2016-a,2026+16,26,Piratenpartei,
+soep-is,soep-is-2016-a,2026+16,27,Alternative für Deutschland,
+soep-is,soep-is-2016-a,2026+16,7,NPD/Republikaner/Die Rechte,
+soep-is,soep-is-2016-a,2026+16,8,"Andere, und zwar",
+soep-is,soep-is-2016-a,2026+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2027+16,1,Mindestens einmal am Tag,
+soep-is,soep-is-2016-a,2027+16,2,Mindestens einmal pro Woche,
+soep-is,soep-is-2016-a,2027+16,3,Mindestens einmal pro Monat,
+soep-is,soep-is-2016-a,2027+16,4,Mindestens einmal pro Jahr,
+soep-is,soep-is-2016-a,2027+16,5,Seltener als einmal pro Jahr,
+soep-is,soep-is-2016-a,2027+16,6,Nie,
+soep-is,soep-is-2016-a,2027+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2028+16,1,Sehr negativ,
+soep-is,soep-is-2016-a,2028+16,2,Negativ,
+soep-is,soep-is-2016-a,2028+16,3,Neutral,
+soep-is,soep-is-2016-a,2028+16,4,Positiv,
+soep-is,soep-is-2016-a,2028+16,5,Sehr positiv,
+soep-is,soep-is-2016-a,2028+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2029+16,1,eher Gewinn,Rather profit
+soep-is,soep-is-2016-a,2029+16,2,eher Verlust,Rather loss
+soep-is,soep-is-2016-a,2029+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2030+16,1,Lotterie bzw. Chance,
+soep-is,soep-is-2016-a,2030+16,2,Sichere Auszahlung,
+soep-is,soep-is-2016-a,2030+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2031+,1,Ja,Yes
+soep-is,soep-is-2016-a,2031+,2,Nein <U+2192> zurück zur vorherigen Frage,No <U+2192> back to the former question
+soep-is,soep-is-2016-a,2032+173,1,durch Scheidung,By divorce
+soep-is,soep-is-2016-a,2032+173,-1,keine Angabe,No answer
+soep-is,soep-is-2016-a,2034+16,1,Diese hier,This one
+soep-is,soep-is-2016-a,2034+16,2,Die andere / eine der anderen,[Yes] The other one / one of the others
+soep-is,soep-is-2016-a,2034+16,3,"Diese hier und eine andere, etwa gleich",[Yes] This one and another approximately equally
+soep-is,soep-is-2016-a,2034+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2035+16,1,… Ihr Sohn,… your son
+soep-is,soep-is-2016-a,2035+16,2,… Ihre Tochter,… your daughter
+soep-is,soep-is-2016-a,2035+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2039+16,1,Eher gut,
+soep-is,soep-is-2016-a,2039+16,2,Eher schlecht,
+soep-is,soep-is-2016-a,2039+16,3,Weiß nicht,
+soep-is,soep-is-2016-a,2039+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2040+2041,1,Voll erwerbstätig,
+soep-is,soep-is-2016-a,2040+2041,2,In Teilzeitbeschäftigung,
+soep-is,soep-is-2016-a,2040+2041,3,"In betrieblicher Ausbildung, Lehre oder betrieblicher Umschulung",
+soep-is,soep-is-2016-a,2040+2041,4,Geringfügig oder unregelmäßig erwerbstätig,
+soep-is,soep-is-2016-a,2040+2041,5,In Altersteilzeit mit Arbeitszeit Null,
+soep-is,soep-is-2016-a,2040+2041,6,Freiwilliger Wehrdienst,
+soep-is,soep-is-2016-a,2040+2041,7,"Freiwilliges soziales/ökologisches Jahr, Bundesfreiwilligendienst",
+soep-is,soep-is-2016-a,2040+2041,-1,Nicht erwerbstätig,
+soep-is,soep-is-2016-a,2042+16,1,"Arbeiter, auch in der Landwirtschaft",
+soep-is,soep-is-2016-a,2042+16,2,"Selbständige, einschl. mithelfende Familienangehörige",
+soep-is,soep-is-2016-a,2042+16,3,Auszubildende / Praktikanten,
+soep-is,soep-is-2016-a,2042+16,4,Angestellte,
+soep-is,soep-is-2016-a,2042+16,5,Beamte / Staatsverwaltung (einschließlich Richter und Berufssoldaten),
+soep-is,soep-is-2016-a,2042+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2043+16,1,Auszubildende,
+soep-is,soep-is-2016-a,2043+16,3,"Volontäre, Praktikanten und ähnliches",
+soep-is,soep-is-2016-a,2043+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2044+16,1,Industrie- und Werkmeister im Angestelltenverhältnis,
+soep-is,soep-is-2016-a,2044+16,2,Angestellte mit einfacher Tätigkeit ohne Ausbildungsabschluss,
+soep-is,soep-is-2016-a,2044+16,3,Angestellte mit einfacher Tätigkeit mit Ausbildungsabschluss,
+soep-is,soep-is-2016-a,2044+16,4,"Angestellte mit qualifizierter Tätigkeit wie zum Beispiel Sachbearbeiter, Buchhalter oder technischer Zeichner",
+soep-is,soep-is-2016-a,2044+16,5,"Angestellte mit hochqualifizierter Tätigkeit oder Leitungsfunktion wie zum Beispiel wissenschaftlicher Mitarbeiter, Ingenieur oder Abteilungsleiter",
+soep-is,soep-is-2016-a,2044+16,6,"Angestellte mit umfassenden Führungsaufgaben wie zum Beispiel Direktor, Geschäftsführer oder Vorstand größerer Betriebe und Verbände",
+soep-is,soep-is-2016-a,2044+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2045+,1,Überhaupt keine regionale Färbung (wie Nachrichtensprecher in der Tagesschau),
+soep-is,soep-is-2016-a,2045+,2,Leichte regionale Färbung,
+soep-is,soep-is-2016-a,2045+,3,Mittlere regionale Färbung,
+soep-is,soep-is-2016-a,2045+,4,Eher starke regionale Färbung,
+soep-is,soep-is-2016-a,2045+,5,Sehr starke regionale Färbung,
+soep-is,soep-is-2016-a,2045+,-1,Keine Angabe,
+soep-is,soep-is-2016-a,2045+,6,weiß nicht,
+soep-is,soep-is-2016-a,2046+16,1,Sehr wichtig,
+soep-is,soep-is-2016-a,2046+16,2,Eher wichtig,
+soep-is,soep-is-2016-a,2046+16,3,Neutral,
+soep-is,soep-is-2016-a,2046+16,4,Eher nicht wichtig,
+soep-is,soep-is-2016-a,2046+16,5,Überhaupt nicht wichtig,
+soep-is,soep-is-2016-a,2046+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2047+16,1,Ja,
+soep-is,soep-is-2016-a,2047+16,2,Nein,
+soep-is,soep-is-2016-a,2047+16,3,Weiß nicht / Mutter nicht gekannt,
+soep-is,soep-is-2016-a,2047+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2048+16,1,Ja,
+soep-is,soep-is-2016-a,2048+16,2,Nein,
+soep-is,soep-is-2016-a,2048+16,3,Weiß nicht / Vater nicht bekannt,
+soep-is,soep-is-2016-a,2048+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2049+16,1,Dialekt/Platt,
+soep-is,soep-is-2016-a,2049+16,2,Hochdeutsch,
+soep-is,soep-is-2016-a,2049+16,3,Beides,
+soep-is,soep-is-2016-a,2049+16,4,Habe keine Kinder,
+soep-is,soep-is-2016-a,2049+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2050+16,1,Dialekt / Platt,
+soep-is,soep-is-2016-a,2050+16,2,Hochdeutsch,
+soep-is,soep-is-2016-a,2050+16,3,Beides,
+soep-is,soep-is-2016-a,2050+16,4,Eltern sind verstorben.,
+soep-is,soep-is-2016-a,2050+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2051+16,1,Dialekt/Platt,
+soep-is,soep-is-2016-a,2051+16,2,Hochdeutsch,
+soep-is,soep-is-2016-a,2051+16,3,Beides,
+soep-is,soep-is-2016-a,2051+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2052+16,1,Dialekt/Platt,
+soep-is,soep-is-2016-a,2052+16,2,Hochdeutsch,
+soep-is,soep-is-2016-a,2052+16,3,Beides,
+soep-is,soep-is-2016-a,2052+16,4,Großeltern verstorben,
+soep-is,soep-is-2016-a,2052+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2053+16,1,Wohnten im selben Haus,
+soep-is,soep-is-2016-a,2053+16,2,Wohnten weniger als 15 Autominuten entfernt,
+soep-is,soep-is-2016-a,2053+16,3,Wohnten weniger als 60 Autominuten entfernt,
+soep-is,soep-is-2016-a,2053+16,4,Wohnten 1 - 4 Autostunden entfernt,
+soep-is,soep-is-2016-a,2053+16,5,Wohnten mehr als 4 Autostunden entfernt,
+soep-is,soep-is-2016-a,2053+16,6,"Meine Großeltern mütterlicherseits waren bereits verstorben, als ich 10 Jahre alt war",
+soep-is,soep-is-2016-a,2053+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2054+16,1,Wohnten im selben Haus,
+soep-is,soep-is-2016-a,2054+16,2,Wohnten weniger als 15 Autominuten entfernt,
+soep-is,soep-is-2016-a,2054+16,3,Wohnten weniger als 60 Autominuten entfernt,
+soep-is,soep-is-2016-a,2054+16,4,Wohnten 1 - 4 Autostunden entfernt,
+soep-is,soep-is-2016-a,2054+16,5,Wohnten mehr als 4 Autostunden entfernt,
+soep-is,soep-is-2016-a,2054+16,6,"Meine Großeltern väterlicherseits waren bereits verstorben, als ich 10 Jahre alt war",
+soep-is,soep-is-2016-a,2054+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2055+16,1,1,1
+soep-is,soep-is-2016-a,2055+16,2,2,2
+soep-is,soep-is-2016-a,2055+16,3,3,3
+soep-is,soep-is-2016-a,2055+16,4,4,4
+soep-is,soep-is-2016-a,2055+16,5,5,5
+soep-is,soep-is-2016-a,2055+16,6,6,6
+soep-is,soep-is-2016-a,2055+16,7,Ich habe keine Englischkenntnisse,I do not have English skills
+soep-is,soep-is-2016-a,2055+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2057+16,1,Mehr als 102 €,
+soep-is,soep-is-2016-a,2057+16,2,Genau 102 €,
+soep-is,soep-is-2016-a,2057+16,3,Weniger als 102 €,
+soep-is,soep-is-2016-a,2057+16,4,Weiß nicht,
+soep-is,soep-is-2016-a,2057+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2058+16,1,Mehr,
+soep-is,soep-is-2016-a,2058+16,2,Genauso viel,
+soep-is,soep-is-2016-a,2058+16,3,Weniger,
+soep-is,soep-is-2016-a,2058+16,4,Weiß nicht,
+soep-is,soep-is-2016-a,2058+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2059+16,1,Richtig,
+soep-is,soep-is-2016-a,2059+16,2,FALSCH,
+soep-is,soep-is-2016-a,2059+16,3,Weiß nicht,
+soep-is,soep-is-2016-a,2059+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2060+16,1,Der Aktienmarkt hilft Aktiengewinne vorherzusagen,
+soep-is,soep-is-2016-a,2060+16,2,Der Aktienmarkt führt zu einer Erhöhung der Aktienpreise,
+soep-is,soep-is-2016-a,2060+16,3,Der Aktienmarkt führt Käufer und Verkäufer von Aktien zusammen,
+soep-is,soep-is-2016-a,2060+16,4,Nichts davon,
+soep-is,soep-is-2016-a,2060+16,5,Weiß nicht,
+soep-is,soep-is-2016-a,2060+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2061+16,1,Sparbücher,
+soep-is,soep-is-2016-a,2061+16,2,Termineinlagen,
+soep-is,soep-is-2016-a,2061+16,3,Festverzinsliche Wertpapiere,
+soep-is,soep-is-2016-a,2061+16,4,Aktien,
+soep-is,soep-is-2016-a,2061+16,5,Weiß nicht,
+soep-is,soep-is-2016-a,2061+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2062+16,1,Mehr als 200 €,
+soep-is,soep-is-2016-a,2062+16,2,Genau 200 €,
+soep-is,soep-is-2016-a,2062+16,3,Weniger als 200 €,
+soep-is,soep-is-2016-a,2062+16,4,Weiß nicht,
+soep-is,soep-is-2016-a,2062+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2063+16,1,Ja,
+soep-is,soep-is-2016-a,2063+16,2,Nein,
+soep-is,soep-is-2016-a,2063+16,3,Habe keinen Kredit,
+soep-is,soep-is-2016-a,2063+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2064+16,1,100,
+soep-is,soep-is-2016-a,2064+16,2,Weiß nicht,
+soep-is,soep-is-2016-a,2064+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2065+16,1,150,
+soep-is,soep-is-2016-a,2065+16,2,Weiß nicht,
+soep-is,soep-is-2016-a,2065+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2066+16,1,9000,
+soep-is,soep-is-2016-a,2066+16,2,Weiß nicht,
+soep-is,soep-is-2016-a,2066+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2067+16,1,2420,
+soep-is,soep-is-2016-a,2067+16,2,Weiß nicht,
+soep-is,soep-is-2016-a,2067+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2068+16,1,Keinen Schulabschluss,
+soep-is,soep-is-2016-a,2068+16,2,Volks- / Hauptschulabschluss (DDR; 8. Klasse POS),
+soep-is,soep-is-2016-a,2068+16,3,"Mittlere Reife, Realschulabschluss (DDR; 10. Klasse POS)",
+soep-is,soep-is-2016-a,2068+16,4,"Abitur, Hochschulreife (DDR; EOS)",
+soep-is,soep-is-2016-a,2068+16,5,Anderen Schulabschluss,
+soep-is,soep-is-2016-a,2068+16,6,Weiß nicht,
+soep-is,soep-is-2016-a,2068+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2070+16,1,Arbeiterin (auch in der Landwirtschaft),
+soep-is,soep-is-2016-a,2070+16,2,Angestellte,
+soep-is,soep-is-2016-a,2070+16,3,Beamtin / Staatsverwaltung (einschließlich Richterin und Berufssoldatin),
+soep-is,soep-is-2016-a,2070+16,4,Selbstständige (einschl. mithelfende Familienangehörige),
+soep-is,soep-is-2016-a,2070+16,5,War nicht erwerbstätig,
+soep-is,soep-is-2016-a,2070+16,6,War verstorben,
+soep-is,soep-is-2016-a,2070+16,7,Weiß nicht,
+soep-is,soep-is-2016-a,2070+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2071+16,1,0 gar nicht bereit zu teilen ohne eine Gegenleistung zu erwarten,
+soep-is,soep-is-2016-a,2071+16,2,2,
+soep-is,soep-is-2016-a,2071+16,3,3,
+soep-is,soep-is-2016-a,2071+16,4,4,
+soep-is,soep-is-2016-a,2071+16,5,5,
+soep-is,soep-is-2016-a,2071+16,6,6,
+soep-is,soep-is-2016-a,2071+16,7,7,
+soep-is,soep-is-2016-a,2071+16,8,8,
+soep-is,soep-is-2016-a,2071+16,9,9,
+soep-is,soep-is-2016-a,2071+16,10,10 sehr bereit zu teilen ohne eine Gegenleistung zu erwarten,
+soep-is,soep-is-2016-a,2071+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2073+2074,1,0 ganz und gar unzufrieden,
+soep-is,soep-is-2016-a,2073+2074,2,1,
+soep-is,soep-is-2016-a,2073+2074,3,2,
+soep-is,soep-is-2016-a,2073+2074,4,3,
+soep-is,soep-is-2016-a,2073+2074,5,4,
+soep-is,soep-is-2016-a,2073+2074,6,5,
+soep-is,soep-is-2016-a,2073+2074,7,6,
+soep-is,soep-is-2016-a,2073+2074,8,7,
+soep-is,soep-is-2016-a,2073+2074,9,8,
+soep-is,soep-is-2016-a,2073+2074,10,9,
+soep-is,soep-is-2016-a,2073+2074,11,10 ganz und gar zufrieden,
+soep-is,soep-is-2016-a,2073+2074,12,Keine Angabe,
+soep-is,soep-is-2016-a,2073+2074,-1,weiß nicht,
+soep-is,soep-is-2016-a,21+16,1,Niedriger als 3.500 Euro,less than 3.500 euros
+soep-is,soep-is-2016-a,21+16,2,Höher als 3.500 Euro,more than 3.500 euros
+soep-is,soep-is-2016-a,21+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,22+16,1,Niedriger als 5.000 Euro,less than 5.000 euros
+soep-is,soep-is-2016-a,22+16,2,Höher als 5.000 Euro,more than 5.000 euros
+soep-is,soep-is-2016-a,22+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2225+16,1,"Ja, Pflegestufe 0",
+soep-is,soep-is-2016-a,2225+16,2,"Ja, Pflegestufe 1",
+soep-is,soep-is-2016-a,2225+16,3,"Ja, Pflegestufe 2",
+soep-is,soep-is-2016-a,2225+16,4,"Ja, Pflegestufe 3",
+soep-is,soep-is-2016-a,2225+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,2288+,0,ganz und gar unzufrieden 0,
+soep-is,soep-is-2016-a,2288+,1,1,
+soep-is,soep-is-2016-a,2288+,2,2,
+soep-is,soep-is-2016-a,2288+,3,3,
+soep-is,soep-is-2016-a,2288+,4,4,
+soep-is,soep-is-2016-a,2288+,5,5,
+soep-is,soep-is-2016-a,2288+,6,6,
+soep-is,soep-is-2016-a,2288+,7,7,
+soep-is,soep-is-2016-a,2288+,8,8,
+soep-is,soep-is-2016-a,2288+,9,9,
+soep-is,soep-is-2016-a,2288+,10,10 ganz und gar zufrieden,
+soep-is,soep-is-2016-a,230+16,1,Ungelernter Arbeiter,Unskilled worker (ungelernt)
+soep-is,soep-is-2016-a,230+16,2,Angelernter Arbeiter,Semi-skilled worker (angelernt)
+soep-is,soep-is-2016-a,230+16,3,Gelernter und Facharbeiter,Trained worker (gelernter Arbeiter) or skilled worker (Facharbeiter)
+soep-is,soep-is-2016-a,230+16,4,"Vorarbeiter, Kolonnenführer",Foreman / forewoman (Vorarbeiter / KolonnenfÃ¼hrer)
+soep-is,soep-is-2016-a,230+16,5,"Meister, Polier",Master craftsperson (Meister / Polierer)
+soep-is,soep-is-2016-a,230+16,6,Weiß nicht,Don't know
+soep-is,soep-is-2016-a,230+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,231+16,1,Industrie- und Werkmeister im Angestelltenverhältnis,"Industry or factory foreman / forewoman (Industriemeister, Werkmeister) in a salaried position"
+soep-is,soep-is-2016-a,231+16,2,Angestellter mit einfacher Tätigkeit - ohne Ausbildungsabschluss,Salaried employee engaged in unskilled activities (Angestellter mit einfacher Tätigkeit) without completed training/education
+soep-is,soep-is-2016-a,231+16,3,Angestellter mit einfacher Tätigkeit - mit Ausbildungsabschluss,Salaried employee engaged in unskilled activities (Angestellter mit einfacher Tätigkeit) with completed training/education
+soep-is,soep-is-2016-a,231+16,4,"Angestellter mit qualifizierter Tätigkeit (z.B. Sachbearbeiter, Buchhalter, technischer Zeichner)","Salaried employee engaged in skilled activities (Angestellter mit qualifizierter Tätigkeit) (e.g., executive officer, bookkeeper, technical draftsperson)"
+soep-is,soep-is-2016-a,231+16,5,"Angestellter mit hochqualifizierter Tätigkeit oder Leitungsfunktion (z.B. wissenschaftlicher Mitarbeiter, Ingenieur, Abteilungsleiter)","Salaried employee engaged in highly skilled activities (Angestellter mit hochqualifizierter Tätigkeit) or managerial functions (e.g., scientist, engineer, department head)"
+soep-is,soep-is-2016-a,231+16,6,"Angestellter mit umfassenden Führungsaufgaben (z.B. Direktor, Geschäftsführer, Vorstand größerer Betriebe und Verbände)","Salaried employee with extensive managerial duties (Angestellter mit umfassenden Führungsaufgaben) (e.g., managing director, head of a large firm or association)"
+soep-is,soep-is-2016-a,231+16,7,Weiß nicht,Don'<U+0092>t know
+soep-is,soep-is-2016-a,231+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,233+16,1,Industrie- und Werkmeisterin im Angestelltenverhältnis,"Industry or factory foreman / forewoman (Industriemeister, Werkmeister) in a salaried position"
+soep-is,soep-is-2016-a,233+16,2,Angestellte mit einfacher Tätigkeit - ohne Ausbildungsabschluss,Salaried employee engaged in unskilled activities (Angestellter mit einfacher Tätigkeit) without completed training/education
+soep-is,soep-is-2016-a,233+16,3,Angestellte mit einfacher Tätigkeit - mit Ausbildungsabschluss,Salaried employee engaged in unskilled activities (Angestellter mit einfacher Tätigkeit) with completed training/education
+soep-is,soep-is-2016-a,233+16,4,"Angestellte mit qualifizierter Tätigkeit (z.B. Sachbearbeiterin, Buchhalterin, technische Zeichnerin)","Salaried employee engaged in skilled activities (Angestellter mit qualifizierter Tätigkeit) (e.g., executive officer, bookkeeper, technical draftsperson)"
+soep-is,soep-is-2016-a,233+16,5,"Angestellte mit hochqualifizierter Tätigkeit oder Leitungsfunktion (z.B. wissenschaftlicher Mitarbeiter, Ingenieur, Abteilungsleiter)","Salaried employee engaged in highly skilled activities (Angestellter mit hochqualifizierter Tätigkeit) or managerial functions (e.g., scientist, engineer, department head)"
+soep-is,soep-is-2016-a,233+16,6,"Angestellte mit umfassenden Führungsaufgaben (z.B. Direktorin, Geschäftsführerin, Vorstand größerer Betriebe und Verbände)","Salaried employee with extensive managerial duties (Angestellter mit umfassenden Führungsaufgaben) (e.g., managing director, head of a large firm or association)"
+soep-is,soep-is-2016-a,233+16,7,Weiß nicht,Don'<U+0092>t know
+soep-is,soep-is-2016-a,233+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,234+16,1,Selbständige Landwirtin ohne Beschäftigte,Self-employed farmer without employees
+soep-is,soep-is-2016-a,234+16,2,Selbständige Landwirtin mit Beschäftigte,Self-employed farmer with employees
+soep-is,soep-is-2016-a,234+16,3,"Freie Berufe, selbständige Akademikerin ohne Beschäftigte",Freelance professional or academic without employees
+soep-is,soep-is-2016-a,234+16,4,"Freie Berufe, selbständige Akademikerin mit Beschäftigte",Freelance professional or academic with employees
+soep-is,soep-is-2016-a,234+16,5,Sonstige Selbständige ohne Beschäftigte,Other self-employed professional without employees
+soep-is,soep-is-2016-a,234+16,6,Sonstige Selbständige mit Beschäftigte,Other self-employed professional with employees
+soep-is,soep-is-2016-a,234+16,7,Mithelfende Familienangehörige,Assisting self-employed family member
+soep-is,soep-is-2016-a,234+16,8,Weiß nicht,Don'<U+0092>t know
+soep-is,soep-is-2016-a,234+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,27+16,1,Sehr selten,Very rarely
+soep-is,soep-is-2016-a,27+16,2,Selten,Rarely
+soep-is,soep-is-2016-a,27+16,3,Manchmal,Occasionally
+soep-is,soep-is-2016-a,27+16,4,Oft,Often
+soep-is,soep-is-2016-a,27+16,5,Sehr oft,Very often
+soep-is,soep-is-2016-a,27+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,3073+,1,Ja,Yes
+soep-is,soep-is-2016-a,3073+,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,3073+,2,Nein,No
+soep-is,soep-is-2016-a,3080+,1,"Ja, zum vorsorglichen Sparen","Yes, for precautionary saving"
+soep-is,soep-is-2016-a,3080+,2,"Ja, zur Vermögensbildung ","Yes, for asset formation"
+soep-is,soep-is-2016-a,3080+,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,3080+,3,Nein,No
+soep-is,soep-is-2016-a,3086+,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,3086+,0,0 ganz und gar unzufrieden,0 = Completely dissatisfied
+soep-is,soep-is-2016-a,3086+,1,1,1
+soep-is,soep-is-2016-a,3086+,2,2,2
+soep-is,soep-is-2016-a,3086+,3,3,3
+soep-is,soep-is-2016-a,3086+,4,4,4
+soep-is,soep-is-2016-a,3086+,5,5,5
+soep-is,soep-is-2016-a,3086+,6,6,6
+soep-is,soep-is-2016-a,3086+,7,7,7
+soep-is,soep-is-2016-a,3086+,8,8,8
+soep-is,soep-is-2016-a,3086+,9,9,9
+soep-is,soep-is-2016-a,3086+,10,10 ganz und gar zufrieden,10 = Completely satisfied
+soep-is,soep-is-2016-a,3086+3087,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,3086+3087,0,0 ganz und gar unzufrieden,0 = Completely dissatisfied
+soep-is,soep-is-2016-a,3086+3087,1,1,1
+soep-is,soep-is-2016-a,3086+3087,2,2,2
+soep-is,soep-is-2016-a,3086+3087,3,3,3
+soep-is,soep-is-2016-a,3086+3087,4,4,4
+soep-is,soep-is-2016-a,3086+3087,5,5,5
+soep-is,soep-is-2016-a,3086+3087,6,6,6
+soep-is,soep-is-2016-a,3086+3087,7,7,7
+soep-is,soep-is-2016-a,3086+3087,8,8,8
+soep-is,soep-is-2016-a,3086+3087,9,9,9
+soep-is,soep-is-2016-a,3086+3087,10,10 ganz und gar zufrieden,10 = Completely satisfied
+soep-is,soep-is-2016-a,3086+3087,-2,TNZ,Does not apply
+soep-is,soep-is-2016-a,3091+,4,Ganz unwichtig,Quite unimportant
+soep-is,soep-is-2016-a,3091+,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,3091+,1,Sehr wichtig,Very important
+soep-is,soep-is-2016-a,3091+,3,Weniger wichtig,Less important
+soep-is,soep-is-2016-a,3091+,2,Wichtig,Important
+soep-is,soep-is-2016-a,3104+,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,3104+,2,Hier im Ort,Here in this town
+soep-is,soep-is-2016-a,3104+,3,Woanders in Westdeutschland,Elsewhere in West Germany
+soep-is,soep-is-2016-a,3104+,4,Woanders in Ostdeutschland,Elsewhere in East Germany
+soep-is,soep-is-2016-a,3104+,5,Im Ausland,In a foreign country
+soep-is,soep-is-2016-a,3104+,6,Ist verstorben,Deceased
+soep-is,soep-is-2016-a,3108+,4,Abitur (Hochschulreife),General qualification for university entrance (higher education entrance qualification)
+soep-is,soep-is-2016-a,3108+,5,Anderer Schulabschluss,Other Degree
+soep-is,soep-is-2016-a,3108+,3,Fachhochschulreife (Abschluss Fachoberschule),"Leaving certificate from a Fachoberschule (""Fachhochschulreife"" Â<U+0096> qualification for studies at a Fachhochschule)"
+soep-is,soep-is-2016-a,3108+,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,3108+,2,Mittlerer Schulabschluss (z.B. Realschulabschluss),General Certificate of Secondary Education (e.g. Realschulabschluss)
+soep-is,soep-is-2016-a,3108+,1,Volksschul-/ Hauptschulabschluss,"Secondary general school leaving certificate (""Hauptschulabschluss"")"
+soep-is,soep-is-2016-a,3134+,1,Immer,Always
+soep-is,soep-is-2016-a,3134+,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,3134+,3,Manchmal,Sometimes
+soep-is,soep-is-2016-a,3134+,5,Nie,Never
+soep-is,soep-is-2016-a,3134+,2,Oft,Often
+soep-is,soep-is-2016-a,3134+,4,Selten,Rarely
+soep-is,soep-is-2016-a,3137+,6,"Andere Stellung, und zwar: …","Other position, in fact:"
+soep-is,soep-is-2016-a,3137+,2,Angestellte,White-collar worker
+soep-is,soep-is-2016-a,3137+,1,"Arbeiter, auch in der Landwirtschaft","Blue-collar worker, also in agriculture"
+soep-is,soep-is-2016-a,3137+,5,Auszubildende und Praktikanten,Apprentices/trainees and interns
+soep-is,soep-is-2016-a,3137+,4,"Beamte, einschließlich Richter und Berufssoldaten","Civil servant, including judges and professional soldiers"
+soep-is,soep-is-2016-a,3137+,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,3137+,3,"Selbständige, einschl. mithelfende Familienangehörige","Self-employed people, or relatives working for a self-employed person"
+soep-is,soep-is-2016-a,3155+,1,"Ja, beide","Yes, both"
+soep-is,soep-is-2016-a,3155+,4,"Nein, beide nicht","No, neither"
+soep-is,soep-is-2016-a,3155+,2,Nur der Vater,Only my father
+soep-is,soep-is-2016-a,3155+,3,Nur die Mutter,Only my mother
+soep-is,soep-is-2016-a,3156+,4,"Abitur, Hochschulreife (DDR; EOS)","Upper secondary school / University entrance qualification (Abitur, GDR: Erweiterte Oberschule EOS)"
+soep-is,soep-is-2016-a,3156+,5,Anderen Schulabschluss,Other school leaving certificate
+soep-is,soep-is-2016-a,3156+,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,3156+,1,Keinen Schulabschluss,No school leaving certificate
+soep-is,soep-is-2016-a,3156+,3,"Mittlere Reife, Realschulabschluss (DDR; 10. Klasse POS)",Intermediate school leaving certificate (Mittlere Reife / Realschulabschluss)(GDR: Completed 10th grade at POS)
+soep-is,soep-is-2016-a,3156+,2,Volks- / Hauptschulabschluss (DDR; 8. Klasse POS),Lower secondary school leaving certificate (Volksschulabschluss / Hauptschulabschluss) (GDR: Completed 8th grade at POS)
+soep-is,soep-is-2016-a,3156+,6,Weiß nicht,I don't know
+soep-is,soep-is-2016-a,3158+,2,Angestellter,White-collar worker
+soep-is,soep-is-2016-a,3158+,1,Arbeiter (auch in der Landwirtschaft),"Blue-collar worker, including those working in agriculture"
+soep-is,soep-is-2016-a,3158+,3,Beamter / Staatsverwaltung (einschließlich Richter und Berufssoldat),"Civil servant, including judges and professional soldiers"
+soep-is,soep-is-2016-a,3158+,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,3158+,4,Selbstständiger (einschl. mithelfende Familienangehörige),Self-employed (including family members working for the self-employed)
+soep-is,soep-is-2016-a,3158+,5,War nicht erwerbstätig,Was not employed
+soep-is,soep-is-2016-a,3158+,6,War verstorben,Was deceased
+soep-is,soep-is-2016-a,3158+,7,Weiß nicht,I don't know
+soep-is,soep-is-2016-a,371+16,1,Sehr stark,An extreme amount
+soep-is,soep-is-2016-a,371+16,2,Ziemlich stark,quiet strong
+soep-is,soep-is-2016-a,371+16,3,Mäßig,moderate
+soep-is,soep-is-2016-a,371+16,4,Ziemlich schwach,quiet weak
+soep-is,soep-is-2016-a,371+16,5,Sehr schwach,very weak
+soep-is,soep-is-2016-a,371+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,4+,1,Ja,Yes
+soep-is,soep-is-2016-a,4+,2,Nein,No
+soep-is,soep-is-2016-a,4+,9,Keine Angabe,No answer
+soep-is,soep-is-2016-a,468+16,1,Immer,Always
+soep-is,soep-is-2016-a,468+16,2,Oft,Often
+soep-is,soep-is-2016-a,468+16,3,Manchmal,Sometimes
+soep-is,soep-is-2016-a,468+16,4,Selten,Rarely
+soep-is,soep-is-2016-a,468+16,5,Nie,Never
+soep-is,soep-is-2016-a,468+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,512+16,1,"Ja, Mini-Job (bis 450 Euro)","Yes, Mini-Job (up to 450 euros)"
+soep-is,soep-is-2016-a,512+16,2,"Ja, Midi-Job (451 bis 850 Euro)","Yes, Midi-Job (451 to 850 euros)"
+soep-is,soep-is-2016-a,512+16,3,Nein,No
+soep-is,soep-is-2016-a,512+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,60+16,1,"Ja, Mutterschutz","Yes, maternity leave"
+soep-is,soep-is-2016-a,60+16,2,"Ja, Elternzeit","Yes, parental leave"
+soep-is,soep-is-2016-a,60+16,3,Nein,No
+soep-is,soep-is-2016-a,60+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,61+16,1,Ja,Yes
+soep-is,soep-is-2016-a,61+16,2,"Nein, noch keinen Abschluss, gehe noch zur Schule","No, I haven't graduated yet, I'm still in school"
+soep-is,soep-is-2016-a,61+16,3,"Nein, Schule ohne Abschluss verlassen","No, left school without graduation"
+soep-is,soep-is-2016-a,61+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,62+16,1,In einem Bundesland der Bundesrepublik Deutschland?,In a federal state of the Federal Republic of Germany?
+soep-is,soep-is-2016-a,62+16,2,In der DDR?,In GDR?
+soep-is,soep-is-2016-a,62+16,3,In einem anderen Land?,In another country
+soep-is,soep-is-2016-a,62+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,64+16,1,Abschluss 8. Klasse,Secondary School Degree
+soep-is,soep-is-2016-a,64+16,2,Abschluss 10. Klasse,Intermediate School Degree
+soep-is,soep-is-2016-a,64+16,3,Abitur (Hochschulreife),Upper Secondary School Degree
+soep-is,soep-is-2016-a,64+16,4,Anderer Schulabschluss,Other Degree
+soep-is,soep-is-2016-a,64+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,649+16,1,Nie,Never
+soep-is,soep-is-2016-a,649+16,2,Selten,Rarely
+soep-is,soep-is-2016-a,649+16,3,Manchmal,Sometimes
+soep-is,soep-is-2016-a,649+16,4,Oft,Often
+soep-is,soep-is-2016-a,649+16,5,Sehr oft,Very Often
+soep-is,soep-is-2016-a,649+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,65+16,1,Abschluss einer Pflichtschule,"School, with degree"
+soep-is,soep-is-2016-a,65+16,2,Abschluss einer weiterführenden Schule,Vocational Extension School
+soep-is,soep-is-2016-a,65+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,66+16,1,Allgemeinbildende Schule,General education / secondary school
+soep-is,soep-is-2016-a,66+16,2,Berufliche Ausbildung,Vocational training
+soep-is,soep-is-2016-a,66+16,3,"Hochschule, Fachhochschule",Higher education
+soep-is,soep-is-2016-a,66+16,4,"Weiterbildung, Umschulung","Further training, Retraining"
+soep-is,soep-is-2016-a,66+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,664+,1,Personennummer / Name / Geburtsjahr / Geschlecht,person number / name / year of birth / sex
+soep-is,soep-is-2016-a,664+,2,Andere Person im Haushalt,Another person in household
+soep-is,soep-is-2016-a,664+,3,Falscher Haushalt,Wrong household
+soep-is,soep-is-2016-a,674+16,1,1972,1972
+soep-is,soep-is-2016-a,674+16,2,1973,1973
+soep-is,soep-is-2016-a,674+16,3,1974,1974
+soep-is,soep-is-2016-a,674+16,4,1975,1975
+soep-is,soep-is-2016-a,674+16,5,1976,1976
+soep-is,soep-is-2016-a,674+16,6,1977,1977
+soep-is,soep-is-2016-a,674+16,7,1978,1978
+soep-is,soep-is-2016-a,674+16,8,1979,1979
+soep-is,soep-is-2016-a,674+16,9,1980,1980
+soep-is,soep-is-2016-a,674+16,10,Nein,No
+soep-is,soep-is-2016-a,674+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,675+16,1,1981,1981
+soep-is,soep-is-2016-a,675+16,2,1982,1982
+soep-is,soep-is-2016-a,675+16,3,1983,1983
+soep-is,soep-is-2016-a,675+16,4,1984,1984
+soep-is,soep-is-2016-a,675+16,5,1985,1985
+soep-is,soep-is-2016-a,675+16,6,1986,1986
+soep-is,soep-is-2016-a,675+16,7,1987,1987
+soep-is,soep-is-2016-a,675+16,8,1988,1988
+soep-is,soep-is-2016-a,675+16,9,1989,1989
+soep-is,soep-is-2016-a,675+16,10,1990,1990
+soep-is,soep-is-2016-a,675+16,11,Nein,No
+soep-is,soep-is-2016-a,675+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,676+16,1,1991,1991
+soep-is,soep-is-2016-a,676+16,2,1992,1992
+soep-is,soep-is-2016-a,676+16,3,1993,1993
+soep-is,soep-is-2016-a,676+16,4,1994,1994
+soep-is,soep-is-2016-a,676+16,5,1995,1995
+soep-is,soep-is-2016-a,676+16,6,1996,1996
+soep-is,soep-is-2016-a,676+16,7,1997,1997
+soep-is,soep-is-2016-a,676+16,8,1998,1998
+soep-is,soep-is-2016-a,676+16,9,1999,1999
+soep-is,soep-is-2016-a,676+16,10,2000,2000
+soep-is,soep-is-2016-a,676+16,11,Nein,No
+soep-is,soep-is-2016-a,676+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,677+16,1,2001,2001
+soep-is,soep-is-2016-a,677+16,2,2002,2002
+soep-is,soep-is-2016-a,677+16,3,2003,2003
+soep-is,soep-is-2016-a,677+16,4,2004,2004
+soep-is,soep-is-2016-a,677+16,5,2005,2005
+soep-is,soep-is-2016-a,677+16,6,2006,2006
+soep-is,soep-is-2016-a,677+16,7,2007,2007
+soep-is,soep-is-2016-a,677+16,8,2008,2008
+soep-is,soep-is-2016-a,677+16,9,2009,2009
+soep-is,soep-is-2016-a,677+16,10,2010,2010
+soep-is,soep-is-2016-a,677+16,11,Nein,No
+soep-is,soep-is-2016-a,677+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,70+16,1,"Ja, ABM-Stelle","Yes, a job-creation measure (ABM)"
+soep-is,soep-is-2016-a,70+16,2,"Ja, gemeinnützige Arbeit (1-Euro-Job)","Yes, a „1-Euro Job“ (community work)"
+soep-is,soep-is-2016-a,70+16,3,Nein,No
+soep-is,soep-is-2016-a,70+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,708+16,1,"Verheiratet, mit Ehepartner zusammenlebend","Married, living together with my spouse"
+soep-is,soep-is-2016-a,708+16,6,"Eingetragene, gleichgeschlechtliche Partnerschaft zusammenlebend","Registered same-sex partnership, living together"
+soep-is,soep-is-2016-a,708+16,2,"Verheiratet, dauernd getrennt lebend","Married, living permanently separated"
+soep-is,soep-is-2016-a,708+16,7,Eingetragene gleichgeschlechtliche Partnerschaft getrennt lebend,"Registered same-sex partnership, living separately"
+soep-is,soep-is-2016-a,708+16,3,"Ledig, war nie verheiratet","Unmarried, I was never married"
+soep-is,soep-is-2016-a,708+16,4,"Geschieden / eingetragene, gleichgeschlechtliche Partnerschaft aufgehoben",Divorced / registered same-sex partnership annulled
+soep-is,soep-is-2016-a,708+16,5,"Verwitwet / Lebenspartner/-in aus eingetragener, gleichgeschlechtlicher Partnerschaft verstorben",Widowed / life partner from registered same-sex partnership deceased
+soep-is,soep-is-2016-a,708+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,72+16,1,"Voll berufstätig, also mindestens 35 Wochenstunden","Employed full-time, at least 35 hours per week"
+soep-is,soep-is-2016-a,72+16,2,"Teilzeitbeschäftigt, also 20 bis 34 Wochenstunden","Employed part-time, from 20 to 34 hours per week"
+soep-is,soep-is-2016-a,72+16,3,Geringfügig oder unregelmäßig beschäftigt,In marginal or irregular employment
+soep-is,soep-is-2016-a,72+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,74+16,1,Ungelernte Arbeiter,Unskilled worker (ungelernt)
+soep-is,soep-is-2016-a,74+16,2,Angelernte Arbeiter,Semi-skilled worker (angelernt)
+soep-is,soep-is-2016-a,74+16,3,Gelernte und Facharbeiter,Trained worker (gelernter Arbeiter) or skilled worker (Facharbeiter)
+soep-is,soep-is-2016-a,74+16,4,"Vorarbeiter, Kolonnenführer",Foreman / forewoman (Vorarbeiter / Kolonnenführer)
+soep-is,soep-is-2016-a,74+16,5,"Meister, Polier",Master craftsperson (Meister / Polierer)
+soep-is,soep-is-2016-a,74+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,751+16,1,"Nein, nie","No, never"
+soep-is,soep-is-2016-a,751+16,2,Täglich,Daily
+soep-is,soep-is-2016-a,751+16,3,mehrmals in der Woche,Several times a week
+soep-is,soep-is-2016-a,751+16,4,wochenweise (Wechselschicht),On a weekly basis (changing shifts)
+soep-is,soep-is-2016-a,751+16,5,"seltener, nur bei Bedarf",Rarely (as needed)
+soep-is,soep-is-2016-a,751+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,752+16,1,"Nein, nie","No, never"
+soep-is,soep-is-2016-a,752+16,2,jede Woche,Every week
+soep-is,soep-is-2016-a,752+16,3,alle 2 Wochen,Every 2 Weeks
+soep-is,soep-is-2016-a,752+16,4,alle 3-4 Wochen,Every 3-4 weeks
+soep-is,soep-is-2016-a,752+16,5,seltener,Less often
+soep-is,soep-is-2016-a,752+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,79+16,1,Einfacher Dienst,Lower level
+soep-is,soep-is-2016-a,79+16,2,Mittlerer Dienst,Middle level
+soep-is,soep-is-2016-a,79+16,3,Gehobener Dienst,Upper level
+soep-is,soep-is-2016-a,79+16,4,Höherer Dienst,Executive level
+soep-is,soep-is-2016-a,79+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,80+16,1,"Nein, ganz sicher nicht","No, definitely not"
+soep-is,soep-is-2016-a,80+16,2,Eher unwahrscheinlich,Probably not
+soep-is,soep-is-2016-a,80+16,3,Wahrscheinlich,Probably
+soep-is,soep-is-2016-a,80+16,4,Ganz sicher,Definitely
+soep-is,soep-is-2016-a,80+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,82+16,1,Habe erstmals in meinem Leben eine Erwerbstätigkeit aufgenommen,I started working for the first time in my life
+soep-is,soep-is-2016-a,82+16,2,Bin nach einer Unterbrechung jetzt wieder zum früheren Arbeitgeber zurückgekehrt,I returned to a previous employer after a break in employment
+soep-is,soep-is-2016-a,82+16,3,Habe eine Stelle bei einem neuen Arbeitgeber angetreten (bei Zeitarbeitnehmern: einschl. Tätigkeit in einem Entleihbetrieb),I started a new job with a different employer (for temporary workers this includes working in a temporary job)
+soep-is,soep-is-2016-a,82+16,4,Bin vom Betrieb übernommen worden (war vorher dort in Ausbildung / in ABM / oder als freier Mitarbeiter tätig),I was hired by the company (in which I previously worked as an apprentice / in a job creation measure (ABM) / on a freelance basis)
+soep-is,soep-is-2016-a,82+16,5,Habe innerhalb des Unternehmens die Stelle gewechselt,I changed positions within the same company
+soep-is,soep-is-2016-a,82+16,6,Habe eine neue Tätigkeit als Selbständiger aufgenommen,I became self-employed
+soep-is,soep-is-2016-a,82+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,883+,1,In der DDR (einschließlich Berlin-Ost),"In East Germany (the GDR, including East Berlin)"
+soep-is,soep-is-2016-a,883+,2,In der Bundesrepublik (einschließlich Berlin-West),in West Germany (including West Berlin)
+soep-is,soep-is-2016-a,883+,3,In einem anderen Land,In another country
+soep-is,soep-is-2016-a,883+,4,"Trifft nicht zu, bin 1989 oder später geboren ","Does not apply, was born in or after 1989"
+soep-is,soep-is-2016-a,940+16,1,Unbefristeten Arbeitsvertrag,Permanent contract
+soep-is,soep-is-2016-a,940+16,2,Befristetes Arbeitsverhältnis,Fixed-term contract.
+soep-is,soep-is-2016-a,940+16,3,Trifft nicht zu / habe keinen Arbeitsvertrag,Not applicable / do not have an employment contract
+soep-is,soep-is-2016-a,940+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-a,97+16,1,"Ja, berufliche Ausbildung","Yes, vocational training"
+soep-is,soep-is-2016-a,97+16,2,"Ja, Hochschulstudium","Yes, university degree"
+soep-is,soep-is-2016-a,97+16,3,"Nein, keine abgeschlossene Ausbildung","No, he did not complete training or a university degree"
+soep-is,soep-is-2016-a,97+16,4,Weiß nicht,Don't know
+soep-is,soep-is-2016-a,97+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,1+,1,Ja,Yes
+soep-is,soep-is-2016-f,1+,2,Nein,No
+soep-is,soep-is-2016-f,1+16,1,Ja,Yes
+soep-is,soep-is-2016-f,1+16,2,Nein,No
+soep-is,soep-is-2016-f,1+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,1+25,1,Ja,Yes
+soep-is,soep-is-2016-f,1+25,2,Nein,No
+soep-is,soep-is-2016-f,1+25,-1,KA,No answer
+soep-is,soep-is-2016-f,1+41,1,Ja,Yes
+soep-is,soep-is-2016-f,1+41,2,Nein,No
+soep-is,soep-is-2016-f,1+41,-2,Keine Angabe,No answer
+soep-is,soep-is-2016-f,1+453,1,Ja,Yes
+soep-is,soep-is-2016-f,1+453,2,Nein,No
+soep-is,soep-is-2016-f,1+453,-1,Kein Angabe,No answer
+soep-is,soep-is-2016-f,101+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,101+16,1,Einfacher Dienst,Lower level
+soep-is,soep-is-2016-f,101+16,2,Mittlerer Dienst,Middle level
+soep-is,soep-is-2016-f,101+16,3,Gehobener Dienst,Upper level
+soep-is,soep-is-2016-f,101+16,4,Höherer Dienst,Executive level
+soep-is,soep-is-2016-f,101+16,5,Weiß nicht,Don't know
+soep-is,soep-is-2016-f,1015+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,1015+16,1,unter 5 Beschäftigte,less than 5 people
+soep-is,soep-is-2016-f,1015+16,2,5 bis 10 Beschäftigte,from 5 up to 10 people
+soep-is,soep-is-2016-f,1015+16,3,11 bis unter 20 Beschäftigte,"from 11 up to, but less than 20 people"
+soep-is,soep-is-2016-f,1015+16,4,20 bis unter 100 Beschäftigte,"from 20 up to, but less than 100 people"
+soep-is,soep-is-2016-f,1015+16,5,100 bis unter 200 Beschäftigte,"from 100 up to, but less than 200 people"
+soep-is,soep-is-2016-f,1015+16,6,200 bis unter 2.000 Beschäftigte,"from 200 up to, but less than 2,000 people"
+soep-is,soep-is-2016-f,1015+16,7,2.000 und mehr Beschäftigte,"2,000 or more people"
+soep-is,soep-is-2016-f,102+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,102+16,8,Weiß nicht,Don't know
+soep-is,soep-is-2016-f,102+16,1,Selbständiger Landwirt ohne Beschäftigte,Self-employed farmer without employees
+soep-is,soep-is-2016-f,102+16,2,Selbständiger Landwirt mit Beschäftigte,Self-employed farmer with employees
+soep-is,soep-is-2016-f,102+16,3,"Freie Berufe, selbständiger Akademiker ohne Beschäftigte",Freelance professional or academic without employees
+soep-is,soep-is-2016-f,102+16,4,"Freie Berufe, selbständiger Akademiker mit Beschäftigte",Freelance professional or academic with employees
+soep-is,soep-is-2016-f,102+16,5,Sonstige Selbständiger ohne Beschäftigte,Other self-employed professional without employees
+soep-is,soep-is-2016-f,102+16,6,Sonstige Selbständiger mit Beschäftigte,Other self-employed professional with employees
+soep-is,soep-is-2016-f,102+16,7,Mithelfender Familienangehöriger,Assisting self-employed family member
+soep-is,soep-is-2016-f,104+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,104+16,6,Weiß nicht,Don't know
+soep-is,soep-is-2016-f,104+16,1,Ungelernte Arbeiterin,Unskilled worker (ungelernt)
+soep-is,soep-is-2016-f,104+16,2,Angelernte Arbeiterin,Semi-skilled worker (angelernt)
+soep-is,soep-is-2016-f,104+16,3,Gelernte und Facharbeiterin,Trained worker (gelernter Arbeiter) or skilled worker (Facharbeiter)
+soep-is,soep-is-2016-f,104+16,4,"Vorarbeiterin, Kolonnenführerin",Foreman / forewoman (Vorarbeiter / Kolonnenführer)
+soep-is,soep-is-2016-f,104+16,5,"Meister, Polier",Master craftsperson (Meister / Polierer)
+soep-is,soep-is-2016-f,107+41,-2,Keine Angabe,No answer
+soep-is,soep-is-2016-f,107+41,1,Katholisch,Catholic
+soep-is,soep-is-2016-f,107+41,2,Evangelisch,Protestant
+soep-is,soep-is-2016-f,107+41,3,Mitglied einer anderen christlichen Religionsgemeinschaft,Member of another Christian denomination or religious community
+soep-is,soep-is-2016-f,107+41,4,Mitglied einer islamischen Religionsgemeinschaft,Member of an Islamic religious community
+soep-is,soep-is-2016-f,107+41,5,Mitglied einer anderen Religionsgemeinschaft,Member of another religious community
+soep-is,soep-is-2016-f,108+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,108+16,1,Sehr gut,Very good
+soep-is,soep-is-2016-f,108+16,2,Gut,Good
+soep-is,soep-is-2016-f,108+16,3,Zufriedenstellend,Satisfactory
+soep-is,soep-is-2016-f,108+16,4,Weniger gut,Poor
+soep-is,soep-is-2016-f,108+16,5,Schlecht,Bad
+soep-is,soep-is-2016-f,109+41,-2,Keine Angabe,No answer
+soep-is,soep-is-2016-f,109+41,1,Stark,A lot
+soep-is,soep-is-2016-f,109+41,2,Ein wenig,A little
+soep-is,soep-is-2016-f,109+41,3,Gar nicht,Not at all
+soep-is,soep-is-2016-f,112+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,112+16,1,In einer gesetzlichen Krankenversicherung,Statutory health insurance
+soep-is,soep-is-2016-f,112+16,2,Ausschließlich privat versichert,Private insurance only
+soep-is,soep-is-2016-f,1194+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,1194+16,1,Sehr oft,Very often
+soep-is,soep-is-2016-f,1194+16,2,Oft,Often
+soep-is,soep-is-2016-f,1194+16,3,Manchmal,Sometimes
+soep-is,soep-is-2016-f,1194+16,4,Selten,Seldom
+soep-is,soep-is-2016-f,1194+16,5,Nie,Never
+soep-is,soep-is-2016-f,120+,1,Fragen zum Haushalt beantworten,Answer questions about the houshold
+soep-is,soep-is-2016-f,120+,2,Fragen zum Haushalt überspringen,Skip questions about the houshold
+soep-is,soep-is-2016-f,125+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,125+16,1,vor 1919,Before 1919
+soep-is,soep-is-2016-f,125+16,2,1919 bis 1948,1919 to 1948
+soep-is,soep-is-2016-f,125+16,3,1949 bis 1971,1949 to 1971
+soep-is,soep-is-2016-f,125+16,4,1972 bis 1980,1972 to 1980
+soep-is,soep-is-2016-f,125+16,5,1981 bis 1990,1981 to 1990
+soep-is,soep-is-2016-f,125+16,6,1991 bis 2000,1991 to 2000
+soep-is,soep-is-2016-f,125+16,7,2001 bis 2010,2001 to 2010
+soep-is,soep-is-2016-f,125+16,8,2011 und später,2011 and later
+soep-is,soep-is-2016-f,128+,1,Hauptmieter,Main tenant
+soep-is,soep-is-2016-f,128+,2,Untermieter,Subtenant
+soep-is,soep-is-2016-f,128+,3,Eigentümer,Owner
+soep-is,soep-is-2016-f,1301+,1,Weiß nicht,Don't know
+soep-is,soep-is-2016-f,1301+,3,Keine Kosten für Gas,No gas costs
+soep-is,soep-is-2016-f,1301+,2,"Betrag kann nicht getrennt werde, ist in den Heizkosten enthalten","Cannot separate gas from heating costs, amount stated above"
+soep-is,soep-is-2016-f,131+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,131+16,0,0 ganz und gar unzufrieden,0 = Completely dissatisfied
+soep-is,soep-is-2016-f,131+16,1,1,1
+soep-is,soep-is-2016-f,131+16,2,2,2
+soep-is,soep-is-2016-f,131+16,3,3,3
+soep-is,soep-is-2016-f,131+16,4,4,4
+soep-is,soep-is-2016-f,131+16,5,5,5
+soep-is,soep-is-2016-f,131+16,6,6,6
+soep-is,soep-is-2016-f,131+16,7,7,7
+soep-is,soep-is-2016-f,131+16,8,8,8
+soep-is,soep-is-2016-f,131+16,9,9,9
+soep-is,soep-is-2016-f,131+16,10,10 ganz und gar zufrieden,10 = Completely satisfied
+soep-is,soep-is-2016-f,131+475,-1,Keine Angabe,No Answer
+soep-is,soep-is-2016-f,131+475,0,0 ganz und gar unzufrieden,0 = Completely dissatisfied
+soep-is,soep-is-2016-f,131+475,1,1,1
+soep-is,soep-is-2016-f,131+475,2,2,2
+soep-is,soep-is-2016-f,131+475,3,3,3
+soep-is,soep-is-2016-f,131+475,4,4,4
+soep-is,soep-is-2016-f,131+475,5,5,5
+soep-is,soep-is-2016-f,131+475,6,6,6
+soep-is,soep-is-2016-f,131+475,7,7,7
+soep-is,soep-is-2016-f,131+475,8,8,8
+soep-is,soep-is-2016-f,131+475,9,9,9
+soep-is,soep-is-2016-f,131+475,10,10 ganz und gar zufrieden,10 = Completely satisfied
+soep-is,soep-is-2016-f,131+475,-2,TNZ,Does not apply
+soep-is,soep-is-2016-f,134+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,134+16,1,Sehr wichtig,Very important
+soep-is,soep-is-2016-f,134+16,2,Wichtig,Important
+soep-is,soep-is-2016-f,134+16,3,Weniger wichtig,Less important
+soep-is,soep-is-2016-f,134+16,4,Ganz unwichtig,Quite unimportant
+soep-is,soep-is-2016-f,135+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,135+16,2,Stark,Moderately interested
+soep-is,soep-is-2016-f,135+16,1,Sehr stark,Very interested
+soep-is,soep-is-2016-f,135+16,3,Nicht so stark,Not so interested
+soep-is,soep-is-2016-f,135+16,4,Überhaupt nicht,Completely disinterested
+soep-is,soep-is-2016-f,137+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,137+16,1,Seit Geburt,Since birth
+soep-is,soep-is-2016-f,137+16,2,Erst später erworben,At a later date
+soep-is,soep-is-2016-f,140+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,140+16,1,durch Trennung,Separation
+soep-is,soep-is-2016-f,140+16,2,durch Tod,Death
+soep-is,soep-is-2016-f,17+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,17+16,1,unter 250 Euro,Less than 250 euro
+soep-is,soep-is-2016-f,17+16,2,250 bis unter 1.000 Euro,"From 250 to less than 1,000 euros"
+soep-is,soep-is-2016-f,17+16,3,1.000 bis unter 2.500 Euro,"From 1,000 to less than 2,500 euros"
+soep-is,soep-is-2016-f,17+16,4,2.500 bis unter 5.000 Euro,"From 2,500 to less than 5,000 euros"
+soep-is,soep-is-2016-f,17+16,5,5.000 bis unter 10.000 Euro,"From 5,000 to less than 10,000 euros"
+soep-is,soep-is-2016-f,17+16,6,10.000 Euro und mehr,"10,000 euros and more"
+soep-is,soep-is-2016-f,178+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,178+16,1,Hauptschule,Lower secondary school (Hauptschule)
+soep-is,soep-is-2016-f,178+16,2,Realschule,Intermediate secondary school (Realschule)
+soep-is,soep-is-2016-f,178+16,3,Gymnasium,Upper secondary school (Gymnasium)
+soep-is,soep-is-2016-f,178+16,4,Gesamtschule,Comprehensive school (Gesamtschule)
+soep-is,soep-is-2016-f,178+16,5,"Abendrealschule, Abendgymnasium",Evening intermediate / upper secondary school (Abendrealschule / Abendgymnasium)
+soep-is,soep-is-2016-f,178+16,6,Fachoberschule,Specialized upper secondary school (Fachoberschule)
+soep-is,soep-is-2016-f,183+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,183+16,1,Auszubildende im gewerblich-technischen Bereich,Apprentice / trainee in industry of technology
+soep-is,soep-is-2016-f,183+16,2,Auszubildende im kaufmännischen Bereich,Apprentice / trainee in trade and commerce
+soep-is,soep-is-2016-f,183+16,3,"Volontäre, Praktikanten und ähnliches","Volunteer, intern, etc"
+soep-is,soep-is-2016-f,185+16,1,Ja,Yes
+soep-is,soep-is-2016-f,185+16,2,Nein,No
+soep-is,soep-is-2016-f,185+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,185+16,3,Weiß nicht,Don't know
+soep-is,soep-is-2016-f,187+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,187+16,1,Selbständige Landwirte,Self-employed farmer
+soep-is,soep-is-2016-f,187+16,2,"Freie Berufe, selbständige Akademiker",Freelance professional / self-employed academic
+soep-is,soep-is-2016-f,187+16,3,Sonstige Selbständige,Other self-employed people
+soep-is,soep-is-2016-f,187+16,4,Mithelfende Familienangehörige,Working for a self-employed relative
+soep-is,soep-is-2016-f,188+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,188+16,1,Keine,None
+soep-is,soep-is-2016-f,188+16,2,1-9,1-9
+soep-is,soep-is-2016-f,188+16,3,10 und mehr,more than 10
+soep-is,soep-is-2016-f,19+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,19+16,1,Niedriger als 750 Euro,less than 750 euros
+soep-is,soep-is-2016-f,19+16,2,Höher als 750 Euro,more than 750 euros
+soep-is,soep-is-2016-f,20+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,20+16,1,Niedriger als 2.500 Euro,less than 2.500 euros
+soep-is,soep-is-2016-f,20+16,2,Höher als 2.500 Euro,more than 2.500 euros
+soep-is,soep-is-2016-f,2006+16,9,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2006+16,3,Mithelfende Familienangehörige,Working for a self-employed relative
+soep-is,soep-is-2016-f,2006+16,1,Arbeiter / Angestellte (auch Mini-Job),Blue-collar worker / white-collar worker (including marginal or minimal employment)
+soep-is,soep-is-2016-f,2006+16,2,Selbständige / Freiberufler (auch mit Werkvertrag),Self-employed / freelancer (including contract for work and labor)
+soep-is,soep-is-2016-f,2006+16,4,Andere berufliche Stellung,Other occupational status
+soep-is,soep-is-2016-f,2008+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2008+16,1,In einer Großstadt,in a large city
+soep-is,soep-is-2016-f,2008+16,2,In einer mittleren Stadt,in a medium-sized city
+soep-is,soep-is-2016-f,2008+16,3,In einer Kleinstadt,in a small town
+soep-is,soep-is-2016-f,2008+16,4,Auf dem Land,in a rural area
+soep-is,soep-is-2016-f,2018+16,7,Nein,No
+soep-is,soep-is-2016-f,2018+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2018+16,1,2011,2011
+soep-is,soep-is-2016-f,2018+16,2,2012,2012
+soep-is,soep-is-2016-f,2018+16,3,2013,2013
+soep-is,soep-is-2016-f,2018+16,4,2014,2014
+soep-is,soep-is-2016-f,2018+16,5,2015,2015
+soep-is,soep-is-2016-f,2018+16,6,2016,2016
+soep-is,soep-is-2016-f,2019+,1,Zahle keine Miete aber Nebenkosten,"I do not pay rent, but incidentals"
+soep-is,soep-is-2016-f,2019+,2,Zahle weder Miete noch Nebenkosten,I do neither pay rent nor incidentals
+soep-is,soep-is-2016-f,2032+173,1,durch Scheidung,by divorce
+soep-is,soep-is-2016-f,2032+173,-1,keine Angabe,No answer
+soep-is,soep-is-2016-f,2034+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2034+16,1,Diese hier,This one
+soep-is,soep-is-2016-f,2034+16,2,Die andere / eine der anderen,The other / another
+soep-is,soep-is-2016-f,2034+16,3,"Diese hier und eine andere, etwa gleich","This one and another one, both approximately the same"
+soep-is,soep-is-2016-f,2042+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2042+16,1,"Arbeiter, auch in der Landwirtschaft","Blue-collar worker, including those working in agriculture"
+soep-is,soep-is-2016-f,2042+16,2,"Selbständige, einschl. mithelfende Familienangehörige","Self-employed people, or relatives working for a self-employed person"
+soep-is,soep-is-2016-f,2042+16,3,Auszubildende / Praktikanten,Apprentice / trainee / intern
+soep-is,soep-is-2016-f,2042+16,4,Angestellte,White-collar worker
+soep-is,soep-is-2016-f,2042+16,5,Beamte / Staatsverwaltung (einschließlich Richter und Berufssoldaten),"Civil servant, including judges and professional soldiers"
+soep-is,soep-is-2016-f,2070+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2070+16,7,Weiß nicht,I don't know
+soep-is,soep-is-2016-f,2070+16,2,Angestellte,White-collar worker
+soep-is,soep-is-2016-f,2070+16,1,Arbeiterin (auch in der Landwirtschaft),"Blue-collar worker, including those working in agriculture"
+soep-is,soep-is-2016-f,2070+16,3,Beamtin / Staatsverwaltung (einschließlich Richterin und Berufssoldatin),"Civil servant, including judges and professional soldiers"
+soep-is,soep-is-2016-f,2070+16,4,Selbstständige (einschl. mithelfende Familienangehörige),Self-employed (including family members working for the self-employed)
+soep-is,soep-is-2016-f,2070+16,5,War nicht erwerbstätig,Was not employed
+soep-is,soep-is-2016-f,2070+16,6,War verstorben,Was deceased
+soep-is,soep-is-2016-f,21+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,21+16,1,Niedriger als 3.500 Euro,less than 3.500 euros
+soep-is,soep-is-2016-f,21+16,2,Höher als 3.500 Euro,more than 3.500 euros
+soep-is,soep-is-2016-f,2223+,1,"[Befragung in der gleichen Wohnung unter der gleichen Adresse] auch sonst keine Veränderung, es ist die gleiche Person / sind die gleichen Personen",[Survey happens in the same dwelling at the same address] and no additional changes occurred. The same persons are living here.
+soep-is,soep-is-2016-f,2223+,2,[Befragung in der gleichen Wohnung unter der gleichen Adresse] aber mindestens eine Person ist zum Haushalt hinzugekommen oder hat den Haushalt verlassen,[Survey happens in the same dwelling at the same address] but at least one person moved into the household or left it.
+soep-is,soep-is-2016-f,2223+,3,[Befragung das erste Mal in dieser Wohnung unter dieser Adresse] nach Umzug des Haushalts von Leben in Deutschland,"[Survey happens for the first time in this dwelling at this address] after relocation of the household. The household already existed in the survey ""Living in Germany""."
+soep-is,soep-is-2016-f,2223+,4,"[Befragung das erste Mal in dieser Wohnung unter dieser Adresse] nach Neugründung eines Haushalts, durch Zuzug eines oder mehrerer Teilnehmer","[Survey happens for the first time in this dwelling at this address] after the new foundation of this household by moving in of at least one other participant of the survey ""Living in Germany""."
+soep-is,soep-is-2016-f,2224+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2224+16,1,Landwirtschaftliches Wohngebäude,Farm house
+soep-is,soep-is-2016-f,2224+16,2,Freistehendes Ein- oder Zweifamilienhaus,Detached house containing 1 or 2 dwellings (one above the other)
+soep-is,soep-is-2016-f,2224+16,3,Ein- oder Zweifamilienhaus als Reihenhaus oder Doppelhaus,Row house or duplex (with one dwelling next to the other)
+soep-is,soep-is-2016-f,2224+16,4,Wohnhaus mit 3 bis 4 Wohnungen,Residential building containing 3 or 4 dwellings
+soep-is,soep-is-2016-f,2224+16,5,Wohnhaus mit 5 bis 8 Wohnungen,Residential building containing 5 to 8 dwellings
+soep-is,soep-is-2016-f,2224+16,6,"Wohnhaus mit 9 und mehr Wohnungen, aber höchstens 8 Stockwerken, also kein Hochhaus",Residential building containing 9 or more dwellings (up to 8 stories)
+soep-is,soep-is-2016-f,2224+16,7,Hochhaus mit 9 und mehr Stockwerken,High-rise (9 or more floors/stories)
+soep-is,soep-is-2016-f,2225+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2225+16,1,"Ja, Pflegestufe 0","Yes, care level 0"
+soep-is,soep-is-2016-f,2225+16,2,"Ja, Pflegestufe 1","Yes, care level 1"
+soep-is,soep-is-2016-f,2225+16,3,"Ja, Pflegestufe 2","Yes, care level 2"
+soep-is,soep-is-2016-f,2225+16,4,"Ja, Pflegestufe 3","Yes, care level 3"
+soep-is,soep-is-2016-f,2226+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2226+16,1,(Ehe-)Partner,Partner/spouse
+soep-is,soep-is-2016-f,2226+16,2,Mutter oder Vater,Mother or father
+soep-is,soep-is-2016-f,2226+16,3,Schwiegermutter oder Schwiegervater,mother-in-law or father-in-law
+soep-is,soep-is-2016-f,2226+16,4,Großmutter oder Großvater,grandmother or grandfather
+soep-is,soep-is-2016-f,2226+16,5,Eigenes Kind unter 15 Jahre,Own child below the age of 15
+soep-is,soep-is-2016-f,2226+16,6,Eigenes Kind ab 15 Jahre,Own child above the age of 15
+soep-is,soep-is-2016-f,2226+16,7,Andere verwandte Person,Another relative
+soep-is,soep-is-2016-f,2226+16,8,Andere nicht verwandte Person,"Another person, not a relative"
+soep-is,soep-is-2016-f,2227+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2227+16,5,Weiß nicht,I don't know
+soep-is,soep-is-2016-f,2227+16,1,Pflegestufe 0,care level 0
+soep-is,soep-is-2016-f,2227+16,2,Pflegestufe 1,care level 1
+soep-is,soep-is-2016-f,2227+16,3,Pflegestufe 2,care level 2
+soep-is,soep-is-2016-f,2227+16,4,Pflegestufe 3,care level 3
+soep-is,soep-is-2016-f,2228+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2228+16,1,Bei Ihnen im Haushalt,In your household
+soep-is,soep-is-2016-f,2228+16,2,"Außerhalb Ihres Haushalts, aber in einem anderen Privathaushalt","Outside your household, but in another private household"
+soep-is,soep-is-2016-f,2228+16,3,"In einem institutionellen Haushalt wie z.B. einem Pflegeheim, einer Altersresidenz oder einem Altersheim",In an institutional household like a nursing home or a home for the elderly
+soep-is,soep-is-2016-f,2230+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2230+16,5,Nie,Never
+soep-is,soep-is-2016-f,2230+16,1,Täglich,Every day
+soep-is,soep-is-2016-f,2230+16,2,Mehrmals pro Woche,Several times per week
+soep-is,soep-is-2016-f,2230+16,3,Mehrmals pro Monat,Several times per month
+soep-is,soep-is-2016-f,2230+16,4,Einmal pro Monat oder seltener,Once a month or less often
+soep-is,soep-is-2016-f,2231+,1,1,1
+soep-is,soep-is-2016-f,2231+,2,2,2
+soep-is,soep-is-2016-f,2231+,3,3,3
+soep-is,soep-is-2016-f,2231+,4,4,4
+soep-is,soep-is-2016-f,2231+,5,5,5
+soep-is,soep-is-2016-f,2231+,6,6,6
+soep-is,soep-is-2016-f,2231+,7,7,7
+soep-is,soep-is-2016-f,2231+,8,8,8
+soep-is,soep-is-2016-f,2231+,9,9,9
+soep-is,soep-is-2016-f,2231+,0,überhaupt nicht wertvoll und nützlich 0,Not valuable and useful at all
+soep-is,soep-is-2016-f,2231+,10,10 vollkommen wertvoll und nüzulich,10 completely valuable and useful
+soep-is,soep-is-2016-f,2232+,1,1,1
+soep-is,soep-is-2016-f,2232+,2,2,2
+soep-is,soep-is-2016-f,2232+,3,3,3
+soep-is,soep-is-2016-f,2232+,4,4,4
+soep-is,soep-is-2016-f,2232+,5,5,5
+soep-is,soep-is-2016-f,2232+,6,6,6
+soep-is,soep-is-2016-f,2232+,7,7,7
+soep-is,soep-is-2016-f,2232+,8,8,8
+soep-is,soep-is-2016-f,2232+,9,9,9
+soep-is,soep-is-2016-f,2232+,0,Gar nicht risikobereit 0,Very risk-averse 0
+soep-is,soep-is-2016-f,2232+,10,10 Sehr risikobereit,Very willing to take risks 10
+soep-is,soep-is-2016-f,2233+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2233+16,1,1,1
+soep-is,soep-is-2016-f,2233+16,2,2,2
+soep-is,soep-is-2016-f,2233+16,3,3,3
+soep-is,soep-is-2016-f,2233+16,4,4,4
+soep-is,soep-is-2016-f,2233+16,5,5,5
+soep-is,soep-is-2016-f,2233+16,6,6,6
+soep-is,soep-is-2016-f,2233+16,7,7,7
+soep-is,soep-is-2016-f,2233+16,8,8,8
+soep-is,soep-is-2016-f,2233+16,9,9,9
+soep-is,soep-is-2016-f,2233+16,0,Stimme vollkommen zu 0,I completely agree 0
+soep-is,soep-is-2016-f,2233+16,10,Stimme überhaupt nicht zu 10,I completely disagree 10
+soep-is,soep-is-2016-f,2234+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2234+16,1,1,1
+soep-is,soep-is-2016-f,2234+16,2,2,2
+soep-is,soep-is-2016-f,2234+16,3,3,3
+soep-is,soep-is-2016-f,2234+16,4,4,4
+soep-is,soep-is-2016-f,2234+16,5,5,5
+soep-is,soep-is-2016-f,2234+16,6,6,6
+soep-is,soep-is-2016-f,2234+16,7,7,7
+soep-is,soep-is-2016-f,2234+16,8,8,8
+soep-is,soep-is-2016-f,2234+16,9,9,9
+soep-is,soep-is-2016-f,2234+16,0,Stimme überhaupt nicht zu 0,I do not agree at all 0
+soep-is,soep-is-2016-f,2234+16,10,Stimme vollkommen zu 10,I completely agree 10
+soep-is,soep-is-2016-f,2235+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2235+16,1,"Verheiratet, mit Ehepartner zusammenlebend","Married, living together with my spouse"
+soep-is,soep-is-2016-f,2235+16,2,"Eingetragene, gleichgeschlechtliche Partnerschaft zusammenlebend","Registered same-sex partnership, living together"
+soep-is,soep-is-2016-f,2235+16,3,"Verheiratet, dauernd getrennt lebend","Married, living (permanently) separated from my spouse"
+soep-is,soep-is-2016-f,2235+16,4,Eingetragene gleichgeschlechtliche Partnerschaft getrennt lebend,"Registered same-sex partnership, living separately"
+soep-is,soep-is-2016-f,2235+16,5,"Ledig, war nie verheiratet","Single, I've never been married"
+soep-is,soep-is-2016-f,2235+16,6,"Geschieden / eingetragene, gleichgeschlechtliche Partnerschaft aufgehoben",Divorced / registered same-sex partnership annulled
+soep-is,soep-is-2016-f,2235+16,7,"Verwitwet / Lebenspartner/-in aus eingetragener, gleichgeschlechtlicher Partnerschaft verstorben",Widowed / life partner from registered same-sex partnership deceased
+soep-is,soep-is-2016-f,2236+2237,1,Kind lebt noch im Haushalt,Child still lives in household
+soep-is,soep-is-2016-f,2236+2237,-1,Kind lebt nicht mehr im Haushalt,Child does not live in household anymore
+soep-is,soep-is-2016-f,2238+,1,männlich,Male
+soep-is,soep-is-2016-f,2238+,2,weiblich,Female
+soep-is,soep-is-2016-f,2239+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2239+16,3,Hauptschule,Lower secondary school (Hauptschule)
+soep-is,soep-is-2016-f,2239+16,4,Realschule,Intermediate secondary school (Realschule)
+soep-is,soep-is-2016-f,2239+16,6,Gymnasium,Upper secondary school (Gymnasium)
+soep-is,soep-is-2016-f,2239+16,5,Gesamtschule,Comprehensive school (Gesamtschule)
+soep-is,soep-is-2016-f,2239+16,1,Besucht keine Schule,Does not attend school
+soep-is,soep-is-2016-f,2239+16,2,Grundschule (inkl. Förderstufe),Elementary school (including 5th or even 6th grade)
+soep-is,soep-is-2016-f,2239+16,7,"Schule mit einem speziellen pädagogischen Konzept, z.B. Montessori, Waldorf","School with special pedagogical concept, e.g. Montessori, Waldorf"
+soep-is,soep-is-2016-f,2239+16,8,"Förderschule, Sonderschule, Sprachheilschule","School for children with learn difficulties (Förderschule, Sonderschule, Sprachheilschule)"
+soep-is,soep-is-2016-f,2239+16,9,Berufsschule,Vocational School (Berufsschule)
+soep-is,soep-is-2016-f,2239+16,10,sonstige Schule,Other type of school
+soep-is,soep-is-2016-f,2240+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2240+16,2,2,2
+soep-is,soep-is-2016-f,2240+16,3,3,3
+soep-is,soep-is-2016-f,2240+16,4,4,4
+soep-is,soep-is-2016-f,2240+16,5,5,5
+soep-is,soep-is-2016-f,2240+16,6,6,6
+soep-is,soep-is-2016-f,2240+16,1,ausgeschlossen 1,Impossible 1
+soep-is,soep-is-2016-f,2240+16,7,ganz sicher 7,Absolutely sure 7
+soep-is,soep-is-2016-f,2240+16,8,Abschluss bereits erworben,Already graduated
+soep-is,soep-is-2016-f,2241+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2241+16,2,Hier im Ort,Here in this town
+soep-is,soep-is-2016-f,2241+16,3,Woanders in Westdeutschland,Elsewhere in West Germany
+soep-is,soep-is-2016-f,2241+16,4,Woanders in Ostdeutschland,Elsewhere in East Germany
+soep-is,soep-is-2016-f,2241+16,5,Im Ausland,In a foreign country
+soep-is,soep-is-2016-f,2241+16,6,Ist verstorben,Deceased
+soep-is,soep-is-2016-f,2242+2243,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2242+2243,1,Entnahmen aus Personengesellschaften,Withdrawals from a firm
+soep-is,soep-is-2016-f,2242+2243,2,"Eigene Rente, Pension",My own retirement pension
+soep-is,soep-is-2016-f,2242+2243,3,"Witwenrente oder -pension, Waisenrente","Widower's pension, orphan's pension"
+soep-is,soep-is-2016-f,2242+2243,4,Arbeitslosengeld (auch bei Fortbildung / Umschulung oder Übergangsgeld),Unemployment benefit (also in case of further education / retraining or transitional allowance)
+soep-is,soep-is-2016-f,2242+2243,5,"Arbeitslosengeld II, Sozialgeld","Unemployment benefit II / social assistance payments (""Arbeitslosengeld II / Sozialgeld"")"
+soep-is,soep-is-2016-f,2242+2243,6,"Elterngeld, Mutterschaftsgeld während des Mutterschutzes","Parental allowance, maternity allowance during maternity leave"
+soep-is,soep-is-2016-f,2242+2243,7,"BAföG, Stipendium, Berufsausbildungsbeihilfe","BAföG (state support for higher education),grants, vocational training support(Stipendium, Berufsausbildungsbeihilfe)"
+soep-is,soep-is-2016-f,2242+2243,8,Unterhalt vom früheren Ehepartner oder Lebenspartner / einschließlich Kindesunterhalt,"Alimony from former spouse or life partner, including child support"
+soep-is,soep-is-2016-f,2242+2243,9,Unterhaltszahlung aus Unterhaltsvorschusskassen,Advance maintenance payment from child maintenance funds
+soep-is,soep-is-2016-f,2242+2243,10,"Sonstige Unterstützung von Personen, die nicht im Haushalt leben",Other types of financial assistance from persons who do not live in the household
+soep-is,soep-is-2016-f,2242+2243,-2,Nichts davon,None of the above
+soep-is,soep-is-2016-f,2244+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2244+16,3,Weiß nicht,I don't know
+soep-is,soep-is-2016-f,2244+16,1,Über 200.000 EURO,"More than 200,000 euros"
+soep-is,soep-is-2016-f,2244+16,2,Darunter,Less
+soep-is,soep-is-2016-f,2245+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2245+16,3,Weiß nicht,I don't know
+soep-is,soep-is-2016-f,2245+16,2,Darunter,Less
+soep-is,soep-is-2016-f,2245+16,1,Über 400.000 EURO,"More than 400,000 euros"
+soep-is,soep-is-2016-f,2246+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2246+16,3,Weiß nicht,I don't know
+soep-is,soep-is-2016-f,2246+16,1,Über 100.000 EURO,"More than 100,000 euros"
+soep-is,soep-is-2016-f,2246+16,2,Weniger,Less
+soep-is,soep-is-2016-f,2247+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2247+16,3,Weiß nicht,I don't know
+soep-is,soep-is-2016-f,2247+16,2,Darunter,Less
+soep-is,soep-is-2016-f,2247+16,1,Über 50.000 EURO,"More than 50,000 euros"
+soep-is,soep-is-2016-f,2248+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2248+16,3,Weiß nicht,I don't know
+soep-is,soep-is-2016-f,2248+16,2,Darunter,Less
+soep-is,soep-is-2016-f,2248+16,1,Über 150.000 EURO,"More than 150,000 euros"
+soep-is,soep-is-2016-f,2249+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2249+16,3,Weiß nicht,I don't know
+soep-is,soep-is-2016-f,2249+16,2,Weniger,Less
+soep-is,soep-is-2016-f,2249+16,1,Über 20.000 EURO,"More than 20,000 euros"
+soep-is,soep-is-2016-f,2250+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2250+16,1,Alleiniger Eigentümer,Sole owner
+soep-is,soep-is-2016-f,2250+16,2,Miteigentümer,Co-owner
+soep-is,soep-is-2016-f,2251+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2251+16,3,Weiß nicht,I don't know
+soep-is,soep-is-2016-f,2251+16,2,Darunter,Less
+soep-is,soep-is-2016-f,2251+16,1,Über 500.000 EURO,"More than 500,000 euros"
+soep-is,soep-is-2016-f,2252+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2252+16,1,Alleiniger Eigentümer,Sole owner
+soep-is,soep-is-2016-f,2252+16,2,Miteigentümer,Co-owner
+soep-is,soep-is-2016-f,2252+16,3,Teils / teils,Both
+soep-is,soep-is-2016-f,2253+16,1,Ja,Yes
+soep-is,soep-is-2016-f,2253+16,2,Nein,No
+soep-is,soep-is-2016-f,2253+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2253+16,3,Teilweise,Partly
+soep-is,soep-is-2016-f,2254+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2254+16,3,Weiß nicht,I don't know
+soep-is,soep-is-2016-f,2254+16,2,Darunter,Less
+soep-is,soep-is-2016-f,2254+16,1,Über 250.000 EURO,"More than 250,000 euros"
+soep-is,soep-is-2016-f,2255+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2255+16,3,Weiß nicht,I don't know
+soep-is,soep-is-2016-f,2255+16,2,Darunter,Less
+soep-is,soep-is-2016-f,2255+16,1,Über 10.000 EURO,"More than 10,000 euros"
+soep-is,soep-is-2016-f,2256+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2256+16,3,Weiß nicht,I don't know
+soep-is,soep-is-2016-f,2256+16,1,Höher als 10.000 EURO,"More than 10,000 euros"
+soep-is,soep-is-2016-f,2256+16,2,Geringer,Less
+soep-is,soep-is-2016-f,2257+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2257+16,3,Weiß nicht,I don't know
+soep-is,soep-is-2016-f,2257+16,2,Geringer,Less
+soep-is,soep-is-2016-f,2257+16,1,Höher als 50.000 EURO,"More than 50,000 euros"
+soep-is,soep-is-2016-f,2258+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2258+16,3,Weiß nicht,I don't know
+soep-is,soep-is-2016-f,2258+16,2,Geringer,Less
+soep-is,soep-is-2016-f,2258+16,1,Höher als 5.000 EURO,"More than 5,000 euros"
+soep-is,soep-is-2016-f,2259+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2259+16,3,Weiß nicht,I don't know
+soep-is,soep-is-2016-f,2259+16,2,Weniger,Less
+soep-is,soep-is-2016-f,2259+16,1,Über 5.000 EURO,"More than 5,000 euros"
+soep-is,soep-is-2016-f,2260+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2260+16,1,Alle auf eigenen Namen,All assets are running on my name
+soep-is,soep-is-2016-f,2260+16,2,Auch Gemeinschaftskonten,"Partially, these assets run on joint accounts"
+soep-is,soep-is-2016-f,2261+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2261+16,3,Weiß nicht,I don't know
+soep-is,soep-is-2016-f,2261+16,2,Geringer,Less
+soep-is,soep-is-2016-f,2261+16,1,Höher als 20.000 EURO,"More than 20,000 euros"
+soep-is,soep-is-2016-f,2262+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2262+16,3,Weiß nicht,I don't know
+soep-is,soep-is-2016-f,2262+16,2,Geringer,Less
+soep-is,soep-is-2016-f,2262+16,1,Höher als 100.000 EURO,"More than 100,000 euros"
+soep-is,soep-is-2016-f,2263+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2263+16,1,Alleiniger Eigentümer,Sole owner
+soep-is,soep-is-2016-f,2263+16,2,Beteiligter Eigentümer,Co-owner
+soep-is,soep-is-2016-f,2264+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2264+16,3,Weiß nicht,I don't know
+soep-is,soep-is-2016-f,2264+16,2,Weniger,Less
+soep-is,soep-is-2016-f,2264+16,1,Über 50.000 EURO,"More than 50,000 euros"
+soep-is,soep-is-2016-f,2265+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2265+16,3,Weiß nicht,I don't know
+soep-is,soep-is-2016-f,2265+16,2,Weniger,Less
+soep-is,soep-is-2016-f,2265+16,1,Über 500.000 EURO,"More than 500,000 euros"
+soep-is,soep-is-2016-f,2266+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2266+16,3,Weiß nicht,I don't know
+soep-is,soep-is-2016-f,2266+16,2,Darunter,Less
+soep-is,soep-is-2016-f,2266+16,1,Über 5.000 EURO,"More than 5,000 euros"
+soep-is,soep-is-2016-f,2268+16,2,Nein,No
+soep-is,soep-is-2016-f,2268+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2268+16,1,"Ja, Elternzeit","Yes, parental leave"
+soep-is,soep-is-2016-f,730+16,1,Allgemeinbildender Schulabschluss,General-education school leaving certificate
+soep-is,soep-is-2016-f,730+16,2,Hochschulabschluss,College/University Degree
+soep-is,soep-is-2016-f,730+16,3,Beruflicher Ausbildungsabschluss,Vocational degree
+soep-is,soep-is-2016-f,730+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,Q306,1,Hauptschulabschluss,Lower secondary school leaving certificate (Hauptschulabschluss)
+soep-is,soep-is-2016-f,Q306,2,Mittlerer Schulabschluss (z.B. Realschulabschluss),General certificate of secondary education (e.g. Realschulabschluss)
+soep-is,soep-is-2016-f,Q306,3,Fachhochschulreife (Abschluss einer Fachoberschule),Entrance qualification for university of applied sciences / technical university (qualification for an advanced technical college)
+soep-is,soep-is-2016-f,Q306,4,Abitur (Hochschulreife),General qualification for university entrance (higher education entrance qualification)
+soep-is,soep-is-2016-f,Q306,5,Anderer Schulabschluss,Other school-leaving certificate
+soep-is,soep-is-2016-f,Q306,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,Q307,4,Duale Hochschule / Berufsakademie,Dual university / University of cooperative education
+soep-is,soep-is-2016-f,Q307,1,Fachhochschule,University of applied sciences
+soep-is,soep-is-2016-f,Q307,5,sonstige Hochschule (z.b. Kunst oder Musikhochschule),"Other University, e.g. art academy or conservatoire"
+soep-is,soep-is-2016-f,Q307,2,Universität / Technische Hochschule,University / Technical university
+soep-is,soep-is-2016-f,Q307,3,Promotion / Habilitation,"Doctorate, PhD / postdoctoral dissertation"
+soep-is,soep-is-2016-f,Q307,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2271+,6,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2271+,1,Volksschul-\ Hauptschulabschluss,Lower secondary school leaving certificate (Volksschulabschluss / Hauptschulabschluss)
+soep-is,soep-is-2016-f,2271+,2,Mittlerer Schulabschluss (z.B. Realschulabschluss),General Certificate of Secondary Education (e.g. Realschulabschluss)
+soep-is,soep-is-2016-f,2271+,3,Fachhochschulreife (Abschluss einer Fachoberschule),Entrance qualification for university of applied sciences/technical university (qualification for an advanced technical college)
+soep-is,soep-is-2016-f,2271+,4,Abitur (Hochschulreife),General qualification for university entrance (higher education entrance qualification)
+soep-is,soep-is-2016-f,2271+,5,Anderer Schulabschluss,Other school leaving certificate
+soep-is,soep-is-2016-f,2272+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2272+16,5,Weiß nicht,I don't know
+soep-is,soep-is-2016-f,2272+16,1,Im letzten Monat,In the last month
+soep-is,soep-is-2016-f,2272+16,2,Im letzten halben Jahr,In the past half-year
+soep-is,soep-is-2016-f,2272+16,3,Im letzten Jahr,In the past year
+soep-is,soep-is-2016-f,2272+16,4,Vor mehr als einem Jahr,One year or more ago
+soep-is,soep-is-2016-f,2274+,1,Wahr.,True
+soep-is,soep-is-2016-f,2274+,2,Falsch.,False
+soep-is,soep-is-2016-f,2275+,1,Kein Risiko,No risk
+soep-is,soep-is-2016-f,2275+,2,Sehr geringes Risiko,Very low risk
+soep-is,soep-is-2016-f,2275+,3,Geringes Risiko,Low risk
+soep-is,soep-is-2016-f,2275+,4,Mittleres Risiko,Medium risk
+soep-is,soep-is-2016-f,2275+,5,Hohes Risiko,High risk
+soep-is,soep-is-2016-f,2275+,6,Kann ich nicht einschätzen,I cannot judge this
+soep-is,soep-is-2016-f,2276+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2276+16,1,Man sollte Füchse als Teil unserer heimischen Arten fördern und schützen.,Foxes are a part of our native species and should receive protection as well as support.
+soep-is,soep-is-2016-f,2276+16,2,Man sollte in den Bestand der Füchse nicht eingreifen und sich neutral verhalten.,"We should not intervene in the population of foxes. Instead, we should behave neutrally."
+soep-is,soep-is-2016-f,2276+16,3,Füchse in Deutschland sollten flächendeckend gejagt werden.,We should hunt foxes nationwide in Germany.
+soep-is,soep-is-2016-f,2276+16,4,Ich habe keine Meinung zum Umgang mit Füchsen in Deutschland.,I don't have any opinion on foxes in Germany.
+soep-is,soep-is-2016-f,2277+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2277+16,1,Industrie- und Werkmeister/in im Angestelltenverhältnis,Industry and factory foreperson in a salaried position
+soep-is,soep-is-2016-f,2277+16,2,Angestellte/r mit einfacher Tätigkeit ohne Ausbildungsabschluss,Salaried employee engaged in unskilled activities without completed training/education
+soep-is,soep-is-2016-f,2277+16,3,Angestellte/r mit einfacher Tätigkeit mit Ausbildungsabschluss,Salaried employee engaged in unskilled activities with completed training/education
+soep-is,soep-is-2016-f,2277+16,4,"Angestellte/r mit qualifizierter Tätigkeit wie zum Beispiel Sachbearbeiter, Buchhalter oder technischer Zeichner","Salaried employee engaged in skilled activities (e.g., executive officer, bookkeeper, technical draftsperson)"
+soep-is,soep-is-2016-f,2277+16,5,"Angestellte/r mit hochqualifizierter Tätigkeit oder Leitungsfunktionen wie zum Beispiel wissenschaftlicher Mitarbeiter, Ingenieur oder Abteilungsleiter","Salaried employee engaged in highly skilled activities or management functions (e.g., scientist, engineer, department head)"
+soep-is,soep-is-2016-f,2277+16,6,"Angestellte/r mit umfassenden Führungsaufgaben wie zum Beispiel Direktor, Geschäftsführer oder Vorstand größerer Betriebe und Verbände","Salaried employee with extensive management duties (e.g., managing director, CEO, member of managing or executive board, head of a large firm or association)"
+soep-is,soep-is-2016-f,2278+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2278+16,1,"Ja, Friesisch","Yes, Frisian"
+soep-is,soep-is-2016-f,2278+16,2,"Ja, Niederdeutsch / Plattdeutsch","Yes, Low German"
+soep-is,soep-is-2016-f,2278+16,3,"Ja, Sorbisch","Yes, Sorbian"
+soep-is,soep-is-2016-f,2278+16,4,"Nein, nichts davon","No, none of the above"
+soep-is,soep-is-2016-f,Q369,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,Q369,1,Ich kann alltägliche Ausdrücke und ganz einfache Sätze verstehen und mich oder andere Leute vorstellen und ihnen einfache Fragen stellen z.B. wo sie wohnen.,"I can understand everyday expressions and easy sentences, can introduce myself and other people, and I can ask easy questions, e.g. about where people are living."
+soep-is,soep-is-2016-f,Q369,2,Ich kann häufig gebrauchte Ausdrücke verstehen wie z.B. Informationen zur Arbeit oder zur näheren Umgebung und kann mich in routinemäßigen Situationen verständigen.,"I can understand often used expressions, like e.g. information about work or the local area. I also can communicate in routine situations."
+soep-is,soep-is-2016-f,Q369,3,"Ich kann die Hauptpunkte verstehen, wenn klare Standardsprache verwendet wird und wenn es um vertraute Dinge aus Arbeit, Schule, Freizeit usw. geht. Ich kann zusammenhängend über meine Erlebnisse berichten.","I could understand main points if clear standard English is used in the context of familiar topics like work, school, leisure time, etc. I can tell a coherent story about my experiences."
+soep-is,soep-is-2016-f,Q369,4,"Ich kann die Hauptinhalte komplexer Texte verstehen und kann mich spontan verständigen, so dass ein Gespräch ohne größere Anstrengungen möglich ist.","I can understand the main content of complex articles. Moreover, I can communicate spontaneously and have a conversation without much effort."
+soep-is,soep-is-2016-f,Q369,5,Ich kann längere und anspruchsvolle Texte verstehen und kann die Sprache im gesellschaftlichen oder beruflichen Kontext flexibel einsetzen ohne deutlich erkennbar nach Worten suchen zu müssen.,"I can understand long and challenging articles. Furthermore, I can practice that language in social or occupational contexts without noticeable gaps in search for missing words."
+soep-is,soep-is-2016-f,Q369,6,"Ich kann alles, was ich lese oder höre mühelos verstehen und kann mich spontan sehr flüssig und genau ausdrücken. Auch bei komplexeren Sachverhalten kann ich feine Bedeutungsunterschiede deutlich machen.","I can understand virtually everything written and spoken in that language without difficulties. I am also able to express myself spontaneously, fluently and precisely. In complex contexts, I can make clear meaning nuances."
+soep-is,soep-is-2016-f,2279+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2279+16,1,Ich kann alltägliche Ausdrücke und ganz einfache Sätze verstehen und mich oder andere Leute vorstellen und ihnen einfache Fragen stellen z.B. wo sie wohnen.,"I can understand everyday expressions and easy sentences, can introduce myself and other people, and I can ask easy questions, e.g. about where people are living."
+soep-is,soep-is-2016-f,2279+16,2,Ich kann häufig gebrauchte Ausdrücke verstehen wie z.B. Informationen zur Arbeit oder zur näheren Umgebung und kann mich in routinemäßigen Situationen verständigen.,"I can understand often used expressions, like e.g. information about work or the local area. I also can communicate in routine situations."
+soep-is,soep-is-2016-f,2279+16,3,"Ich kann die Hauptpunkte verstehen, wenn klare Standardsprache verwendet wird und wenn es um vertraute Dinge aus Arbeit, Schule, Freizeit usw. geht. Ich kann zusammenhängend über meine Erlebnisse berichten.","I could understand main points if clear standard English is used in the context of familiar topics like work, school, leisure time, etc. I can tell a coherent story about my experiences."
+soep-is,soep-is-2016-f,2279+16,4,"Ich kann die Hauptinhalte komplexer Texte verstehen und kann mich spontan verständigen, so dass ein Gespräch ohne größere Anstrengungen möglich ist.","I can understand the main content of complex articles. Moreover, I can communicate spontaneously and have a conversation without much effort."
+soep-is,soep-is-2016-f,2279+16,5,Ich kann längere und anspruchsvolle Texte verstehen und kann die Sprache im gesellschaftlichen oder beruflichen Kontext flexibel einsetzen ohne deutlich erkennbar nach Worten suchen zu müssen.,"I can understand long and challenging articles. Furthermore, I can practice that language in social or occupational contexts without noticeable gaps in search for missing words."
+soep-is,soep-is-2016-f,2279+16,6,"Ich kann alles, was ich lese oder höre mühelos verstehen und kann mich spontan sehr flüssig und genau ausdrücken. Auch bei komplexeren Sachverhalten kann ich feine Bedeutungsunterschiede deutlich machen.","I can understand virtually everything written and spoken in that language without difficulties. I am also able to express myself spontaneously, fluently and precisely. In complex contexts, I can make clear meaning nuances."
+soep-is,soep-is-2016-f,2280+456,1,"Nein, nie","No, never"
+soep-is,soep-is-2016-f,2280+456,2,täglich,Daily
+soep-is,soep-is-2016-f,2280+456,3,mehrmals in der Woche,Several times a week
+soep-is,soep-is-2016-f,2280+456,4,wochenweise (Wechselschicht),On a weekly basis (changing shifts)
+soep-is,soep-is-2016-f,2280+456,5,"seltener, nur bei Bedarf","Rarer, only if necessary"
+soep-is,soep-is-2016-f,2280+456,-1,K.A.,No answer
+soep-is,soep-is-2016-f,2281+456,1,"Nein, nie","No, never"
+soep-is,soep-is-2016-f,2281+456,-1,K.A.,No answer
+soep-is,soep-is-2016-f,2281+456,2,jede Woche,Every week
+soep-is,soep-is-2016-f,2281+456,3,Alle 2 Wochen,Every 2 weeks
+soep-is,soep-is-2016-f,2281+456,4,Alle 3-4 Wochen,Every 3-4 weeks
+soep-is,soep-is-2016-f,2281+456,5,seltener,Less often
+soep-is,soep-is-2016-f,2282+,7,1,1
+soep-is,soep-is-2016-f,2282+,8,2,2
+soep-is,soep-is-2016-f,2282+,9,3,3
+soep-is,soep-is-2016-f,2282+,10,4,4
+soep-is,soep-is-2016-f,2282+,1,Ungerechterweise zu niedrig -5,-5 Unfairly too low
+soep-is,soep-is-2016-f,2282+,2,-4,-4
+soep-is,soep-is-2016-f,2282+,3,-3,-3
+soep-is,soep-is-2016-f,2282+,4,-2,-2
+soep-is,soep-is-2016-f,2282+,5,-1,-1
+soep-is,soep-is-2016-f,2282+,6,0 Gerecht,0 Fair
+soep-is,soep-is-2016-f,2282+,11,5 Ungerechterweise zu hoch,5 Unfairly too high
+soep-is,soep-is-2016-f,2283+,3,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2283+,1,10 Euro und drüber,10 euros or above
+soep-is,soep-is-2016-f,2283+,2,Unter 10 Euro,Below 10 euros
+soep-is,soep-is-2016-f,2284+,10,1,1
+soep-is,soep-is-2016-f,2284+,9,2,2
+soep-is,soep-is-2016-f,2284+,8,3,3
+soep-is,soep-is-2016-f,2284+,7,4,4
+soep-is,soep-is-2016-f,2284+,6,5,5
+soep-is,soep-is-2016-f,2284+,5,6,6
+soep-is,soep-is-2016-f,2284+,4,7,7
+soep-is,soep-is-2016-f,2284+,3,8,8
+soep-is,soep-is-2016-f,2284+,2,9,9
+soep-is,soep-is-2016-f,2284+,1,10,10
+soep-is,soep-is-2016-f,2285+,1,"Ja, beide.","Yes, both"
+soep-is,soep-is-2016-f,2285+,2,Nur der Vater.,Only my father
+soep-is,soep-is-2016-f,2285+,3,Nur die Mutter.,Only my mother
+soep-is,soep-is-2016-f,2285+,4,"Nein, beide nicht.","No, neither of them"
+soep-is,soep-is-2016-f,2286+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2286+16,6,Weiß nicht,I don't know
+soep-is,soep-is-2016-f,2286+16,1,Keinen Schulabschluss,No school leaving certificate
+soep-is,soep-is-2016-f,2286+16,2,Volks- / Hauptschulabschluss (DDR,8. Klasse POS)
+soep-is,soep-is-2016-f,2286+16,3,"Mittlere Reife, Realschulabschluss (DDR; 10. Klasse POS)",Intermediate school leaving certificate (Mittlere Reife / Realschulabschluss)(GDR: Completed 10th grade at POS)
+soep-is,soep-is-2016-f,2286+16,4,"Abitur, Hochschulreife (DDR; EOS)","Upper secondary school / University entrance qualification (Abitur, GDR: Erweiterte Oberschule EOS)"
+soep-is,soep-is-2016-f,2286+16,5,Anderen Schulabschluss,Other school leaving certificate
+soep-is,soep-is-2016-f,2287+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2287+16,7,Weiß nicht,I don't know
+soep-is,soep-is-2016-f,2287+16,1,"Arbeiter, auch in der Landwirtschaft","Blue-collar worker, including those working in agriculture"
+soep-is,soep-is-2016-f,2287+16,5,War nicht erwerbstätig,Was not employed
+soep-is,soep-is-2016-f,2287+16,6,War verstorben,Was deceased
+soep-is,soep-is-2016-f,2287+16,2,Angestellter,White-collar worker
+soep-is,soep-is-2016-f,2287+16,3,Beamter / Staatsverwaltung (einschließlich Richter und Berufssoldat),"Civil servant, including judges and professional soldiers"
+soep-is,soep-is-2016-f,2287+16,4,Selbstständiger (einschl. mithelfende Familienangehörige),Self-employed (including family members working for the self-employed)
+soep-is,soep-is-2016-f,2288+,1,1,1
+soep-is,soep-is-2016-f,2288+,2,2,2
+soep-is,soep-is-2016-f,2288+,3,3,3
+soep-is,soep-is-2016-f,2288+,4,4,4
+soep-is,soep-is-2016-f,2288+,5,5,5
+soep-is,soep-is-2016-f,2288+,6,6,6
+soep-is,soep-is-2016-f,2288+,7,7,7
+soep-is,soep-is-2016-f,2288+,8,8,8
+soep-is,soep-is-2016-f,2288+,9,9,9
+soep-is,soep-is-2016-f,2288+,10,10 ganz und gar zufrieden,10 = Completely satisfied
+soep-is,soep-is-2016-f,2288+,0,ganz und gar unzufrieden 0,Completely dissatisfied 0
+soep-is,soep-is-2016-f,2289+,2,2,2
+soep-is,soep-is-2016-f,2289+,3,3,3
+soep-is,soep-is-2016-f,2289+,4,4,4
+soep-is,soep-is-2016-f,2289+,5,5,5
+soep-is,soep-is-2016-f,2289+,6,6,6
+soep-is,soep-is-2016-f,2289+,1,1 Sehr attraktiv,1 Very attractive/handsome/appealing
+soep-is,soep-is-2016-f,2289+,7,7 Sehr unattraktiv,7 Not attractive/handsome/appealing at all
+soep-is,soep-is-2016-f,2290+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,2290+16,1,"In dem Bereich, wo ich zuletzt tätig war","I would like to work in the industry, service or economic sector I worked at last"
+soep-is,soep-is-2016-f,2290+16,2,"Ein ganz neuer Bereich, und zwar:","I would like to work in a completely new field, namely"
+soep-is,soep-is-2016-f,2290+16,3,"Egal, Hauptsache Arbeit",I don't care about which field. The main issue is to have a job at all.
+soep-is,soep-is-2016-f,2290+16,4,Ich beabsichtige in Zukunft nicht zu arbeiten,I intend not to work in the future
+soep-is,soep-is-2016-f,231+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,231+16,7,Weiß nicht,Don'<U+0092>t know
+soep-is,soep-is-2016-f,231+16,1,Industrie- und Werkmeister im Angestelltenverhältnis,"Industry or factory foreman / forewoman (Industriemeister, Werkmeister) in a salaried position"
+soep-is,soep-is-2016-f,231+16,2,Angestellter mit einfacher Tätigkeit - ohne Ausbildungsabschluss,Salaried employee engaged in unskilled activities (Angestellter mit einfacher Tätigkeit) without completed training/education
+soep-is,soep-is-2016-f,231+16,3,Angestellter mit einfacher Tätigkeit - mit Ausbildungsabschluss,Salaried employee engaged in unskilled activities (Angestellter mit einfacher Tätigkeit) with completed training/education
+soep-is,soep-is-2016-f,231+16,4,"Angestellter mit qualifizierter Tätigkeit (z.B. Sachbearbeiter, Buchhalter, technischer Zeichner)","Salaried employee engaged in skilled activities (Angestellter mit qualifizierter Tätigkeit) (e.g., executive officer, bookkeeper, technical draftsperson)"
+soep-is,soep-is-2016-f,231+16,5,"Angestellter mit hochqualifizierter Tätigkeit oder Leitungsfunktion (z.B. wissenschaftlicher Mitarbeiter, Ingenieur, Abteilungsleiter)","Salaried employee engaged in highly skilled activities (Angestellter mit hochqualifizierter Tätigkeit) or managerial functions (e.g., scientist, engineer, department head)"
+soep-is,soep-is-2016-f,231+16,6,"Angestellter mit umfassenden Führungsaufgaben (z.B. Direktor, Geschäftsführer, Vorstand größerer Betriebe und Verbände)","Salaried employee with extensive managerial duties (Angestellter mit umfassenden Führungsaufgaben) (e.g., managing director, head of a large firm or association)"
+soep-is,soep-is-2016-f,233+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,233+16,7,Weiß nicht,Don'<U+0092>t know
+soep-is,soep-is-2016-f,233+16,1,Industrie- und Werkmeisterin im Angestelltenverhältnis,"Industry or factory foreman / forewoman (Industriemeister, Werkmeister) in a salaried position"
+soep-is,soep-is-2016-f,233+16,2,Angestellte mit einfacher Tätigkeit - ohne Ausbildungsabschluss,Salaried employee engaged in unskilled activities (Angestellter mit einfacher Tätigkeit) without completed training/education
+soep-is,soep-is-2016-f,233+16,3,Angestellte mit einfacher Tätigkeit - mit Ausbildungsabschluss,Salaried employee engaged in unskilled activities (Angestellter mit einfacher Tätigkeit) with completed training/education
+soep-is,soep-is-2016-f,233+16,4,"Angestellte mit qualifizierter Tätigkeit (z.B. Sachbearbeiterin, Buchhalterin, technische Zeichnerin)","Salaried employee engaged in skilled activities (Angestellter mit qualifizierter Tätigkeit) (e.g., executive officer, bookkeeper, technical draftsperson)"
+soep-is,soep-is-2016-f,233+16,5,"Angestellte mit hochqualifizierter Tätigkeit oder Leitungsfunktion (z.B. wissenschaftlicher Mitarbeiter, Ingenieur, Abteilungsleiter)","Salaried employee engaged in highly skilled activities (Angestellter mit hochqualifizierter Tätigkeit) or managerial functions (e.g., scientist, engineer, department head)"
+soep-is,soep-is-2016-f,233+16,6,"Angestellte mit umfassenden Führungsaufgaben (z.B. Direktorin, Geschäftsführerin, Vorstand größerer Betriebe und Verbände)","Salaried employee with extensive managerial duties (Angestellter mit umfassenden Führungsaufgaben) (e.g., managing director, head of a large firm or association)"
+soep-is,soep-is-2016-f,234+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,234+16,8,Weiß nicht,Don'<U+0092>t know
+soep-is,soep-is-2016-f,234+16,7,Mithelfende Familienangehörige,Assisting self-employed family member
+soep-is,soep-is-2016-f,234+16,1,Selbständige Landwirtin ohne Beschäftigte,Self-employed farmer without employees
+soep-is,soep-is-2016-f,234+16,2,Selbständige Landwirtin mit Beschäftigte,Self-employed farmer with employees
+soep-is,soep-is-2016-f,234+16,3,"Freie Berufe, selbständige Akademikerin ohne Beschäftigte",Freelance professional or academic without employees
+soep-is,soep-is-2016-f,234+16,4,"Freie Berufe, selbständige Akademikerin mit Beschäftigte",Freelance professional or academic with employees
+soep-is,soep-is-2016-f,234+16,5,Sonstige Selbständige ohne Beschäftigte,Other self-employed professional without employees
+soep-is,soep-is-2016-f,234+16,6,Sonstige Selbständige mit Beschäftigte,Other self-employed professional with employees
+soep-is,soep-is-2016-f,27+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,27+16,5,Sehr oft,Very often
+soep-is,soep-is-2016-f,27+16,4,Oft,Often
+soep-is,soep-is-2016-f,27+16,3,Manchmal,Occasionally
+soep-is,soep-is-2016-f,27+16,2,Selten,Rarely
+soep-is,soep-is-2016-f,27+16,1,Sehr selten,Very rarely
+soep-is,soep-is-2016-f,371+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,371+16,1,Sehr stark,An extreme amount
+soep-is,soep-is-2016-f,371+16,2,Ziemlich stark,quiet strong
+soep-is,soep-is-2016-f,371+16,3,Mäßig,moderate
+soep-is,soep-is-2016-f,371+16,4,Ziemlich schwach,quiet weak
+soep-is,soep-is-2016-f,371+16,5,Sehr schwach,very weak
+soep-is,soep-is-2016-f,38+,1,Ihr Sohn,Son
+soep-is,soep-is-2016-f,38+,2,Ihre Tochter,Daughter
+soep-is,soep-is-2016-f,434+,1,Fragen zum Kind beantworten,Answer questions on the child
+soep-is,soep-is-2016-f,434+,2,Fragen zum Kind überspringen,Skip questions on the child
+soep-is,soep-is-2016-f,436+,2,2,2
+soep-is,soep-is-2016-f,436+,3,3,3
+soep-is,soep-is-2016-f,436+,4,4,4
+soep-is,soep-is-2016-f,436+,5,5,5
+soep-is,soep-is-2016-f,436+,6,6,6
+soep-is,soep-is-2016-f,436+,7,7,7
+soep-is,soep-is-2016-f,436+,8,8,8
+soep-is,soep-is-2016-f,436+,9,9,9
+soep-is,soep-is-2016-f,436+,10,10,10
+soep-is,soep-is-2016-f,436+,1,… ist eher schüchtern,… tends to be shy
+soep-is,soep-is-2016-f,436+,11,... ist eher kontaktfreudig,... tends to be outgoing
+soep-is,soep-is-2016-f,437+,2,2,2
+soep-is,soep-is-2016-f,437+,3,3,3
+soep-is,soep-is-2016-f,437+,4,4,4
+soep-is,soep-is-2016-f,437+,5,5,5
+soep-is,soep-is-2016-f,437+,6,6,6
+soep-is,soep-is-2016-f,437+,7,7,7
+soep-is,soep-is-2016-f,437+,8,8,8
+soep-is,soep-is-2016-f,437+,9,9,9
+soep-is,soep-is-2016-f,437+,10,10,10
+soep-is,soep-is-2016-f,437+,1,... ist eher konzentriert,... tends to be focused
+soep-is,soep-is-2016-f,437+,11,... ist eher leicht ablenkbar,... tends to be easily distracted
+soep-is,soep-is-2016-f,438+,2,2,2
+soep-is,soep-is-2016-f,438+,3,3,3
+soep-is,soep-is-2016-f,438+,4,4,4
+soep-is,soep-is-2016-f,438+,5,5,5
+soep-is,soep-is-2016-f,438+,6,6,6
+soep-is,soep-is-2016-f,438+,7,7,7
+soep-is,soep-is-2016-f,438+,8,8,8
+soep-is,soep-is-2016-f,438+,9,9,9
+soep-is,soep-is-2016-f,438+,10,10,10
+soep-is,soep-is-2016-f,438+,1,... ist eher trotzig,... tends to be defiant
+soep-is,soep-is-2016-f,438+,11,... ist eher folgsam,... tends to be obedient
+soep-is,soep-is-2016-f,439+,2,2,2
+soep-is,soep-is-2016-f,439+,3,3,3
+soep-is,soep-is-2016-f,439+,4,4,4
+soep-is,soep-is-2016-f,439+,5,5,5
+soep-is,soep-is-2016-f,439+,6,6,6
+soep-is,soep-is-2016-f,439+,7,7,7
+soep-is,soep-is-2016-f,439+,8,8,8
+soep-is,soep-is-2016-f,439+,9,9,9
+soep-is,soep-is-2016-f,439+,10,10,10
+soep-is,soep-is-2016-f,439+,1,... begreift eher schnell,... tends to be quick to understand
+soep-is,soep-is-2016-f,439+,11,... braucht mehr Zeit,... needs more time
+soep-is,soep-is-2016-f,46+,1,Januar,January
+soep-is,soep-is-2016-f,46+,2,Februar,February
+soep-is,soep-is-2016-f,46+,3,März,March
+soep-is,soep-is-2016-f,46+,4,April,April
+soep-is,soep-is-2016-f,46+,5,Mai,May
+soep-is,soep-is-2016-f,46+,6,Juni,June
+soep-is,soep-is-2016-f,46+,7,Juli,July
+soep-is,soep-is-2016-f,46+,8,August,August
+soep-is,soep-is-2016-f,46+,9,September,September
+soep-is,soep-is-2016-f,46+,10,Oktober,October
+soep-is,soep-is-2016-f,46+,11,November,November
+soep-is,soep-is-2016-f,46+,12,Dezember,December
+soep-is,soep-is-2016-f,468+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,468+16,2,Oft,Often
+soep-is,soep-is-2016-f,468+16,3,Manchmal,Sometimes
+soep-is,soep-is-2016-f,468+16,4,Selten,Rarely
+soep-is,soep-is-2016-f,468+16,5,Nie,Never
+soep-is,soep-is-2016-f,468+16,1,Immer,Always
+soep-is,soep-is-2016-f,48+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,48+16,1,U1,U1
+soep-is,soep-is-2016-f,48+16,2,U2,U2
+soep-is,soep-is-2016-f,48+16,3,U3,U3
+soep-is,soep-is-2016-f,48+16,4,U4,U4
+soep-is,soep-is-2016-f,48+16,5,U5,U5
+soep-is,soep-is-2016-f,48+16,6,U6,U6
+soep-is,soep-is-2016-f,48+16,7,U7,U7
+soep-is,soep-is-2016-f,48+16,8,U8,U8
+soep-is,soep-is-2016-f,48+16,9,U9,U9
+soep-is,soep-is-2016-f,48+16,10,Es wurde keine dieser Untersuchungen durchgeführt,Not undergone any of these examinations
+soep-is,soep-is-2016-f,49+16,3,Nein,No
+soep-is,soep-is-2016-f,49+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,49+16,1,"Ja, bei der U-Untersuchung","Yes, in one of the U-screenings"
+soep-is,soep-is-2016-f,49+16,2,"Ja, bei einer anderen Untersuchung","Yes, in another check-up"
+soep-is,soep-is-2016-f,504+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,504+16,1,Deutschland,Germany
+soep-is,soep-is-2016-f,504+16,2,In einem anderen Land,In another country
+soep-is,soep-is-2016-f,511+16,3,Nein,no
+soep-is,soep-is-2016-f,511+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,511+16,1,"Ja, ABM-Stelle","Yes, a job-creation measure (ABM)"
+soep-is,soep-is-2016-f,511+16,2,"Ja, gemeinnütige Arbeit (1-Euro-Job)","Yes, a “1-Euro Job” (community work)"
+soep-is,soep-is-2016-f,512+16,3,Nein,No
+soep-is,soep-is-2016-f,512+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,512+16,1,"Ja, Mini-Job (bis 450 Euro)","Yes, Mini-Job (up to 450 euros)"
+soep-is,soep-is-2016-f,512+16,2,"Ja, Midi-Job (451 bis 850 Euro)","Yes, Midi-Job (451 to 850 euros)"
+soep-is,soep-is-2016-f,61+16,1,Ja,Yes
+soep-is,soep-is-2016-f,61+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,62+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,62+16,1,In einem Bundesland der Bundesrepublik Deutschland?,In a federal state of the Federal Republic of Germany?
+soep-is,soep-is-2016-f,62+16,2,In der DDR?,In GDR?
+soep-is,soep-is-2016-f,62+16,3,In einem anderen Land?,In another country
+soep-is,soep-is-2016-f,64+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,64+16,3,Abitur (Hochschulreife),Upper Secondary School Degree
+soep-is,soep-is-2016-f,64+16,4,Anderer Schulabschluss,Other Degree
+soep-is,soep-is-2016-f,64+16,1,Abschluss 8. Klasse,Secondary School Degree
+soep-is,soep-is-2016-f,64+16,2,Abschluss 10. Klasse,Intermediate School Degree
+soep-is,soep-is-2016-f,649+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,649+16,5,Sehr oft,Very Often
+soep-is,soep-is-2016-f,649+16,4,Oft,Often
+soep-is,soep-is-2016-f,649+16,3,Manchmal,Sometimes
+soep-is,soep-is-2016-f,649+16,2,Selten,Rarely
+soep-is,soep-is-2016-f,649+16,1,Nie,Never
+soep-is,soep-is-2016-f,65+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,65+16,1,Abschluss einer Pflichtschule,"School, with degree"
+soep-is,soep-is-2016-f,65+16,2,Abschluss einer weiterführenden Schule,Vocational Extension School
+soep-is,soep-is-2016-f,653+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,653+16,1,Stimme zu,Agree
+soep-is,soep-is-2016-f,653+16,2,Stimme nicht zu,Disagree
+soep-is,soep-is-2016-f,655+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,655+16,2,Stimme zu,Agree
+soep-is,soep-is-2016-f,655+16,1,Stimme nicht zu,Disagree
+soep-is,soep-is-2016-f,658+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,658+16,2,"Volontäre, Praktikanten und ähnliches","Volunteer, intern, etc"
+soep-is,soep-is-2016-f,658+16,1,Auszubildende,Apprentice / trainee
+soep-is,soep-is-2016-f,66+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,66+16,1,Allgemeinbildende Schule,General education / secondary school
+soep-is,soep-is-2016-f,66+16,2,Berufliche Ausbildung,Vocational training
+soep-is,soep-is-2016-f,66+16,3,"Hochschule, Fachhochschule",Higher education
+soep-is,soep-is-2016-f,66+16,4,"Weiterbildung, Umschulung","Further training, Retraining"
+soep-is,soep-is-2016-f,664+,1,Personennummer / Name / Geburtsjahr / Geschlecht,person number / name / year of birth / sex
+soep-is,soep-is-2016-f,664+,2,Andere Person im Haushalt,Another person in household
+soep-is,soep-is-2016-f,664+,3,Falscher Haushalt,Wrong household
+soep-is,soep-is-2016-f,674+16,10,Nein,No
+soep-is,soep-is-2016-f,674+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,674+16,1,1972,1972
+soep-is,soep-is-2016-f,674+16,2,1973,1973
+soep-is,soep-is-2016-f,674+16,3,1974,1974
+soep-is,soep-is-2016-f,674+16,4,1975,1975
+soep-is,soep-is-2016-f,674+16,5,1976,1976
+soep-is,soep-is-2016-f,674+16,6,1977,1977
+soep-is,soep-is-2016-f,674+16,7,1978,1978
+soep-is,soep-is-2016-f,674+16,8,1979,1979
+soep-is,soep-is-2016-f,674+16,9,1980,1980
+soep-is,soep-is-2016-f,675+16,11,Nein,No
+soep-is,soep-is-2016-f,675+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,675+16,1,1981,1981
+soep-is,soep-is-2016-f,675+16,2,1982,1982
+soep-is,soep-is-2016-f,675+16,3,1983,1983
+soep-is,soep-is-2016-f,675+16,4,1984,1984
+soep-is,soep-is-2016-f,675+16,5,1985,1985
+soep-is,soep-is-2016-f,675+16,6,1986,1986
+soep-is,soep-is-2016-f,675+16,7,1987,1987
+soep-is,soep-is-2016-f,675+16,8,1988,1988
+soep-is,soep-is-2016-f,675+16,9,1989,1989
+soep-is,soep-is-2016-f,675+16,10,1990,1990
+soep-is,soep-is-2016-f,676+16,11,Nein,No
+soep-is,soep-is-2016-f,676+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,676+16,1,1991,1991
+soep-is,soep-is-2016-f,676+16,2,1992,1992
+soep-is,soep-is-2016-f,676+16,3,1993,1993
+soep-is,soep-is-2016-f,676+16,4,1994,1994
+soep-is,soep-is-2016-f,676+16,5,1995,1995
+soep-is,soep-is-2016-f,676+16,6,1996,1996
+soep-is,soep-is-2016-f,676+16,7,1997,1997
+soep-is,soep-is-2016-f,676+16,8,1998,1998
+soep-is,soep-is-2016-f,676+16,9,1999,1999
+soep-is,soep-is-2016-f,676+16,10,2000,2000
+soep-is,soep-is-2016-f,677+16,11,Nein,No
+soep-is,soep-is-2016-f,677+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,677+16,1,2001,2001
+soep-is,soep-is-2016-f,677+16,2,2002,2002
+soep-is,soep-is-2016-f,677+16,3,2003,2003
+soep-is,soep-is-2016-f,677+16,4,2004,2004
+soep-is,soep-is-2016-f,677+16,5,2005,2005
+soep-is,soep-is-2016-f,677+16,6,2006,2006
+soep-is,soep-is-2016-f,677+16,7,2007,2007
+soep-is,soep-is-2016-f,677+16,8,2008,2008
+soep-is,soep-is-2016-f,677+16,9,2009,2009
+soep-is,soep-is-2016-f,677+16,10,2010,2010
+soep-is,soep-is-2016-f,681+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,681+16,1,Niedriger als 1500 Euro,less than 1.500 euros
+soep-is,soep-is-2016-f,681+16,2,Höher als 1500 Euro,more than 1.500 euros
+soep-is,soep-is-2016-f,684+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,684+16,1,Niedriger als 5000 Euro,less than 5.000 euros
+soep-is,soep-is-2016-f,684+16,2,Höher als 5000 Euro,more than 5.000 euros
+soep-is,soep-is-2016-f,685+16,2,Nein,No
+soep-is,soep-is-2016-f,685+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,685+16,1,"Ja, zur Vermögensbildung","Yes, for asset formation"
+soep-is,soep-is-2016-f,693+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,693+16,2,2,2
+soep-is,soep-is-2016-f,693+16,3,3,3
+soep-is,soep-is-2016-f,693+16,4,4,4
+soep-is,soep-is-2016-f,693+16,5,5,5
+soep-is,soep-is-2016-f,693+16,6,6,6
+soep-is,soep-is-2016-f,693+16,1,Stimme überhaupt nicht zu 1,Do not agree at all 1
+soep-is,soep-is-2016-f,693+16,7,Stimme voll zu 7,Completely agree 7
+soep-is,soep-is-2016-f,701+,2,2,2
+soep-is,soep-is-2016-f,701+,3,3,3
+soep-is,soep-is-2016-f,701+,4,4,4
+soep-is,soep-is-2016-f,701+,5,5,5
+soep-is,soep-is-2016-f,701+,6,6,6
+soep-is,soep-is-2016-f,701+,1,Trifft überhaupt nicht zu 1,Does not apply at all 1
+soep-is,soep-is-2016-f,701+,7,Trifft voll zu 7,Applies completely 7
+soep-is,soep-is-2016-f,701+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,701+16,2,2,2
+soep-is,soep-is-2016-f,701+16,3,3,3
+soep-is,soep-is-2016-f,701+16,4,4,4
+soep-is,soep-is-2016-f,701+16,5,5,5
+soep-is,soep-is-2016-f,701+16,6,6,6
+soep-is,soep-is-2016-f,701+16,1,Trifft überhaupt nicht zu 1,Does not apply at all 1
+soep-is,soep-is-2016-f,701+16,7,Trifft voll zu 7,Applies completely 7
+soep-is,soep-is-2016-f,703+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,703+16,1,SPD,SPD
+soep-is,soep-is-2016-f,703+16,2,CDU,CDU
+soep-is,soep-is-2016-f,703+16,3,CSU,CSU
+soep-is,soep-is-2016-f,703+16,4,FDP,FDP
+soep-is,soep-is-2016-f,703+16,5,Bündnis 90/Die Grünen,Bündnis 90/Die Grünen
+soep-is,soep-is-2016-f,703+16,6,Die Linke,Die Linke
+soep-is,soep-is-2016-f,703+16,26,Piratenpartei,Piratenpartei
+soep-is,soep-is-2016-f,703+16,27,Alternative für Deutschland,Alternative für Deutschland
+soep-is,soep-is-2016-f,703+16,7,NPD/ Republikaner/Die Rechte,"NPD, Republikaner, Die Rechte"
+soep-is,soep-is-2016-f,703+16,8,"Andere, und zwar","Other, in fact:"
+soep-is,soep-is-2016-f,713+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,713+16,3,In einem anderen Land,In another country
+soep-is,soep-is-2016-f,713+16,1,"In der DDR, einschließlich Ostberlin","In East Germany (German Democratic Republic), including East-Berlin"
+soep-is,soep-is-2016-f,713+16,2,"In der Bundesrepublik, einschließlich Westberlin","In West Germany, including West-Berlin"
+soep-is,soep-is-2016-f,718+,1,ist eher gesprächig,… talkative
+soep-is,soep-is-2016-f,718+,2,,
+soep-is,soep-is-2016-f,718+,3,,
+soep-is,soep-is-2016-f,718+,4,,
+soep-is,soep-is-2016-f,718+,5,,
+soep-is,soep-is-2016-f,718+,6,,
+soep-is,soep-is-2016-f,718+,7,,
+soep-is,soep-is-2016-f,718+,8,,
+soep-is,soep-is-2016-f,718+,9,,
+soep-is,soep-is-2016-f,718+,10,,
+soep-is,soep-is-2016-f,718+,11,ist eher still,… quiet
+soep-is,soep-is-2016-f,719+,1,ist unordentlich,is messy
+soep-is,soep-is-2016-f,719+,2,,
+soep-is,soep-is-2016-f,719+,3,,
+soep-is,soep-is-2016-f,719+,4,,
+soep-is,soep-is-2016-f,719+,5,,
+soep-is,soep-is-2016-f,719+,6,,
+soep-is,soep-is-2016-f,719+,7,,
+soep-is,soep-is-2016-f,719+,8,,
+soep-is,soep-is-2016-f,719+,9,,
+soep-is,soep-is-2016-f,719+,10,,
+soep-is,soep-is-2016-f,719+,11,ist ordentlich,is neat
+soep-is,soep-is-2016-f,720+,1,ist gutmütig,… good-natured
+soep-is,soep-is-2016-f,720+,2,,
+soep-is,soep-is-2016-f,720+,3,,
+soep-is,soep-is-2016-f,720+,4,,
+soep-is,soep-is-2016-f,720+,5,,
+soep-is,soep-is-2016-f,720+,6,,
+soep-is,soep-is-2016-f,720+,7,,
+soep-is,soep-is-2016-f,720+,8,,
+soep-is,soep-is-2016-f,720+,9,,
+soep-is,soep-is-2016-f,720+,10,,
+soep-is,soep-is-2016-f,720+,11,ist leicht reizbar,… easily upset
+soep-is,soep-is-2016-f,721+,7,,
+soep-is,soep-is-2016-f,721+,1,ist wenig interessiert,is less interested
+soep-is,soep-is-2016-f,721+,2,,
+soep-is,soep-is-2016-f,721+,3,,
+soep-is,soep-is-2016-f,721+,4,,
+soep-is,soep-is-2016-f,721+,5,,
+soep-is,soep-is-2016-f,721+,6,,
+soep-is,soep-is-2016-f,721+,8,,
+soep-is,soep-is-2016-f,721+,9,,
+soep-is,soep-is-2016-f,721+,10,,
+soep-is,soep-is-2016-f,721+,11,ist wissensdurstig,is curious to learn
+soep-is,soep-is-2016-f,722+,1,hat Selbstvertrauen,… self-confident
+soep-is,soep-is-2016-f,722+,2,,
+soep-is,soep-is-2016-f,722+,3,,
+soep-is,soep-is-2016-f,722+,4,,
+soep-is,soep-is-2016-f,722+,5,,
+soep-is,soep-is-2016-f,722+,6,,
+soep-is,soep-is-2016-f,722+,7,,
+soep-is,soep-is-2016-f,722+,8,,
+soep-is,soep-is-2016-f,722+,9,,
+soep-is,soep-is-2016-f,722+,10,,
+soep-is,soep-is-2016-f,722+,11,ist unsicher,… insecure
+soep-is,soep-is-2016-f,723+,1,ist zurückgezogen,… introverted
+soep-is,soep-is-2016-f,723+,2,,
+soep-is,soep-is-2016-f,723+,3,,
+soep-is,soep-is-2016-f,723+,4,,
+soep-is,soep-is-2016-f,723+,5,,
+soep-is,soep-is-2016-f,723+,6,,
+soep-is,soep-is-2016-f,723+,7,,
+soep-is,soep-is-2016-f,723+,8,,
+soep-is,soep-is-2016-f,723+,9,,
+soep-is,soep-is-2016-f,723+,10,,
+soep-is,soep-is-2016-f,723+,11,ist kontaktfreudig,… outgoing
+soep-is,soep-is-2016-f,724+,1,ist konzentriert,… focused
+soep-is,soep-is-2016-f,724+,2,,
+soep-is,soep-is-2016-f,724+,3,,
+soep-is,soep-is-2016-f,724+,4,,
+soep-is,soep-is-2016-f,724+,5,,
+soep-is,soep-is-2016-f,724+,6,,
+soep-is,soep-is-2016-f,724+,7,,
+soep-is,soep-is-2016-f,724+,8,,
+soep-is,soep-is-2016-f,724+,9,,
+soep-is,soep-is-2016-f,724+,11,ist leicht ablenkbar,… easily distracted
+soep-is,soep-is-2016-f,724+,10,,
+soep-is,soep-is-2016-f,725+,1,ist trotzig,… disobedient
+soep-is,soep-is-2016-f,725+,2,,
+soep-is,soep-is-2016-f,725+,4,,
+soep-is,soep-is-2016-f,725+,5,,
+soep-is,soep-is-2016-f,725+,6,,
+soep-is,soep-is-2016-f,725+,8,,
+soep-is,soep-is-2016-f,725+,9,,
+soep-is,soep-is-2016-f,725+,10,,
+soep-is,soep-is-2016-f,725+,11,ist folgsam,… obedient
+soep-is,soep-is-2016-f,725+,7,,
+soep-is,soep-is-2016-f,725+,3,,
+soep-is,soep-is-2016-f,726+,5,,
+soep-is,soep-is-2016-f,726+,1,begreift schnell,… quick at learning new things
+soep-is,soep-is-2016-f,726+,2,,
+soep-is,soep-is-2016-f,726+,3,,
+soep-is,soep-is-2016-f,726+,4,,
+soep-is,soep-is-2016-f,726+,6,,
+soep-is,soep-is-2016-f,726+,7,,
+soep-is,soep-is-2016-f,726+,8,,
+soep-is,soep-is-2016-f,726+,9,,
+soep-is,soep-is-2016-f,726+,10,,
+soep-is,soep-is-2016-f,726+,11,braucht mehr Zeit,… needs more time
+soep-is,soep-is-2016-f,727+,7,,
+soep-is,soep-is-2016-f,727+,1,ist ängstlich,… timid
+soep-is,soep-is-2016-f,727+,2,,
+soep-is,soep-is-2016-f,727+,3,,
+soep-is,soep-is-2016-f,727+,4,,
+soep-is,soep-is-2016-f,727+,5,,
+soep-is,soep-is-2016-f,727+,6,,
+soep-is,soep-is-2016-f,727+,8,,
+soep-is,soep-is-2016-f,727+,9,,
+soep-is,soep-is-2016-f,727+,10,,
+soep-is,soep-is-2016-f,727+,11,ist unängstlich,… fearless
+soep-is,soep-is-2016-f,74+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,74+16,5,"Meister, Polier",Master craftsperson (Meister / Polierer)
+soep-is,soep-is-2016-f,74+16,1,Ungelernte Arbeiter,Unskilled worker (ungelernt)
+soep-is,soep-is-2016-f,74+16,2,Angelernte Arbeiter,Semi-skilled worker (angelernt)
+soep-is,soep-is-2016-f,74+16,3,Gelernte und Facharbeiter,Trained worker (gelernter Arbeiter) or skilled worker (Facharbeiter)
+soep-is,soep-is-2016-f,74+16,4,"Vorarbeiter, Kolonnenführer",Foreman / forewoman (Vorarbeiter / Kolonnenführer)
+soep-is,soep-is-2016-f,740+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,740+16,1,"Voll berufstätig, also mindestens 35 Wochenstunden","Employed full-time, at least 35 hours per week"
+soep-is,soep-is-2016-f,740+16,2,"Teilzeitbeschäftigt, also 20 bis 34 Wochenstunden","Employed part-time, from 20 to 34 hours per week"
+soep-is,soep-is-2016-f,740+16,3,Geringfügig oder unregelmäßig beschäftigt,In marginal or irregular employment
+soep-is,soep-is-2016-f,754+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,754+16,6,Weiß nicht,Don't know
+soep-is,soep-is-2016-f,754+16,4,Blackberry OS,Blackberry OS
+soep-is,soep-is-2016-f,754+16,2,iOS (iPhone),iOS (iPhone)
+soep-is,soep-is-2016-f,754+16,3,Windows Phone,Windows Phone
+soep-is,soep-is-2016-f,754+16,5,"Anderes (z.B. Symbian, Bada)","Other (e.g. Symbian, Bada)"
+soep-is,soep-is-2016-f,754+16,1,Android,Android
+soep-is,soep-is-2016-f,76+,9,Keine Angabe,No answer
+soep-is,soep-is-2016-f,76+,1,Keine,None
+soep-is,soep-is-2016-f,76+,3,10 und mehr,10 and more
+soep-is,soep-is-2016-f,76+,2,1 bis 9,1 to 9
+soep-is,soep-is-2016-f,788+,1,Film starten,Start movie
+soep-is,soep-is-2016-f,788+,2,"Film überspringen, weil:","Skip movie, since:"
+soep-is,soep-is-2016-f,788+,3,Film wurde bereits gezeigt,Movie was already shown
+soep-is,soep-is-2016-f,789+,2,"Einverständniserklärung nicht übergeben, weil:","Letter of agreement is not handed over, since:"
+soep-is,soep-is-2016-f,789+,1,Einverständniserklärung übergeben,Letter of agreement is handed over to interviewer
+soep-is,soep-is-2016-f,79+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,79+16,1,Einfacher Dienst,Lower level
+soep-is,soep-is-2016-f,79+16,2,Mittlerer Dienst,Middle level
+soep-is,soep-is-2016-f,79+16,3,Gehobener Dienst,Upper level
+soep-is,soep-is-2016-f,79+16,4,Höherer Dienst,Executive level
+soep-is,soep-is-2016-f,80+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,80+16,1,"Nein, ganz sicher nicht","No, definitely not"
+soep-is,soep-is-2016-f,80+16,2,Eher unwahrscheinlich,Probably not
+soep-is,soep-is-2016-f,80+16,3,Wahrscheinlich,Probably
+soep-is,soep-is-2016-f,80+16,4,Ganz sicher,Definitely
+soep-is,soep-is-2016-f,82+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,82+16,1,Habe erstmals in meinem Leben eine Erwerbstätigkeit aufgenommen,I started working for the first time in my life
+soep-is,soep-is-2016-f,82+16,2,Bin nach einer Unterbrechung jetzt wieder zum früheren Arbeitgeber zurückgekehrt,I returned to a previous employer after a break in employment
+soep-is,soep-is-2016-f,82+16,3,Habe eine Stelle bei einem neuen Arbeitgeber angetreten (bei Zeitarbeitnehmern: einschl. Tätigkeit in einem Entleihbetrieb),I started a new job with a different employer (for temporary workers this includes working in a temporary job)
+soep-is,soep-is-2016-f,82+16,4,Bin vom Betrieb übernommen worden (war vorher dort in Ausbildung / in ABM / oder als freier Mitarbeiter tätig),I was hired by the company (in which I previously worked as an apprentice / in a job creation measure (ABM) / on a freelance basis)
+soep-is,soep-is-2016-f,82+16,5,Habe innerhalb des Unternehmens die Stelle gewechselt,I changed positions within the same company
+soep-is,soep-is-2016-f,82+16,6,Habe eine neue Tätigkeit als Selbständiger aufgenommen,I became self-employed
+soep-is,soep-is-2016-f,839+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,839+16,2,2,2
+soep-is,soep-is-2016-f,839+16,3,3,3
+soep-is,soep-is-2016-f,839+16,4,4,4
+soep-is,soep-is-2016-f,839+16,5,5,5
+soep-is,soep-is-2016-f,839+16,6,6,6
+soep-is,soep-is-2016-f,839+16,1,überhaupt nicht 1,Not at all 1
+soep-is,soep-is-2016-f,839+16,7,voll und ganz 7,Completely 7
+soep-is,soep-is-2016-f,869+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,869+16,1,Männlich,Male
+soep-is,soep-is-2016-f,869+16,2,Weiblich,Female
+soep-is,soep-is-2016-f,92+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,92+16,1,Stimme gar nicht zu,Strongly disagree
+soep-is,soep-is-2016-f,92+16,2,Stimme eher nicht zu,Disagree
+soep-is,soep-is-2016-f,92+16,3,Stimme eher zu,Agree
+soep-is,soep-is-2016-f,92+16,4,Stimme voll zu,Strongly agree
+soep-is,soep-is-2016-f,940+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,940+16,1,Unbefristeten Arbeitsvertrag,Permanent contract
+soep-is,soep-is-2016-f,940+16,2,Befristetes Arbeitsverhältnis,Fixed-term contract.
+soep-is,soep-is-2016-f,940+16,3,Trifft nicht zu / habe keinen Arbeitsvertrag,Not applicable / do not have an employment contract
+soep-is,soep-is-2016-f,97+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,97+16,4,Weiß nicht,Don't know
+soep-is,soep-is-2016-f,97+16,1,"Ja, berufliche Ausbildung","Yes, vocational training"
+soep-is,soep-is-2016-f,97+16,2,"Ja, Hochschulstudium","Yes, university degree"
+soep-is,soep-is-2016-f,97+16,3,"Nein, keine abgeschlossene Ausbildung","No, he did not complete training or a university degree"
+soep-is,soep-is-2016-f,99+16,-1,Keine Angabe,No answer
+soep-is,soep-is-2016-f,99+16,6,Weiß nicht,Don't know
+soep-is,soep-is-2016-f,99+16,5,"Meister, Polier",Master craftsperson (Meister / Polierer)
+soep-is,soep-is-2016-f,99+16,1,Ungelernte Arbeiter,Unskilled worker (ungelernt)
+soep-is,soep-is-2016-f,99+16,2,Angelernte Arbeiter,Semi-skilled worker (angelernt)
+soep-is,soep-is-2016-f,99+16,3,Gelernte und Facharbeiter,Trained worker (gelernter Arbeiter) or skilled worker (Facharbeiter)
+soep-is,soep-is-2016-f,99+16,4,"Vorarbeiter, Kolonnenführer",Foreman / forewoman (Vorarbeiter / Kolonnenführer)
+soep-is,soep-is-2016-f,Q340,1,Voll erwerbstätig,Full-time employed
+soep-is,soep-is-2016-f,Q340,2,In Teilzeitbeschäftigung,Part-time employed
+soep-is,soep-is-2016-f,Q340,3,"In betrieblicher Ausbildung, Lehre oder betrieblicher Umschulung",Completing in-service training (betriebliche Ausbildung) / apprenticeship (Lehre) / in-service retraining (betriebliche Umschulung)
+soep-is,soep-is-2016-f,Q340,4,Geringfügig oder unregelmäßig erwerbstätig,In marginal (geringfügig) or irregular employment (unregelmäßig erwerbstätig)
+soep-is,soep-is-2016-f,Q340,5,In Altersteilzeit mit Arbeitszeit Null,In partial retirement with zero working hours
+soep-is,soep-is-2016-f,Q340,6,Freiwilliger Wehrdienst,Voluntary military service
+soep-is,soep-is-2016-f,Q340,7,"Freiwilliges soziales/ökologisches Jahr, Bundesfreiwilligendienst",A voluntary social/ ecological year (freiwilliges soziales/ökologisches Jahr) or in the federal volunteer service (Bundesfreiwilligendienst)
+soep-is,soep-is-2016-f,Q340,9,Nicht erwerbstätig,Not employed
+soep-is,soep-is-2016-f,Q340,8,Werkstatt für Behinderte,Sheltered Workshop
+soep-is,soep-is-2016-f,Q482,1,App herunterladen,Download app
+soep-is,soep-is-2016-f,Q482,2,"App nicht heruntergeladen, weil: (offene Angabe)","Do not download the app, because (open declaration)"
+soep-is,soep-is-2016-f,Q483,1,"Ja, und zwar","Yes, in fact:"
+soep-is,soep-is-2016-f,Q483,2,"Nein, keine Erläuterungen","No, no explanation"
+soep-is,soep-is-2016-f,Q381,2,"Arbeiter, auch in der Landwirtschaft","Blue-collar worker, also in agriculture"
+soep-is,soep-is-2016-f,Q381,5,Angestellte,White-collar worker
+soep-is,soep-is-2016-f,Q381,1,"Selbständige, einschl. mithelfende Familienangehörige","Self-employed people, or relatives working for a self-employed person"
+soep-is,soep-is-2016-f,Q381,3,"Beamte, einschließlich Richter und Berufssoldaten","Civil servant, including judges and professional soldiers"
+soep-is,soep-is-2016-f,Q381,4,Auszubildende und Praktikanten,Apprentices/trainees and interns
+soep-is,soep-is-2016-f,Q381,6,"Andere Stellung, und zwar:",Other status (please specify)
+soep-is,soep-is-2016-f,Q381,-1,Keine Angabe,No answer
