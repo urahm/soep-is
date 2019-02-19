@@ -1,8 +1,47 @@
+import pytest
 from colorama import Fore, Style, init
 
 import pandas as pd
 
 init()
+
+STUDY = "soep-is"
+
+
+@pytest.fixture(scope="module")
+def questions():
+    return pd.read_csv("metadata/questions.csv")
+
+
+@pytest.fixture(scope="module")
+def questionnaires():
+    return pd.read_csv("metadata/questionnaires.csv", dtype={"period": str})
+
+
+def assert_study_in_df(df):
+    # only one study is defined in the study column
+    assert 1 == len(df["study"].unique())
+    # the one defined study is equal to STUDY
+    assert STUDY == df["study"].unique()[0]
+
+
+def test_questions(questions):
+    WANTED_COLUMNS = {"study", "questionnaire"}
+    assert WANTED_COLUMNS.issubset(questions.columns)
+    assert_study_in_df(questions)
+
+
+def test_questionnaries(questionnaires):
+    WANTED_COLUMNS = {"study", "questionnaire", "label", "period"}
+    assert WANTED_COLUMNS.issubset(questionnaires.columns)
+    assert_study_in_df(questionnaires)
+
+    has_no_period = questionnaires["period"].isna()
+    if len(questionnaires[has_no_period]) != 0:
+        print("Questionnaires without period:")
+        print(questionnaires[has_no_period])
+
+    assert len(questionnaires[has_no_period]) == 0
 
 
 def test_questions_questionnaries():
