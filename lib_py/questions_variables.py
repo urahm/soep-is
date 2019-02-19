@@ -101,7 +101,9 @@ def create_questions_from_generations(
     # variable2 <relates to> question1
     # so variable1 relates to question1
 
-    generations = pd.read_csv(generations_path)
+    # Read input and output version columns as type "string"
+    DTYPE_SETTINGS = {'input_version': str, 'output_version': str}
+    generations = pd.read_csv(generations_path, dtype=DTYPE_SETTINGS)
     updated_generations = create_indirect_links_recursive(generations)
 
     # Remove rows when output version is not the specified version
