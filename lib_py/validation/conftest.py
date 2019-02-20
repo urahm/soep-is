@@ -45,6 +45,13 @@ def answers():
 
 
 @pytest.fixture
+def conceptual_datasets():
+    """ A PandasDataset based on the input file "conceptual_datasets.csv" and the expecations file "conceptual_datasets.json"
+    """
+    return prepare_fixture("conceptual_datasets")
+
+
+@pytest.fixture
 def datasets():
     """ A PandasDataset based on the input file "datasets.csv" and the expecations file "datasets.json"
     """
