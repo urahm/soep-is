@@ -12,4 +12,5 @@ install:
   - pipenv install --dev
   - pipenv graph
 script:
-  - pytest -sv
+  - pytest -m schema
+  - pytest -m relation
