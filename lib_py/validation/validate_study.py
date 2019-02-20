@@ -53,7 +53,7 @@ def validate_periods(periods: PandasDataset):
 
 
 def validate_publications(publications: PandasDataset):
-    pytest.fail("Write the test")
+    validate(publications)
 
 
 def validate_questionnaires(questionnaires: PandasDataset):
