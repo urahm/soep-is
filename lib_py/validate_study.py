@@ -26,7 +26,7 @@ def load_expectations(filename: pathlib.PosixPath):
 
 def have_foreign_key_relationship_based_on_key(
     df1: PandasDataset, df2: PandasDataset, key: str
-):
+) -> None:
     """
     This function gets two datasets and a string as arguments.
     The values in column "key" of df1 need to be defined
@@ -41,7 +41,7 @@ def have_foreign_key_relationship_based_on_key(
     assert results["success"] is True
 
 
-def validate(df: PandasDataset):
+def validate(df: PandasDataset) -> None:
     """
     This function gets a dataset as input.
     The function calls the validate method on the dataset.
@@ -92,6 +92,14 @@ def datasets():
     )
 
 
+@pytest.fixture
+def generations():
+    expectations_config = load_expectations(expectations_filepath("generations"))
+    return ge.read_csv(
+        metadata_filepath("generations"), expectations_config=expectations_config
+    )
+
+
 def validate_answers(answers: PandasDataset):
     validate(answers)
 
@@ -106,8 +114,8 @@ def validate_logical_datasets(datasets: PandasDataset):
     validate(datasets)
 
 
-def validate_generations():
-    pass
+def validate_generations(generations: PandasDataset):
+    validate(generations)
 
 
 def validate_questions(questions: PandasDataset):
