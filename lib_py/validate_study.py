@@ -7,8 +7,12 @@ import pytest
 import great_expectations as ge
 from great_expectations.dataset.pandas_dataset import PandasDataset
 
+VERSION = "v2015.1"
+LANGUAGES = ("en", "de")
+
 METADATA_DIR = pathlib.Path("../metadata")
 EXPECTATIONS_DIR = pathlib.Path("expectations")
+XML_DIR = pathlib.Path("../r2ddi/")
 
 
 def metadata_filepath(filename: str) -> pathlib.PosixPath:
@@ -88,7 +92,7 @@ def questionnaires():
 def datasets():
     expectations_config = load_expectations(expectations_filepath("datasets"))
     return ge.read_csv(
-        metadata_filepath("logical_datasets"), expectations_config=expectations_config
+        metadata_filepath("datasets"), expectations_config=expectations_config
     )
 
 
@@ -108,9 +112,7 @@ def validate_logical_variables():
     pass
 
 
-def validate_logical_datasets(datasets: PandasDataset):
-    # remove datasets with conceptual_dataset "raw"
-    datasets = datasets[datasets["conceptual_dataset"] != "raw"]
+def validate_datasets(datasets: PandasDataset):
     validate(datasets)
 
 
@@ -144,3 +146,21 @@ def validate_answers_questionnaire_relationship(
 
 def validate_questionnaires(questionnaires):
     validate(questionnaires)
+
+
+def validate_publications(publications):
+    pass
+
+
+def validate_xml_files(datasets: PandasDataset):
+    unique_datasets = datasets["dataset_name"].unique()
+    for language in LANGUAGES:
+        datasets_dir = XML_DIR / VERSION / language
+        assert datasets_dir.exists()
+        dataset_xml_files = sorted([file.stem for file in datasets_dir.glob("*.xml")])
+        assert len(dataset_xml_files) == len(unique_datasets)
+
+        results = datasets.expect_column_values_to_be_in_set(
+            "dataset_name", dataset_xml_files, result_format="SUMMARY"
+        )
+        assert results["success"] is True
