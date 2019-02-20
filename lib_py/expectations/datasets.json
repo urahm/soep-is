@@ -5,84 +5,90 @@
   },
   "expectations": [
     {
+      "expectation_type": "expect_column_to_exist",
+      "kwargs": {
+        "column": "analysis_unit_name"
+      }
+    },
+    {
+      "expectation_type": "expect_column_values_to_not_be_null",
+      "kwargs": {
+        "column": "analysis_unit_name"
+      }
+    },
+    {
+      "expectation_type": "expect_column_to_exist",
+      "kwargs": {
+        "column": "conceptual_dataset_name"
+      }
+    },
+    {
+      "expectation_type": "expect_column_values_to_not_be_null",
+      "kwargs": {
+        "column": "conceptual_dataset_name"
+      }
+    },
+    {
+      "expectation_type": "expect_column_to_exist",
+      "kwargs": {
+        "column": "dataset_name"
+      }
+    },
+    {
+      "expectation_type": "expect_column_values_to_not_be_null",
+      "kwargs": {
+        "column": "dataset_name"
+      }
+    },
+    {
+      "expectation_type": "expect_column_to_exist",
+      "kwargs": {
+        "column": "description"
+      }
+    },
+    {
+      "expectation_type": "expect_column_to_exist",
+      "kwargs": {
+        "column": "label"
+      }
+    },
+    {
+      "expectation_type": "expect_column_values_to_not_be_null",
+      "kwargs": {
+        "column": "label"
+      }
+    },
+    {
+      "expectation_type": "expect_column_to_exist",
+      "kwargs": {
+        "column": "period_name"
+      }
+    },
+    {
+      "expectation_type": "expect_column_values_to_not_be_null",
+      "kwargs": {
+        "column": "period_name"
+      }
+    },
+    {
+      "expectation_type": "expect_column_to_exist",
+      "kwargs": {
+        "column": "study_name"
+      }
+    },
+    {
       "expectation_type": "expect_column_values_to_be_in_set",
       "kwargs": {
-        "column": "study",
+        "column": "study_name",
         "value_set": [
           "soep-is"
         ]
       }
     },
     {
-      "expectation_type": "expect_column_to_exist",
-      "kwargs": {
-        "column": "study"
-      }
-    },
-    {
-      "expectation_type": "expect_column_to_exist",
-      "kwargs": {
-        "column": "dataset"
-      }
-    },
-    {
-      "expectation_type": "expect_column_to_exist",
-      "kwargs": {
-        "column": "label"
-      }
-    },
-    {
-      "expectation_type": "expect_column_to_exist",
-      "kwargs": {
-        "column": "conceptual_dataset"
-      }
-    },
-    {
-      "expectation_type": "expect_column_to_exist",
-      "kwargs": {
-        "column": "analysis_unit"
-      }
-    },
-    {
-      "expectation_type": "expect_column_to_exist",
-      "kwargs": {
-        "column": "period"
-      }
-    },
-    {
       "expectation_type": "expect_column_values_to_not_be_null",
       "kwargs": {
-        "column": "study"
-      }
-    },
-    {
-      "expectation_type": "expect_column_values_to_not_be_null",
-      "kwargs": {
-        "column": "dataset"
-      }
-    },
-    {
-      "expectation_type": "expect_column_values_to_not_be_null",
-      "kwargs": {
-        "column": "label"
-      }
-    },
-    {
-      "expectation_type": "expect_column_values_to_not_be_null",
-      "kwargs": {
-        "column": "conceptual_dataset"
-      }
-    },
-    {
-      "expectation_type": "expect_column_values_to_not_be_null",
-      "kwargs": {
-        "column": "analysis_unit"
-      }
-    },
-    {
-      "expectation_type": "expect_column_values_to_not_be_null",
-      "kwargs": {
-        "column": "period"
+        "column": "study_name"
       }
     }
   ]
