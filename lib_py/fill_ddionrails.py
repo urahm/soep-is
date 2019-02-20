@@ -7,7 +7,23 @@ VERSION = "v2015.1"
 
 
 def datasets():
-    df = pd.read_csv("metadata/logical_datasets.csv")
+    logical_datasets = pd.read_csv("metadata/logical_datasets.csv")
+    datasets_distributions = pd.read_csv("metadata/datasets_distributions.csv")
+
+    # merge on "study" and "dataset"
+    datasets = logical_datasets.merge(datasets_distributions, on=["study", "dataset"])
+
+    WANTED_COLUMNS = [
+        "study",
+        "dataset",
+        "label",
+        "description",
+        "conceptual_dataset",
+        "analysis_unit",
+        "period",
+    ]
+    datasets = datasets[WANTED_COLUMNS]
+
     RENAME_COLUMNS = {
         "study": "study_name",
         "dataset": "dataset_name",
@@ -15,13 +31,12 @@ def datasets():
         "analysis_unit": "analysis_unit_name",
         "conceptual_dataset": "conceptual_dataset_name",
     }
-    df.rename(columns=RENAME_COLUMNS, inplace=True)
+    datasets.rename(columns=RENAME_COLUMNS, inplace=True)
 
-    # Filter "raw" datasets
-    df = df[df["conceptual_dataset_name"] != "raw"]
-
-    dor1.lower_all_names(df)
-    df.to_csv("ddionrails/datasets.csv", index=False)
+    SORT_COLUMNS = ["study_name", "dataset_name"]
+    datasets.sort_values(by=SORT_COLUMNS, inplace=True)
+    dor1.lower_all_names(datasets)
+    datasets.to_csv("ddionrails/datasets.csv", index=False)
 
 
 def main():
