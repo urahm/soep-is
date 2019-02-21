@@ -7,13 +7,13 @@
     {
       "expectation_type": "expect_column_to_exist",
       "kwargs": {
-        "column": "study"
+        "column": "answer_list"
       }
     },
     {
-      "expectation_type": "expect_column_to_exist",
+      "expectation_type": "expect_column_values_to_not_be_null",
       "kwargs": {
-        "column": "questionnaire"
+        "column": "answer_list"
       }
     },
     {
@@ -31,13 +31,19 @@
     {
       "expectation_type": "expect_column_to_exist",
       "kwargs": {
-        "column": "value"
+        "column": "questionnaire"
+      }
+    },
+    {
+      "expectation_type": "expect_column_values_to_not_be_null",
+      "kwargs": {
+        "column": "questionnaire"
       }
     },
     {
       "expectation_type": "expect_column_to_exist",
       "kwargs": {
-        "column": "answer_list"
+        "column": "study"
       }
     },
     {
@@ -52,19 +58,19 @@
     {
       "expectation_type": "expect_column_values_to_not_be_null",
       "kwargs": {
+        "column": "study"
+      }
+    },
+    {
+      "expectation_type": "expect_column_to_exist",
+      "kwargs": {
         "column": "value"
       }
     },
     {
       "expectation_type": "expect_column_values_to_not_be_null",
       "kwargs": {
-        "column": "questionnaire"
-      }
-    },
-    {
-      "expectation_type": "expect_column_values_to_not_be_null",
-      "kwargs": {
-        "column": "answer_list"
+        "column": "value"
       }
     }
   ]
