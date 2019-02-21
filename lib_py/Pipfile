@@ -6,8 +6,9 @@ verify_ssl = true
 [dev-packages]
 click = "*"
 colorama = "*"
-pytest = "*"
 great-expectations = "*"
+lxml = "*"
+pytest = "*"
 
 [packages]
 ddi = {editable = true,git = "https://github.com/ddionrails/ddi.py.git",ref = "master"}
