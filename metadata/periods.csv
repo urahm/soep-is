@@ -1,2 +1,2 @@
-period_name,label,description,definition
-long,,,
+study_name,name,label,label_de,description,definition
+soep-is,long,,,,
