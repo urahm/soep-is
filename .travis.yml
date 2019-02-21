@@ -14,4 +14,5 @@ install:
 script:
   - pytest -m schema -v
   - pytest -m relation -v
+  - cd ..
   - great_expectations validate metadata/answers.csv lib_py/expectations/answers.json
