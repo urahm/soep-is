@@ -1,14 +1,9 @@
 import json
-import pathlib
 
 import click
 import pytest
 
 from great_expectations.dataset.pandas_dataset import PandasDataset
-
-VERSION = "v2015.1"
-LANGUAGES = ("en", "de")
-XML_DIR = pathlib.Path("../r2ddi/")
 
 pytestmark = [pytest.mark.schema]
 
@@ -64,19 +59,5 @@ def validate_questions(questions: PandasDataset):
     validate(questions)
 
 
-def validate_logical_variables():
+def validate_variables():
     pytest.fail("Write the test")
-
-
-def validate_xml_files(datasets: PandasDataset):
-    unique_datasets = datasets["dataset_name"].unique()
-    for language in LANGUAGES:
-        datasets_dir = XML_DIR / VERSION / language
-        assert datasets_dir.exists()
-        dataset_xml_files = sorted([file.stem for file in datasets_dir.glob("*.xml")])
-        assert len(dataset_xml_files) == len(unique_datasets)
-
-        results = datasets.expect_column_values_to_be_in_set(
-            "dataset_name", dataset_xml_files, result_format="SUMMARY"
-        )
-        assert results["success"] is True
