@@ -35,6 +35,10 @@ def validate_answers(answers: PandasDataset):
     validate(answers)
 
 
+def validate_conceptual_datasets(conceptual_datasets: PandasDataset):
+    validate(conceptual_datasets)
+
+
 def validate_datasets(datasets: PandasDataset):
     validate(datasets)
 
