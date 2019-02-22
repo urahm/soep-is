@@ -353,7 +353,8 @@
             "format": "default"
           },
           {
-            "name": "name",
+            "name": "questionnaire",
+            "title": "Name of the questionnaire",
             "type": "string",
             "format": "default"
           },
@@ -390,7 +391,7 @@
         ],
         "primaryKey": [
           "study_name",
-          "name"
+          "questionnaire"
         ]
       }
     },
