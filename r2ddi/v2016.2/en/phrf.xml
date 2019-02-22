@@ -1,0 +1,71 @@
+<codebook>
+  <dataDscr>
+    <var ID="cid" intrvl="numeric" files="phrf">
+      <labl>Case-ID, Original Household Number</labl>
+      <sumStat type="Min.">200034</sumStat>
+      <sumStat type="1st Qu.">878294</sumStat>
+      <sumStat type="Median">952796</sumStat>
+      <sumStat type="Mean">2069548.59044389</sumStat>
+      <sumStat type="3rd Qu.">4058238</sumStat>
+      <sumStat type="Max.">4173037</sumStat>
+      <sumStat type="valid">33905</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hid" intrvl="numeric" files="phrf">
+      <labl>Current Wave HH Number</labl>
+      <sumStat type="Min.">115380</sumStat>
+      <sumStat type="1st Qu.">880302</sumStat>
+      <sumStat type="Median">949949</sumStat>
+      <sumStat type="Mean">2057208.69915942</sumStat>
+      <sumStat type="3rd Qu.">4056855</sumStat>
+      <sumStat type="Max.">4173037</sumStat>
+      <sumStat type="valid">33905</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="pid" intrvl="numeric" files="phrf">
+      <labl>Never Changing Person ID</labl>
+      <sumStat type="Min.">1153802</sumStat>
+      <sumStat type="1st Qu.">8790701</sumStat>
+      <sumStat type="Median">9522201</sumStat>
+      <sumStat type="Mean">20673235.1926265</sumStat>
+      <sumStat type="3rd Qu.">40582302</sumStat>
+      <sumStat type="Max.">41730304</sumStat>
+      <sumStat type="valid">33905</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="syear" intrvl="numeric" files="phrf">
+      <labl>Survey Year</labl>
+      <sumStat type="Min.">2011</sumStat>
+      <sumStat type="1st Qu.">2013</sumStat>
+      <sumStat type="Median">2014</sumStat>
+      <sumStat type="Mean">2014.00026544757</sumStat>
+      <sumStat type="3rd Qu.">2015</sumStat>
+      <sumStat type="Max.">2016</sumStat>
+      <sumStat type="valid">33905</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="pbleib" intrvl="numeric" files="phrf">
+      <labl>Inverse Staying Probability</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">1.08</sumStat>
+      <sumStat type="Mean">0.889002212254246</sumStat>
+      <sumStat type="3rd Qu.">1.18</sumStat>
+      <sumStat type="Max.">5.07000017166138</sumStat>
+      <sumStat type="valid">33905</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="phrf" intrvl="numeric" files="phrf">
+      <labl>Weighting Factor</labl>
+      <sumStat type="Min.">183.312141814091</sumStat>
+      <sumStat type="1st Qu.">7187.61714669361</sumStat>
+      <sumStat type="Median">10918.3742410252</sumStat>
+      <sumStat type="Mean">14225.5900743628</sumStat>
+      <sumStat type="3rd Qu.">16954.0960465238</sumStat>
+      <sumStat type="Max.">224569.219980905</sumStat>
+      <sumStat type="valid">33905</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+  </dataDscr>
+  <fileDscr ID="phrf"/>
+</codebook>

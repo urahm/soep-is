@@ -1,0 +1,3421 @@
+<codebook>
+  <dataDscr>
+    <var ID="cid" intrvl="numeric" files="idrm_esm">
+      <labl>Urhaushaltsnummer</labl>
+      <sumStat type="Min.">200328</sumStat>
+      <sumStat type="1st Qu.">216704</sumStat>
+      <sumStat type="Median">863904</sumStat>
+      <sumStat type="Mean">670768.907514451</sumStat>
+      <sumStat type="3rd Qu.">883891</sumStat>
+      <sumStat type="Max.">899810</sumStat>
+      <sumStat type="valid">15570</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hid" intrvl="numeric" files="idrm_esm">
+      <labl>Haushaltsnummer</labl>
+      <sumStat type="Min.">120812</sumStat>
+      <sumStat type="1st Qu.">217549</sumStat>
+      <sumStat type="Median">868485</sumStat>
+      <sumStat type="Mean">687388.826589595</sumStat>
+      <sumStat type="3rd Qu.">887927</sumStat>
+      <sumStat type="Max.">902748</sumStat>
+      <sumStat type="valid">15570</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="pid" intrvl="numeric" files="idrm_esm">
+      <labl>NA</labl>
+      <sumStat type="Min.">1208102</sumStat>
+      <sumStat type="1st Qu.">2170501</sumStat>
+      <sumStat type="Median">8645701</sumStat>
+      <sumStat type="Mean">6740115.61464354</sumStat>
+      <sumStat type="3rd Qu.">8847101</sumStat>
+      <sumStat type="Max.">9010402</sumStat>
+      <sumStat type="valid">15570</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="syear" intrvl="numeric" files="idrm_esm">
+      <labl>Erhebungsjahr</labl>
+      <sumStat type="Min.">2014</sumStat>
+      <sumStat type="1st Qu.">2014</sumStat>
+      <sumStat type="Median">2014</sumStat>
+      <sumStat type="Mean">2014</sumStat>
+      <sumStat type="3rd Qu.">2014</sumStat>
+      <sumStat type="Max.">2014</sumStat>
+      <sumStat type="valid">15570</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="im_drm_esm" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>Innovatives Modul: Day Reconstruction Method - Experience Sampling Method</labl>
+      <sumStat type="valid">15570</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>0</catValu>
+        <labl>[0] trifft nicht zu</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>[1] Trifft zu </labl>
+        <catStat type="freq">15570</catStat>
+      </catgry>
+    </var>
+    <var ID="drm_wt" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>Wochentag der Befragung</labl>
+      <sumStat type="valid">15570</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>[1] Sonntag</labl>
+        <catStat type="freq"> 660</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>[2] Montag</labl>
+        <catStat type="freq">1920</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>[3] Dienstag</labl>
+        <catStat type="freq">3120</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>4</catValu>
+        <labl>[4] Mittwoch</labl>
+        <catStat type="freq">3030</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>5</catValu>
+        <labl>[5] Donnerstag</labl>
+        <catStat type="freq">2880</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>6</catValu>
+        <labl>[6] Freitag</labl>
+        <catStat type="freq">2310</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>7</catValu>
+        <labl>[7] Samstag</labl>
+        <catStat type="freq">1650</catStat>
+      </catgry>
+    </var>
+    <var ID="drm_a" intrvl="string" files="idrm_esm">
+      <labl>Wann sind Sie gestern aufgestanden?</labl>
+      <sumStat type="valid">15570</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="aktnr" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>Episodennummer</labl>
+      <sumStat type="valid">15570</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <catStat type="freq">519</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>10</catValu>
+        <catStat type="freq">519</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>11</catValu>
+        <catStat type="freq">519</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>12</catValu>
+        <catStat type="freq">519</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>13</catValu>
+        <catStat type="freq">519</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>14</catValu>
+        <catStat type="freq">519</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>15</catValu>
+        <catStat type="freq">519</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>16</catValu>
+        <catStat type="freq">519</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>17</catValu>
+        <catStat type="freq">519</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>18</catValu>
+        <catStat type="freq">519</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>19</catValu>
+        <catStat type="freq">519</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <catStat type="freq">519</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>20</catValu>
+        <catStat type="freq">519</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>21</catValu>
+        <catStat type="freq">519</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>22</catValu>
+        <catStat type="freq">519</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>23</catValu>
+        <catStat type="freq">519</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>24</catValu>
+        <catStat type="freq">519</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>25</catValu>
+        <catStat type="freq">519</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>26</catValu>
+        <catStat type="freq">519</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>27</catValu>
+        <catStat type="freq">519</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>28</catValu>
+        <catStat type="freq">519</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>29</catValu>
+        <catStat type="freq">519</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <catStat type="freq">519</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>30</catValu>
+        <catStat type="freq">519</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>4</catValu>
+        <catStat type="freq">519</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>5</catValu>
+        <catStat type="freq">519</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>6</catValu>
+        <catStat type="freq">519</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>7</catValu>
+        <catStat type="freq">519</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>8</catValu>
+        <catStat type="freq">519</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>9</catValu>
+        <catStat type="freq">519</catStat>
+      </catgry>
+    </var>
+    <var ID="akt" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>NA</labl>
+      <sumStat type="valid">6766</sumStat>
+      <sumStat type="invalid">8804</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">8804</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>[1] Auf dem Weg zur Arbeit / Studium oder von dort nach Hause</labl>
+        <catStat type="freq"> 327</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <catStat type="freq"> 331</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>[3] Arbeiten / Studieren</labl>
+        <catStat type="freq"> 321</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>4</catValu>
+        <labl>[4] Einkaufen</labl>
+        <catStat type="freq"> 216</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>5</catValu>
+        <labl>[5] Essen zubereiten</labl>
+        <catStat type="freq"> 488</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>6</catValu>
+        <labl>[6] Essen</labl>
+        <catStat type="freq">1033</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>7</catValu>
+        <catStat type="freq"> 716</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>8</catValu>
+        <labl>[8] Hausarbeit erledigen</labl>
+        <catStat type="freq"> 461</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>9</catValu>
+        <labl>[9] Kind(er) betreuen /auch Bringen oder abholen der Kinder</labl>
+        <catStat type="freq"> 254</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>10</catValu>
+        <labl>[10] mit Freunden treffen</labl>
+        <catStat type="freq"> 144</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>11</catValu>
+        <labl>[11] Ausruhen / ein Nickerchen machen</labl>
+        <catStat type="freq"> 121</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>12</catValu>
+        <labl>[12] Entspannen</labl>
+        <catStat type="freq"> 152</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>13</catValu>
+        <labl>[13] Intime Beziehungen</labl>
+        <catStat type="freq">   6</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>14</catValu>
+        <labl>[14] Beten, Gottesdienst besuchen, Meditieren</labl>
+        <catStat type="freq">  21</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>15</catValu>
+        <labl>[15] Fernsehen</labl>
+        <catStat type="freq"> 491</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>16</catValu>
+        <labl>[16] Lesen</labl>
+        <catStat type="freq"> 150</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>17</catValu>
+        <catStat type="freq"> 216</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>18</catValu>
+        <labl>[18] Telefonieren</labl>
+        <catStat type="freq">  78</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>19</catValu>
+        <labl>[19] Sport treiben</labl>
+        <catStat type="freq">  62</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>20</catValu>
+        <labl>[20] Arztbesuch</labl>
+        <catStat type="freq">  44</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>21</catValu>
+        <labl>[21] Gartenarbeit</labl>
+        <catStat type="freq">  69</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>22</catValu>
+        <catStat type="freq"> 115</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>23</catValu>
+        <catStat type="freq"> 269</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>24</catValu>
+        <labl>[24] Ende des Tages / Beginn der Nachtruhe</labl>
+        <catStat type="freq"> 519</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>25</catValu>
+        <labl>[25] Kaffee / Tee trinken</labl>
+        <catStat type="freq"> 151</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>26</catValu>
+        <catStat type="freq">  11</catStat>
+      </catgry>
+    </var>
+    <var ID="akt_s" intrvl="string" files="idrm_esm">
+      <labl>NA</labl>
+      <sumStat type="valid">15570</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="akt_e" intrvl="string" files="idrm_esm">
+      <labl>NA</labl>
+      <sumStat type="valid">15570</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="akt_sek_jn" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>NA</labl>
+      <sumStat type="valid">6247</sumStat>
+      <sumStat type="invalid">9323</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">9323</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>[1] Ja</labl>
+        <catStat type="freq">1549</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>[2] Nein</labl>
+        <catStat type="freq">4698</catStat>
+      </catgry>
+    </var>
+    <var ID="akt_sek" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>NA</labl>
+      <sumStat type="valid">1549</sumStat>
+      <sumStat type="invalid">14021</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">14021</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>[1] Auf dem Weg zur Arbeit / Studium oder von dort nach Hause</labl>
+        <catStat type="freq">    3</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <catStat type="freq">    4</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>[3] Arbeiten / Studieren</labl>
+        <catStat type="freq">    5</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>4</catValu>
+        <labl>[4] Einkaufen</labl>
+        <catStat type="freq">   26</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>5</catValu>
+        <labl>[5] Essen zubereiten</labl>
+        <catStat type="freq">   22</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>6</catValu>
+        <labl>[6] Essen</labl>
+        <catStat type="freq">  174</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>7</catValu>
+        <catStat type="freq">   17</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>8</catValu>
+        <labl>[8] Hausarbeit erledigen</labl>
+        <catStat type="freq">   30</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>9</catValu>
+        <labl>[9] Kind(er) betreuen /auch Bringen oder abholen der Kinder</labl>
+        <catStat type="freq">   40</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>10</catValu>
+        <labl>[10] mit Freunden treffen</labl>
+        <catStat type="freq">   24</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>11</catValu>
+        <labl>[11] Ausruhen / ein Nickerchen machen</labl>
+        <catStat type="freq">   10</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>12</catValu>
+        <labl>[12] Entspannen</labl>
+        <catStat type="freq">    9</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>13</catValu>
+        <labl>[13] Intime Beziehungen</labl>
+        <catStat type="freq">    1</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>14</catValu>
+        <labl>[14] Beten, Gottesdienst besuchen, Meditieren</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>15</catValu>
+        <labl>[15] Fernsehen</labl>
+        <catStat type="freq">  222</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>16</catValu>
+        <labl>[16] Lesen</labl>
+        <catStat type="freq">  121</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>17</catValu>
+        <catStat type="freq">   45</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>18</catValu>
+        <labl>[18] Telefonieren</labl>
+        <catStat type="freq">   39</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>19</catValu>
+        <labl>[19] Sport treiben</labl>
+        <catStat type="freq">    3</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>20</catValu>
+        <labl>[20] Arztbesuch</labl>
+        <catStat type="freq">    1</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>21</catValu>
+        <labl>[21] Gartenarbeit</labl>
+        <catStat type="freq">    1</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>22</catValu>
+        <catStat type="freq">   14</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>23</catValu>
+        <catStat type="freq">  135</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>25</catValu>
+        <labl>[25] Kaffee / Tee trinken</labl>
+        <catStat type="freq">   63</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>26</catValu>
+        <catStat type="freq">  540</catStat>
+      </catgry>
+    </var>
+    <var ID="akt_pleasant" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>Episode angenehm / unangenehm</labl>
+      <sumStat type="valid">6245</sumStat>
+      <sumStat type="invalid">9325</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">9323</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>[1] Eher angenehm</labl>
+        <catStat type="freq">5912</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>[2] Eher unangenehm</labl>
+        <catStat type="freq"> 333</catStat>
+      </catgry>
+    </var>
+    <var ID="ort" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>Ort der Episode</labl>
+      <sumStat type="valid">1555</sumStat>
+      <sumStat type="invalid">14015</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">14015</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>[1] Zu Hause</labl>
+        <catStat type="freq"> 1096</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>[2] Auf der Arbeit</labl>
+        <catStat type="freq">   79</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>[3] Woanders</labl>
+        <catStat type="freq">  380</catStat>
+      </catgry>
+    </var>
+    <var ID="around1" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>Niemand anwesend</labl>
+      <sumStat type="valid">1555</sumStat>
+      <sumStat type="invalid">14015</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">14015</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>0</catValu>
+        <labl>[0] Trifft nicht zu</labl>
+        <catStat type="freq">  775</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>[1] Trifft zu</labl>
+        <catStat type="freq">  780</catStat>
+      </catgry>
+    </var>
+    <var ID="around2" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>Partner anwesend</labl>
+      <sumStat type="valid">1555</sumStat>
+      <sumStat type="invalid">14015</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">14015</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>0</catValu>
+        <labl>[0] Trifft nicht zu</labl>
+        <catStat type="freq"> 1146</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>[1] Trifft zu</labl>
+        <catStat type="freq">  409</catStat>
+      </catgry>
+    </var>
+    <var ID="around3" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>Freunde anwesend</labl>
+      <sumStat type="valid">1555</sumStat>
+      <sumStat type="invalid">14015</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">14015</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>0</catValu>
+        <labl>[0] Trifft nicht zu</labl>
+        <catStat type="freq"> 1471</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>[1] Trifft zu</labl>
+        <catStat type="freq">   84</catStat>
+      </catgry>
+    </var>
+    <var ID="around4" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>Kollegen anwesend</labl>
+      <sumStat type="valid">1555</sumStat>
+      <sumStat type="invalid">14015</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">14015</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>0</catValu>
+        <labl>[0] Trifft nicht zu</labl>
+        <catStat type="freq"> 1472</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>[1] Trifft zu</labl>
+        <catStat type="freq">   83</catStat>
+      </catgry>
+    </var>
+    <var ID="around5" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>Kunden anwesend</labl>
+      <sumStat type="valid">1555</sumStat>
+      <sumStat type="invalid">14015</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">14015</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>0</catValu>
+        <labl>[0] Trifft nicht zu</labl>
+        <catStat type="freq"> 1530</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>[1] Trifft zu</labl>
+        <catStat type="freq">   25</catStat>
+      </catgry>
+    </var>
+    <var ID="around6" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>Kinder anwesend</labl>
+      <sumStat type="valid">1555</sumStat>
+      <sumStat type="invalid">14015</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">14015</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>0</catValu>
+        <labl>[0] Trifft nicht zu</labl>
+        <catStat type="freq"> 1357</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>[1] Trifft zu</labl>
+        <catStat type="freq">  198</catStat>
+      </catgry>
+    </var>
+    <var ID="around7" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>Verwandte anwesend</labl>
+      <sumStat type="valid">1555</sumStat>
+      <sumStat type="invalid">14015</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">14015</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>0</catValu>
+        <labl>[0] Trifft nicht zu</labl>
+        <catStat type="freq"> 1457</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>[1] Trifft zu</labl>
+        <catStat type="freq">   98</catStat>
+      </catgry>
+    </var>
+    <var ID="around8" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>Vorgesetzte anwesend</labl>
+      <sumStat type="valid">1555</sumStat>
+      <sumStat type="invalid">14015</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">14015</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>0</catValu>
+        <labl>[0] Trifft nicht zu</labl>
+        <catStat type="freq"> 1535</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>[1] Trifft zu</labl>
+        <catStat type="freq">   20</catStat>
+      </catgry>
+    </var>
+    <var ID="around9" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>Andere Person anwesend</labl>
+      <sumStat type="valid">1555</sumStat>
+      <sumStat type="invalid">14015</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">14015</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>0</catValu>
+        <labl>[0] Trifft nicht zu</labl>
+        <catStat type="freq"> 1508</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>[1] Trifft zu</labl>
+        <catStat type="freq">   47</catStat>
+      </catgry>
+    </var>
+    <var ID="around10" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>Keine Angabe zur anwesenden Personen</labl>
+      <sumStat type="valid">1554</sumStat>
+      <sumStat type="invalid">14016</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">14015</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    1</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>0</catValu>
+        <labl>[0] Trifft nicht zu</labl>
+        <catStat type="freq"> 1554</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>[1] Trifft zu</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+    </var>
+    <var ID="emotion1" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>NA</labl>
+      <sumStat type="valid">1552</sumStat>
+      <sumStat type="invalid">14018</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    3</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">14015</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>[1] Gar nicht</labl>
+        <catStat type="freq">  152</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <catStat type="freq">  124</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <catStat type="freq">  232</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>4</catValu>
+        <catStat type="freq">  378</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>5</catValu>
+        <catStat type="freq">  378</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>6</catValu>
+        <catStat type="freq">  200</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>7</catValu>
+        <labl>[7] Sehr stark</labl>
+        <catStat type="freq">   88</catStat>
+      </catgry>
+    </var>
+    <var ID="emotion2" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>NA</labl>
+      <sumStat type="valid">1552</sumStat>
+      <sumStat type="invalid">14018</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    3</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">14015</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>[1] Gar nicht</labl>
+        <catStat type="freq"> 1183</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <catStat type="freq">  178</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <catStat type="freq">   83</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>4</catValu>
+        <catStat type="freq">   60</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>5</catValu>
+        <catStat type="freq">   32</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>6</catValu>
+        <catStat type="freq">    9</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>7</catValu>
+        <labl>[7] Sehr stark</labl>
+        <catStat type="freq">    7</catStat>
+      </catgry>
+    </var>
+    <var ID="emotion3" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>Frust</labl>
+      <sumStat type="valid">1552</sumStat>
+      <sumStat type="invalid">14018</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    3</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">14015</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>[1] Gar nicht</labl>
+        <catStat type="freq"> 1237</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <catStat type="freq">  143</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <catStat type="freq">   70</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>4</catValu>
+        <catStat type="freq">   53</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>5</catValu>
+        <catStat type="freq">   32</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>6</catValu>
+        <catStat type="freq">    9</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>7</catValu>
+        <labl>[7] Sehr stark</labl>
+        <catStat type="freq">    8</catStat>
+      </catgry>
+    </var>
+    <var ID="emotion4" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>NA</labl>
+      <sumStat type="valid">1552</sumStat>
+      <sumStat type="invalid">14018</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    3</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">14015</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>[1] Gar nicht</labl>
+        <catStat type="freq">  783</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <catStat type="freq">  172</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <catStat type="freq">  195</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>4</catValu>
+        <catStat type="freq">  170</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>5</catValu>
+        <catStat type="freq">  132</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>6</catValu>
+        <catStat type="freq">   60</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>7</catValu>
+        <labl>[7] Sehr stark</labl>
+        <catStat type="freq">   40</catStat>
+      </catgry>
+    </var>
+    <var ID="emotion5" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>Trauer</labl>
+      <sumStat type="valid">1552</sumStat>
+      <sumStat type="invalid">14018</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    3</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">14015</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>[1] Gar nicht</labl>
+        <catStat type="freq"> 1382</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <catStat type="freq">   82</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <catStat type="freq">   40</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>4</catValu>
+        <catStat type="freq">   33</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>5</catValu>
+        <catStat type="freq">    5</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>6</catValu>
+        <catStat type="freq">    3</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>7</catValu>
+        <labl>[7] Sehr stark</labl>
+        <catStat type="freq">    7</catStat>
+      </catgry>
+    </var>
+    <var ID="emotion6" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>Sorgen</labl>
+      <sumStat type="valid">1552</sumStat>
+      <sumStat type="invalid">14018</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    3</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">14015</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>[1] Gar nicht</labl>
+        <catStat type="freq"> 1185</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <catStat type="freq">  160</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <catStat type="freq">   86</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>4</catValu>
+        <catStat type="freq">   74</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>5</catValu>
+        <catStat type="freq">   28</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>6</catValu>
+        <catStat type="freq">   11</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>7</catValu>
+        <labl>[7] Sehr stark</labl>
+        <catStat type="freq">    8</catStat>
+      </catgry>
+    </var>
+    <var ID="emotion7" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>Schmerzen</labl>
+      <sumStat type="valid">1552</sumStat>
+      <sumStat type="invalid">14018</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    3</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">14015</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>[1] Gar nicht</labl>
+        <catStat type="freq"> 1076</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <catStat type="freq">  161</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <catStat type="freq">  128</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>4</catValu>
+        <catStat type="freq">   80</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>5</catValu>
+        <catStat type="freq">   59</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>6</catValu>
+        <catStat type="freq">   28</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>7</catValu>
+        <labl>[7] Sehr stark</labl>
+        <catStat type="freq">   20</catStat>
+      </catgry>
+    </var>
+    <var ID="emotion8" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>Begeisterung</labl>
+      <sumStat type="valid">1551</sumStat>
+      <sumStat type="invalid">14019</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    4</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">14015</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>[1] Gar nicht</labl>
+        <catStat type="freq">  356</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <catStat type="freq">  198</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <catStat type="freq">  297</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>4</catValu>
+        <catStat type="freq">  338</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>5</catValu>
+        <catStat type="freq">  219</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>6</catValu>
+        <catStat type="freq">   97</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>7</catValu>
+        <labl>[7] Sehr stark</labl>
+        <catStat type="freq">   46</catStat>
+      </catgry>
+    </var>
+    <var ID="emotion9" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>Zufriedenheit</labl>
+      <sumStat type="valid">1552</sumStat>
+      <sumStat type="invalid">14018</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    3</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">14015</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>[1] Gar nicht</labl>
+        <catStat type="freq">  101</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <catStat type="freq">   97</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <catStat type="freq">  222</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>4</catValu>
+        <catStat type="freq">  388</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>5</catValu>
+        <catStat type="freq">  405</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>6</catValu>
+        <catStat type="freq">  241</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>7</catValu>
+        <labl>[7] Sehr stark</labl>
+        <catStat type="freq">   98</catStat>
+      </catgry>
+    </var>
+    <var ID="emotion10" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>Langeweile</labl>
+      <sumStat type="valid">1552</sumStat>
+      <sumStat type="invalid">14018</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    3</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">14015</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>[1] Gar nicht</labl>
+        <catStat type="freq"> 1328</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <catStat type="freq">  116</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <catStat type="freq">   49</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>4</catValu>
+        <catStat type="freq">   35</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>5</catValu>
+        <catStat type="freq">   14</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>7</catValu>
+        <labl>[7] Sehr stark</labl>
+        <catStat type="freq">   10</catStat>
+      </catgry>
+    </var>
+    <var ID="emotion11" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>Einsamkeit</labl>
+      <sumStat type="valid">1552</sumStat>
+      <sumStat type="invalid">14018</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    3</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">14015</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>[1] Gar nicht</labl>
+        <catStat type="freq"> 1380</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <catStat type="freq">   87</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <catStat type="freq">   32</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>4</catValu>
+        <catStat type="freq">   31</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>5</catValu>
+        <catStat type="freq">    9</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>6</catValu>
+        <catStat type="freq">    3</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>7</catValu>
+        <labl>[7] Sehr stark</labl>
+        <catStat type="freq">   10</catStat>
+      </catgry>
+    </var>
+    <var ID="emotion12" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>Stress</labl>
+      <sumStat type="valid">1552</sumStat>
+      <sumStat type="invalid">14018</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    3</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">14015</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>[1] Gar nicht</labl>
+        <catStat type="freq"> 1177</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <catStat type="freq">  129</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <catStat type="freq">  100</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>4</catValu>
+        <catStat type="freq">   66</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>5</catValu>
+        <catStat type="freq">   45</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>6</catValu>
+        <catStat type="freq">   23</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>7</catValu>
+        <labl>[7] Sehr stark</labl>
+        <catStat type="freq">   12</catStat>
+      </catgry>
+    </var>
+    <var ID="emotion13" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>Tieferen Sinn</labl>
+      <sumStat type="valid">1544</sumStat>
+      <sumStat type="invalid">14026</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   11</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">14015</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>[1] Gar nicht</labl>
+        <catStat type="freq">  614</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <catStat type="freq">  118</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <catStat type="freq">  166</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>4</catValu>
+        <catStat type="freq">  263</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>5</catValu>
+        <catStat type="freq">  166</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>6</catValu>
+        <catStat type="freq">  132</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>7</catValu>
+        <labl>[7] Sehr stark</labl>
+        <catStat type="freq">   85</catStat>
+      </catgry>
+    </var>
+    <var ID="pzuf01" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>Wie zufrieden sind Sie mit Ihrer Gesundheit?</labl>
+      <sumStat type="valid">15570</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>0</catValu>
+        <labl>[0] ganz und gar unzufrieden</labl>
+        <catStat type="freq"> 150</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>1</labl>
+        <catStat type="freq">  60</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>2</labl>
+        <catStat type="freq"> 480</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>3</labl>
+        <catStat type="freq"> 840</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>4</catValu>
+        <labl>4</labl>
+        <catStat type="freq">1260</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>5</catValu>
+        <labl>5</labl>
+        <catStat type="freq">1770</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>6</catValu>
+        <labl>6</labl>
+        <catStat type="freq">1680</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>7</catValu>
+        <labl>7</labl>
+        <catStat type="freq">2550</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>8</catValu>
+        <labl>8</labl>
+        <catStat type="freq">3270</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>9</catValu>
+        <labl>9</labl>
+        <catStat type="freq">2340</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>10</catValu>
+        <labl>[10] ganz und gar zufrieden</labl>
+        <catStat type="freq">1170</catStat>
+      </catgry>
+    </var>
+    <var ID="pzuf20" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>Wie zufrieden sind Sie mit Ihrem Schlaf?</labl>
+      <sumStat type="valid">15570</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>0</catValu>
+        <labl>[0] ganz und gar unzufrieden</labl>
+        <catStat type="freq"> 150</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>1</labl>
+        <catStat type="freq"> 120</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>2</labl>
+        <catStat type="freq"> 330</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>3</labl>
+        <catStat type="freq">1050</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>4</catValu>
+        <labl>4</labl>
+        <catStat type="freq">1320</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>5</catValu>
+        <labl>5</labl>
+        <catStat type="freq">1680</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>6</catValu>
+        <labl>6</labl>
+        <catStat type="freq">1620</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>7</catValu>
+        <labl>7</labl>
+        <catStat type="freq">2280</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>8</catValu>
+        <labl>8</labl>
+        <catStat type="freq">3510</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>9</catValu>
+        <labl>9</labl>
+        <catStat type="freq">2100</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>10</catValu>
+        <labl>[10] ganz und gar zufrieden</labl>
+        <catStat type="freq">1410</catStat>
+      </catgry>
+    </var>
+    <var ID="pzuf02" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>NA</labl>
+      <sumStat type="valid">8490</sumStat>
+      <sumStat type="invalid">7080</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">6870</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq"> 210</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>0</catValu>
+        <labl>[0] ganz und gar unzufrieden</labl>
+        <catStat type="freq"> 120</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>1</labl>
+        <catStat type="freq">  90</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>2</labl>
+        <catStat type="freq">  60</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>3</labl>
+        <catStat type="freq"> 300</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>4</catValu>
+        <labl>4</labl>
+        <catStat type="freq"> 240</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>5</catValu>
+        <labl>5</labl>
+        <catStat type="freq"> 780</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>6</catValu>
+        <labl>6</labl>
+        <catStat type="freq"> 870</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>7</catValu>
+        <labl>7</labl>
+        <catStat type="freq">1740</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>8</catValu>
+        <labl>8</labl>
+        <catStat type="freq">2190</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>9</catValu>
+        <labl>9</labl>
+        <catStat type="freq">1560</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>10</catValu>
+        <labl>[10] ganz und gar zufrieden</labl>
+        <catStat type="freq"> 540</catStat>
+      </catgry>
+    </var>
+    <var ID="pzuf04" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>Wie zufrieden sind Sie mit dem Einkommen Ihres Haushalts?</labl>
+      <sumStat type="valid">15360</sumStat>
+      <sumStat type="invalid">210</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq"> 210</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>0</catValu>
+        <labl>[0] ganz und gar unzufrieden</labl>
+        <catStat type="freq">  60</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>1</labl>
+        <catStat type="freq">  90</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>2</labl>
+        <catStat type="freq"> 510</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>3</labl>
+        <catStat type="freq">1110</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>4</catValu>
+        <labl>4</labl>
+        <catStat type="freq">1080</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>5</catValu>
+        <labl>5</labl>
+        <catStat type="freq">2070</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>6</catValu>
+        <labl>6</labl>
+        <catStat type="freq">1470</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>7</catValu>
+        <labl>7</labl>
+        <catStat type="freq">2850</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>8</catValu>
+        <labl>8</labl>
+        <catStat type="freq">3240</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>9</catValu>
+        <labl>9</labl>
+        <catStat type="freq">1710</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>10</catValu>
+        <labl>[10] ganz und gar zufrieden</labl>
+        <catStat type="freq">1170</catStat>
+      </catgry>
+    </var>
+    <var ID="pzuf05" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>NA</labl>
+      <sumStat type="valid">10740</sumStat>
+      <sumStat type="invalid">4830</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">4680</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq"> 150</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>0</catValu>
+        <labl>[0] ganz und gar unzufrieden</labl>
+        <catStat type="freq"> 300</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>1</labl>
+        <catStat type="freq"> 150</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>2</labl>
+        <catStat type="freq"> 570</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>3</labl>
+        <catStat type="freq"> 780</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>4</catValu>
+        <labl>4</labl>
+        <catStat type="freq"> 870</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>5</catValu>
+        <labl>5</labl>
+        <catStat type="freq">1650</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>6</catValu>
+        <labl>6</labl>
+        <catStat type="freq"> 930</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>7</catValu>
+        <labl>7</labl>
+        <catStat type="freq">1860</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>8</catValu>
+        <labl>8</labl>
+        <catStat type="freq">2070</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>9</catValu>
+        <labl>9</labl>
+        <catStat type="freq">1020</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>10</catValu>
+        <labl>[10] ganz und gar zufrieden</labl>
+        <catStat type="freq"> 540</catStat>
+      </catgry>
+    </var>
+    <var ID="pzuf07" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>Wie zufrieden sind Sie mit Ihrer Wohnung?</labl>
+      <sumStat type="valid">15510</sumStat>
+      <sumStat type="invalid">60</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">  60</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>0</catValu>
+        <labl>[0] ganz und gar unzufrieden</labl>
+        <catStat type="freq">  30</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>1</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>2</labl>
+        <catStat type="freq">  90</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>3</labl>
+        <catStat type="freq"> 210</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>4</catValu>
+        <labl>4</labl>
+        <catStat type="freq"> 510</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>5</catValu>
+        <labl>5</labl>
+        <catStat type="freq">1080</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>6</catValu>
+        <labl>6</labl>
+        <catStat type="freq">1020</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>7</catValu>
+        <labl>7</labl>
+        <catStat type="freq">2010</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>8</catValu>
+        <labl>8</labl>
+        <catStat type="freq">4380</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>9</catValu>
+        <labl>9</labl>
+        <catStat type="freq">3300</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>10</catValu>
+        <labl>[10] ganz und gar zufrieden</labl>
+        <catStat type="freq">2880</catStat>
+      </catgry>
+    </var>
+    <var ID="pzuf08" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>Wie zufrieden sind Sie mit Ihrer Freizeit?</labl>
+      <sumStat type="valid">15570</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>0</catValu>
+        <labl>[0] ganz und gar unzufrieden</labl>
+        <catStat type="freq">  90</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>1</labl>
+        <catStat type="freq">  60</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>2</labl>
+        <catStat type="freq"> 300</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>3</labl>
+        <catStat type="freq"> 420</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>4</catValu>
+        <labl>4</labl>
+        <catStat type="freq">1080</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>5</catValu>
+        <labl>5</labl>
+        <catStat type="freq">1440</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>6</catValu>
+        <labl>6</labl>
+        <catStat type="freq">1620</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>7</catValu>
+        <labl>7</labl>
+        <catStat type="freq">2610</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>8</catValu>
+        <labl>8</labl>
+        <catStat type="freq">3390</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>9</catValu>
+        <labl>9</labl>
+        <catStat type="freq">2550</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>10</catValu>
+        <labl>[10] ganz und gar zufrieden</labl>
+        <catStat type="freq">2010</catStat>
+      </catgry>
+    </var>
+    <var ID="pzuf13" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>Wie zufrieden sind Sie mit Ihrem Familienleben?</labl>
+      <sumStat type="valid">15570</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>0</catValu>
+        <labl>[0] ganz und gar unzufrieden</labl>
+        <catStat type="freq">  60</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>1</labl>
+        <catStat type="freq">  60</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>2</labl>
+        <catStat type="freq"> 150</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>3</labl>
+        <catStat type="freq"> 360</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>4</catValu>
+        <labl>4</labl>
+        <catStat type="freq"> 600</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>5</catValu>
+        <labl>5</labl>
+        <catStat type="freq"> 900</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>6</catValu>
+        <labl>6</labl>
+        <catStat type="freq">1050</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>7</catValu>
+        <labl>7</labl>
+        <catStat type="freq">1950</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>8</catValu>
+        <labl>8</labl>
+        <catStat type="freq">3420</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>9</catValu>
+        <labl>9</labl>
+        <catStat type="freq">3420</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>10</catValu>
+        <labl>[10] ganz und gar zufrieden</labl>
+        <catStat type="freq">3600</catStat>
+      </catgry>
+    </var>
+    <var ID="pzule1" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>Lebenszufriedenheit jetzt</labl>
+      <sumStat type="valid">15540</sumStat>
+      <sumStat type="invalid">30</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">  30</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>0</catValu>
+        <labl>[0] ganz und gar unzufrieden</labl>
+        <catStat type="freq">  30</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>1</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>2</labl>
+        <catStat type="freq">  60</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>3</labl>
+        <catStat type="freq"> 390</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>4</catValu>
+        <labl>4</labl>
+        <catStat type="freq"> 360</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>5</catValu>
+        <labl>5</labl>
+        <catStat type="freq">1440</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>6</catValu>
+        <labl>6</labl>
+        <catStat type="freq">1350</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>7</catValu>
+        <labl>7</labl>
+        <catStat type="freq">3750</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>8</catValu>
+        <labl>8</labl>
+        <catStat type="freq">5310</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>9</catValu>
+        <labl>9</labl>
+        <catStat type="freq">2190</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>10</catValu>
+        <labl>[10] ganz und gar zufrieden</labl>
+        <catStat type="freq"> 660</catStat>
+      </catgry>
+    </var>
+    <var ID="pgef1" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>NA</labl>
+      <sumStat type="valid">15570</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>[1] Nie</labl>
+        <catStat type="freq">1980</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>[2] Selten</labl>
+        <catStat type="freq">5400</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>[3] Manchmal</labl>
+        <catStat type="freq">5910</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>4</catValu>
+        <labl>[4] Oft</labl>
+        <catStat type="freq">1770</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>5</catValu>
+        <labl>[5] Sehr oft</labl>
+        <catStat type="freq"> 510</catStat>
+      </catgry>
+    </var>
+    <var ID="pgef2" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>NA</labl>
+      <sumStat type="valid">15570</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>[1] Nie</labl>
+        <catStat type="freq">8010</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>[2] Selten</labl>
+        <catStat type="freq">4950</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>[3] Manchmal</labl>
+        <catStat type="freq">1980</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>4</catValu>
+        <labl>[4] Oft</labl>
+        <catStat type="freq"> 540</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>5</catValu>
+        <labl>[5] Sehr oft</labl>
+        <catStat type="freq">  90</catStat>
+      </catgry>
+    </var>
+    <var ID="pgef3" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>NA</labl>
+      <sumStat type="valid">15570</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>[1] Nie</labl>
+        <catStat type="freq">  60</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>[2] Selten</labl>
+        <catStat type="freq"> 870</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>[3] Manchmal</labl>
+        <catStat type="freq">4500</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>4</catValu>
+        <labl>[4] Oft</labl>
+        <catStat type="freq">8640</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>5</catValu>
+        <labl>[5] Sehr oft</labl>
+        <catStat type="freq">1500</catStat>
+      </catgry>
+    </var>
+    <var ID="pgef4" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>NA</labl>
+      <sumStat type="valid">15570</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>[1] Nie</labl>
+        <catStat type="freq">4860</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>[2] Selten</labl>
+        <catStat type="freq">6030</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>[3] Manchmal</labl>
+        <catStat type="freq">3120</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>4</catValu>
+        <labl>[4] Oft</labl>
+        <catStat type="freq">1140</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>5</catValu>
+        <labl>[5] Sehr oft</labl>
+        <catStat type="freq"> 420</catStat>
+      </catgry>
+    </var>
+    <var ID="bb1" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>Bewertung Teilnahme Blitzbefragungen</labl>
+      <sumStat type="valid">7710</sumStat>
+      <sumStat type="invalid">7860</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">7680</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq"> 180</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>[1] Sehr schlecht</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>2</labl>
+        <catStat type="freq">  60</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>3</labl>
+        <catStat type="freq"> 390</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>4</catValu>
+        <labl>4</labl>
+        <catStat type="freq">1290</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>5</catValu>
+        <labl>5</labl>
+        <catStat type="freq">2370</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>6</catValu>
+        <labl>6</labl>
+        <catStat type="freq">2130</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>7</catValu>
+        <labl>[7] Sehr gut</labl>
+        <catStat type="freq">1470</catStat>
+      </catgry>
+    </var>
+    <var ID="bb2" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>NA</labl>
+      <sumStat type="valid">7710</sumStat>
+      <sumStat type="invalid">7860</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">7680</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq"> 180</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>[1] Nein, gar nicht</labl>
+        <catStat type="freq">2250</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>2</labl>
+        <catStat type="freq">2340</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>3</labl>
+        <catStat type="freq">1230</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>4</catValu>
+        <labl>4</labl>
+        <catStat type="freq"> 750</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>5</catValu>
+        <labl>5</labl>
+        <catStat type="freq"> 750</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>6</catValu>
+        <labl>6</labl>
+        <catStat type="freq"> 330</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>7</catValu>
+        <labl>[7] Ja, sehr stark</labl>
+        <catStat type="freq">  60</catStat>
+      </catgry>
+    </var>
+    <var ID="bb3" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>Blitzbefragung nicht bearbeitet</labl>
+      <sumStat type="valid">7710</sumStat>
+      <sumStat type="invalid">7860</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">7680</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq"> 180</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>[1] Ja</labl>
+        <catStat type="freq">2040</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>[2] Nein</labl>
+        <catStat type="freq">5670</catStat>
+      </catgry>
+    </var>
+    <var ID="bb4" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>NA</labl>
+      <sumStat type="valid">2040</sumStat>
+      <sumStat type="invalid">13530</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">13530</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <catStat type="freq"> 1230</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <catStat type="freq">  480</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <catStat type="freq">  180</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>4</catValu>
+        <catStat type="freq">   60</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>5</catValu>
+        <catStat type="freq">   60</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>7</catValu>
+        <catStat type="freq">   30</catStat>
+      </catgry>
+    </var>
+    <var ID="bb5" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>NA</labl>
+      <sumStat type="valid">7710</sumStat>
+      <sumStat type="invalid">7860</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">7680</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq"> 180</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>[1] Ja</labl>
+        <catStat type="freq"> 510</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>[2] Nein</labl>
+        <catStat type="freq">7200</catStat>
+      </catgry>
+    </var>
+    <var ID="bb6" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>NA</labl>
+      <sumStat type="valid">510</sumStat>
+      <sumStat type="invalid">15060</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">15060</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <catStat type="freq">  360</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <catStat type="freq">   60</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <catStat type="freq">   60</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>5</catValu>
+        <catStat type="freq">   30</catStat>
+      </catgry>
+    </var>
+    <var ID="bb7" intrvl="labeled_numeric" files="idrm_esm">
+      <labl>Blitzbefragung hektisch / unaufmerksam</labl>
+      <sumStat type="valid">7710</sumStat>
+      <sumStat type="invalid">7860</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">7680</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq"> 180</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>[1] Sehr selten</labl>
+        <catStat type="freq">5490</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>[2] Selten</labl>
+        <catStat type="freq">1440</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>[3] Gelegentlich</labl>
+        <catStat type="freq"> 720</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>4</catValu>
+        <labl>[4] Oft</labl>
+        <catStat type="freq">  60</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>5</catValu>
+        <labl>[5] Sehr oft</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+  </dataDscr>
+  <fileDscr ID="idrm_esm"/>
+</codebook>

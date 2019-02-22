@@ -1,0 +1,1306 @@
+<codebook>
+  <dataDscr>
+    <var ID="cid" intrvl="numeric" files="inno_h">
+      <labl>Original Household Number</labl>
+      <sumStat type="Min.">200034</sumStat>
+      <sumStat type="1st Qu.">886416</sumStat>
+      <sumStat type="Median">973912</sumStat>
+      <sumStat type="Mean">2324582.10231125</sumStat>
+      <sumStat type="3rd Qu.">4075620</sumStat>
+      <sumStat type="Max.">4127078</sumStat>
+      <sumStat type="valid">3245</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hid" intrvl="numeric" files="inno_h">
+      <labl>Current Household Number</labl>
+      <sumStat type="Min.">115380</sumStat>
+      <sumStat type="1st Qu.">891258</sumStat>
+      <sumStat type="Median">967416</sumStat>
+      <sumStat type="Mean">2288877.22865948</sumStat>
+      <sumStat type="3rd Qu.">4072990</sumStat>
+      <sumStat type="Max.">4127078</sumStat>
+      <sumStat type="valid">3245</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="syear" intrvl="numeric" files="inno_h">
+      <labl>Survey-Year</labl>
+      <sumStat type="Min.">2015</sumStat>
+      <sumStat type="1st Qu.">2015</sumStat>
+      <sumStat type="Median">2015</sumStat>
+      <sumStat type="Mean">2015</sumStat>
+      <sumStat type="3rd Qu.">2015</sumStat>
+      <sumStat type="Max.">2015</sumStat>
+      <sumStat type="valid">3245</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="im_bil" intrvl="labeled_numeric" files="inno_h">
+      <labl>Pretest: Balance</labl>
+      <sumStat type="valid">3245</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>0</catValu>
+        <labl>[0] Does Not Apply</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>[1] Does Apply</labl>
+        <catStat type="freq">3245</catStat>
+      </catgry>
+    </var>
+    <var ID="prhsplbil" intrvl="labeled_numeric" files="inno_h">
+      <labl>Split balance</labl>
+      <sumStat type="valid">3243</sumStat>
+      <sumStat type="invalid">2</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>Split 1</labl>
+        <catStat type="freq">1654</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>Split 2</labl>
+        <catStat type="freq">1589</catStat>
+      </catgry>
+    </var>
+    <var ID="prhbilj1" intrvl="labeled_numeric" files="inno_h">
+      <labl>Relationship Income vs. Expenditures (last year)</labl>
+      <sumStat type="valid">1641</sumStat>
+      <sumStat type="invalid">1604</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <catStat type="freq">  13</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <catStat type="freq">1591</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>Income on a level with expenditures</labl>
+        <catStat type="freq"> 945</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>Income was higher than expenditures</labl>
+        <catStat type="freq"> 592</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>Expenditures were higher than income</labl>
+        <catStat type="freq"> 104</catStat>
+      </catgry>
+    </var>
+    <var ID="prhbilj1a" intrvl="numeric" files="inno_h">
+      <labl>Amount of Savings (last year)</labl>
+      <sumStat type="Min.">45</sumStat>
+      <sumStat type="1st Qu.">1800</sumStat>
+      <sumStat type="Median">3500</sumStat>
+      <sumStat type="Mean">6062.83266129032</sumStat>
+      <sumStat type="3rd Qu.">6000</sumStat>
+      <sumStat type="Max.">1e+05</sumStat>
+      <sumStat type="NA's">2749</sumStat>
+      <sumStat type="valid">496</sumStat>
+      <sumStat type="invalid">2749</sumStat>
+    </var>
+    <var ID="prhbilj1awn" intrvl="labeled_numeric" files="inno_h">
+      <labl>Amount of Savings Do not know (last year)</labl>
+      <sumStat type="valid">35</sumStat>
+      <sumStat type="invalid">3210</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <catStat type="freq">  59</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <catStat type="freq">3151</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>Do not know</labl>
+        <catStat type="freq">  35</catStat>
+      </catgry>
+    </var>
+    <var ID="prhbilj1b" intrvl="numeric" files="inno_h">
+      <labl>Amount of Deficit (last year)</labl>
+      <sumStat type="Min.">100</sumStat>
+      <sumStat type="1st Qu.">1000</sumStat>
+      <sumStat type="Median">2500</sumStat>
+      <sumStat type="Mean">9167.25806451613</sumStat>
+      <sumStat type="3rd Qu.">8000</sumStat>
+      <sumStat type="Max.">120000</sumStat>
+      <sumStat type="NA's">3152</sumStat>
+      <sumStat type="valid">93</sumStat>
+      <sumStat type="invalid">3152</sumStat>
+    </var>
+    <var ID="prhbilj1bwn" intrvl="labeled_numeric" files="inno_h">
+      <labl>Amount of Deficit Do not know (last year)</labl>
+      <sumStat type="valid">9</sumStat>
+      <sumStat type="invalid">3236</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <catStat type="freq">3234</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>Do not know</labl>
+        <catStat type="freq">   9</catStat>
+      </catgry>
+    </var>
+    <var ID="prhbilj1c" intrvl="labeled_numeric" files="inno_h">
+      <labl>Deficit covered by Going into Dept or by Savings (last year)</labl>
+      <sumStat type="valid">103</sumStat>
+      <sumStat type="invalid">3142</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <catStat type="freq">3141</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>Went into debt</labl>
+        <catStat type="freq">  34</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>Used savings</labl>
+        <catStat type="freq">  62</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>Both</labl>
+        <catStat type="freq">   6</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>4</catValu>
+        <labl>Do not know</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+    </var>
+    <var ID="prhbilm1" intrvl="labeled_numeric" files="inno_h">
+      <labl>Relationship Income vs. Expenditures (last month)</labl>
+      <sumStat type="valid">1640</sumStat>
+      <sumStat type="invalid">1605</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <catStat type="freq">  14</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <catStat type="freq">1591</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>Income on a level with expenditures</labl>
+        <catStat type="freq">1021</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>Income was higher than expenditures</labl>
+        <catStat type="freq"> 495</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>Expenditures were higher than income</labl>
+        <catStat type="freq"> 124</catStat>
+      </catgry>
+    </var>
+    <var ID="prhbilm1a" intrvl="numeric" files="inno_h">
+      <labl>Amount of Savings (last month)</labl>
+      <sumStat type="Min.">25</sumStat>
+      <sumStat type="1st Qu.">200</sumStat>
+      <sumStat type="Median">400</sumStat>
+      <sumStat type="Mean">774.216400911162</sumStat>
+      <sumStat type="3rd Qu.">727.5</sumStat>
+      <sumStat type="Max.">20000</sumStat>
+      <sumStat type="NA's">2806</sumStat>
+      <sumStat type="valid">439</sumStat>
+      <sumStat type="invalid">2806</sumStat>
+    </var>
+    <var ID="prhbilm1awn" intrvl="labeled_numeric" files="inno_h">
+      <labl>Amount of Savings Do not know (last month)</labl>
+      <sumStat type="valid">20</sumStat>
+      <sumStat type="invalid">3225</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <catStat type="freq">  36</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <catStat type="freq">3189</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>Do not know</labl>
+        <catStat type="freq">  20</catStat>
+      </catgry>
+    </var>
+    <var ID="prhbilm1b" intrvl="numeric" files="inno_h">
+      <labl>Amount of Deficit (last month)</labl>
+      <sumStat type="Min.">50</sumStat>
+      <sumStat type="1st Qu.">220</sumStat>
+      <sumStat type="Median">500</sumStat>
+      <sumStat type="Mean">1508.27433628319</sumStat>
+      <sumStat type="3rd Qu.">1000</sumStat>
+      <sumStat type="Max.">40000</sumStat>
+      <sumStat type="NA's">3132</sumStat>
+      <sumStat type="valid">113</sumStat>
+      <sumStat type="invalid">3132</sumStat>
+    </var>
+    <var ID="prhbilm1bwn" intrvl="labeled_numeric" files="inno_h">
+      <labl>Amount of Deficit Do not know (last month)</labl>
+      <sumStat type="valid">10</sumStat>
+      <sumStat type="invalid">3235</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <catStat type="freq">3234</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>Do not know</labl>
+        <catStat type="freq">  10</catStat>
+      </catgry>
+    </var>
+    <var ID="prhbilm1c" intrvl="labeled_numeric" files="inno_h">
+      <labl>Deficit covered by Going into Dept or by Savings (last month)</labl>
+      <sumStat type="valid">122</sumStat>
+      <sumStat type="invalid">3123</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <catStat type="freq">3121</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>Went into debt</labl>
+        <catStat type="freq">  23</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>Used savings</labl>
+        <catStat type="freq">  92</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>Both</labl>
+        <catStat type="freq">   6</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>4</catValu>
+        <labl>Do not know</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+    </var>
+    <var ID="prhbilj2" intrvl="labeled_numeric" files="inno_h">
+      <labl>Assets Used or Sold to Cover Deficit (last year)</labl>
+      <sumStat type="valid">1582</sumStat>
+      <sumStat type="invalid">1663</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <catStat type="freq">   7</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <catStat type="freq">1656</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>Yes</labl>
+        <catStat type="freq"> 145</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>No</labl>
+        <catStat type="freq">1437</catStat>
+      </catgry>
+    </var>
+    <var ID="prhbilj2a" intrvl="numeric" files="inno_h">
+      <labl>Amount of Assets Used or Sold (last year)</labl>
+      <sumStat type="Min.">200</sumStat>
+      <sumStat type="1st Qu.">2000</sumStat>
+      <sumStat type="Median">5000</sumStat>
+      <sumStat type="Mean">10015.731884058</sumStat>
+      <sumStat type="3rd Qu.">12750</sumStat>
+      <sumStat type="Max.">1e+05</sumStat>
+      <sumStat type="NA's">3107</sumStat>
+      <sumStat type="valid">138</sumStat>
+      <sumStat type="invalid">3107</sumStat>
+    </var>
+    <var ID="prhbilm2" intrvl="labeled_numeric" files="inno_h">
+      <labl>Assets Used or Sold to Cover Deficit (last month)</labl>
+      <sumStat type="valid">1583</sumStat>
+      <sumStat type="invalid">1662</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <catStat type="freq">   6</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <catStat type="freq">1656</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>Yes</labl>
+        <catStat type="freq">  49</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>No</labl>
+        <catStat type="freq">1534</catStat>
+      </catgry>
+    </var>
+    <var ID="prhbilm2a" intrvl="numeric" files="inno_h">
+      <labl>Amount of Assets Used or Sold (last month)</labl>
+      <sumStat type="Min.">200</sumStat>
+      <sumStat type="1st Qu.">500</sumStat>
+      <sumStat type="Median">1100</sumStat>
+      <sumStat type="Mean">3971.35416666667</sumStat>
+      <sumStat type="3rd Qu.">4625</sumStat>
+      <sumStat type="Max.">30000</sumStat>
+      <sumStat type="NA's">3197</sumStat>
+      <sumStat type="valid">48</sumStat>
+      <sumStat type="invalid">3197</sumStat>
+    </var>
+    <var ID="prhpfandl" intrvl="labeled_numeric" files="inno_h">
+      <labl>Pawnshop used (last year)</labl>
+      <sumStat type="valid">3240</sumStat>
+      <sumStat type="invalid">5</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>Yes</labl>
+        <catStat type="freq">  15</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>No</labl>
+        <catStat type="freq">3225</catStat>
+      </catgry>
+    </var>
+    <var ID="im_os" intrvl="labeled_numeric" files="inno_h">
+      <labl>Innovative Module: Outsourcing</labl>
+      <sumStat type="valid">3245</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>0</catValu>
+        <labl>[0] Does Not Apply</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>[1] Does Apply</labl>
+        <catStat type="freq">3245</catStat>
+      </catgry>
+    </var>
+    <var ID="ossplit" intrvl="labeled_numeric" files="inno_h">
+      <labl>Outsourcing Split</labl>
+      <sumStat type="valid">3243</sumStat>
+      <sumStat type="invalid">2</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>Split 1</labl>
+        <catStat type="freq">1655</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>Split 2</labl>
+        <catStat type="freq">1588</catStat>
+      </catgry>
+    </var>
+    <var ID="oshhilf1" intrvl="labeled_numeric" files="inno_h">
+      <labl>Household Help Last 3 Months</labl>
+      <sumStat type="valid">3240</sumStat>
+      <sumStat type="invalid">5</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>Yes</labl>
+        <catStat type="freq"> 245</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>No</labl>
+        <catStat type="freq">2967</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>Do not know</labl>
+        <catStat type="freq">  28</catStat>
+      </catgry>
+    </var>
+    <var ID="oshhilf2" intrvl="labeled_numeric" files="inno_h">
+      <labl>Household Help Lives In Household</labl>
+      <sumStat type="valid">244</sumStat>
+      <sumStat type="invalid">3001</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <catStat type="freq">3000</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>Yes</labl>
+        <catStat type="freq">   8</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>No</labl>
+        <catStat type="freq"> 236</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>Do not know</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="oshhilf3" intrvl="numeric" files="inno_h">
+      <labl>Household Help Hours/Month</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">6</sumStat>
+      <sumStat type="Median">8</sumStat>
+      <sumStat type="Mean">11.3512396694215</sumStat>
+      <sumStat type="3rd Qu.">12</sumStat>
+      <sumStat type="Max.">75</sumStat>
+      <sumStat type="NA's">3003</sumStat>
+      <sumStat type="valid">242</sumStat>
+      <sumStat type="invalid">3003</sumStat>
+    </var>
+    <var ID="oshhilf4" intrvl="unknown" files="inno_h">
+      <labl>Household Help Hours/Month Do not know</labl>
+    </var>
+    <var ID="oshhilf5" intrvl="numeric" files="inno_h">
+      <labl>Household Help Expsenses/Month</labl>
+      <sumStat type="Min.">8</sumStat>
+      <sumStat type="1st Qu.">72</sumStat>
+      <sumStat type="Median">120</sumStat>
+      <sumStat type="Mean">150.290748898678</sumStat>
+      <sumStat type="3rd Qu.">180</sumStat>
+      <sumStat type="Max.">2000</sumStat>
+      <sumStat type="NA's">3018</sumStat>
+      <sumStat type="valid">227</sumStat>
+      <sumStat type="invalid">3018</sumStat>
+    </var>
+    <var ID="oshhilf6" intrvl="numeric" files="inno_h">
+      <labl>Household Help Expsenses/Month Do not know</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">1</sumStat>
+      <sumStat type="3rd Qu.">1</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="NA's">3239</sumStat>
+      <sumStat type="valid">6</sumStat>
+      <sumStat type="invalid">3239</sumStat>
+    </var>
+    <var ID="oshhilf7" intrvl="labeled_numeric" files="inno_h">
+      <labl>Household Help Gender</labl>
+      <sumStat type="valid">244</sumStat>
+      <sumStat type="invalid">3001</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <catStat type="freq">3000</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>Male</labl>
+        <catStat type="freq">  15</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>Female</labl>
+        <catStat type="freq"> 228</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>Do not know</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+    </var>
+    <var ID="oshhilf8" intrvl="labeled_numeric" files="inno_h">
+      <labl>Household Help German Origin</labl>
+      <sumStat type="valid">244</sumStat>
+      <sumStat type="invalid">3001</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <catStat type="freq">3000</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>German</labl>
+        <catStat type="freq"> 142</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>Not German</labl>
+        <catStat type="freq"> 101</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>Do not know</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+    </var>
+    <var ID="oshhilf9" intrvl="labeled_numeric" files="inno_h">
+      <labl>Household Help Through Company/Agency</labl>
+      <sumStat type="valid">243</sumStat>
+      <sumStat type="invalid">3002</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <catStat type="freq">3000</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>Yes</labl>
+        <catStat type="freq">  35</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>No</labl>
+        <catStat type="freq"> 203</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>Do not know</labl>
+        <catStat type="freq">   5</catStat>
+      </catgry>
+    </var>
+    <var ID="oshhilf10a" intrvl="labeled_numeric" files="inno_h">
+      <labl>Household Help Numeral House Number</labl>
+      <sumStat type="valid">80</sumStat>
+      <sumStat type="invalid">3165</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <catStat type="freq">  12</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <catStat type="freq">3153</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>Same Answers A and B</labl>
+        <catStat type="freq">  41</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>Different Answers A and B</labl>
+        <catStat type="freq">  39</catStat>
+      </catgry>
+    </var>
+    <var ID="oshhilf10b" intrvl="labeled_numeric" files="inno_h">
+      <labl>Household Help Legal</labl>
+      <sumStat type="valid">110</sumStat>
+      <sumStat type="invalid">3135</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <catStat type="freq">3134</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>Yes</labl>
+        <catStat type="freq">  36</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>No</labl>
+        <catStat type="freq">  69</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>Do not know</labl>
+        <catStat type="freq">   5</catStat>
+      </catgry>
+    </var>
+    <var ID="oskibet1" intrvl="labeled_numeric" files="inno_h">
+      <labl>Child Care Last 3 Months</labl>
+      <sumStat type="valid">3243</sumStat>
+      <sumStat type="invalid">2</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>Yes</labl>
+        <catStat type="freq">  21</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>No</labl>
+        <catStat type="freq">3206</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>Do not know</labl>
+        <catStat type="freq">  16</catStat>
+      </catgry>
+    </var>
+    <var ID="oskibet2" intrvl="labeled_numeric" files="inno_h">
+      <labl>Child Carer Lives in Household</labl>
+      <sumStat type="valid">21</sumStat>
+      <sumStat type="invalid">3224</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <catStat type="freq">3224</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>Yes</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>No</labl>
+        <catStat type="freq">  20</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>Do not know</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="oskibet3" intrvl="numeric" files="inno_h">
+      <labl>Child Care Hours/Month</labl>
+      <sumStat type="Min.">2</sumStat>
+      <sumStat type="1st Qu.">10</sumStat>
+      <sumStat type="Median">20</sumStat>
+      <sumStat type="Mean">30.45</sumStat>
+      <sumStat type="3rd Qu.">26.25</sumStat>
+      <sumStat type="Max.">120</sumStat>
+      <sumStat type="NA's">3225</sumStat>
+      <sumStat type="valid">20</sumStat>
+      <sumStat type="invalid">3225</sumStat>
+    </var>
+    <var ID="oskibet4" intrvl="unknown" files="inno_h">
+      <labl>Child Care Hours/Month Do not know</labl>
+    </var>
+    <var ID="oskibet5" intrvl="numeric" files="inno_h">
+      <labl>Child Care Expsenses/Month</labl>
+      <sumStat type="Min.">35</sumStat>
+      <sumStat type="1st Qu.">100</sumStat>
+      <sumStat type="Median">150</sumStat>
+      <sumStat type="Mean">190.809523809524</sumStat>
+      <sumStat type="3rd Qu.">270</sumStat>
+      <sumStat type="Max.">600</sumStat>
+      <sumStat type="NA's">3224</sumStat>
+      <sumStat type="valid">21</sumStat>
+      <sumStat type="invalid">3224</sumStat>
+    </var>
+    <var ID="oskibet6" intrvl="unknown" files="inno_h">
+      <labl>Child Care Expsenses/Month Do not know</labl>
+    </var>
+    <var ID="oskibet7" intrvl="labeled_numeric" files="inno_h">
+      <labl>Child Care Gender</labl>
+      <sumStat type="valid">21</sumStat>
+      <sumStat type="invalid">3224</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <catStat type="freq">3224</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>Male</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>Female</labl>
+        <catStat type="freq">  20</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>Do not know</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="oskibet8" intrvl="labeled_numeric" files="inno_h">
+      <labl>Child Care German Origin</labl>
+      <sumStat type="valid">21</sumStat>
+      <sumStat type="invalid">3224</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <catStat type="freq">3224</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>German</labl>
+        <catStat type="freq">  17</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>Not German</labl>
+        <catStat type="freq">   4</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>Do not know</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="oskibet9" intrvl="labeled_numeric" files="inno_h">
+      <labl>Child Care Through Company/Agency</labl>
+      <sumStat type="valid">21</sumStat>
+      <sumStat type="invalid">3224</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <catStat type="freq">3224</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>Yes</labl>
+        <catStat type="freq">   5</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>No</labl>
+        <catStat type="freq">  16</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>Do not know</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="oskibet10a" intrvl="labeled_numeric" files="inno_h">
+      <labl>Child Care Numeral House Number</labl>
+      <sumStat type="valid">9</sumStat>
+      <sumStat type="invalid">3236</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <catStat type="freq">3236</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>Same Answers A and B</labl>
+        <catStat type="freq">   4</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>Different Answers A and B</labl>
+        <catStat type="freq">   5</catStat>
+      </catgry>
+    </var>
+    <var ID="oskibet10b" intrvl="labeled_numeric" files="inno_h">
+      <labl>Child Care Legal</labl>
+      <sumStat type="valid">6</sumStat>
+      <sumStat type="invalid">3239</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <catStat type="freq">3238</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>Yes</labl>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>No</labl>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>Do not know</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="osapfleg1" intrvl="labeled_numeric" files="inno_h">
+      <labl>Care of the Elderly Last 3 Months</labl>
+      <sumStat type="valid">3243</sumStat>
+      <sumStat type="invalid">2</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>Yes</labl>
+        <catStat type="freq">  33</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>No</labl>
+        <catStat type="freq">3199</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>Do not know</labl>
+        <catStat type="freq">  11</catStat>
+      </catgry>
+    </var>
+    <var ID="osapfleg2" intrvl="labeled_numeric" files="inno_h">
+      <labl>Caregiver Lives In Household</labl>
+      <sumStat type="valid">33</sumStat>
+      <sumStat type="invalid">3212</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <catStat type="freq">3212</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>Yes</labl>
+        <catStat type="freq">   9</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>No</labl>
+        <catStat type="freq">  24</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>Do not know</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="osapfleg3" intrvl="numeric" files="inno_h">
+      <labl>Care of the Elderly Hours/Month</labl>
+      <sumStat type="Min.">2</sumStat>
+      <sumStat type="1st Qu.">15</sumStat>
+      <sumStat type="Median">20</sumStat>
+      <sumStat type="Mean">49.6521739130435</sumStat>
+      <sumStat type="3rd Qu.">55</sumStat>
+      <sumStat type="Max.">210</sumStat>
+      <sumStat type="NA's">3222</sumStat>
+      <sumStat type="valid">23</sumStat>
+      <sumStat type="invalid">3222</sumStat>
+    </var>
+    <var ID="osapfleg4" intrvl="numeric" files="inno_h">
+      <labl>Care of the Elderly Hours/Month Do not know</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">1</sumStat>
+      <sumStat type="3rd Qu.">1</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="NA's">3239</sumStat>
+      <sumStat type="valid">6</sumStat>
+      <sumStat type="invalid">3239</sumStat>
+    </var>
+    <var ID="osapfleg5" intrvl="numeric" files="inno_h">
+      <labl>Care of the Elderly Expsenses/Month</labl>
+      <sumStat type="Min.">6</sumStat>
+      <sumStat type="1st Qu.">200</sumStat>
+      <sumStat type="Median">245</sumStat>
+      <sumStat type="Mean">500.941176470588</sumStat>
+      <sumStat type="3rd Qu.">500</sumStat>
+      <sumStat type="Max.">2000</sumStat>
+      <sumStat type="NA's">3228</sumStat>
+      <sumStat type="valid">17</sumStat>
+      <sumStat type="invalid">3228</sumStat>
+    </var>
+    <var ID="osapfleg6" intrvl="numeric" files="inno_h">
+      <labl>Care of the Elderly Expsenses/Month Do not know</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">1</sumStat>
+      <sumStat type="3rd Qu.">1</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="NA's">3236</sumStat>
+      <sumStat type="valid">9</sumStat>
+      <sumStat type="invalid">3236</sumStat>
+    </var>
+    <var ID="osapfleg7" intrvl="labeled_numeric" files="inno_h">
+      <labl>Care of the Elderly Gender</labl>
+      <sumStat type="valid">33</sumStat>
+      <sumStat type="invalid">3212</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <catStat type="freq">3212</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>Male</labl>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>Female</labl>
+        <catStat type="freq">  30</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>Do not know</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="osapfleg8" intrvl="labeled_numeric" files="inno_h">
+      <labl>Care of the Elderly German Origin</labl>
+      <sumStat type="valid">33</sumStat>
+      <sumStat type="invalid">3212</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <catStat type="freq">3212</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>German</labl>
+        <catStat type="freq">  24</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>Not German</labl>
+        <catStat type="freq">   8</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>Do not know</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+    </var>
+    <var ID="osapfleg9" intrvl="labeled_numeric" files="inno_h">
+      <labl>Care of the Elderly Through Company/Agency</labl>
+      <sumStat type="valid">33</sumStat>
+      <sumStat type="invalid">3212</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <catStat type="freq">3212</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>Yes</labl>
+        <catStat type="freq">  21</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>No</labl>
+        <catStat type="freq">   9</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>Do not know</labl>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+    </var>
+    <var ID="osapfleg10a" intrvl="labeled_numeric" files="inno_h">
+      <labl>Care of the Elderly Numeral House Number</labl>
+      <sumStat type="valid">2</sumStat>
+      <sumStat type="invalid">3243</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <catStat type="freq">3241</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>Same Answers A and B</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>Different Answers A and B</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+    </var>
+    <var ID="osapfleg10b" intrvl="labeled_numeric" files="inno_h">
+      <labl>Care of the Elderly Legal</labl>
+      <sumStat type="valid">5</sumStat>
+      <sumStat type="invalid">3240</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <catStat type="freq">3240</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>Yes</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>No</labl>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>Do not know</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+    </var>
+    <var ID="osgarta1" intrvl="labeled_numeric" files="inno_h">
+      <labl>Maintenance/Gardening Last 3 Months</labl>
+      <sumStat type="valid">3242</sumStat>
+      <sumStat type="invalid">3</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>Yes</labl>
+        <catStat type="freq">  94</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>No</labl>
+        <catStat type="freq">3136</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>Do not know</labl>
+        <catStat type="freq">  12</catStat>
+      </catgry>
+    </var>
+    <var ID="osgarta2" intrvl="labeled_numeric" files="inno_h">
+      <labl>Gardener Lives In Household</labl>
+      <sumStat type="valid">94</sumStat>
+      <sumStat type="invalid">3151</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <catStat type="freq">3151</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>Yes</labl>
+        <catStat type="freq">   2</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>No</labl>
+        <catStat type="freq">  91</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>Do not know</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+    </var>
+    <var ID="osgarta3" intrvl="numeric" files="inno_h">
+      <labl>Maintenance/Gardening Hours/Month</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">2</sumStat>
+      <sumStat type="Median">3</sumStat>
+      <sumStat type="Mean">6.56578947368421</sumStat>
+      <sumStat type="3rd Qu.">8</sumStat>
+      <sumStat type="Max.">46</sumStat>
+      <sumStat type="NA's">3169</sumStat>
+      <sumStat type="valid">76</sumStat>
+      <sumStat type="invalid">3169</sumStat>
+    </var>
+    <var ID="osgarta4" intrvl="numeric" files="inno_h">
+      <labl>Maintenance/Gardening Hours/Month Do not know</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">1</sumStat>
+      <sumStat type="3rd Qu.">1</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="NA's">3235</sumStat>
+      <sumStat type="valid">10</sumStat>
+      <sumStat type="invalid">3235</sumStat>
+    </var>
+    <var ID="osgarta5" intrvl="numeric" files="inno_h">
+      <labl>Maintenance/Gardeningy Expsenses/Month</labl>
+      <sumStat type="Min.">5</sumStat>
+      <sumStat type="1st Qu.">25</sumStat>
+      <sumStat type="Median">50</sumStat>
+      <sumStat type="Mean">114.379746835443</sumStat>
+      <sumStat type="3rd Qu.">120</sumStat>
+      <sumStat type="Max.">1000</sumStat>
+      <sumStat type="NA's">3166</sumStat>
+      <sumStat type="valid">79</sumStat>
+      <sumStat type="invalid">3166</sumStat>
+    </var>
+    <var ID="osgarta6" intrvl="numeric" files="inno_h">
+      <labl>Maintenance/Gardeningy Expsenses/Month Do not know</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">1</sumStat>
+      <sumStat type="3rd Qu.">1</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="NA's">3239</sumStat>
+      <sumStat type="valid">6</sumStat>
+      <sumStat type="invalid">3239</sumStat>
+    </var>
+    <var ID="osgarta7" intrvl="labeled_numeric" files="inno_h">
+      <labl>Maintenance/Gardening Gender</labl>
+      <sumStat type="valid">94</sumStat>
+      <sumStat type="invalid">3151</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <catStat type="freq">3151</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>Male</labl>
+        <catStat type="freq">  89</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>Female</labl>
+        <catStat type="freq">   5</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>Do not know</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="osgarta8" intrvl="labeled_numeric" files="inno_h">
+      <labl>Maintenance/Gardening German Origin</labl>
+      <sumStat type="valid">93</sumStat>
+      <sumStat type="invalid">3152</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <catStat type="freq">3151</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>German</labl>
+        <catStat type="freq">  79</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>Not German</labl>
+        <catStat type="freq">  11</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>Do not know</labl>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+    </var>
+    <var ID="osgarta9" intrvl="labeled_numeric" files="inno_h">
+      <labl>Maintenance/Gardening Through Company/Agency</labl>
+      <sumStat type="valid">94</sumStat>
+      <sumStat type="invalid">3151</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <catStat type="freq">3151</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>Yes</labl>
+        <catStat type="freq">  41</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>No</labl>
+        <catStat type="freq">  53</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>Do not know</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="osgarta10a" intrvl="labeled_numeric" files="inno_h">
+      <labl>Maintenance/Gardening Numeral House Number</labl>
+      <sumStat type="valid">30</sumStat>
+      <sumStat type="invalid">3215</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <catStat type="freq">3212</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>Same Answers A and B</labl>
+        <catStat type="freq">  20</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>Different Answers A and B</labl>
+        <catStat type="freq">  10</catStat>
+      </catgry>
+    </var>
+    <var ID="osgarta10b" intrvl="labeled_numeric" files="inno_h">
+      <labl>Maintenance/Gardening Legal</labl>
+      <sumStat type="valid">20</sumStat>
+      <sumStat type="invalid">3225</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <catStat type="freq">3225</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>1</catValu>
+        <labl>Yes</labl>
+        <catStat type="freq">   5</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2</catValu>
+        <labl>No</labl>
+        <catStat type="freq">  15</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>3</catValu>
+        <labl>Do not know</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+  </dataDscr>
+  <fileDscr ID="inno_h"/>
+</codebook>
