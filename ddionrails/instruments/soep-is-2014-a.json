@@ -1,8 +1,10 @@
 {
-  "study": "soep-is",
+  "study_name": "soep-is",
   "questionnaire": "soep-is-2014-a",
   "label": "Questionnaire 2014 (Boost Sample)",
-  "period": 2014,
+  "period_name": 2014,
+  "label_de": "Fragebogen 2014 (Aufwuchsstichprobe)",
+  "description_de": "Innovative Modules Surveyed in 2014\n\n- Cross-Cultural Study of Happiness and Personality (Uchida & Trommsdorff)\n- Day Reconstruction Method (DRM; Lucas & Donnellan)\n- Determinants of Attitudes to Income Redistribution (Poutvaara, Kauppinen, & Fong)\n- Expected Financial Market Earnings (Huck & Weizs\u00e4cker)\n- Experience Sampling Method (ESM; Lucas & Donnellan)\n- Finding Efficient Question Format for Long List Questions (Herzing & Schneider)\n- Flourishing State (Mangelsdorf & Schwarzer)\n- Inattentional Blindness (Conley, Chabris, & Simons)\n- Individual & Age Differences in Decisions from Description and Experience (Mata, Richter, Josef, Frey, & Hertwig)\n- Justice Sensitivity (Baumert, Schl\u00f6sser, Beierlein, Liebig, Rammstedt, & Schmitt)\n- Lottery Play: Expenditure, Frequency, and Explanatory Variables (Beckert & Lutter + Oswald)\n- Major Life Events (Luhmann & Zimmermann)\n- Measurement of Self-Evaluation and Overconfidence in Different Life Domains (Ziebarth, Arni, & Goette)\n- Separating Systematic Measurement Error Components Using MTMM (Cernat & Obersky)\n- Short Form of the \u201cCHAOS\u201d Scale (Rauch)",
   "instrument": "soep-is-2014-a",
   "questions": {
     "A000C": {
@@ -10221,7 +10223,7 @@
           "text": "Please state the first name of your child. / Please tell me the first name of your first, thus the oldest child. / Now, please tell me the name of your <n.> eldest child.",
           "scale": "txt",
           "filter": "Q174:LKIND=1",
-          "description": "Researcher Notes:\nCodierung:\n**\u00c4ltestes Kind 1\n**Zweit\u00e4ltestes Kind 2\n**etc.\n",
+          "description": "Researcher Notes:\nCodierung:\n**\u00c4ltestes Kind 1\n**Zweit\u00e4ltestes Kind 2\n**etc.",
           "number": "Q176",
           "sn": 0,
           "item": "root"
@@ -10232,7 +10234,7 @@
           "text": "Prename:",
           "scale": "chr",
           "concept": "lknamx",
-          "description": "Researcher Notes:\nCodierung:\n**\u00c4ltestes Kind 1\n**Zweit\u00e4ltestes Kind 2\n**etc.\n",
+          "description": "Researcher Notes:\nCodierung:\n**\u00c4ltestes Kind 1\n**Zweit\u00e4ltestes Kind 2\n**etc.",
           "number": "Q176",
           "sn": 1
         }
@@ -10252,7 +10254,7 @@
           "scale": "cat",
           "answer_list": "38+16",
           "concept": "lksexx",
-          "description": "Researcher Notes:\nCodierung:\n**\u00c4ltestes Kind 1\n**Zweit\u00e4ltestes Kind 2\n**etc.\n\n",
+          "description": "Researcher Notes:\nCodierung:\n**\u00c4ltestes Kind 1\n**Zweit\u00e4ltestes Kind 2\n**etc.",
           "number": "Q177",
           "answers": [
             {
@@ -10298,7 +10300,7 @@
           "text": "Year of birth",
           "scale": "int",
           "concept": "lkgebx",
-          "description": "Researcher Notes:\nCodierung:\n**\u00c4ltestes Kind 1\n**Zweit\u00e4ltestes Kind 2\n**etc.\n",
+          "description": "Researcher Notes:\nCodierung:\n**\u00c4ltestes Kind 1\n**Zweit\u00e4ltestes Kind 2\n**etc.",
           "number": "Q178",
           "sn": 1
         },
@@ -10308,7 +10310,7 @@
           "text": "Month of birth",
           "scale": "int",
           "concept": "lkgebmox",
-          "description": "Researcher Notes:\nCodierung:\n**\u00c4ltestes Kind 1\n**Zweit\u00e4ltestes Kind 2\n**etc.\n",
+          "description": "Researcher Notes:\nCodierung:\n**\u00c4ltestes Kind 1\n**Zweit\u00e4ltestes Kind 2\n**etc.",
           "number": "Q178",
           "sn": 2
         }
@@ -10544,7 +10546,7 @@
           "instruction": "If the target person is basically not willing to give details of the income, please point out that this is a key issue.The gross amount means before any deductions for taxes or social security. If you have more than one, please add them together!\n",
           "scale": "txt",
           "filter": "Q181:PEK X=1,2,3,5,6,7,8,9,10,11,12,13",
-          "description": "Researcher notes:\nF\u00fcr jedes in der Vorfrage ausgew\u00e4hlte Item eigener Screen.\n\nbei den Items 1 und 2: \n\"Bruttobetrag hei\u00dft: vor Abzug eventueller Steuern oder Sozialversicherungsbeitr\u00e4ge.\"\n\"Falls Sie mehrere haben: bitte zusammenrechnen!\" hinzuf\u00fcgen\n\nCodierung:\nBei pek04 (Arbeitslosengeld) wird kein Betrag abgefragt!\nAnsonsten Nachfrage bei unplausibler H\u00f6he der Betr\u00e4ge",
+          "description": "Researcher notes:\nF\u00fcr jedes in der Vorfrage ausgew\u00e4hlte Item eigener Screen.\nbei den Items 1 und 2: \n\"Bruttobetrag hei\u00dft: vor Abzug eventueller Steuern oder Sozialversicherungsbeitr\u00e4ge.\"\n\"Falls Sie mehrere haben: bitte zusammenrechnen!\" hinzuf\u00fcgen\nCodierung:\nBei pek04 (Arbeitslosengeld) wird kein Betrag abgefragt!\nAnsonsten Nachfrage bei unplausibler H\u00f6he der Betr\u00e4ge",
           "number": "Q182",
           "sn": 0,
           "item": "root"
@@ -11668,7 +11670,7 @@
           "scale": "cat",
           "answer_list": "553+",
           "concept": "perw",
-          "description": "Researcher notes: \nk.A. gibt es bei dieser Frage nicht\n\nCodierung:\n8 = Werkstatt f\u00fcr Behinderte (wird lt. Vorjahr und diversen Zusatzangaben bei der Datenpr\u00fcfung gesetzt) \n",
+          "description": "Researcher notes: \nk.A. gibt es bei dieser Frage nicht\nCodierung:\n8 = Werkstatt f\u00fcr Behinderte (wird lt. Vorjahr und diversen Zusatzangaben bei der Datenpr\u00fcfung gesetzt) ",
           "number": "Q215",
           "answers": [
             {
@@ -18469,50 +18471,6 @@
       "instrument": "soep-is-2014-a",
       "study": "soep-is"
     },
-    "Q312": {
-      "question": "Q312",
-      "name": "Q312",
-      "label": "Are you vegetarian or vegan?",
-      "items": [
-        {
-          "text_de": "Sind Sie Vegetarier oder Veganer?",
-          "instruction_de": "Vegetarier sind Personen, die in ihrer Ern\u00e4hrung auf Fleisch und ggf. Fisch verzichten.\nVeganer verzichten auf jegliche Tierprodukte.",
-          "text": "Are you vegetarian or vegan?",
-          "instruction": "Vegetarians are people who do not eat meat and if so also avoid fish.\nVegans do not eat any product of animals.",
-          "scale": "cat",
-          "answer_list": "624+16",
-          "concept": "preernaer",
-          "number": "Q312",
-          "answers": [
-            {
-              "value": 1,
-              "label_de": "Ja, ich bin Vegetarier",
-              "label": "Yes, I am vegetarian"
-            },
-            {
-              "value": 2,
-              "label_de": "Ja, ich bin Veganer",
-              "label": "Yes, I am vegan"
-            },
-            {
-              "value": 3,
-              "label_de": "Nein",
-              "label": "No"
-            },
-            {
-              "value": -1,
-              "label_de": "Keine Angabe",
-              "label": "No answer"
-            }
-          ],
-          "sn": 0,
-          "item": "root"
-        }
-      ],
-      "sn": 259,
-      "instrument": "soep-is-2014-a",
-      "study": "soep-is"
-    },
     "Q313": {
       "question": "Q313",
       "name": "Q313",
@@ -18546,7 +18504,7 @@
           "item": "root"
         }
       ],
-      "sn": 260,
+      "sn": 259,
       "instrument": "soep-is-2014-a",
       "study": "soep-is"
     },
@@ -18566,7 +18524,7 @@
           "item": "root"
         }
       ],
-      "sn": 261,
+      "sn": 260,
       "instrument": "soep-is-2014-a",
       "study": "soep-is"
     },
@@ -18602,7 +18560,7 @@
           "sn": 2
         }
       ],
-      "sn": 262,
+      "sn": 261,
       "instrument": "soep-is-2014-a",
       "study": "soep-is"
     },
@@ -18639,7 +18597,7 @@
           "item": "root"
         }
       ],
-      "sn": 263,
+      "sn": 262,
       "instrument": "soep-is-2014-a",
       "study": "soep-is"
     },
@@ -18687,7 +18645,7 @@
           "sn": 3
         }
       ],
-      "sn": 264,
+      "sn": 263,
       "instrument": "soep-is-2014-a",
       "study": "soep-is"
     },
@@ -18851,7 +18809,7 @@
           "sn": 16
         }
       ],
-      "sn": 265,
+      "sn": 264,
       "instrument": "soep-is-2014-a",
       "study": "soep-is"
     },
@@ -18890,7 +18848,7 @@
           "item": "root"
         }
       ],
-      "sn": 266,
+      "sn": 265,
       "instrument": "soep-is-2014-a",
       "study": "soep-is"
     },
@@ -19063,7 +19021,7 @@
           "sn": 17
         }
       ],
-      "sn": 267,
+      "sn": 266,
       "instrument": "soep-is-2014-a",
       "study": "soep-is"
     },
@@ -19102,7 +19060,7 @@
           "sn": 2
         }
       ],
-      "sn": 268,
+      "sn": 267,
       "instrument": "soep-is-2014-a",
       "study": "soep-is"
     },
@@ -19140,7 +19098,7 @@
           "sn": 2
         }
       ],
-      "sn": 269,
+      "sn": 268,
       "instrument": "soep-is-2014-a",
       "study": "soep-is"
     },
@@ -19178,7 +19136,7 @@
           "sn": 2
         }
       ],
-      "sn": 270,
+      "sn": 269,
       "instrument": "soep-is-2014-a",
       "study": "soep-is"
     },
@@ -19216,7 +19174,7 @@
           "sn": 2
         }
       ],
-      "sn": 271,
+      "sn": 270,
       "instrument": "soep-is-2014-a",
       "study": "soep-is"
     },
@@ -19254,7 +19212,7 @@
           "sn": 2
         }
       ],
-      "sn": 272,
+      "sn": 271,
       "instrument": "soep-is-2014-a",
       "study": "soep-is"
     },
@@ -19292,7 +19250,7 @@
           "sn": 2
         }
       ],
-      "sn": 273,
+      "sn": 272,
       "instrument": "soep-is-2014-a",
       "study": "soep-is"
     },
@@ -19330,7 +19288,7 @@
           "sn": 2
         }
       ],
-      "sn": 274,
+      "sn": 273,
       "instrument": "soep-is-2014-a",
       "study": "soep-is"
     },
@@ -19368,7 +19326,7 @@
           "sn": 2
         }
       ],
-      "sn": 275,
+      "sn": 274,
       "instrument": "soep-is-2014-a",
       "study": "soep-is"
     },
@@ -19406,7 +19364,7 @@
           "sn": 2
         }
       ],
-      "sn": 276,
+      "sn": 275,
       "instrument": "soep-is-2014-a",
       "study": "soep-is"
     },
@@ -19444,7 +19402,7 @@
           "sn": 2
         }
       ],
-      "sn": 277,
+      "sn": 276,
       "instrument": "soep-is-2014-a",
       "study": "soep-is"
     },
@@ -19482,7 +19440,7 @@
           "sn": 2
         }
       ],
-      "sn": 278,
+      "sn": 277,
       "instrument": "soep-is-2014-a",
       "study": "soep-is"
     },
@@ -19520,7 +19478,7 @@
           "sn": 2
         }
       ],
-      "sn": 279,
+      "sn": 278,
       "instrument": "soep-is-2014-a",
       "study": "soep-is"
     },
@@ -19558,7 +19516,7 @@
           "sn": 2
         }
       ],
-      "sn": 280,
+      "sn": 279,
       "instrument": "soep-is-2014-a",
       "study": "soep-is"
     },
@@ -19948,7 +19906,7 @@
           "sn": 10
         }
       ],
-      "sn": 281,
+      "sn": 280,
       "instrument": "soep-is-2014-a",
       "study": "soep-is"
     },
@@ -20338,7 +20296,7 @@
           "sn": 10
         }
       ],
-      "sn": 282,
+      "sn": 281,
       "instrument": "soep-is-2014-a",
       "study": "soep-is"
     },
@@ -20417,7 +20375,7 @@
           "item": "root"
         }
       ],
-      "sn": 283,
+      "sn": 282,
       "instrument": "soep-is-2014-a",
       "study": "soep-is"
     },
@@ -20438,7 +20396,7 @@
           "item": "root"
         }
       ],
-      "sn": 284,
+      "sn": 283,
       "instrument": "soep-is-2014-a",
       "study": "soep-is"
     },
@@ -20456,7 +20414,7 @@
           "number": ""
         }
       ],
-      "sn": 285,
+      "sn": 284,
       "instrument": "soep-is-2014-a",
       "study": "soep-is"
     }

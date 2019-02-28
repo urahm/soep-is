@@ -1,9 +1,11 @@
 {
-  "study": "soep-is",
+  "study_name": "soep-is",
   "questionnaire": "soep-is-2013-a",
   "label": "Questionnaire 2013 (Boost Sample)",
   "description": "Innovative Modules Surveyed in 2013\n\n- Conspiracy Mentality (Haffke)\n- Day Reconstruction Method (DRM; Lucas & Donnellan)\n- Factorial Survey on Job Preferences and Job Offer Acceptance (Auspurg & Hinz)\n- Job Task Survey (G\u00f6rlich)\n- Mobility & Identity (Neyer, Zimmermann, & Schubach)\n- Narcissism (K\u00fcffner, Hutteman, & Back)\n- Assessment of Sleep Characteristics (Stang & Zinkhan)\n- Socio-Economic Effects of Physical Activity (Lechner & Pawlowski) ",
-  "period": 2013,
+  "period_name": 2013,
+  "label_de": "Fragebogen 2013 (Aufwuchsstichprobe)",
+  "description_de": "Innovative Modules Surveyed in 2013\n\n- Conspiracy Mentality (Haffke)\n- Day Reconstruction Method (DRM; Lucas & Donnellan)\n- Factorial Survey on Job Preferences and Job Offer Acceptance (Auspurg & Hinz)\n- Job Task Survey (G\u00f6rlich)\n- Mobility & Identity (Neyer, Zimmermann, & Schubach)\n- Narcissism (K\u00fcffner, Hutteman, & Back)\n- Assessment of Sleep Characteristics (Stang & Zinkhan)\n- Socio-Economic Effects of Physical Activity (Lechner & Pawlowski) ",
   "instrument": "soep-is-2013-a",
   "questions": {
     "A000C": {

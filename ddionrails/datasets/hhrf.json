@@ -10,7 +10,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -24,20 +25,17 @@
         "invalid"
       ],
       "values": [
-        "2e+05",
-        "871900",
-        "937300",
-        "1852000",
-        "4033000",
-        "4127000",
-        "13920",
+        "200034",
+        "876291",
+        "951796",
+        "2061524.07405969",
+        "4061042",
+        "4173037",
+        "18026",
         "0"
       ]
     },
     "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "survey",
-    "period": "long",
     "label_de": "Ursprungshaushaltsnummer"
   },
   "hid": {
@@ -51,7 +49,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -65,20 +64,17 @@
         "invalid"
       ],
       "values": [
-        "115400",
-        "874300",
-        "934600",
-        "1841000",
-        "4031000",
-        "4127000",
-        "13920",
+        "115380",
+        "878591",
+        "948649.5",
+        "2044287.20370576",
+        "4060089",
+        "4173037",
+        "18026",
         "0"
       ]
     },
     "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "survey",
-    "period": "long",
     "label_de": "Aktuelle Haushaltsnummer"
   },
   "syear": {
@@ -92,67 +88,72 @@
       "frequencies": [
         0,
         0,
+        0,
+        0,
+        0,
+        0,
         1504,
         2277,
         3173,
         3721,
         3245,
-        0,
-        0,
-        0,
-        0
+        4106
       ],
       "labels": [
-        "[-1] keine Angabe",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
         "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
         "2011",
         "2012",
         "2013",
         "2014",
         "2015",
-        "[-3] nicht valide",
-        "-4",
-        "[-5] nicht im Fragebogen enthalten",
-        "-6"
+        "2016"
       ],
       "missings": [
-        true,
-        true,
         false,
         false,
         false,
         false,
         false,
-        true,
-        true,
-        true,
-        true
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
       ],
       "values": [
-        "-1",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
         "-2",
+        "-1",
         "2011",
         "2012",
         "2013",
         "2014",
         "2015",
-        "-3",
-        "-4",
-        "-5",
-        "-6"
+        "2016"
       ],
       "labels_de": [
-        "[-1] keine Angabe",
-        "[-2] trifft nicht zu",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "[-3] nicht valide",
-        "",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
         "[-5] nicht im Fragebogen enthalten",
-        ""
+        "[-4] unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
       ]
     },
     "statistics": {
@@ -161,14 +162,11 @@
         "invalid"
       ],
       "values": [
-        "13920",
+        "18026",
         "0"
       ]
     },
     "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "survey",
-    "period": "long",
     "label_de": "Befragungsjahr"
   },
   "hbleib": {
@@ -182,7 +180,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -199,17 +198,14 @@
         "0",
         "0",
         "1.08",
-        "0.8873",
-        "1.19",
-        "5.07",
-        "13920",
+        "0.881243204521072",
+        "1.18",
+        "5.07000017166138",
+        "18026",
         "0"
       ]
     },
     "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "survey",
-    "period": "long",
     "label_de": "Inverse Bleibewahrscheinlichkeit"
   },
   "hhrf": {
@@ -223,7 +219,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -238,19 +235,16 @@
       ],
       "values": [
         "0",
-        "7323",
-        "11210",
-        "14460",
-        "17530",
-        "139700",
-        "13920",
+        "6873.16636902486",
+        "10519.365941417",
+        "13458.4156579449",
+        "16344.0004811132",
+        "139747.258693504",
+        "18026",
         "0"
       ]
     },
     "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "survey",
-    "period": "long",
     "label_de": "Hochrechnungsfaktor"
   }
 }
