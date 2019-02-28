@@ -12,12 +12,11 @@ config:
 
 * **Title:** soep-is
 * SOEP Innovation-Sample
-* **doi:** DOI 10.5684/soep.is.2013
-* **Authors:** Jürgen Schupp; David Richter; Jan Goebel; Martin Kroh; Elisabeth Liebau; Maria Metzing, 
-               Knut Wenzig
-* Publications using these data should cite the DOI (**doi:10.5684/soep.is.2013**) and include the following reference:    
-David Richter, Jürgen Schupp. 2012. SOEP Innovation Sample (SOEP-IS)—Description, Structure and Documentation. SOEPpaper 463 | PDF, 162.91 KB : Berlin. DIW Berlin.
-* **URL:** [SOEP- IS](http://diw.de/en/diw_01.c.504216.en/release_2013.html)
+* **doi:** 10.5684/soep.is.2016.2
+* **Authors:** SOEP-IS Group
+* Publications using these data should cite the DOI (**doi:10.5684/soep.is.2016.2**) and include the following reference:    
+Richter, David, and Jürgen Schupp. 2015. The SOEP Innovation Sample (SOEP IS). Schmollers Jahrbuch 135 (3), 389-399 (doi: 10.3790/schm.135.3.389)
+* **URL:** [SOEP- IS](https://www.diw.de/sixcms/detail.php?id=diw_01.c.583496.en)
 
 ## Study info
 
@@ -27,7 +26,6 @@ for particularly innovative research projects. The SOEP-IS is primarily availabl
 SOEP-IS
 * is based on an evaluation conducted by the German Council of Science and Humanities.
 * is a longitudinal sample for particularly innovative survey methods and behavioral experiments.
-* will be further developed in the period from 2012 to 2017 and should be fully developed by 2017.
 
 A two-step module of Governance is established to regulate topics and question modules: first, the SOEP survey
 management runs a basic methodological test to establish whether the size, format, and survey mode outlined in
@@ -71,8 +69,7 @@ The datasets are available for Stata and SPSS in versions with German and Englis
 
 ### Samples and fieldwork
 
-In 2014, more than 5,500 adult respondents in more than 3,500 households participated in the SOEP-Innovation Sample. Many of these women and men have been answering core SOEP questions since 1998 as part of an extension
-sample to the SOEP, while others entered in 2009. These individuals provide a wealth of longitudinal data to the SOEP Innovation Sample. Within the framework of the SOEP-Innovation Sample, additional samples were recruited in 2012, 2013, and 2014.
+In 2016, more than 5,500 adult respondents in more than 3,500 households participated in the SOEP-Innovation Sample. Many of these women and men have been answering core SOEP questions since 1998 as part of an extension sample to the SOEP, while others entered in 2009. These individuals provide a wealth of longitudinal data to the SOEP Innovation Sample. Within the framework of the SOEP-Innovation Sample, additional samples were recruited in 2012, 2013, 2014, and 2016.
 
 ## Data Collection
 

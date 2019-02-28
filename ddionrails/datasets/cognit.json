@@ -25,21 +25,17 @@
         "invalid"
       ],
       "values": [
-        "2e+05",
-        "875800",
-        "946700",
-        "1859000",
-        "4021000",
-        "4090000",
+        "200034",
+        "875767",
+        "946672",
+        "1859086.52512228",
+        "4020987.25",
+        "4089940",
         "4498",
         "0"
       ]
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Ursprungshaushaltsnummer"
   },
   "hid": {
@@ -68,21 +64,17 @@
         "invalid"
       ],
       "values": [
-        "115400",
-        "878600",
-        "941600",
-        "1848000",
-        "4020000",
-        "4090000",
+        "115380",
+        "878588",
+        "941646",
+        "1848014.64673188",
+        "4019836",
+        "4089940",
         "4498",
         "0"
       ]
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Aktuelle Haushaltsnummer"
   },
   "pid": {
@@ -111,21 +103,17 @@
         "invalid"
       ],
       "values": [
-        "1154000",
-        "8764000",
-        "9453000",
-        "18580000",
-        "40210000",
-        "40900000",
+        "1153802",
+        "8764101.25",
+        "9452501.5",
+        "18578549.8132503",
+        "40208476.25",
+        "40899401",
         "4498",
         "0"
       ]
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "NA"
   },
   "syear": {
@@ -165,10 +153,6 @@
       ]
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Erhebungsjahr (Survey-Year)"
   },
   "sample1": {
@@ -226,10 +210,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Stichprobenkennzeichen"
   },
   "pform": {
@@ -251,8 +231,8 @@
         "[9] CAPI"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false
       ],
       "values": [
@@ -277,10 +257,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Bearbeitungsform"
   },
   "pdatt": {
@@ -362,8 +338,8 @@
         "31"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -478,10 +454,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Befragungstag"
   },
   "pdatm": {
@@ -525,8 +497,8 @@
         "[12] December"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -584,10 +556,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Befragungsmonat"
   },
   "pdatj": {
@@ -611,8 +579,8 @@
         "2015"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false
       ],
@@ -640,10 +608,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Befragungsjahr"
   },
   "intid": {
@@ -1207,8 +1171,8 @@
         "1005351"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -2046,10 +2010,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Interviewer ID"
   },
   "capistat": {
@@ -2077,8 +2037,8 @@
         "[4] Participation Refused"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -2112,10 +2072,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Teilnehmerstatus am CAPI-Kognitionstest"
   },
   "f025": {
@@ -2139,8 +2095,8 @@
         "[2] No Participation"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false
       ],
@@ -2168,10 +2124,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Worttest starten?"
   },
   "f025r": {
@@ -2251,8 +2203,8 @@
         "36"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -2364,10 +2316,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "NA"
   },
   "f025item1ex": {
@@ -2397,8 +2345,8 @@
         "[5] wrong"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -2435,10 +2383,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Worttest Item 1 (Beispiel)"
   },
   "f025item2": {
@@ -2468,8 +2412,8 @@
         "[5] wrong"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -2506,10 +2450,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wordtest Item 2"
   },
   "f025item3": {
@@ -2539,8 +2479,8 @@
         "[5] wrong"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -2577,10 +2517,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wordtest Item 3"
   },
   "f025item4": {
@@ -2610,8 +2546,8 @@
         "[5] wrong"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -2648,10 +2584,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wordtest Item 4"
   },
   "f025item5": {
@@ -2681,8 +2613,8 @@
         "[5] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -2719,10 +2651,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wordtest Item 5"
   },
   "f025item6": {
@@ -2752,8 +2680,8 @@
         "[5] wrong"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -2790,10 +2718,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wordtest Item 6"
   },
   "f025item7": {
@@ -2823,8 +2747,8 @@
         "[5] wrong"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -2861,10 +2785,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wordtest Item 7"
   },
   "f025item8": {
@@ -2894,8 +2814,8 @@
         "[5] wrong"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -2932,10 +2852,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wordtest Item 8"
   },
   "f025item9": {
@@ -2965,8 +2881,8 @@
         "[5] wrong"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -3003,10 +2919,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wordtest Item 9"
   },
   "f025item10": {
@@ -3036,8 +2948,8 @@
         "[5] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -3074,10 +2986,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wordtest Item 10"
   },
   "f025item11": {
@@ -3107,8 +3015,8 @@
         "[5] wrong"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -3145,10 +3053,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wordtest Item 11"
   },
   "f025item12": {
@@ -3178,8 +3082,8 @@
         "[5] wrong"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -3216,10 +3120,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wordtest Item 12"
   },
   "f025item13": {
@@ -3249,8 +3149,8 @@
         "[5] wrong"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -3287,10 +3187,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wordtest Item 13"
   },
   "f025item14": {
@@ -3320,8 +3216,8 @@
         "[5] wrong"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -3358,10 +3254,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wordtest Item 14"
   },
   "f025item15": {
@@ -3391,8 +3283,8 @@
         "[5] wrong"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -3429,10 +3321,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wordtest Item 15"
   },
   "f025item16": {
@@ -3462,8 +3350,8 @@
         "[5] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -3500,10 +3388,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wordtest Item 16"
   },
   "f025item17": {
@@ -3533,8 +3417,8 @@
         "[5] wrong"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -3571,10 +3455,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wordtest Item 17"
   },
   "f025item18": {
@@ -3604,8 +3484,8 @@
         "[5] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -3642,10 +3522,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wordtest Item 18"
   },
   "f025item19": {
@@ -3675,8 +3551,8 @@
         "[5] wrong"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -3713,10 +3589,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wordtest Item 19"
   },
   "f025item20": {
@@ -3746,8 +3618,8 @@
         "[5] wrong"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -3784,10 +3656,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wordtest Item 20"
   },
   "f025item21": {
@@ -3817,8 +3685,8 @@
         "[5] wrong"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -3855,10 +3723,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wordtest Item 21"
   },
   "f025item22": {
@@ -3888,8 +3752,8 @@
         "[5] wrong"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -3926,10 +3790,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wordtest Item 22"
   },
   "f025item23": {
@@ -3959,8 +3819,8 @@
         "[5] wrong"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -3997,10 +3857,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wordtest Item 23"
   },
   "f025item24": {
@@ -4030,8 +3886,8 @@
         "[5] wrong"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -4068,10 +3924,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wordtest Item 24"
   },
   "f025item25": {
@@ -4101,8 +3953,8 @@
         "[5] wrong"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -4139,10 +3991,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wordtest Item 25"
   },
   "f025item26": {
@@ -4172,8 +4020,8 @@
         "[5] wrong"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -4210,10 +4058,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wordtest Item 26"
   },
   "f025item27": {
@@ -4243,8 +4087,8 @@
         "[5] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -4281,10 +4125,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wordtest Item 27"
   },
   "f025item28": {
@@ -4314,8 +4154,8 @@
         "[5] wrong"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -4352,10 +4192,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wordtest Item 28"
   },
   "f025item29": {
@@ -4385,8 +4221,8 @@
         "[5] wrong"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -4423,10 +4259,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wordtest Item 29"
   },
   "f025item30": {
@@ -4456,8 +4288,8 @@
         "[5] wrong"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -4494,10 +4326,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wordtest Item 30"
   },
   "f025item31": {
@@ -4527,8 +4355,8 @@
         "[5] wrong"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -4565,10 +4393,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wordtest Item 31"
   },
   "f025item32": {
@@ -4598,8 +4422,8 @@
         "[5] wrong"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -4636,10 +4460,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wordtest Item 32"
   },
   "f025item33": {
@@ -4669,8 +4489,8 @@
         "[5] wrong"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -4707,10 +4527,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wordtest Item 33"
   },
   "f025item34": {
@@ -4740,8 +4556,8 @@
         "[5] wrong"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -4778,10 +4594,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wordtest Item 34"
   },
   "f025item35": {
@@ -4811,8 +4623,8 @@
         "[5] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -4849,10 +4661,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wordtest Item 35"
   },
   "f025item36": {
@@ -4882,8 +4690,8 @@
         "[5] wrong"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -4920,10 +4728,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wordtest Item 36"
   },
   "f025item37": {
@@ -4953,8 +4757,8 @@
         "[5] wrong"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -4991,10 +4795,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wordtest Item 37"
   },
   "f099": {
@@ -5018,8 +4818,8 @@
         "[2] No Participation"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false
       ],
@@ -5047,10 +4847,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test starten?"
   },
   "f099r30": {
@@ -5120,8 +4916,8 @@
         "24"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -5218,10 +5014,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Richtige Zahleneingaben in 30s"
   },
   "f099f30": {
@@ -5263,8 +5055,8 @@
         "26"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -5319,10 +5111,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Falsche Zahleneingaben in 30s"
   },
   "f099s30": {
@@ -5394,8 +5182,8 @@
         "34"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -5495,10 +5283,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Summe der Zahleneingaben in 30s"
   },
   "f099r60": {
@@ -5600,8 +5384,8 @@
         "40"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -5746,10 +5530,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Richtige Zahleneingaben in 60s"
   },
   "f099f60": {
@@ -5797,8 +5577,8 @@
         "37"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -5862,10 +5642,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Falsche Zahleneingaben in 60s"
   },
   "f099s60": {
@@ -5971,8 +5747,8 @@
         "45"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -6123,10 +5899,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Summe der Zahleneingaben in 60s"
   },
   "f099r90": {
@@ -6264,8 +6036,8 @@
         "60"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -6464,10 +6236,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Richtige Zahleneingaben in 90s"
   },
   "f099f90": {
@@ -6517,8 +6285,8 @@
         "51"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -6585,10 +6353,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Falsche Zahleneingaben in 90s"
   },
   "f099s90": {
@@ -6726,8 +6490,8 @@
         "61"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -6926,10 +6690,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Summe der Zahleneingaben in 90s"
   },
   "f099item1": {
@@ -6967,8 +6727,8 @@
         "9"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -7017,10 +6777,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 1"
   },
   "f099item2": {
@@ -7056,8 +6812,8 @@
         "9"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -7103,10 +6859,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 2"
   },
   "f099item3": {
@@ -7142,8 +6894,8 @@
         "9"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -7189,10 +6941,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 3"
   },
   "f099item4": {
@@ -7230,8 +6978,8 @@
         "9"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -7280,10 +7028,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 4"
   },
   "f099item5": {
@@ -7319,8 +7063,8 @@
         "8"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -7366,10 +7110,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 5"
   },
   "f099item6": {
@@ -7405,8 +7145,8 @@
         "9"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -7452,10 +7192,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 6"
   },
   "f099item7": {
@@ -7493,8 +7229,8 @@
         "9"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -7543,10 +7279,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 7"
   },
   "f099item8": {
@@ -7582,8 +7314,8 @@
         "9"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -7629,10 +7361,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 8"
   },
   "f099item9": {
@@ -7664,8 +7392,8 @@
         "9"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -7705,10 +7433,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 9"
   },
   "f099item10": {
@@ -7740,8 +7464,8 @@
         "8"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -7781,10 +7505,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 10"
   },
   "f099item11": {
@@ -7822,8 +7542,8 @@
         "9"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -7872,10 +7592,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 11"
   },
   "f099item12": {
@@ -7911,8 +7627,8 @@
         "9"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -7958,10 +7674,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 12"
   },
   "f099item13": {
@@ -7993,8 +7705,8 @@
         "8"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -8034,10 +7746,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 13"
   },
   "f099item14": {
@@ -8067,8 +7775,8 @@
         "9"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -8105,10 +7813,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 14"
   },
   "f099item15": {
@@ -8138,8 +7842,8 @@
         "8"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -8176,10 +7880,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 15"
   },
   "f099item16": {
@@ -8213,8 +7913,8 @@
         "9"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -8257,10 +7957,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 16"
   },
   "f099item17": {
@@ -8292,8 +7988,8 @@
         "8"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -8333,10 +8029,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 17"
   },
   "f099item18": {
@@ -8370,8 +8062,8 @@
         "9"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -8414,10 +8106,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 18"
   },
   "f099item19": {
@@ -8447,8 +8135,8 @@
         "5"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -8485,10 +8173,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 19"
   },
   "f099item20": {
@@ -8522,8 +8206,8 @@
         "8"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -8566,10 +8250,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 20"
   },
   "f099item21": {
@@ -8603,8 +8283,8 @@
         "8"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -8647,10 +8327,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 21"
   },
   "f099item22": {
@@ -8682,8 +8358,8 @@
         "9"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -8723,10 +8399,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 22"
   },
   "f099item23": {
@@ -8758,8 +8430,8 @@
         "9"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -8799,10 +8471,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 23"
   },
   "f099item24": {
@@ -8836,8 +8504,8 @@
         "9"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -8880,10 +8548,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 24"
   },
   "f099item25": {
@@ -8915,8 +8579,8 @@
         "9"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -8956,10 +8620,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 25"
   },
   "f099item26": {
@@ -8989,8 +8649,8 @@
         "7"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -9027,10 +8687,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 26"
   },
   "f099item27": {
@@ -9066,8 +8722,8 @@
         "[9] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -9113,10 +8769,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 27"
   },
   "f099item28": {
@@ -9150,8 +8802,8 @@
         "9"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -9194,10 +8846,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 28"
   },
   "f099item29": {
@@ -9229,8 +8877,8 @@
         "8"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -9270,10 +8918,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 29"
   },
   "f099item30": {
@@ -9307,8 +8951,8 @@
         "9"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -9351,10 +8995,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 30"
   },
   "f099item31": {
@@ -9388,8 +9028,8 @@
         "9"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -9432,10 +9072,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 31"
   },
   "f099item32": {
@@ -9469,8 +9105,8 @@
         "9"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -9513,10 +9149,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 32"
   },
   "f099item33": {
@@ -9546,8 +9178,8 @@
         "9"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -9584,10 +9216,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 33"
   },
   "f099item34": {
@@ -9617,8 +9245,8 @@
         "9"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -9655,10 +9283,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 34"
   },
   "f099item35": {
@@ -9690,8 +9314,8 @@
         "9"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -9731,10 +9355,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 35"
   },
   "f099item36": {
@@ -9766,8 +9386,8 @@
         "9"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -9807,10 +9427,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 36"
   },
   "f099item37": {
@@ -9840,8 +9456,8 @@
         "7"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -9878,10 +9494,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 37"
   },
   "f099item38": {
@@ -9911,8 +9523,8 @@
         "9"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -9949,10 +9561,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 38"
   },
   "f099item39": {
@@ -9986,8 +9594,8 @@
         "9"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -10030,10 +9638,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 39"
   },
   "f099item40": {
@@ -10063,8 +9667,8 @@
         "8"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -10101,10 +9705,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 40"
   },
   "f099item41": {
@@ -10132,8 +9732,8 @@
         "[9] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -10167,10 +9767,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 41"
   },
   "f099item42": {
@@ -10198,8 +9794,8 @@
         "9"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -10233,10 +9829,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 42"
   },
   "f099item43": {
@@ -10266,8 +9858,8 @@
         "6"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -10304,10 +9896,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 43"
   },
   "f099item44": {
@@ -10335,8 +9923,8 @@
         "8"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -10370,10 +9958,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 44"
   },
   "f099item45": {
@@ -10407,8 +9991,8 @@
         "9"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -10451,10 +10035,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 45"
   },
   "f099item46": {
@@ -10482,8 +10062,8 @@
         "7"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -10517,10 +10097,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 46"
   },
   "f099item47": {
@@ -10548,8 +10124,8 @@
         "[9] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -10583,10 +10159,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 47"
   },
   "f099item48": {
@@ -10612,8 +10184,8 @@
         "8"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false
@@ -10644,10 +10216,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 48"
   },
   "f099item49": {
@@ -10671,8 +10239,8 @@
         "[6] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false
       ],
@@ -10700,10 +10268,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 49"
   },
   "f099item50": {
@@ -10729,8 +10293,8 @@
         "7"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false
@@ -10761,10 +10325,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 50"
   },
   "f099item51": {
@@ -10788,8 +10348,8 @@
         "7"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false
       ],
@@ -10817,10 +10377,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 51"
   },
   "f099item52": {
@@ -10842,8 +10398,8 @@
         "[4] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false
       ],
       "values": [
@@ -10868,10 +10424,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 52"
   },
   "f099item53": {
@@ -10899,8 +10451,8 @@
         "8"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -10934,10 +10486,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 53"
   },
   "f099item54": {
@@ -10963,8 +10511,8 @@
         "5"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false
@@ -10995,10 +10543,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 54"
   },
   "f099item55": {
@@ -11022,8 +10566,8 @@
         "[6] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false
       ],
@@ -11051,10 +10595,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 55"
   },
   "f099item56": {
@@ -11078,8 +10618,8 @@
         "[8] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false
       ],
@@ -11107,10 +10647,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 56"
   },
   "f099item57": {
@@ -11134,8 +10670,8 @@
         "7"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false
       ],
@@ -11163,10 +10699,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 57"
   },
   "f099item58": {
@@ -11190,8 +10722,8 @@
         "[9] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false
       ],
@@ -11219,10 +10751,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 58"
   },
   "f099item59": {
@@ -11244,8 +10772,8 @@
         "[4] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false
       ],
       "values": [
@@ -11270,10 +10798,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 59"
   },
   "f099item60": {
@@ -11297,8 +10821,8 @@
         "2"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false
       ],
@@ -11326,10 +10850,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 60"
   },
   "f099item61": {
@@ -11353,8 +10873,8 @@
         "[6] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false
       ],
@@ -11382,10 +10902,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 61"
   },
   "f099item62": {
@@ -11407,8 +10923,8 @@
         "[8] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false
       ],
       "values": [
@@ -11433,10 +10949,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 62"
   },
   "f099item63": {
@@ -11458,14 +10970,14 @@
         "[9] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false
       ],
       "values": [
         "-2",
         "-1",
-        " 9"
+        "9"
       ],
       "labels_de": [
         "[-2] trifft nicht zu",
@@ -11478,10 +10990,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 63"
   },
   "f099item64": {
@@ -11503,14 +11011,14 @@
         "[3] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false
       ],
       "values": [
         "-2",
         "-1",
-        " 3"
+        "3"
       ],
       "labels_de": [
         "[-2] trifft nicht zu",
@@ -11523,10 +11031,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 64"
   },
   "f099item65": {
@@ -11548,14 +11052,14 @@
         "[7] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false
       ],
       "values": [
         "-2",
         "-1",
-        " 7"
+        "7"
       ],
       "labels_de": [
         "[-2] trifft nicht zu",
@@ -11568,10 +11072,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 65"
   },
   "f099item66": {
@@ -11593,14 +11093,14 @@
         "[5] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false
       ],
       "values": [
         "-2",
         "-1",
-        " 5"
+        "5"
       ],
       "labels_de": [
         "[-2] trifft nicht zu",
@@ -11613,10 +11113,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 66"
   },
   "f099item67": {
@@ -11638,14 +11134,14 @@
         "[1] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false
       ],
       "values": [
         "-2",
         "-1",
-        " 1"
+        "1"
       ],
       "labels_de": [
         "[-2] trifft nicht zu",
@@ -11658,10 +11154,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 67"
   },
   "f099item68": {
@@ -11683,14 +11175,14 @@
         "[4] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false
       ],
       "values": [
         "-2",
         "-1",
-        " 4"
+        "4"
       ],
       "labels_de": [
         "[-2] trifft nicht zu",
@@ -11703,10 +11195,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 68"
   },
   "f099item69": {
@@ -11728,14 +11216,14 @@
         "[9] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false
       ],
       "values": [
         "-2",
         "-1",
-        " 9"
+        "9"
       ],
       "labels_de": [
         "[-2] trifft nicht zu",
@@ -11748,10 +11236,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 69"
   },
   "f099item70": {
@@ -11773,14 +11257,14 @@
         "[1] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false
       ],
       "values": [
         "-2",
         "-1",
-        " 1"
+        "1"
       ],
       "labels_de": [
         "[-2] trifft nicht zu",
@@ -11793,10 +11277,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 70"
   },
   "f099item71": {
@@ -11818,14 +11298,14 @@
         "[5] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false
       ],
       "values": [
         "-2",
         "-1",
-        " 5"
+        "5"
       ],
       "labels_de": [
         "[-2] trifft nicht zu",
@@ -11838,10 +11318,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 71"
   },
   "f099item72": {
@@ -11863,14 +11339,14 @@
         "[8] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false
       ],
       "values": [
         "-2",
         "-1",
-        " 8"
+        "8"
       ],
       "labels_de": [
         "[-2] trifft nicht zu",
@@ -11883,10 +11359,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 72"
   },
   "f099item73": {
@@ -11908,14 +11380,14 @@
         "[7] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false
       ],
       "values": [
         "-2",
         "-1",
-        " 7"
+        "7"
       ],
       "labels_de": [
         "[-2] trifft nicht zu",
@@ -11928,10 +11400,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 73"
   },
   "f099item74": {
@@ -11953,14 +11421,14 @@
         "[6] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false
       ],
       "values": [
         "-2",
         "-1",
-        " 6"
+        "6"
       ],
       "labels_de": [
         "[-2] trifft nicht zu",
@@ -11973,10 +11441,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 74"
   },
   "f099item75": {
@@ -11998,14 +11462,14 @@
         "[9] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false
       ],
       "values": [
         "-2",
         "-1",
-        " 9"
+        "9"
       ],
       "labels_de": [
         "[-2] trifft nicht zu",
@@ -12018,10 +11482,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 75"
   },
   "f099item76": {
@@ -12043,14 +11503,14 @@
         "[7] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false
       ],
       "values": [
         "-2",
         "-1",
-        " 7"
+        "7"
       ],
       "labels_de": [
         "[-2] trifft nicht zu",
@@ -12063,10 +11523,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 76"
   },
   "f099item77": {
@@ -12088,14 +11544,14 @@
         "[8] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false
       ],
       "values": [
         "-2",
         "-1",
-        " 8"
+        "8"
       ],
       "labels_de": [
         "[-2] trifft nicht zu",
@@ -12108,10 +11564,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 77"
   },
   "f099item78": {
@@ -12133,14 +11585,14 @@
         "[2] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false
       ],
       "values": [
         "-2",
         "-1",
-        " 2"
+        "2"
       ],
       "labels_de": [
         "[-2] trifft nicht zu",
@@ -12153,10 +11605,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 78"
   },
   "f099item79": {
@@ -12178,14 +11626,14 @@
         "[4] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false
       ],
       "values": [
         "-2",
         "-1",
-        " 4"
+        "4"
       ],
       "labels_de": [
         "[-2] trifft nicht zu",
@@ -12198,10 +11646,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 79"
   },
   "f099item80": {
@@ -12223,14 +11667,14 @@
         "[8] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false
       ],
       "values": [
         "-2",
         "-1",
-        " 8"
+        "8"
       ],
       "labels_de": [
         "[-2] trifft nicht zu",
@@ -12243,10 +11687,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 80"
   },
   "f099item81": {
@@ -12268,14 +11708,14 @@
         "[3] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false
       ],
       "values": [
         "-2",
         "-1",
-        " 3"
+        "3"
       ],
       "labels_de": [
         "[-2] trifft nicht zu",
@@ -12288,10 +11728,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 81"
   },
   "f099item82": {
@@ -12313,14 +11749,14 @@
         "[5] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false
       ],
       "values": [
         "-2",
         "-1",
-        " 5"
+        "5"
       ],
       "labels_de": [
         "[-2] trifft nicht zu",
@@ -12333,10 +11769,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 82"
   },
   "f099item83": {
@@ -12358,14 +11790,14 @@
         "[6] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false
       ],
       "values": [
         "-2",
         "-1",
-        " 6"
+        "6"
       ],
       "labels_de": [
         "[-2] trifft nicht zu",
@@ -12378,10 +11810,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 83"
   },
   "f099item84": {
@@ -12403,14 +11831,14 @@
         "[7] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false
       ],
       "values": [
         "-2",
         "-1",
-        " 7"
+        "7"
       ],
       "labels_de": [
         "[-2] trifft nicht zu",
@@ -12423,10 +11851,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 84"
   },
   "f099item85": {
@@ -12448,14 +11872,14 @@
         "[1] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false
       ],
       "values": [
         "-2",
         "-1",
-        " 1"
+        "1"
       ],
       "labels_de": [
         "[-2] trifft nicht zu",
@@ -12468,10 +11892,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 85"
   },
   "f099item86": {
@@ -12493,14 +11913,14 @@
         "[9] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false
       ],
       "values": [
         "-2",
         "-1",
-        " 9"
+        "9"
       ],
       "labels_de": [
         "[-2] trifft nicht zu",
@@ -12513,10 +11933,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 86"
   },
   "f099item87": {
@@ -12538,14 +11954,14 @@
         "[4] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false
       ],
       "values": [
         "-2",
         "-1",
-        " 4"
+        "4"
       ],
       "labels_de": [
         "[-2] trifft nicht zu",
@@ -12558,10 +11974,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 87"
   },
   "f099item88": {
@@ -12583,14 +11995,14 @@
         "[3] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false
       ],
       "values": [
         "-2",
         "-1",
-        " 3"
+        "3"
       ],
       "labels_de": [
         "[-2] trifft nicht zu",
@@ -12603,10 +12015,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 88"
   },
   "f099item89": {
@@ -12628,14 +12036,14 @@
         "[6] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false
       ],
       "values": [
         "-2",
         "-1",
-        " 6"
+        "6"
       ],
       "labels_de": [
         "[-2] trifft nicht zu",
@@ -12648,10 +12056,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 89"
   },
   "f099item90": {
@@ -12673,14 +12077,14 @@
         "[2] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false
       ],
       "values": [
         "-2",
         "-1",
-        " 2"
+        "2"
       ],
       "labels_de": [
         "[-2] trifft nicht zu",
@@ -12693,10 +12097,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 90"
   },
   "f099item91": {
@@ -12718,14 +12118,14 @@
         "[7] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false
       ],
       "values": [
         "-2",
         "-1",
-        " 7"
+        "7"
       ],
       "labels_de": [
         "[-2] trifft nicht zu",
@@ -12738,10 +12138,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 91"
   },
   "f099item92": {
@@ -12763,14 +12159,14 @@
         "[9] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false
       ],
       "values": [
         "-2",
         "-1",
-        " 9"
+        "9"
       ],
       "labels_de": [
         "[-2] trifft nicht zu",
@@ -12783,10 +12179,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 92"
   },
   "f099item93": {
@@ -12808,14 +12200,14 @@
         "[3] right"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false
       ],
       "values": [
         "-2",
         "-1",
-        " 3"
+        "3"
       ],
       "labels_de": [
         "[-2] trifft nicht zu",
@@ -12828,10 +12220,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zeichen-Zahlen-Test Item 93"
   },
   "f099time1": {
@@ -12943,8 +12331,8 @@
         "252"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -13104,10 +12492,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 1 Dauer"
   },
   "f099time2": {
@@ -13231,8 +12615,8 @@
         "66"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -13410,10 +12794,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 2 Dauer"
   },
   "f099time3": {
@@ -13557,8 +12937,8 @@
         "85"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -13766,10 +13146,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 3 Dauer"
   },
   "f099time4": {
@@ -13929,8 +13305,8 @@
         "107"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -14162,10 +13538,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 4 Dauer"
   },
   "f099time5": {
@@ -14343,8 +13715,8 @@
         "114"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -14603,10 +13975,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 5 Dauer"
   },
   "f099time6": {
@@ -14796,8 +14164,8 @@
         "151"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -15074,10 +14442,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 6 Dauer"
   },
   "f099time7": {
@@ -15273,8 +14637,8 @@
         "105"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -15560,10 +14924,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 7 Dauer"
   },
   "f099time8": {
@@ -15757,8 +15117,8 @@
         "102"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -16041,10 +15401,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 8 Dauer"
   },
   "f099time9": {
@@ -16238,8 +15594,8 @@
         "103"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -16522,10 +15878,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 9 Dauer"
   },
   "f099time10": {
@@ -16725,8 +16077,8 @@
         "152"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -17018,10 +16370,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 10 Dauer"
   },
   "f099time11": {
@@ -17227,8 +16575,8 @@
         "109"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -17529,10 +16877,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 11 Dauer"
   },
   "f099time12": {
@@ -17730,8 +17074,8 @@
         "494"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -18020,10 +17364,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 12 Dauer"
   },
   "f099time13": {
@@ -18217,8 +17557,8 @@
         "224"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -18501,10 +17841,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 13 Dauer"
   },
   "f099time14": {
@@ -18692,8 +18028,8 @@
         "233"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -18967,10 +18303,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 14 Dauer"
   },
   "f099time15": {
@@ -19154,8 +18486,8 @@
         "98"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -19423,10 +18755,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 15 Dauer"
   },
   "f099time16": {
@@ -19610,8 +18938,8 @@
         "99"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -19879,10 +19207,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 16 Dauer"
   },
   "f099time17": {
@@ -20064,8 +19388,8 @@
         "117"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -20330,10 +19654,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 17 Dauer"
   },
   "f099time18": {
@@ -20515,8 +19835,8 @@
         "108"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -20781,10 +20101,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 18 Dauer"
   },
   "f099time19": {
@@ -20958,8 +20274,8 @@
         "102"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -21212,10 +20528,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 19 Dauer"
   },
   "f099time20": {
@@ -21387,8 +20699,8 @@
         "192"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -21638,10 +20950,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 20 Dauer"
   },
   "f099time21": {
@@ -21819,8 +21127,8 @@
         "140"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -22079,10 +21387,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 21 Dauer"
   },
   "f099time22": {
@@ -22244,8 +21548,8 @@
         "96"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -22480,10 +21784,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 22 Dauer"
   },
   "f099time23": {
@@ -22651,8 +21951,8 @@
         "119"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -22896,10 +22196,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 23 Dauer"
   },
   "f099time24": {
@@ -23059,8 +22355,8 @@
         "100"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -23292,10 +22588,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 24 Dauer"
   },
   "f099time25": {
@@ -23449,8 +22741,8 @@
         "106"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -23673,10 +22965,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 25 Dauer"
   },
   "f099time26": {
@@ -23834,8 +23122,8 @@
         "274"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -24064,10 +23352,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 26 Dauer"
   },
   "f099time27": {
@@ -24223,8 +23507,8 @@
         "128"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -24450,10 +23734,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 27 Dauer"
   },
   "f099time28": {
@@ -24597,8 +23877,8 @@
         "157"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -24806,10 +24086,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 28 Dauer"
   },
   "f099time29": {
@@ -24947,8 +24223,8 @@
         "98"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -25147,10 +24423,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 29 Dauer"
   },
   "f099time30": {
@@ -25290,8 +24562,8 @@
         "105"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -25493,10 +24765,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 30 Dauer"
   },
   "f099time31": {
@@ -25630,8 +24898,8 @@
         "119"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -25824,10 +25092,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 31 Dauer"
   },
   "f099time32": {
@@ -25955,8 +25219,8 @@
         "98"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -26140,10 +25404,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 32 Dauer"
   },
   "f099time33": {
@@ -26265,8 +25525,8 @@
         "103"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -26441,10 +25701,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 33 Dauer"
   },
   "f099time34": {
@@ -26566,8 +25822,8 @@
         "109"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -26742,10 +25998,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 34 Dauer"
   },
   "f099time35": {
@@ -26861,8 +26113,8 @@
         "96"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -27028,10 +26280,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 35 Dauer"
   },
   "f099time36": {
@@ -27143,8 +26391,8 @@
         "96"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -27304,10 +26552,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 36 Dauer"
   },
   "f099time37": {
@@ -27411,8 +26655,8 @@
         "100"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -27560,10 +26804,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 37 Dauer"
   },
   "f099time38": {
@@ -27667,8 +26907,8 @@
         "97"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -27816,10 +27056,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 38 Dauer"
   },
   "f099time39": {
@@ -27921,8 +27157,8 @@
         "96"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -28067,10 +27303,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 39 Dauer"
   },
   "f099time40": {
@@ -28166,8 +27398,8 @@
         "94"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -28303,10 +27535,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 40 Dauer"
   },
   "f099time41": {
@@ -28404,8 +27632,8 @@
         "116"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -28544,10 +27772,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 41 Dauer"
   },
   "f099time42": {
@@ -28637,8 +27861,8 @@
         "193"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -28765,10 +27989,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 42 Dauer"
   },
   "f099time43": {
@@ -28848,8 +28068,8 @@
         "95"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -28961,10 +28181,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 43 Dauer"
   },
   "f099time44": {
@@ -29042,8 +28258,8 @@
         "94"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -29152,10 +28368,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 44 Dauer"
   },
   "f099time45": {
@@ -29233,8 +28445,8 @@
         "94"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -29343,10 +28555,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 45 Dauer"
   },
   "f099time46": {
@@ -29420,8 +28628,8 @@
         "101"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -29524,10 +28732,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 46 Dauer"
   },
   "f099time47": {
@@ -29597,8 +28801,8 @@
         "97"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -29695,10 +28899,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 47 Dauer"
   },
   "f099time48": {
@@ -29760,8 +28960,8 @@
         "93"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -29846,10 +29046,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 48 Dauer"
   },
   "f099time49": {
@@ -29907,8 +29103,8 @@
         "93"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -29987,10 +29183,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 49 Dauer"
   },
   "f099time50": {
@@ -30046,8 +29238,8 @@
         "93"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -30123,10 +29315,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 50 Dauer"
   },
   "f099time51": {
@@ -30176,8 +29364,8 @@
         "92"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -30244,10 +29432,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 51 Dauer"
   },
   "f099time52": {
@@ -30299,8 +29483,8 @@
         "93"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -30370,10 +29554,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 52 Dauer"
   },
   "f099time53": {
@@ -30421,8 +29601,8 @@
         "93"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -30486,10 +29666,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 53 Dauer"
   },
   "f099time54": {
@@ -30535,8 +29711,8 @@
         "93"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -30597,10 +29773,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 54 Dauer"
   },
   "f099time55": {
@@ -30642,8 +29814,8 @@
         "93"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -30698,10 +29870,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 55 Dauer"
   },
   "f099time56": {
@@ -30739,8 +29907,8 @@
         "92"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -30789,10 +29957,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 56 Dauer"
   },
   "f099time57": {
@@ -30826,8 +29990,8 @@
         "91"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -30870,10 +30034,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 57 Dauer"
   },
   "f099time58": {
@@ -30907,8 +30067,8 @@
         "92"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -30951,10 +30111,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 58 Dauer"
   },
   "f099time59": {
@@ -30982,8 +30138,8 @@
         "91"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -31017,10 +30173,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 59 Dauer"
   },
   "f099time60": {
@@ -31046,8 +30198,8 @@
         "90"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false
@@ -31078,10 +30230,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 60 Dauer"
   },
   "f099time61": {
@@ -31107,8 +30255,8 @@
         "92"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false
@@ -31139,10 +30287,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 61 Dauer"
   },
   "f099time62": {
@@ -31164,8 +30308,8 @@
         "91"
       ],
       "missings": [
-        true,
-        true,
+        false,
+        false,
         false
       ],
       "values": [
@@ -31190,10 +30334,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 62 Dauer"
   },
   "f099time63": {
@@ -31213,8 +30353,8 @@
         "[-1] No Answer"
       ],
       "missings": [
-        true,
-        true
+        false,
+        false
       ],
       "values": [
         "-2",
@@ -31230,10 +30370,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 63 Dauer"
   },
   "f099time64": {
@@ -31253,8 +30389,8 @@
         "[-1] No Answer"
       ],
       "missings": [
-        true,
-        true
+        false,
+        false
       ],
       "values": [
         "-2",
@@ -31270,10 +30406,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 64 Dauer"
   },
   "f099time65": {
@@ -31293,8 +30425,8 @@
         "[-1] No Answer"
       ],
       "missings": [
-        true,
-        true
+        false,
+        false
       ],
       "values": [
         "-2",
@@ -31310,10 +30442,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 65 Dauer"
   },
   "f099time66": {
@@ -31333,8 +30461,8 @@
         "[-1] No Answer"
       ],
       "missings": [
-        true,
-        true
+        false,
+        false
       ],
       "values": [
         "-2",
@@ -31350,10 +30478,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 66 Dauer"
   },
   "f099time67": {
@@ -31373,8 +30497,8 @@
         "[-1] No Answer"
       ],
       "missings": [
-        true,
-        true
+        false,
+        false
       ],
       "values": [
         "-2",
@@ -31390,10 +30514,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 67 Dauer"
   },
   "f099time68": {
@@ -31413,8 +30533,8 @@
         "[-1] No Answer"
       ],
       "missings": [
-        true,
-        true
+        false,
+        false
       ],
       "values": [
         "-2",
@@ -31430,10 +30550,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 68 Dauer"
   },
   "f099time69": {
@@ -31453,8 +30569,8 @@
         "[-1] No Answer"
       ],
       "missings": [
-        true,
-        true
+        false,
+        false
       ],
       "values": [
         "-2",
@@ -31470,10 +30586,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 69 Dauer"
   },
   "f099time70": {
@@ -31493,8 +30605,8 @@
         "[-1] No Answer"
       ],
       "missings": [
-        true,
-        true
+        false,
+        false
       ],
       "values": [
         "-2",
@@ -31510,10 +30622,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 70 Dauer"
   },
   "f099time71": {
@@ -31533,8 +30641,8 @@
         "[-1] No Answer"
       ],
       "missings": [
-        true,
-        true
+        false,
+        false
       ],
       "values": [
         "-2",
@@ -31550,10 +30658,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 71 Dauer"
   },
   "f099time72": {
@@ -31573,8 +30677,8 @@
         "[-1] No Answer"
       ],
       "missings": [
-        true,
-        true
+        false,
+        false
       ],
       "values": [
         "-2",
@@ -31590,10 +30694,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 72 Dauer"
   },
   "f099time73": {
@@ -31613,8 +30713,8 @@
         "[-1] No Answer"
       ],
       "missings": [
-        true,
-        true
+        false,
+        false
       ],
       "values": [
         "-2",
@@ -31630,10 +30730,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 73 Dauer"
   },
   "f099time74": {
@@ -31653,8 +30749,8 @@
         "[-1] No Answer"
       ],
       "missings": [
-        true,
-        true
+        false,
+        false
       ],
       "values": [
         "-2",
@@ -31670,10 +30766,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 74 Dauer"
   },
   "f099time75": {
@@ -31693,8 +30785,8 @@
         "[-1] No Answer"
       ],
       "missings": [
-        true,
-        true
+        false,
+        false
       ],
       "values": [
         "-2",
@@ -31710,10 +30802,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 75 Dauer"
   },
   "f099time76": {
@@ -31733,8 +30821,8 @@
         "[-1] No Answer"
       ],
       "missings": [
-        true,
-        true
+        false,
+        false
       ],
       "values": [
         "-2",
@@ -31750,10 +30838,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 76 Dauer"
   },
   "f099time77": {
@@ -31773,8 +30857,8 @@
         "[-1] No Answer"
       ],
       "missings": [
-        true,
-        true
+        false,
+        false
       ],
       "values": [
         "-2",
@@ -31790,10 +30874,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 77 Dauer"
   },
   "f099time78": {
@@ -31813,8 +30893,8 @@
         "[-1] No Answer"
       ],
       "missings": [
-        true,
-        true
+        false,
+        false
       ],
       "values": [
         "-2",
@@ -31830,10 +30910,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 78 Dauer"
   },
   "f099time79": {
@@ -31853,8 +30929,8 @@
         "[-1] No Answer"
       ],
       "missings": [
-        true,
-        true
+        false,
+        false
       ],
       "values": [
         "-2",
@@ -31870,10 +30946,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 79 Dauer"
   },
   "f099time80": {
@@ -31893,8 +30965,8 @@
         "[-1] No Answer"
       ],
       "missings": [
-        true,
-        true
+        false,
+        false
       ],
       "values": [
         "-2",
@@ -31910,10 +30982,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 80 Dauer"
   },
   "f099time81": {
@@ -31933,8 +31001,8 @@
         "[-1] No Answer"
       ],
       "missings": [
-        true,
-        true
+        false,
+        false
       ],
       "values": [
         "-2",
@@ -31950,10 +31018,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 81 Dauer"
   },
   "f099time82": {
@@ -31973,8 +31037,8 @@
         "[-1] No Answer"
       ],
       "missings": [
-        true,
-        true
+        false,
+        false
       ],
       "values": [
         "-2",
@@ -31990,10 +31054,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 82 Dauer"
   },
   "f099time83": {
@@ -32013,8 +31073,8 @@
         "[-1] No Answer"
       ],
       "missings": [
-        true,
-        true
+        false,
+        false
       ],
       "values": [
         "-2",
@@ -32030,10 +31090,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 83 Dauer"
   },
   "f099time84": {
@@ -32053,8 +31109,8 @@
         "[-1] No Answer"
       ],
       "missings": [
-        true,
-        true
+        false,
+        false
       ],
       "values": [
         "-2",
@@ -32070,10 +31126,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 84 Dauer"
   },
   "f099time85": {
@@ -32093,8 +31145,8 @@
         "[-1] No Answer"
       ],
       "missings": [
-        true,
-        true
+        false,
+        false
       ],
       "values": [
         "-2",
@@ -32110,10 +31162,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 85 Dauer"
   },
   "f099time86": {
@@ -32133,8 +31181,8 @@
         "[-1] No Answer"
       ],
       "missings": [
-        true,
-        true
+        false,
+        false
       ],
       "values": [
         "-2",
@@ -32150,10 +31198,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 86 Dauer"
   },
   "f099time87": {
@@ -32173,8 +31217,8 @@
         "[-1] No Answer"
       ],
       "missings": [
-        true,
-        true
+        false,
+        false
       ],
       "values": [
         "-2",
@@ -32190,10 +31234,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 87 Dauer"
   },
   "f099time88": {
@@ -32213,8 +31253,8 @@
         "[-1] No Answer"
       ],
       "missings": [
-        true,
-        true
+        false,
+        false
       ],
       "values": [
         "-2",
@@ -32230,10 +31270,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 88 Dauer"
   },
   "f099time89": {
@@ -32253,8 +31289,8 @@
         "[-1] No Answer"
       ],
       "missings": [
-        true,
-        true
+        false,
+        false
       ],
       "values": [
         "-2",
@@ -32270,10 +31306,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 89 Dauer"
   },
   "f099time90": {
@@ -32293,8 +31325,8 @@
         "[-1] No Answer"
       ],
       "missings": [
-        true,
-        true
+        false,
+        false
       ],
       "values": [
         "-2",
@@ -32310,10 +31342,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 90 Dauer"
   },
   "f099time91": {
@@ -32333,8 +31361,8 @@
         "[-1] No Answer"
       ],
       "missings": [
-        true,
-        true
+        false,
+        false
       ],
       "values": [
         "-2",
@@ -32350,10 +31378,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 91 Dauer"
   },
   "f099time92": {
@@ -32373,8 +31397,8 @@
         "[-1] No Answer"
       ],
       "missings": [
-        true,
-        true
+        false,
+        false
       ],
       "values": [
         "-2",
@@ -32390,10 +31414,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 92 Dauer"
   },
   "f099time93": {
@@ -32413,8 +31433,8 @@
         "[-1] No Answer"
       ],
       "missings": [
-        true,
-        true
+        false,
+        false
       ],
       "values": [
         "-2",
@@ -32430,10 +31450,6 @@
       "values": []
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Z.-Z.-Test Item 93 Dauer"
   }
 }

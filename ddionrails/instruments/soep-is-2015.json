@@ -1,8 +1,9 @@
 {
-  "study": "soep-is",
+  "study_name": "soep-is",
   "questionnaire": "soep-is-2015",
   "label": "Questionnaire 2015",
-  "period": 2015,
+  "period_name": 2015,
+  "label_de": "Fragebogen 2015",
   "instrument": "soep-is-2015",
   "questions": {
     "Titel": {
@@ -34814,7 +34815,7 @@
         {
           "item": "SIMSTRESS2",
           "text_de": "Mir passierten Fehler/ Missgeschicke.",
-          "text": "I made mistakes/ had mishaps.",
+          "text": "I made errors/ was clumsy.",
           "scale": "cat",
           "answer_list": "773+16",
           "concept": "simstress2",
@@ -34856,7 +34857,7 @@
         {
           "item": "SIMSTRESS3",
           "text_de": "Ich war vergesslich, unzuverl\u00e4ssig oder habe den \u00dcberblick verloren. ",
-          "text": "I was forgetful, unreliable or lost the overview.",
+          "text": "I was forgetful, unreliable or have lost track. ",
           "scale": "cat",
           "answer_list": "773+16",
           "concept": "simstress3",
@@ -34898,7 +34899,7 @@
         {
           "item": "SIMSTRESS4",
           "text_de": "Ich habe Interesse oder Freude an Dingen verloren, die mir sonst Spa\u00df bereitet haben. ",
-          "text": "I lost interest or joy/pleasure for things I enjoyed before.",
+          "text": "I have lost interest or pleasure in things that once were fun.",
           "scale": "cat",
           "answer_list": "773+16",
           "concept": "simstress4",
@@ -34940,7 +34941,7 @@
         {
           "item": "SIMSTRESS5",
           "text_de": "Ich habe mir Dinge nicht mehr zugetraut, die ich eigentlich beherrsche. ",
-          "text": "I didn't put things past me which I normally coped with.",
+          "text": "I did not trust myself with things that I usually master.",
           "scale": "cat",
           "answer_list": "773+16",
           "concept": "simstress5",
@@ -34982,7 +34983,7 @@
         {
           "item": "SIMSTRESS6",
           "text_de": "Ich f\u00fchlte mich verloren/ einsam unter Menschen.",
-          "text": "I felt lost/ solely among people.",
+          "text": "I felt lost and lonely among people.",
           "scale": "cat",
           "answer_list": "773+16",
           "concept": "simstress6",
@@ -35024,7 +35025,7 @@
         {
           "item": "SIMSTRESS7",
           "text_de": "Ich f\u00fchlte mich leer/ ausgebrannt.",
-          "text": "I felt empty/ burnt out.",
+          "text": "I felt empty/ worn out.",
           "scale": "cat",
           "answer_list": "773+16",
           "concept": "simstress7",
@@ -35066,7 +35067,7 @@
         {
           "item": "SIMSTRESS8",
           "text_de": "Ich sah keinen Ausweg mehr aus meiner Situation/ Lage.",
-          "text": "I didn't see any way out of my situation.",
+          "text": "I did not see a way out of my situation/ circumstances.",
           "scale": "cat",
           "answer_list": "773+16",
           "concept": "simstress8",
@@ -35108,7 +35109,7 @@
         {
           "item": "SIMSTRESS9",
           "text_de": "Ich hatte vermehrt das Bed\u00fcrfnis allein zu sein.",
-          "text": "I more often felt a need to be alone.",
+          "text": "I had an urge to be alone.",
           "scale": "cat",
           "answer_list": "773+16",
           "concept": "simstress9",
@@ -35150,7 +35151,7 @@
         {
           "item": "SIMSTRESS10",
           "text_de": "Ich habe wichtige Termine, Absprachen oder Entscheidungen vermieden/ aufgeschoben. ",
-          "text": "I avoided/ deferred important appointments, agreements or decisions.",
+          "text": "I avoided/ postponed important appointments, meetings, or decisions. ",
           "scale": "cat",
           "answer_list": "773+16",
           "concept": "simstress10",
@@ -35192,7 +35193,7 @@
         {
           "item": "SIMSTRESS11",
           "text_de": "Ich konnte mich nicht aufraffen, weil ich zu ersch\u00f6pft war. ",
-          "text": "I could not pull myself together, since I was too exhausted.",
+          "text": "I could not get up because I was exhausted.",
           "scale": "cat",
           "answer_list": "773+16",
           "concept": "simstress11",
@@ -35234,7 +35235,7 @@
         {
           "item": "SIMSTRESS12",
           "text_de": "Ich war innerlich angespannt.",
-          "text": "I was internally stressed.",
+          "text": "I felt tense (internally).",
           "scale": "cat",
           "answer_list": "773+16",
           "concept": "simstress12",
@@ -35276,7 +35277,7 @@
         {
           "item": "SIMSTRESS13",
           "text_de": "Ich f\u00fchlte mich getrieben oder war hibbelig/ nerv\u00f6s.",
-          "text": "I felt driven or I was squirrelly/ nervous.",
+          "text": "I felt pressured or have been jittery/ nervous.",
           "scale": "cat",
           "answer_list": "773+16",
           "concept": "simstress13",
@@ -35318,7 +35319,7 @@
         {
           "item": "SIMSTRESS14",
           "text_de": "Ich konnte nicht abschalten oder habe mir Gedanken/ Sorgen gemacht.",
-          "text": "I could not switch off myself or gave thoughts/ was worried.",
+          "text": "I could not tune out or have been fretting/ worrying.",
           "scale": "cat",
           "answer_list": "773+16",
           "concept": "simstress14",
@@ -35360,7 +35361,7 @@
         {
           "item": "SIMSTRESS15",
           "text_de": "Ich war schnell genervt, reizbar oder launisch. ",
-          "text": "I got easily bugged, irritated or capricious.",
+          "text": "I was quickly annoyed, irritable, or moody. ",
           "scale": "cat",
           "answer_list": "773+16",
           "concept": "simstress15",
@@ -35402,7 +35403,7 @@
         {
           "item": "SIMSTRESS16",
           "text_de": "Mir wurde schwindelig oder \u00fcbel.",
-          "text": "I got dizzy or queasy.",
+          "text": "I felt dizzy or nauseated.",
           "scale": "cat",
           "answer_list": "773+16",
           "concept": "simstress16",
@@ -35444,7 +35445,7 @@
         {
           "item": "SIMSTRESS17",
           "text_de": "Meine Essgewohnheiten/ mein Gewicht haben/ hat sich ver\u00e4ndert.",
-          "text": "My habits of eating/ my weight changed.",
+          "text": "My eating habits/ my weight has changed.",
           "scale": "cat",
           "answer_list": "773+16",
           "concept": "simstress17",
@@ -35486,7 +35487,7 @@
         {
           "item": "SIMSTRESS18",
           "text_de": "Ich hatte Verdauungsbeschwerden wie Verstopfung/ Bl\u00e4hungen etc.",
-          "text": "I had problems with my digestion like constipation/ flatulence etc.",
+          "text": "I had digestive problems, such as constipation or bloating, etc. ",
           "scale": "cat",
           "answer_list": "773+16",
           "concept": "simstress18",
@@ -35528,7 +35529,7 @@
         {
           "item": "SIMSTRESS19",
           "text_de": "Ich war \u00fcberempfindlich gegen\u00fcber Umweltreizen, wie Licht, L\u00e4rm oder Temperatur. ",
-          "text": "I was oversensitive for excitability induced by the environment (e.g. by light, noise or temperature)",
+          "text": "I was overly sensitive to environmental cues, such as light, noise, or temperature. ",
           "scale": "cat",
           "answer_list": "773+16",
           "concept": "simstress19",
@@ -35570,7 +35571,7 @@
         {
           "item": "SIMSTRESS20",
           "text_de": "Ich hatte Schmerzen beispielsweise in Bauch, Kopf/ R\u00fccken. ",
-          "text": "I had pain, for example in my stomach, head or back.",
+          "text": "I got some pain in my stomach, head, back etc. ",
           "scale": "cat",
           "answer_list": "773+16",
           "concept": "simstress20",
@@ -35654,7 +35655,7 @@
         {
           "item": "SIMSTRESS22",
           "text_de": "Ich hatte Herzrasen/ Atembeschwerden.",
-          "text": "I had palpitation/ difficulties in breathing.",
+          "text": "I had heart palpitations or breathing problems.",
           "scale": "cat",
           "answer_list": "773+16",
           "concept": "simstress22",
@@ -35696,7 +35697,7 @@
         {
           "item": "SIMSTRESS23",
           "text_de": "Es fiel mir schwer einzuschlafen, durchzuschlafen oder auszuschlafen. ",
-          "text": "I had problems to fall asleep, sleep through the whole night or to sleep late.",
+          "text": "I had troubles falling asleep, staying asleep, or sleeping in",
           "scale": "cat",
           "answer_list": "773+16",
           "concept": "simstress23",
@@ -35738,7 +35739,7 @@
         {
           "item": "SIMSTRESS24",
           "text_de": "Mein Sexualleben war beeintr\u00e4chtigt.",
-          "text": "My sexual life was affected.",
+          "text": "My sex life was affected.",
           "scale": "cat",
           "answer_list": "773+16",
           "concept": "simstress24",
@@ -35780,7 +35781,7 @@
         {
           "item": "SIMSTRESS25",
           "text_de": "Ich war f\u00fcr andere k\u00f6rperliche Anzeichen anf\u00e4lliger (z.B. Erk\u00e4ltungen, Tinnitus, Hautirritationen usw.). ",
-          "text": "I was more fragile to other physical signs (e.g. colds, tinnitus, irritation of skin, etc.)",
+          "text": "I was sick more often than usual (e.g. colds, tinnitus, irritation of skin, etc.).",
           "scale": "cat",
           "answer_list": "773+16",
           "concept": "simstress25",
@@ -37306,6 +37307,58 @@
             }
           ],
           "sn": 4,
+          "number": ""
+        },
+        {
+          "item": "IETHEM05_2",
+          "text_de": "Der Konsum und Verkauf von Cannabis bzw. Marihuana sollte in Deutschland legalisiert werden.",
+          "text": "The consumption and sale of Cannabis respectively marihuana should be legalized in Germany.",
+          "scale": "cat",
+          "answer_list": "857+16",
+          "concept": "iethem05_2",
+          "answers": [
+            {
+              "value": 1,
+              "label_de": "Stimmt \u00fcberhaupt nicht zu",
+              "label": "Fully disagrees"
+            },
+            {
+              "value": 2,
+              "label_de": "2",
+              "label": "2"
+            },
+            {
+              "value": 3,
+              "label_de": "3",
+              "label": "3"
+            },
+            {
+              "value": 4,
+              "label_de": "4",
+              "label": "4"
+            },
+            {
+              "value": 5,
+              "label_de": "5",
+              "label": "5"
+            },
+            {
+              "value": 6,
+              "label_de": "6",
+              "label": "6"
+            },
+            {
+              "value": 7,
+              "label_de": "Stimmt voll und ganz zu",
+              "label": "Completely agrees"
+            },
+            {
+              "value": -1,
+              "label_de": "Keine Angabe",
+              "label": "No answer"
+            }
+          ],
+          "sn": 5,
           "number": ""
         }
       ],

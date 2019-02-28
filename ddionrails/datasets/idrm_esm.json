@@ -25,21 +25,17 @@
         "invalid"
       ],
       "values": [
-        "200300",
-        "216700",
-        "863900",
-        "670800",
-        "883900",
-        "899800",
+        "200328",
+        "216704",
+        "863904",
+        "670768.907514451",
+        "883891",
+        "899810",
         "15570",
         "0"
       ]
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Urhaushaltsnummer"
   },
   "hid": {
@@ -68,21 +64,17 @@
         "invalid"
       ],
       "values": [
-        "120800",
-        "217500",
-        "868500",
-        "687400",
-        "887900",
-        "902700",
+        "120812",
+        "217549",
+        "868485",
+        "687388.826589595",
+        "887927",
+        "902748",
         "15570",
         "0"
       ]
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Haushaltsnummer"
   },
   "pid": {
@@ -111,21 +103,17 @@
         "invalid"
       ],
       "values": [
-        "1208000",
-        "2171000",
-        "8646000",
-        "6740000",
-        "8847000",
-        "9010000",
+        "1208102",
+        "2170501",
+        "8645701",
+        "6740115.61464354",
+        "8847101",
+        "9010402",
         "15570",
         "0"
       ]
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "NA"
   },
   "syear": {
@@ -165,10 +153,6 @@
       ]
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Erhebungsjahr"
   },
   "im_drm_esm": {
@@ -198,11 +182,11 @@
         "[1] Does Apply"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -236,10 +220,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Innovatives Modul: Day Reconstruction Method - Experience Sampling Method"
   },
   "drm_wt": {
@@ -281,12 +261,12 @@
         "[7] Saturday"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -337,10 +317,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wochentag der Befragung"
   },
   "drm_a": {
@@ -368,10 +344,6 @@
       ]
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wann sind Sie gestern aufgestanden?"
   },
   "aktnr": {
@@ -459,12 +431,12 @@
         "30"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -584,10 +556,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Episodennummer"
   },
   "akt": {
@@ -667,12 +635,12 @@
         "[26] Listen to music / radio"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -780,10 +748,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "NA"
   },
   "akt_s": {
@@ -811,10 +775,6 @@
       ]
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "NA"
   },
   "akt_e": {
@@ -842,10 +802,6 @@
       ]
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "NA"
   },
   "akt_sek_jn": {
@@ -877,12 +833,12 @@
         "[2] No"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -918,10 +874,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "NA"
   },
   "akt_sek": {
@@ -999,12 +951,12 @@
         "[26] Listen to music / radio"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -1109,10 +1061,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "NA"
   },
   "akt_pleasant": {
@@ -1144,12 +1092,12 @@
         "[2] Rather unpleasant"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -1185,10 +1133,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Episode angenehm / unangenehm"
   },
   "ort": {
@@ -1222,12 +1166,12 @@
         "[3] Somewhere else"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false
@@ -1266,10 +1210,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Ort der Episode"
   },
   "around1": {
@@ -1301,12 +1241,12 @@
         "[1] Does apply"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -1342,10 +1282,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Niemand anwesend"
   },
   "around2": {
@@ -1377,12 +1313,12 @@
         "[1] Does apply"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -1418,10 +1354,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Partner anwesend"
   },
   "around3": {
@@ -1453,12 +1385,12 @@
         "[1] Does apply"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -1494,10 +1426,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Freunde anwesend"
   },
   "around4": {
@@ -1529,12 +1457,12 @@
         "[1] Does apply"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -1570,10 +1498,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Kollegen anwesend"
   },
   "around5": {
@@ -1605,12 +1529,12 @@
         "[1] Does apply"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -1646,10 +1570,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Kunden anwesend"
   },
   "around6": {
@@ -1681,12 +1601,12 @@
         "[1] Does apply"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -1722,10 +1642,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Kinder anwesend"
   },
   "around7": {
@@ -1757,12 +1673,12 @@
         "[1] Does apply"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -1798,10 +1714,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Verwandte anwesend"
   },
   "around8": {
@@ -1833,12 +1745,12 @@
         "[1] Does apply"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -1874,10 +1786,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Vorgesetzte anwesend"
   },
   "around9": {
@@ -1909,12 +1817,12 @@
         "[1] Does apply"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -1950,10 +1858,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Andere Person anwesend"
   },
   "around10": {
@@ -1985,12 +1889,12 @@
         "[1] Does apply"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -2026,10 +1930,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Keine Angabe zur anwesenden Personen"
   },
   "emotion1": {
@@ -2071,12 +1971,12 @@
         "[7] Very strongly"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -2127,10 +2027,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "NA"
   },
   "emotion2": {
@@ -2172,12 +2068,12 @@
         "[7] Very strongly"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -2228,10 +2124,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "NA"
   },
   "emotion3": {
@@ -2273,12 +2165,12 @@
         "[7] Very strongly"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -2329,10 +2221,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Frust"
   },
   "emotion4": {
@@ -2374,12 +2262,12 @@
         "[7] Very strongly"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -2430,10 +2318,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "NA"
   },
   "emotion5": {
@@ -2475,12 +2359,12 @@
         "[7] Very strongly"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -2531,10 +2415,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Trauer"
   },
   "emotion6": {
@@ -2576,12 +2456,12 @@
         "[7] Very strongly"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -2632,10 +2512,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Sorgen"
   },
   "emotion7": {
@@ -2677,12 +2553,12 @@
         "[7] Very strongly"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -2733,10 +2609,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Schmerzen"
   },
   "emotion8": {
@@ -2778,12 +2650,12 @@
         "[7] Very strongly"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -2834,10 +2706,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Begeisterung"
   },
   "emotion9": {
@@ -2879,12 +2747,12 @@
         "[7] Very strongly"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -2935,10 +2803,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Zufriedenheit"
   },
   "emotion10": {
@@ -2978,12 +2842,12 @@
         "[7] Very strongly"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -3031,10 +2895,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Langeweile"
   },
   "emotion11": {
@@ -3076,12 +2936,12 @@
         "[7] Very strongly"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -3132,10 +2992,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Einsamkeit"
   },
   "emotion12": {
@@ -3177,12 +3033,12 @@
         "[7] Very strongly"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -3233,10 +3089,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Stress"
   },
   "emotion13": {
@@ -3278,12 +3130,12 @@
         "[7] Very strongly"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -3334,10 +3186,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Tieferen Sinn"
   },
   "pzuf01": {
@@ -3387,12 +3235,12 @@
         "[10] Completely satisfied"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -3455,10 +3303,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wie zufrieden sind Sie mit Ihrer Gesundheit?"
   },
   "pzuf20": {
@@ -3508,12 +3352,12 @@
         "[10] Completely satisfied"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -3576,10 +3420,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wie zufrieden sind Sie mit Ihrem Schlaf?"
   },
   "pzuf02": {
@@ -3629,12 +3469,12 @@
         "[10] Completely satisfied"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -3697,10 +3537,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "NA"
   },
   "pzuf04": {
@@ -3750,12 +3586,12 @@
         "[10] Completely satisfied"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -3818,10 +3654,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wie zufrieden sind Sie mit dem Einkommen Ihres Haushalts?"
   },
   "pzuf05": {
@@ -3871,12 +3703,12 @@
         "[10] Completely satisfied"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -3939,10 +3771,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "NA"
   },
   "pzuf07": {
@@ -3992,12 +3820,12 @@
         "[10] Completely satisfied"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -4060,10 +3888,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wie zufrieden sind Sie mit Ihrer Wohnung?"
   },
   "pzuf08": {
@@ -4113,12 +3937,12 @@
         "[10] Completely satisfied"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -4181,10 +4005,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wie zufrieden sind Sie mit Ihrer Freizeit?"
   },
   "pzuf13": {
@@ -4234,12 +4054,12 @@
         "[10] Completely satisfied"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -4302,10 +4122,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wie zufrieden sind Sie mit Ihrem Familienleben?"
   },
   "pzule1": {
@@ -4355,12 +4171,12 @@
         "[10] Completely satisfied"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -4423,10 +4239,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Lebenszufriedenheit jetzt"
   },
   "pgef1": {
@@ -4464,12 +4276,12 @@
         "[5] Very often"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -4514,10 +4326,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "NA"
   },
   "pgef2": {
@@ -4555,12 +4363,12 @@
         "[5] Very often"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -4605,10 +4413,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "NA"
   },
   "pgef3": {
@@ -4646,12 +4450,12 @@
         "[5] Very often"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -4696,10 +4500,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "NA"
   },
   "pgef4": {
@@ -4737,12 +4537,12 @@
         "[5] Very often"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -4787,10 +4587,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "NA"
   },
   "bb1": {
@@ -4832,12 +4628,12 @@
         "[7] Very good"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -4888,10 +4684,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Bewertung Teilnahme Blitzbefragungen"
   },
   "bb2": {
@@ -4933,12 +4725,12 @@
         "[7] Yes, very strongly"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -4989,10 +4781,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "NA"
   },
   "bb3": {
@@ -5024,12 +4812,12 @@
         "[2] No"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -5065,10 +4853,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Blitzbefragung nicht bearbeitet"
   },
   "bb4": {
@@ -5108,12 +4892,12 @@
         "7"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -5161,10 +4945,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "NA"
   },
   "bb5": {
@@ -5196,12 +4976,12 @@
         "[2] No"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -5237,10 +5017,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "NA"
   },
   "bb6": {
@@ -5276,12 +5052,12 @@
         "5"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -5323,10 +5099,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "NA"
   },
   "bb7": {
@@ -5364,12 +5136,12 @@
         "[5] Very often"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -5414,10 +5186,6 @@
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Blitzbefragung hektisch / unaufmerksam"
   }
 }

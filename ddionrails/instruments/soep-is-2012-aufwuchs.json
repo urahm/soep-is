@@ -1,9 +1,11 @@
 {
-  "study": "soep-is",
+  "study_name": "soep-is",
   "questionnaire": "soep-is-2012-aufwuchs",
   "label": "Questionnaire 2012 (Boost Sample)",
   "description": "Innovative Modules Surveyed in 2012\n\n- Adaptive Test of Environmental Behavior (Otto & Kaiser)\n- Control Strivings (Gerstorf & Heckhausen)\n- Day Reconstruction Method (DRM; Lucas & Donnellan)\n- Expected Financial Market Earnings (Schmidt & Weizs\u00e4cker)\n- Explicit Measurement of Self-Esteem (Gebauer, Asendorpf & Bruder)\n- Implicit Association Test of Self-Esteem (Gebauer, Asendorpf & Bruder)\n- Fear of Dementia (Kessler)\n- GeNECA (Just Sustainable Development Based on the Capability Approach; Gutwald, Krause, Le\u00dfmann, Masson, Mock, Omann, Rauschmayer, Volkert)\n- Loneliness & Depression (Br\u00e4hler & Zenger) ",
-  "period": 2012,
+  "period_name": 2012,
+  "label_de": "Fragebogen 2012 (Aufwuchsstichprobe)",
+  "description_de": "Der grundlegende Aufbau des Erhebungsinstruments f\u00fcr den Aufwuchs des SOEP-IS wurde analog\nzur L\u00e4ngsschnittstichprobe des SOEP-IS gestaltet. Der eingesetzte CAPI-Fragebogen bestand aus\nzwei grundlegenden Teilen: einem \u201eBasismodul\u201c und dem aus verschiedenen Komponenten\nbestehenden \u201eInnovationsmodul\u201c mit neun Fragebl\u00f6cken.\n\nBeim Basismodul handelte es sich um die Quintessenz der Kernfragebogen des Haupt-SOEP. Zentrale, f\u00fcr die Analyse der Innovationsmodule sowie f\u00fcr den L\u00e4ngsschnittvergleich elementare Fragestellungen aus dem Haushalts-, Personen- und Lebenslauf-Fragebogen wurden in einen Fragebogen zusammengefasst. Hinzu kamen drei Mutter-Kind-Module, die je nach Alter der Kinder (0 \u2013 23 Monate, 24 \u2013 47 Monate alt, 48 Monate und \u00e4lter) unterschiedliche Teilaspekte rund um die Entwicklung und Betreuung der Kinder erfassten. Das Basismodul wurde \u2013 bis auf kleinere wellenspezifische \u00c4nderungen nach einem festen Rotationsschema \u2013 bei jeder Befragung des SOEP-IS (weitgehend) unver\u00e4ndert eingesetzt. Analog zum Haupt-SOEP wurde der Haushaltsteil nur von einer Person im Haushalt ausgef\u00fcllt. In der Regel handelte es sich dabei um diejenige Person im Haushalt, die am besten \u00fcber die Belange des Haushalts als Ganzen Auskunft geben konnte. Die anderen Personen im Haushalt \u00fcbersprangen diesen Befragungsteil. Der personenbezogene Abschnitt des Basismoduls soll von jeder Befragungsperson ab 16 Jahren (nach Geburtsjahrgangsprinzip) ausgef\u00fcllt werden. Da es sich bei der Aufwuchsstichprobe 2012 (Supplementary Sample 2012) um eine Erstwellenerhebung handelt, wurden auch die Lebenslauffragen jeder Person gestellt. In den Folgewellen werden nur noch neue Personen bzw. Personen, die in der Vorwelle noch nicht im Befragungsalter waren, die Lebenslauffragen beantworten.\n\nDas Innovationsmodul besteht aus diesen Fragebl\u00f6cken:\n\n- Soziales Netzwerk\n\n- Adaptiver Test\n\n- Investitionsentscheidungsexperiment\n\n- M\u00fctter und Erwerbsbiografie\n\n- Control Striving\n\n- DRM\n\n- GenECA\n\n- Integration\n\n- Demenz\n\nEine \u00dcbersicht der einzelnen Module und deren Platzierung im Befragungsverlauf liefert die Abbildung 2.1 im Methodenbericht (http://hdl.handle.net/10419/96119).",
   "instrument": "soep-is-2012-aufwuchs",
   "questions": {
     "Wum1": {
@@ -255,33 +257,40 @@
     "Wum6": {
       "question": "Wum6",
       "name": "Wum6",
+      "label": "How would you describe the neighborhood?",
       "items": [
         {
           "text_de": "Wie w\u00fcrden Sie die Wohngegend hier beschreiben?",
-          "instruction_de": "How would you describe the neighborhood?",
+          "text": "How would you describe the neighborhood?",
+          "instruction": "How would you describe the neighborhood?",
           "scale": "cat",
           "answer_list": "469+",
           "concept": "wuma6",
           "answers": [
             {
               "value": 1,
-              "label_de": "Ein reines Wohngebiet mit \u00fcberwiegend Altbauten"
+              "label_de": "Ein reines Wohngebiet mit \u00fcberwiegend Altbauten",
+              "label": "A residential area with mostly old buildings"
             },
             {
               "value": 2,
-              "label_de": "Ein reines Wohngebiet mit \u00fcberwiegend Neubauten"
+              "label_de": "Ein reines Wohngebiet mit \u00fcberwiegend Neubauten",
+              "label": "A residential area with mostly newer buildings"
             },
             {
               "value": 3,
-              "label_de": "Ein Mischgebiet mit Wohnungen und Gesch\u00e4ften bzw. Gewerbebetrieben"
+              "label_de": "Ein Mischgebiet mit Wohnungen und Gesch\u00e4ften bzw. Gewerbebetrieben",
+              "label": "A residential and commercial area with flats, houses, shops and businesses"
             },
             {
               "value": 4,
-              "label_de": "Ein Gesch\u00e4ftszentrum (L\u00e4den, Banken, Verwaltungen) mit wenigen Wohnungen"
+              "label_de": "Ein Gesch\u00e4ftszentrum (L\u00e4den, Banken, Verwaltungen) mit wenigen Wohnungen",
+              "label": "A commercial area (shops, banks, offices) with few residential dwellings"
             },
             {
               "value": 5,
-              "label_de": "Ein Gewerbe- bzw. Industriegebiet mit wenigen Wohnungen"
+              "label_de": "Ein Gewerbe- bzw. Industriegebiet mit wenigen Wohnungen",
+              "label": "An industrial area with few residential dwellings"
             }
           ],
           "sn": 0,
@@ -296,9 +305,11 @@
     "Wum7": {
       "question": "Wum7",
       "name": "Wum7",
+      "label": "What kind of building is it?",
       "items": [
         {
           "text_de": "Um welchen Haustyp handelt es sich?",
+          "text": "What kind of building is it?",
           "scale": "cat",
           "answer_list": "123+16",
           "concept": "wuma7",
@@ -5036,6 +5047,7 @@
           "text_de": "Haben Sie schon einmal l\u00e4nger als drei Monate au\u00dferhalb Deutschlands gelebt, sei es aus beruflichen oder privaten Gr\u00fcnden?",
           "instruction_de": "Bitte w\u00e4hlen Sie alle zutreffenden Antworten aus:",
           "text": "Have you ever lived longer than three months abroad,\nwhether for professional or personal reasons",
+          "instruction": "Please select all correct answers:",
           "scale": "txt",
           "description": "Researcher Notes:\nNur wenn Geneca=1\n",
           "number": "Q24589",
@@ -6507,9 +6519,11 @@
     "G1002": {
       "question": "G1002",
       "name": "G1002",
+      "label": "I buy food from controlled organic cultivation.",
       "items": [
         {
           "text_de": "Ich kaufe Lebensmittel aus kontrolliert biologischem Anbau.",
+          "text": "I buy food from controlled organic cultivation.",
           "scale": "cat",
           "answer_list": "145+16",
           "concept": "g1002",
@@ -6562,9 +6576,11 @@
     "G1003": {
       "question": "G1003",
       "name": "G1003",
+      "label": "I prefer to shower instead of taking a bath.",
       "items": [
         {
           "text_de": "Ich bevorzuge es, zu duschen statt zu baden.",
+          "text": "I prefer to shower instead of taking a bath.",
           "scale": "cat",
           "answer_list": "145+16",
           "concept": "g1003",
@@ -6617,9 +6633,11 @@
     "G1004": {
       "question": "G1004",
       "name": "G1004",
+      "label": "I buy beverages in cans.",
       "items": [
         {
           "text_de": "Ich kaufe Getr\u00e4nke in Dosen.",
+          "text": "I buy beverages in cans.",
           "scale": "cat",
           "answer_list": "145+16",
           "concept": "g1004",
@@ -6672,9 +6690,11 @@
     "G1005": {
       "question": "G1005",
       "name": "G1005",
+      "label": "I use a spray to clean the oven.",
       "items": [
         {
           "text_de": "Zum Reinigen des Backofens verwende ich ein Spray.",
+          "text": "I use a spray to clean the oven.",
           "scale": "cat",
           "answer_list": "145+16",
           "concept": "g1005",
@@ -6727,9 +6747,11 @@
     "G1006": {
       "question": "G1006",
       "name": "G1006",
+      "label": "I wait and collect laundry until I have enough to fill a washing drum.",
       "items": [
         {
           "text_de": "Ich warte, bis ich eine volle W\u00e4schetrommel habe, bevor ich wasche.",
+          "text": "I wait and collect laundry until I have enough to fill a washing drum.",
           "scale": "cat",
           "answer_list": "145+16",
           "concept": "g1006",
@@ -6839,9 +6861,11 @@
     "G1008": {
       "question": "G1008",
       "name": "G1008",
+      "label": "I keep the window open to ventilate the room, even in winter.",
       "items": [
         {
           "text_de": "Um zu l\u00fcften, lasse ich auch im Winter das Fenster l\u00e4ngere Zeit offen.",
+          "text": "I keep the window open to ventilate the room, even in winter.",
           "scale": "cat",
           "answer_list": "145+16",
           "concept": "g1008",
@@ -6894,9 +6918,11 @@
     "G1009": {
       "question": "G1009",
       "name": "G1009",
+      "label": "I skip the pre-washing in the washing process.",
       "items": [
         {
           "text_de": "Beim Waschen verzichte ich auf den Vorwaschgang.",
+          "text": "I skip the pre-washing in the washing process.",
           "scale": "cat",
           "answer_list": "145+16",
           "concept": "g1009",
@@ -6949,9 +6975,11 @@
     "G1010": {
       "question": "G1010",
       "name": "G1010",
+      "label": "I drive at most 100km/h on the autobahn.",
       "items": [
         {
           "text_de": "Ich fahre auf der Autobahn h\u00f6chstens 100 km/h.",
+          "text": "I drive at most 100km/h on the autobahn.",
           "scale": "cat",
           "answer_list": "145+16",
           "concept": "g1010",
@@ -7004,9 +7032,11 @@
     "G1011": {
       "question": "G1011",
       "name": "G1011",
+      "label": "If I receive a plastic bag in a store, I'll take it.",
       "items": [
         {
           "text_de": "Wenn ich in einem Gesch\u00e4ft eine Plastikt\u00fcte bekomme, nehme ich sie.",
+          "text": "If I receive a plastic bag in a store, I'll take it.",
           "scale": "cat",
           "answer_list": "145+16",
           "concept": "g1011",
@@ -7116,9 +7146,11 @@
     "G1013": {
       "question": "G1013",
       "name": "G1013",
+      "label": "I collect old paper and bring it to the recycling.",
       "items": [
         {
           "text_de": "Ich sammle altes Papier und gebe es zum Recycling.",
+          "text": "I collect old paper and bring it to the recycling.",
           "scale": "cat",
           "answer_list": "145+16",
           "concept": "g1013",
@@ -7171,9 +7203,11 @@
     "G1014": {
       "question": "G1014",
       "name": "G1014",
+      "label": "Waste glass I bring to a consolidated container",
       "items": [
         {
           "text_de": "Altglas bringe ich zum Sammelcontainer",
+          "text": "Waste glass I bring to a consolidated container",
           "scale": "cat",
           "answer_list": "145+16",
           "concept": "g1014",
@@ -7226,9 +7260,11 @@
     "G1015": {
       "question": "G1015",
       "name": "G1015",
+      "label": "If someone behaves harmful to the environment, I'll call their attention to it.",
       "items": [
         {
           "text_de": "Ich mache jemanden, der / die sich umweltsch\u00e4digend verh\u00e4lt, darauf aufmerksam.",
+          "text": "If someone behaves harmful to the environment, I'll call their attention to it.",
           "scale": "cat",
           "answer_list": "145+16",
           "concept": "g1015",
@@ -7281,9 +7317,11 @@
     "G1016": {
       "question": "G1016",
       "name": "G1016",
+      "label": "I donate money for ecology groups.",
       "items": [
         {
           "text_de": "Ich spende Geld f\u00fcr Umweltschutzorganisationen.",
+          "text": "I donate money for ecology groups.",
           "scale": "cat",
           "answer_list": "145+16",
           "concept": "g1016",
@@ -7336,9 +7374,11 @@
     "G1017": {
       "question": "G1017",
       "name": "G1017",
+      "label": "I buy milk in a returnable bottle.",
       "items": [
         {
           "text_de": "Ich kaufe die Milch in der Pfandflasche (Mehrwegflasche).",
+          "text": "I buy milk in a returnable bottle.",
           "scale": "cat",
           "answer_list": "145+16",
           "concept": "g1017",
@@ -7676,9 +7716,11 @@
     "G1023": {
       "question": "G1023",
       "name": "G1023",
+      "label": "I buy fruits and vegetables appropriate to the season.",
       "items": [
         {
           "text_de": "Ich kaufe Obst und Gem\u00fcse der Jahreszeit entsprechend.",
+          "text": "I buy fruits and vegetables appropriate to the season.",
           "scale": "cat",
           "answer_list": "145+16",
           "concept": "g1023",
@@ -7788,9 +7830,11 @@
     "G1025": {
       "question": "G1025",
       "name": "G1025",
+      "label": "I read books, brochures or other publications which broach the issue of environmental problems.",
       "items": [
         {
           "text_de": "Ich besorge mir B\u00fccher, Informationsschriften oder andere Materialien, die sich mit Umweltproblemen befassen.",
+          "text": "I read books, brochures or other publications which broach the issue of environmental problems.",
           "scale": "cat",
           "answer_list": "145+16",
           "concept": "g1025",
@@ -7843,9 +7887,11 @@
     "G1026": {
       "question": "G1026",
       "name": "G1026",
+      "label": "I discuss problems of environmental pollution with friends.",
       "items": [
         {
           "text_de": "Ich unterhalte mich mit Bekannten \u00fcber Probleme der Umweltver-schmutzung.",
+          "text": "I discuss problems of environmental pollution with friends.",
           "scale": "cat",
           "answer_list": "145+16",
           "concept": "g1026",
@@ -8240,9 +8286,11 @@
     "G2001": {
       "question": "G2001",
       "name": "G2001",
+      "label": "I reuse shopping bags multiple.",
       "items": [
         {
           "text_de": "Ich verwende Einkaufst\u00fcten oder -taschen mehrfach.",
+          "text": "I reuse shopping bags multiple.",
           "scale": "cat",
           "answer_list": "146+16",
           "concept": "g2001",
@@ -8280,9 +8328,11 @@
     "G2002": {
       "question": "G2002",
       "name": "G2002",
+      "label": "In winter, my dwelling is warm, so you do not freeze without a pullover.",
       "items": [
         {
           "text_de": "In meiner Wohnung ist es im Winter so warm, dass man ohne Pullover nicht friert.",
+          "text": "In winter, my dwelling is warm, so you do not freeze without a pullover.",
           "scale": "cat",
           "answer_list": "146+16",
           "concept": "g2002",
@@ -8362,9 +8412,11 @@
     "G2004": {
       "question": "G2004",
       "name": "G2004",
+      "label": "I throw empty batteries into the garbage.",
       "items": [
         {
           "text_de": "Leere Batterien werfe ich in den Hausm\u00fcll.",
+          "text": "I throw empty batteries into the garbage.",
           "scale": "cat",
           "answer_list": "146+16",
           "concept": "g2004",
@@ -8402,9 +8454,11 @@
     "G2005": {
       "question": "G2005",
       "name": "G2005",
+      "label": "I flush mushy food waste down the toilet.",
       "items": [
         {
           "text_de": "Breiige Essensreste leere ich in die Toilette.",
+          "text": "I flush mushy food waste down the toilet.",
           "scale": "cat",
           "answer_list": "146+16",
           "concept": "g2005",
@@ -8442,9 +8496,11 @@
     "G2006": {
       "question": "G2006",
       "name": "G2006",
+      "label": "I use chemical good smelling auxiliary means for the toilet.",
       "items": [
         {
           "text_de": "In der Toilette benutze ich chemische Duftsteine f\u00fcr den guten Geruch.",
+          "text": "I use chemical good smelling auxiliary means for the toilet.",
           "scale": "cat",
           "answer_list": "146+16",
           "concept": "g2006",
@@ -8482,9 +8538,11 @@
     "G2007": {
       "question": "G2007",
       "name": "G2007",
+      "label": "I am a member of an environmental group.",
       "items": [
         {
           "text_de": "Ich bin Mitglied in einer Umweltschutzorganisation.",
+          "text": "I am a member of an environmental group.",
           "scale": "cat",
           "answer_list": "146+16",
           "concept": "g2007",
@@ -8522,9 +8580,11 @@
     "G2008": {
       "question": "G2008",
       "name": "G2008",
+      "label": "I let towels change daily in a hotel.",
       "items": [
         {
           "text_de": "Im Hotel lasse ich t\u00e4glich die Handt\u00fccher wechseln.",
+          "text": "I let towels change daily in a hotel.",
           "scale": "cat",
           "answer_list": "146+16",
           "concept": "g2008",
@@ -8562,9 +8622,11 @@
     "G2009": {
       "question": "G2009",
       "name": "G2009",
+      "label": "I use household aids which are efficient in terms of resources.",
       "items": [
         {
           "text_de": "Ich benutze verbrauchsarme Haushaltsger\u00e4te.",
+          "text": "I use household aids which are efficient in terms of resources.",
           "scale": "cat",
           "answer_list": "146+16",
           "concept": "g2009",
@@ -8602,9 +8664,11 @@
     "G2010": {
       "question": "G2010",
       "name": "G2010",
+      "label": "After a picnic, I leave the place the same as I found it.",
       "items": [
         {
           "text_de": "Ich verlasse nach einem Picknick den Platz genauso, wie ich ihn angetroffen habe.",
+          "text": "After a picnic, I leave the place the same as I found it.",
           "scale": "cat",
           "answer_list": "146+16",
           "concept": "g2010",
@@ -8642,9 +8706,11 @@
     "G2011": {
       "question": "G2011",
       "name": "G2011",
+      "label": "I purchased a solar energy plant.",
       "items": [
         {
           "text_de": "Ich habe eine Solaranlage zur Energieerzeugung angeschafft.",
+          "text": "I purchased a solar energy plant.",
           "scale": "cat",
           "answer_list": "146+16",
           "concept": "g2011",
@@ -8682,9 +8748,11 @@
     "G2012": {
       "question": "G2012",
       "name": "G2012",
+      "label": "I informed myself about the advantages and disadvantages of a solar energy plant.",
       "items": [
         {
           "text_de": "Ich habe mich \u00fcber Vor- und Nachteile einer Solaranlage informiert.",
+          "text": "I informed myself about the advantages and disadvantages of a solar energy plant.",
           "scale": "cat",
           "answer_list": "146+16",
           "concept": "g2012",
@@ -8722,9 +8790,11 @@
     "G2013": {
       "question": "G2013",
       "name": "G2013",
+      "label": "I made requests for quote of a solar energy plant.",
       "items": [
         {
           "text_de": "Ich habe Angebote zur Anschaffung einer Solaranlage eingeholt.",
+          "text": "I made requests for quote of a solar energy plant.",
           "scale": "cat",
           "answer_list": "146+16",
           "concept": "g2013",
@@ -8762,9 +8832,11 @@
     "G2014": {
       "question": "G2014",
       "name": "G2014",
+      "label": "I use renewable energy to generate electricity.",
       "items": [
         {
           "text_de": "Ich nutze erneuerbare Energiequellen zur Stromerzeugung.",
+          "text": "I use renewable energy to generate electricity.",
           "scale": "cat",
           "answer_list": "146+16",
           "concept": "g2014",
@@ -8802,9 +8874,11 @@
     "G2015": {
       "question": "G2015",
       "name": "G2015",
+      "label": "I relinquish a car.",
       "items": [
         {
           "text_de": "Ich verzichte auf ein Auto.",
+          "text": "I relinquish a car.",
           "scale": "cat",
           "answer_list": "146+16",
           "concept": "g2015",
@@ -8842,9 +8916,11 @@
     "G2016": {
       "question": "G2016",
       "name": "G2016",
+      "label": "I am part of a car-sharing pool.",
       "items": [
         {
           "text_de": "Ich bin in einem \u201eCar-Sharing\u201c-Pool.",
+          "text": "I am part of a car-sharing pool.",
           "scale": "cat",
           "answer_list": "146+16",
           "concept": "g2016",
@@ -8882,9 +8958,11 @@
     "G2017": {
       "question": "G2017",
       "name": "G2017",
+      "label": "I try to reduce my fuel consumption as much as possible by an appropriate driving style.",
       "items": [
         {
           "text_de": "Durch mein Fahrverhalten versuche ich, den Kraftstoffverbrauch so niedrig wie m\u00f6glich zu halten.",
+          "text": "I try to reduce my fuel consumption as much as possible by an appropriate driving style.",
           "scale": "cat",
           "answer_list": "146+16",
           "concept": "g2017",
@@ -9651,12 +9729,12 @@
     "FinABC6": {
       "question": "FinABC6",
       "name": "FinABC6",
-      "label": "The computer has randomly selected the year ___ . In this year the DAX has made <U+200B><U+200B>a loss / gain of ____% and therefore the fund made a loss / gain of ____%. We therefore pay you ___EUR on basis of your investment, which are calculated as follows: Federal Government Bond (investment ___ \u20ac, profit / loss ___%, payout ___ \u20ac); Funds (investment ___ \u20ac, profit / loss ___%, payout ___ \u20ac) Total: ___ \u20ac, payout (sum/ 2000): ___ \u20ac, rounded to the nearest euro:  __\u20ac. The financial decision experiment is now over.",
+      "label": "The computer has randomly selected the year ___ . In this year the DAX has made a loss / gain of ____% and therefore the fund made a loss / gain of ____%. We therefore pay you ___EUR on basis of your investment, which are calculated as follows: Federal Government Bond (investment ___ \u20ac, profit / loss ___%, payout ___ \u20ac); Funds (investment ___ \u20ac, profit / loss ___%, payout ___ \u20ac) Total: ___ \u20ac, payout (sum/ 2000): ___ \u20ac, rounded to the nearest euro:  __\u20ac. The financial decision experiment is now over.",
       "items": [
         {
           "text_de": "Der Computer hat per Zufall das Jahr ___ ausgew\u00e4hlt. In diesem Jahr hat der DAX eine Verlust /Gewinn von ____% und der Fond somit einen Verlust/ Gewinn von ____% gemacht. Wir zahlen Ihnen deshalb auf Basis Ihrer Investition ___ EUR aus, die sich wie folgt berechnen: Bundesanleihe: (Investition ___\u20ac, Gewinn/Verlust ___%, Auszahlung ___\u20ac); Fonds: (Investition ___\u20ac, Gewinn/Verlust ___%, Auszahlung ___\u20ac), Summe: ___\u20ac, Auszahlung (Summe/2000): ___\u20ac, auf den n\u00e4chsten Euro gerundet: __\u20ac. Das Finanzentscheidungsexperiment ist nun zu Ende.",
           "instruction_de": "Der Auszahlungsbetrag wird am Ende des Interviews nochmal angezeigt!",
-          "text": "The computer has randomly selected the year ___ . In this year the DAX has made <U+200B><U+200B>a loss / gain of ____% and therefore the fund made a loss / gain of ____%. We therefore pay you ___EUR on basis of your investment, which are calculated as follows: Federal Government Bond (investment ___ \u20ac, profit / loss ___%, payout ___ \u20ac); Funds (investment ___ \u20ac, profit / loss ___%, payout ___ \u20ac) Total: ___ \u20ac, payout (sum/ 2000): ___ \u20ac, rounded to the nearest euro:  __\u20ac. The financial decision experiment is now over.",
+          "text": "The computer has randomly selected the year ___ . In this year the DAX has made a loss / gain of ____% and therefore the fund made a loss / gain of ____%. We therefore pay you ___EUR on basis of your investment, which are calculated as follows: Federal Government Bond (investment ___ \u20ac, profit / loss ___%, payout ___ \u20ac); Funds (investment ___ \u20ac, profit / loss ___%, payout ___ \u20ac) Total: ___ \u20ac, payout (sum/ 2000): ___ \u20ac, rounded to the nearest euro:  __\u20ac. The financial decision experiment is now over.",
           "instruction": "The amount paid is shown at the end of the interview again!",
           "scale": "txt",
           "concept": "finabc6",
@@ -9773,6 +9851,7 @@
           "text_de": "Bitte nennen Sie mir jeweils den Vornamen, das Geburtsjahr und das Geschlecht der Kinder.",
           "instruction_de": "Bitte geben Sie es getrennt f\u00fcr jedes weitere Kind an, beginnend mit dem \u00e4ltesten Kind, das 1996 oder danach geboren ist, und dann dem Alter nach, das j\u00fcngste Kind zuletzt.",
           "text": "Please tell me the first name, year of birth and sex of each child.",
+          "instruction": "Please mention every child singly, starting with the oldest born in or after 1996, ending with the youngest.",
           "scale": "txt",
           "filter": "Q116;HKIND=1",
           "number": "Q117A",
@@ -14056,6 +14135,7 @@
           "text_de": "F\u00fcr alle zutreffenden Eink\u00fcnfte geben Sie bitte an, wie hoch derzeit der Betrag im Monat ist. >Nachehelicher Unterhalt, Trennungsunterhalt<. Wenn Sie den monatlichen Betrag nicht genau sagen k\u00f6nnen, geben Sie bitte einen Sch\u00e4tzbetrag an.",
           "instruction_de": "Falls die Zielperson grunds\u00e4tzlich nicht bereit ist, Angaben \u00fcber das Einkommen zu geben, weisen Sie sie bitte darauf hin, dass es sich hierbei um eine zentrale Frage handelt. Bruttobetrag hei\u00dft vor Abzug eventueller Steuern oder Sozialversicherungsbeitr\u00e4ge! Falls Sie mehrere haben, bitte zusammenrechnen! ",
           "text": "For all the applicable sources of income, please indicate how large an amount is each month: post-marital maintenance, seperation support . If you are unable to state the exact amount, please estimate.",
+          "instruction": "If the target person is basically not willing to give details on the income, please point out that this is a key issue.The gross amount means before any deductions for taxes or social security. If you have more than one source, please add them!",
           "scale": "txt",
           "number": "Q147",
           "sn": 0,
@@ -14084,6 +14164,7 @@
           "text_de": "F\u00fcr alle zutreffenden Eink\u00fcnfte geben Sie bitte an, wie hoch derzeit der Betrag im Monat ist. >Unterhaltszahlung aus Unterhaltsvorschusskassen<. Wenn Sie den monatlichen Betrag nicht genau sagen k\u00f6nnen, geben Sie bitte einen Sch\u00e4tzbetrag an.",
           "instruction_de": "Falls die Zielperson grunds\u00e4tzlich nicht bereit ist, Angaben \u00fcber das Einkommen zu geben, weisen Sie sie bitte darauf hin, dass es sich hierbei um eine zentrale Frage handelt. Bruttobetrag hei\u00dft vor Abzug eventueller Steuern oder Sozialversicherungsbeitr\u00e4ge! Falls Sie mehrere haben, bitte zusammenrechnen! ",
           "text": "For all the applicable sources of income, please indicate how large an amount is each month: maintenance from advanced maintenance fund. If you are unable to state the exact amount, please estimate.",
+          "instruction": "If the target person is basically not willing to give details on the income, please point out that this is a key issue.The gross amount means before any deductions for taxes or social security. If you have more than one source, please add them!",
           "scale": "txt",
           "number": "Q147",
           "sn": 0,
@@ -14112,6 +14193,7 @@
           "text_de": "F\u00fcr alle zutreffenden Eink\u00fcnfte geben Sie bitte an, wie hoch derzeit der Betrag im Monat ist. >BAf\u00f6G, Stipendium, Berufsausbildungsbeihilfe<. Wenn Sie den monatlichen Betrag nicht genau sagen k\u00f6nnen, geben Sie bitte einen Sch\u00e4tzbetrag an.",
           "instruction_de": "Falls die Zielperson grunds\u00e4tzlich nicht bereit ist, Angaben \u00fcber das Einkommen zu geben, weisen Sie sie bitte darauf hin, dass es sich hierbei um eine zentrale Frage handelt. Bruttobetrag hei\u00dft vor Abzug eventueller Steuern oder Sozialversicherungsbeitr\u00e4ge! Falls Sie mehrere haben, bitte zusammenrechnen! ",
           "text": "For all the applicable sources of income, please indicate how large an amount is each month: BAf\u00f6G (state support for higher education), scholarship, vocational training support. If you are unable to state the exact amount, please estimate.",
+          "instruction": "If the target person is basically not willing to give details on the income, please point out that this is a key issue.The gross amount means before any deductions for taxes or social security. If you have more than one source, please add them!",
           "scale": "txt",
           "number": "Q147",
           "sn": 0,
@@ -14140,6 +14222,7 @@
           "text_de": "F\u00fcr alle zutreffenden Eink\u00fcnfte geben Sie bitte an, wie hoch derzeit der Betrag im Monat ist. >Wehrsold bei freiwilligem Wehrdienst, Aufwandsentsch\u00e4digung f\u00fcr Freiwilliges soziales/\u00f6kologisches Jahr oder Bundesfreiwilligendienst<. Wenn Sie den monatlichen Betrag nicht genau sagen k\u00f6nnen, geben Sie bitte einen Sch\u00e4tzbetrag an.",
           "instruction_de": "Falls die Zielperson grunds\u00e4tzlich nicht bereit ist, Angaben \u00fcber das Einkommen zu geben, weisen Sie sie bitte darauf hin, dass es sich hierbei um eine zentrale Frage handelt. Bruttobetrag hei\u00dft vor Abzug eventueller Steuern oder Sozialversicherungsbeitr\u00e4ge! Falls Sie mehrere haben, bitte zusammenrechnen! ",
           "text": "For all the applicable sources of income, please indicate how large an amount is each month: Service pay for voluntary military service, expense allowance for voluntary social/ ecological year or voluntary social service. If you are unable to state the exact amount, please estimate.",
+          "instruction": "If the target person is basically not willing to give details on the income, please point out that this is a key issue.The gross amount means before any deductions for taxes or social security. If you have more than one source, please add them!",
           "scale": "txt",
           "number": "Q147",
           "sn": 0,
@@ -14168,6 +14251,7 @@
           "text_de": "F\u00fcr alle zutreffenden Eink\u00fcnfte geben Sie bitte an, wie hoch derzeit der Betrag im Monat ist. >Sonstige Unterst\u00fctzung von Personen, die nicht im Haushalt leben<. Wenn Sie den monatlichen Betrag nicht genau sagen k\u00f6nnen, geben Sie bitte einen Sch\u00e4tzbetrag an.",
           "instruction_de": "Falls die Zielperson grunds\u00e4tzlich nicht bereit ist, Angaben \u00fcber das Einkommen zu geben, weisen Sie sie bitte darauf hin, dass es sich hierbei um eine zentrale Frage handelt. Bruttobetrag hei\u00dft vor Abzug eventueller Steuern oder Sozialversicherungsbeitr\u00e4ge! Falls Sie mehrere haben, bitte zusammenrechnen! ",
           "text": "For all the applicable sources of income, please indicate how large an amount is each month: Other support from people who do not live in the household. If you are unable to state the exact amount, please estimate.",
+          "instruction": "If the target person is basically not willing to give details on the income, please point out that this is a key issue.The gross amount means before any deductions for taxes or social security. If you have more than one source, please add them!",
           "scale": "txt",
           "number": "Q147",
           "sn": 0,
@@ -15451,6 +15535,7 @@
           "text_de": "Beabsichtigen Sie, in der Zukunft eine Erwerbst\u00e4tigkeit aufzunehmen?",
           "instruction_de": "Liste 166 vorlegen",
           "text": "Do you intend to get a job (or start working again) in the future?",
+          "instruction": "Show list 166",
           "scale": "cat",
           "answer_list": "80+16",
           "concept": "pnerw02",
@@ -16083,7 +16168,7 @@
           "text_de": "Wie wahrscheinlich ist es Ihrer Meinung nach, dass sie in den n\u00e4chsten 2 Jahren Ihren Arbeitsplatz verlieren?",
           "instruction_de": "Bitte geben Sie die Wahrscheinlichkeit auf einer Skala von 0 bis 100 an.\nDer Wert \"0\"bedeutet: Das wird mit Sicherheit nicht eintreten.\nDer Wert \"100\" bedeutet: Das wird mit Sicherheit eintreten.\nMit den Werten zwischen 0 und 100 k\u00f6nnen Sie die Wahrscheinlichkeit abstufen.\n\nListe 24524 vorlegen",
           "text": "In your opinion, how likely is it that you lose your current position within the next 2 years?",
-          "instruction": "Please enter the likelihood on a scale from 0 to 100.  The value \" 0 \" means: This will certainly not occur.  The value \"100 \" means: That will certainly occur.\nWith the values <U+200B><U+200B>inbetween 0 and 100 you make your estimate.",
+          "instruction": "Please enter the likelihood on a scale from 0 to 100.  The value \" 0 \" means: This will certainly not occur.  The value \"100 \" means: That will certainly occur.\nWith the values inbetween 0 and 100 you make your estimate.",
           "scale": "cat",
           "answer_list": "181+",
           "concept": "fm06",
@@ -16552,6 +16637,7 @@
           "text_de": "Ich lese Ihnen jetzt verschiedene Arten von Geldbest\u00e4nden und Geldanlagen vor. Bitte sagen Sie mir jeweils, ob Sie \u00fcber ein derartiges Geldverm\u00f6gen verf\u00fcgen oder nicht. Verf\u00fcgen Sie \u00fcber...",
           "instruction_de": "Liste 24540 vorlegen Vorgaben bitte vorlesen.",
           "text": "I'm now going to read out different types of money stocks and investments. Please tell me for each of the following, whether you have such monetary assets or not. Do you have\u2026?",
+          "instruction": "Show list 24540. Please read out the possible responses.",
           "scale": "txt",
           "description": "Researcher Notes:\ngeh\u00f6rt zu Modul Investitonsentscheidungen\n",
           "number": "Q24540",
@@ -23313,7 +23399,7 @@
           "text_de": "Verschiedene Menschen k\u00f6nnen unterschiedliche Dinge f\u00fcr ihre Lebensgestaltung oder ihre pers\u00f6nliche Zufriedenheit wichtig sein. Wie wichtig sind Ihnen die folgenden Bereiche ?",
           "instruction_de": "Bitte antworten Sie anhand der nachfolgenden Skala von 0 bis 10.\n0 bedeutet \"ganz und gar unwichtig\", 10 bedeutet \"ganz und gar wichtig\". \nMit den Werten dazwischen k\u00f6nnen Sie Ihre Einsch\u00e4tzung abstufen.\n\nListe 24574 vorlegen",
           "text": "For different people diverse things may be of importance for their life style or personal satisfaction. How important are the following life areas for you?",
-          "instruction": "Please answer using the following scale of 0 to 10.  0 means \u201ecompletely unimportant\", 10 means \"completely important\". With the values <U+200B>in between you can make your estimate.",
+          "instruction": "Please answer using the following scale of 0 to 10.  0 means \u201ecompletely unimportant\", 10 means \"completely important\". With the values in between you can make your estimate.",
           "scale": "txt",
           "concept": "gm05",
           "number": "Q24574",
@@ -33121,7 +33207,7 @@
         {
           "item": "sim0703",
           "text_de": "Gleicherma\u00dfen in verschiedenen Sprachen, und zwar:",
-          "text": "Equally in different languages<U+200B><U+200B>, namely:",
+          "text": "Equally in different languages, namely:",
           "scale": "chr",
           "concept": "sim0703",
           "number": "Q24555",
@@ -33748,6 +33834,7 @@
           "text_de": "Wie viele Stunden schlafen Sie nachts an einem normalen Werktag?\n",
           "instruction_de": "Bitte nur ganze Stunden angeben.",
           "text": "How many hours do you sleep on average on a normal weeknight?",
+          "instruction": "Please only state full hours",
           "scale": "txt",
           "concept": "pschl x",
           "number": "Q233",
@@ -34084,6 +34171,7 @@
           "text_de": "Bitte denken Sie nun an die letzten vier Wochen. Kam es in dieser Zeit immer, oft, manchmal, selten oder nie vor, ...",
           "instruction_de": "Liste 23604 vorlegen",
           "text": "Now please think about the last four weeks.  At this time did you always, often, sometimes, almost never or never...\n",
+          "instruction": "Show list 23604",
           "scale": "txt",
           "concept": "pges x",
           "number": "Q23604a",

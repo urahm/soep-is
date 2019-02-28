@@ -25,21 +25,17 @@
         "invalid"
       ],
       "values": [
-        "2e+05",
-        "220100",
-        "868100",
-        "706800",
-        "885600",
-        "982400",
-        "179580",
+        "200034",
+        "219649",
+        "867918",
+        "703159.076499147",
+        "885037",
+        "4051470",
+        "228630",
         "0"
       ]
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Ursprungshaushaltsnummer"
   },
   "hid": {
@@ -68,21 +64,17 @@
         "invalid"
       ],
       "values": [
-        "115400",
-        "850500",
-        "870000",
-        "711600",
-        "887900",
-        "982400",
-        "179580",
+        "115380",
+        "231045",
+        "869228",
+        "709174.760530114",
+        "887803",
+        "982350",
+        "228630",
         "0"
       ]
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Aktuelle Haushaltsnummer"
   },
   "pid": {
@@ -111,21 +103,17 @@
         "invalid"
       ],
       "values": [
-        "1154000",
-        "2304000",
-        "8683000",
-        "7080000",
-        "8865000",
-        "9824000",
-        "179580",
+        "1153802",
+        "2204603",
+        "8681201",
+        "7048237.22897258",
+        "8861602",
+        "40514702",
+        "228630",
         "0"
       ]
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Unveraenderliche Personennummer"
   },
   "syear": {
@@ -157,18 +145,14 @@
         "2012",
         "2012",
         "2013",
-        "2013",
+        "2013.35822070594",
         "2014",
-        "2014",
-        "179580",
+        "2015",
+        "228630",
         "0"
       ]
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Erhebungsjahr (Survey-Year)"
   },
   "im_drm_pre": {
@@ -180,7 +164,7 @@
     "label": "Innovative Module: Pretest Day Reconstruction Method",
     "categories": {
       "frequencies": [
-        172050,
+        221100,
         7530
       ],
       "labels": [
@@ -206,15 +190,11 @@
         "invalid"
       ],
       "values": [
-        "179580",
+        "228630",
         "0"
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Innovatives Modul: Pretest Day Reconstruction Method"
   },
   "im_drm": {
@@ -227,7 +207,7 @@
     "categories": {
       "frequencies": [
         7530,
-        172050
+        221100
       ],
       "labels": [
         "[0] Does not apply",
@@ -252,15 +232,11 @@
         "invalid"
       ],
       "values": [
-        "179580",
+        "228630",
         "0"
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Innovatives Modul: Day Reconstruction Method"
   },
   "drm_wt": {
@@ -277,13 +253,13 @@
         0,
         60,
         0,
-        2400,
-        17700,
-        43500,
-        39510,
-        34680,
-        25200,
-        16530
+        3030,
+        22470,
+        56280,
+        50580,
+        44520,
+        32190,
+        19500
       ],
       "labels": [
         "[-5] Not contained in questionnaire",
@@ -300,11 +276,11 @@
         "[7] Saturday"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -348,15 +324,11 @@
         "invalid"
       ],
       "values": [
-        "179520",
+        "228570",
         "60"
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wochentag der Befragung"
   },
   "drm_a": {
@@ -379,15 +351,11 @@
         "invalid"
       ],
       "values": [
-        "179520",
+        "228570",
         "60"
       ]
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Wann sind Sie gestern aufgestanden?"
   },
   "aktnr": {
@@ -404,36 +372,36 @@
         0,
         0,
         0,
-        5986,
-        5986,
-        5986,
-        5986,
-        5986,
-        5986,
-        5986,
-        5986,
-        5986,
-        5986,
-        5986,
-        5986,
-        5986,
-        5986,
-        5986,
-        5986,
-        5986,
-        5986,
-        5986,
-        5986,
-        5986,
-        5986,
-        5986,
-        5986,
-        5986,
-        5986,
-        5986,
-        5986,
-        5986,
-        5986
+        7621,
+        7621,
+        7621,
+        7621,
+        7621,
+        7621,
+        7621,
+        7621,
+        7621,
+        7621,
+        7621,
+        7621,
+        7621,
+        7621,
+        7621,
+        7621,
+        7621,
+        7621,
+        7621,
+        7621,
+        7621,
+        7621,
+        7621,
+        7621,
+        7621,
+        7621,
+        7621,
+        7621,
+        7621,
+        7621
       ],
       "labels": [
         "[-5] Not contained in questionnaire",
@@ -473,11 +441,11 @@
         "30"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -590,15 +558,11 @@
         "invalid"
       ],
       "values": [
-        "179580",
+        "228630",
         "0"
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Episodennummer"
   },
   "akt": {
@@ -613,34 +577,34 @@
         0,
         0,
         0,
-        107418,
+        136185,
         0,
-        3911,
-        2332,
-        3503,
-        2083,
-        5220,
-        11944,
-        7685,
-        4775,
-        2087,
-        1199,
-        1885,
-        2143,
-        50,
-        151,
-        5792,
-        1803,
-        1832,
-        803,
-        747,
-        427,
-        844,
-        1046,
-        3475,
-        5982,
-        406,
-        37
+        5010,
+        3055,
+        4538,
+        2653,
+        6647,
+        15162,
+        9857,
+        6138,
+        2606,
+        1522,
+        2443,
+        2654,
+        67,
+        192,
+        7438,
+        2287,
+        2353,
+        1012,
+        938,
+        566,
+        1086,
+        1361,
+        4312,
+        7617,
+        851,
+        80
       ],
       "labels": [
         "[-5] Not contained in questionnaire",
@@ -676,11 +640,11 @@
         "[26] Listening to Music / Radio"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -781,15 +745,11 @@
         "invalid"
       ],
       "values": [
-        "72162",
-        "107418"
+        "92445",
+        "136185"
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "NA"
   },
   "akt_s": {
@@ -812,15 +772,11 @@
         "invalid"
       ],
       "values": [
-        "179580",
+        "228630",
         "0"
       ]
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "NA"
   },
   "akt_e": {
@@ -843,15 +799,11 @@
         "invalid"
       ],
       "values": [
-        "179580",
+        "228630",
         "0"
       ]
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "NA"
   },
   "akt_sek_jn": {
@@ -866,10 +818,10 @@
         0,
         0,
         0,
-        113399,
+        143801,
         0,
-        9588,
-        56593
+        13408,
+        71421
       ],
       "labels": [
         "[-5] Not contained in questionnaire",
@@ -881,11 +833,11 @@
         "[2] No"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -914,15 +866,11 @@
         "invalid"
       ],
       "values": [
-        "66181",
-        "113399"
+        "84829",
+        "143801"
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "NA"
   },
   "akt_sek": {
@@ -937,34 +885,34 @@
         0,
         0,
         0,
-        169992,
+        215222,
         0,
-        40,
-        38,
         48,
-        211,
-        280,
-        1661,
-        128,
-        267,
-        316,
-        153,
-        105,
-        154,
-        11,
+        50,
+        61,
+        270,
+        352,
+        2171,
+        161,
+        327,
+        440,
+        200,
+        135,
+        190,
+        17,
+        26,
+        2134,
+        1693,
+        462,
+        589,
+        45,
         23,
-        1558,
-        1311,
-        334,
-        457,
-        31,
-        14,
-        32,
-        150,
-        1085,
+        41,
+        189,
+        1310,
         2,
-        130,
-        1049
+        287,
+        2185
       ],
       "labels": [
         "[-5] Not contained in questionnaire",
@@ -1000,11 +948,11 @@
         "[26] Listening to Music / Radio"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -1105,15 +1053,11 @@
         "invalid"
       ],
       "values": [
-        "9588",
-        "169992"
+        "13408",
+        "215222"
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "NA"
   },
   "akt_sek_s": {
@@ -1136,15 +1080,11 @@
         "invalid"
       ],
       "values": [
-        "179580",
+        "228630",
         "0"
       ]
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "NA"
   },
   "akt_sek_e": {
@@ -1167,15 +1107,11 @@
         "invalid"
       ],
       "values": [
-        "179580",
+        "228630",
         "0"
       ]
     },
     "scale": "",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "NA"
   },
   "akt_pleasant": {
@@ -1190,10 +1126,10 @@
         0,
         0,
         0,
-        113399,
-        382,
-        61957,
-        3842
+        143801,
+        477,
+        79495,
+        4857
       ],
       "labels": [
         "[-5] Not contained in questionnaire",
@@ -1205,11 +1141,11 @@
         "[2] Rather unpleasant"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -1238,15 +1174,11 @@
         "invalid"
       ],
       "values": [
-        "65799",
-        "113781"
+        "84352",
+        "144278"
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Episode angenehm / unangenehm"
   },
   "ort": {
@@ -1261,11 +1193,11 @@
         0,
         0,
         0,
-        161696,
-        32,
-        13038,
-        989,
-        3825
+        205863,
+        39,
+        16583,
+        1249,
+        4896
       ],
       "labels": [
         "[-5] Not contained in questionnaire",
@@ -1278,11 +1210,11 @@
         "[3] Somewhere else"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false
@@ -1314,15 +1246,11 @@
         "invalid"
       ],
       "values": [
-        "17852",
-        "161728"
+        "22728",
+        "205902"
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Ort der Episode"
   },
   "around1": {
@@ -1337,10 +1265,10 @@
         0,
         0,
         0,
-        161696,
+        205863,
         0,
-        8155,
-        9729
+        10316,
+        12451
       ],
       "labels": [
         "[-5] Not contained in questionnaire",
@@ -1352,11 +1280,11 @@
         "[1] Does apply"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -1385,15 +1313,11 @@
         "invalid"
       ],
       "values": [
-        "17884",
-        "161696"
+        "22767",
+        "205863"
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Niemand anwesend"
   },
   "around2": {
@@ -1408,10 +1332,10 @@
         0,
         0,
         0,
-        161696,
+        205863,
         0,
-        13056,
-        4828
+        16643,
+        6124
       ],
       "labels": [
         "[-5] Not contained in questionnaire",
@@ -1423,11 +1347,11 @@
         "[1] Does apply"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -1456,15 +1380,11 @@
         "invalid"
       ],
       "values": [
-        "17884",
-        "161696"
+        "22767",
+        "205863"
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Partner anwesend"
   },
   "around3": {
@@ -1479,10 +1399,10 @@
         0,
         0,
         0,
-        161696,
+        205863,
         0,
-        17172,
-        712
+        21870,
+        897
       ],
       "labels": [
         "[-5] Not contained in questionnaire",
@@ -1494,11 +1414,11 @@
         "[1] Does apply"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -1527,15 +1447,11 @@
         "invalid"
       ],
       "values": [
-        "17884",
-        "161696"
+        "22767",
+        "205863"
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Freunde anwesend"
   },
   "around4": {
@@ -1550,10 +1466,10 @@
         0,
         0,
         0,
-        161696,
+        205863,
         0,
-        16959,
-        925
+        21621,
+        1146
       ],
       "labels": [
         "[-5] Not contained in questionnaire",
@@ -1565,11 +1481,11 @@
         "[1] Does apply"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -1598,15 +1514,11 @@
         "invalid"
       ],
       "values": [
-        "17884",
-        "161696"
+        "22767",
+        "205863"
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Kollegen anwesend"
   },
   "around5": {
@@ -1621,10 +1533,10 @@
         0,
         0,
         0,
-        161696,
+        205863,
         0,
-        17634,
-        250
+        22442,
+        325
       ],
       "labels": [
         "[-5] Not contained in questionnaire",
@@ -1636,11 +1548,11 @@
         "[1] Does apply"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -1669,15 +1581,11 @@
         "invalid"
       ],
       "values": [
-        "17884",
-        "161696"
+        "22767",
+        "205863"
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Kunden anwesend"
   },
   "around6": {
@@ -1692,10 +1600,10 @@
         0,
         0,
         0,
-        161696,
+        205863,
         0,
-        16343,
-        1541
+        20833,
+        1934
       ],
       "labels": [
         "[-5] Not contained in questionnaire",
@@ -1707,11 +1615,11 @@
         "[1] Does apply"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -1740,15 +1648,11 @@
         "invalid"
       ],
       "values": [
-        "17884",
-        "161696"
+        "22767",
+        "205863"
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Kinder anwesend"
   },
   "around7": {
@@ -1763,10 +1667,10 @@
         0,
         0,
         0,
-        161696,
+        205863,
         0,
-        17309,
-        575
+        22022,
+        745
       ],
       "labels": [
         "[-5] Not contained in questionnaire",
@@ -1778,11 +1682,11 @@
         "[1] Does apply"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -1811,15 +1715,11 @@
         "invalid"
       ],
       "values": [
-        "17884",
-        "161696"
+        "22767",
+        "205863"
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Verwandte anwesend"
   },
   "around8": {
@@ -1834,10 +1734,10 @@
         0,
         0,
         0,
-        161696,
+        205863,
         0,
-        17705,
-        179
+        22558,
+        209
       ],
       "labels": [
         "[-5] Not contained in questionnaire",
@@ -1849,11 +1749,11 @@
         "[1] Does apply"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -1882,15 +1782,11 @@
         "invalid"
       ],
       "values": [
-        "17884",
-        "161696"
+        "22767",
+        "205863"
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Vorgesetzte anwesend"
   },
   "around9": {
@@ -1905,10 +1801,10 @@
         0,
         0,
         0,
-        161696,
+        205863,
         0,
-        17396,
-        488
+        22151,
+        616
       ],
       "labels": [
         "[-5] Not contained in questionnaire",
@@ -1920,11 +1816,11 @@
         "[1] Does apply"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -1953,15 +1849,11 @@
         "invalid"
       ],
       "values": [
-        "17884",
-        "161696"
+        "22767",
+        "205863"
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Andere Person anwesend"
   },
   "around10": {
@@ -1976,9 +1868,9 @@
         0,
         0,
         0,
-        161696,
-        43,
-        17841,
+        205863,
+        49,
+        22718,
         0
       ],
       "labels": [
@@ -1991,11 +1883,11 @@
         "[1] Does apply"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -2024,15 +1916,11 @@
         "invalid"
       ],
       "values": [
-        "17841",
-        "161739"
+        "22718",
+        "205912"
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Keine Angabe zur anwesenden Personen"
   },
   "emotion1": {
@@ -2047,15 +1935,15 @@
         0,
         0,
         0,
-        161696,
-        606,
-        2866,
-        1383,
-        2257,
-        3810,
-        3412,
-        2147,
-        1403
+        205863,
+        772,
+        3558,
+        1788,
+        2877,
+        4869,
+        4389,
+        2748,
+        1766
       ],
       "labels": [
         "[-5] Not contained in questionnaire",
@@ -2072,11 +1960,11 @@
         "[7] Very strongly"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -2120,15 +2008,11 @@
         "invalid"
       ],
       "values": [
-        "17278",
-        "162302"
+        "21995",
+        "206635"
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "NA"
   },
   "emotion2": {
@@ -2143,15 +2027,15 @@
         0,
         0,
         0,
-        161696,
-        587,
-        12601,
-        2137,
-        1018,
-        938,
-        383,
-        152,
-        68
+        205863,
+        748,
+        15962,
+        2821,
+        1301,
+        1170,
+        482,
+        196,
+        87
       ],
       "labels": [
         "[-5] Not contained in questionnaire",
@@ -2168,11 +2052,11 @@
         "[7] Very strongly"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -2216,15 +2100,11 @@
         "invalid"
       ],
       "values": [
-        "17297",
-        "162283"
+        "22019",
+        "206611"
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "NA"
   },
   "emotion3": {
@@ -2239,15 +2119,15 @@
         0,
         0,
         0,
-        161696,
-        587,
-        13279,
-        1858,
-        843,
-        758,
-        346,
-        140,
-        73
+        205863,
+        748,
+        16807,
+        2439,
+        1079,
+        961,
+        451,
+        178,
+        104
       ],
       "labels": [
         "[-5] Not contained in questionnaire",
@@ -2264,11 +2144,11 @@
         "[7] Very strongly"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -2312,15 +2192,11 @@
         "invalid"
       ],
       "values": [
-        "17297",
-        "162283"
+        "22019",
+        "206611"
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Frust"
   },
   "emotion4": {
@@ -2335,15 +2211,15 @@
         0,
         0,
         0,
-        161696,
-        561,
-        8341,
-        1949,
-        2031,
-        2012,
-        1593,
-        853,
-        544
+        205863,
+        720,
+        10460,
+        2569,
+        2568,
+        2574,
+        2063,
+        1133,
+        680
       ],
       "labels": [
         "[-5] Not contained in questionnaire",
@@ -2360,11 +2236,11 @@
         "[7] Very strongly"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -2408,15 +2284,11 @@
         "invalid"
       ],
       "values": [
-        "17323",
-        "162257"
+        "22047",
+        "206583"
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "NA"
   },
   "emotion5": {
@@ -2431,15 +2303,15 @@
         0,
         0,
         0,
-        161696,
-        584,
-        14901,
-        1254,
-        427,
-        501,
-        134,
-        54,
-        29
+        205863,
+        745,
+        18889,
+        1683,
+        542,
+        629,
+        173,
+        67,
+        39
       ],
       "labels": [
         "[-5] Not contained in questionnaire",
@@ -2456,11 +2328,11 @@
         "[7] Very strongly"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -2504,15 +2376,11 @@
         "invalid"
       ],
       "values": [
-        "17300",
-        "162280"
+        "22022",
+        "206608"
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Trauer"
   },
   "emotion6": {
@@ -2527,398 +2395,14 @@
         0,
         0,
         0,
-        161696,
-        578,
-        13139,
-        1771,
-        998,
-        866,
-        346,
-        129,
-        57
-      ],
-      "labels": [
-        "[-5] Not contained in questionnaire",
-        "[-4] inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer",
-        "[1] Not at all",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "[7] Very strongly"
-      ],
-      "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
-      "labels_de": [
-        "[-5] Nicht im Fragebogen enthalten",
-        "[-4] Unzulaessige Mehrfachantwort",
-        "[-3] Nicht valide",
-        "[-2] Trifft nicht zu",
-        "[-1] Keine Angabe",
-        "[1] Gar nicht",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "[7] Sehr stark"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "17306",
-        "162274"
-      ]
-    },
-    "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
-    "label_de": "Sorgen"
-  },
-  "emotion7": {
-    "study": "soep-is",
-    "name": "emotion7",
-    "name_cs": "emotion7",
-    "variable": "emotion7",
-    "dataset": "idrm",
-    "label": "Pain",
-    "categories": {
-      "frequencies": [
-        0,
-        0,
-        0,
-        161696,
-        575,
-        13145,
-        1327,
-        899,
-        972,
-        562,
-        268,
-        136
-      ],
-      "labels": [
-        "[-5] Not contained in questionnaire",
-        "[-4] inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer",
-        "[1] Not at all",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "[7] Very strongly"
-      ],
-      "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
-      "labels_de": [
-        "[-5] Nicht im Fragebogen enthalten",
-        "[-4] Unzulaessige Mehrfachantwort",
-        "[-3] Nicht valide",
-        "[-2] Trifft nicht zu",
-        "[-1] Keine Angabe",
-        "[1] Gar nicht",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "[7] Sehr stark"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "17309",
-        "162271"
-      ]
-    },
-    "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
-    "label_de": "Schmerzen"
-  },
-  "emotion8": {
-    "study": "soep-is",
-    "name": "emotion8",
-    "name_cs": "emotion8",
-    "variable": "emotion8",
-    "dataset": "idrm",
-    "label": "Enthusiasm",
-    "categories": {
-      "frequencies": [
-        0,
-        0,
-        0,
-        161696,
-        566,
-        5552,
-        1918,
-        2577,
-        3166,
-        2203,
-        1209,
-        693
-      ],
-      "labels": [
-        "[-5] Not contained in questionnaire",
-        "[-4] inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer",
-        "[1] Not at all",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "[7] Very strongly"
-      ],
-      "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
-      "labels_de": [
-        "[-5] Nicht im Fragebogen enthalten",
-        "[-4] Unzulaessige Mehrfachantwort",
-        "[-3] Nicht valide",
-        "[-2] Trifft nicht zu",
-        "[-1] Keine Angabe",
-        "[1] Gar nicht",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "[7] Sehr stark"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "17318",
-        "162262"
-      ]
-    },
-    "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
-    "label_de": "Begeisterung"
-  },
-  "emotion9": {
-    "study": "soep-is",
-    "name": "emotion9",
-    "name_cs": "emotion9",
-    "variable": "emotion9",
-    "dataset": "idrm",
-    "label": "Satisfaction",
-    "categories": {
-      "frequencies": [
-        0,
-        0,
-        0,
-        161696,
-        527,
-        1932,
-        933,
-        2127,
-        4146,
-        3901,
-        2728,
-        1590
-      ],
-      "labels": [
-        "[-5] Not contained in questionnaire",
-        "[-4] inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer",
-        "[1] Not at all",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "[7] Very strongly"
-      ],
-      "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
-      "labels_de": [
-        "[-5] Nicht im Fragebogen enthalten",
-        "[-4] Unzulaessige Mehrfachantwort",
-        "[-3] Nicht valide",
-        "[-2] Trifft nicht zu",
-        "[-1] Keine Angabe",
-        "[1] Gar nicht",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "[7] Sehr stark"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "17357",
-        "162223"
-      ]
-    },
-    "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
-    "label_de": "Zufriedenheit"
-  },
-  "emotion10": {
-    "study": "soep-is",
-    "name": "emotion10",
-    "name_cs": "emotion10",
-    "variable": "emotion10",
-    "dataset": "idrm",
-    "label": "Boredom",
-    "categories": {
-      "frequencies": [
-        0,
-        0,
-        0,
-        161696,
-        575,
-        13159,
-        1885,
-        915,
-        810,
-        331,
-        128,
+        205863,
+        739,
+        16551,
+        2388,
+        1298,
+        1085,
+        454,
+        171,
         81
       ],
       "labels": [
@@ -2936,11 +2420,11 @@
         "[7] Very strongly"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -2984,15 +2468,379 @@
         "invalid"
       ],
       "values": [
-        "17309",
-        "162271"
+        "22028",
+        "206602"
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
+    "label_de": "Sorgen"
+  },
+  "emotion7": {
+    "study": "soep-is",
+    "name": "emotion7",
+    "name_cs": "emotion7",
+    "variable": "emotion7",
+    "dataset": "idrm",
+    "label": "Pain",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        205863,
+        735,
+        16694,
+        1734,
+        1168,
+        1200,
+        710,
+        353,
+        173
+      ],
+      "labels": [
+        "[-5] Not contained in questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Not at all",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "[7] Very strongly"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "labels_de": [
+        "[-5] Nicht im Fragebogen enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[1] Gar nicht",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "[7] Sehr stark"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "22032",
+        "206598"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Schmerzen"
+  },
+  "emotion8": {
+    "study": "soep-is",
+    "name": "emotion8",
+    "name_cs": "emotion8",
+    "variable": "emotion8",
+    "dataset": "idrm",
+    "label": "Enthusiasm",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        205863,
+        730,
+        6921,
+        2447,
+        3313,
+        4077,
+        2841,
+        1544,
+        894
+      ],
+      "labels": [
+        "[-5] Not contained in questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Not at all",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "[7] Very strongly"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "labels_de": [
+        "[-5] Nicht im Fragebogen enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[1] Gar nicht",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "[7] Sehr stark"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "22037",
+        "206593"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Begeisterung"
+  },
+  "emotion9": {
+    "study": "soep-is",
+    "name": "emotion9",
+    "name_cs": "emotion9",
+    "variable": "emotion9",
+    "dataset": "idrm",
+    "label": "Satisfaction",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        205863,
+        687,
+        2425,
+        1188,
+        2691,
+        5205,
+        4991,
+        3540,
+        2040
+      ],
+      "labels": [
+        "[-5] Not contained in questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Not at all",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "[7] Very strongly"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "labels_de": [
+        "[-5] Nicht im Fragebogen enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[1] Gar nicht",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "[7] Sehr stark"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "22080",
+        "206550"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zufriedenheit"
+  },
+  "emotion10": {
+    "study": "soep-is",
+    "name": "emotion10",
+    "name_cs": "emotion10",
+    "variable": "emotion10",
+    "dataset": "idrm",
+    "label": "Boredom",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        205863,
+        735,
+        16694,
+        2491,
+        1125,
+        1043,
+        414,
+        169,
+        96
+      ],
+      "labels": [
+        "[-5] Not contained in questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Not at all",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "[7] Very strongly"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "labels_de": [
+        "[-5] Nicht im Fragebogen enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[1] Gar nicht",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "[7] Sehr stark"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "22032",
+        "206598"
+      ]
+    },
+    "scale": "cat",
     "label_de": "Langeweile"
   },
   "emotion11": {
@@ -3007,15 +2855,15 @@
         0,
         0,
         0,
-        161696,
-        577,
-        14148,
-        1414,
-        634,
-        621,
-        258,
-        135,
-        97
+        205863,
+        736,
+        17954,
+        1871,
+        785,
+        794,
+        331,
+        176,
+        120
       ],
       "labels": [
         "[-5] Not contained in questionnaire",
@@ -3032,11 +2880,11 @@
         "[7] Very strongly"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -3080,15 +2928,11 @@
         "invalid"
       ],
       "values": [
-        "17307",
-        "162273"
+        "22031",
+        "206599"
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Einsamkeit"
   },
   "emotion12": {
@@ -3103,15 +2947,15 @@
         0,
         0,
         0,
-        161696,
-        572,
-        12906,
-        1604,
-        980,
-        926,
-        515,
-        248,
-        133
+        205863,
+        732,
+        16309,
+        2144,
+        1292,
+        1169,
+        649,
+        320,
+        152
       ],
       "labels": [
         "[-5] Not contained in questionnaire",
@@ -3128,11 +2972,11 @@
         "[7] Very strongly"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -3176,15 +3020,11 @@
         "invalid"
       ],
       "values": [
-        "17312",
-        "162268"
+        "22035",
+        "206595"
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Stress"
   },
   "emotion13": {
@@ -3199,15 +3039,15 @@
         0,
         0,
         0,
-        161696,
-        809,
-        9219,
-        1391,
-        1213,
-        2034,
-        1324,
-        972,
-        922
+        205863,
+        1008,
+        11483,
+        1846,
+        1582,
+        2615,
+        1724,
+        1293,
+        1216
       ],
       "labels": [
         "[-5] Not contained in questionnaire",
@@ -3224,11 +3064,11 @@
         "[7] Very strongly"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -3272,15 +3112,11 @@
         "invalid"
       ],
       "values": [
-        "17075",
-        "162505"
+        "21759",
+        "206871"
       ]
     },
     "scale": "cat",
-    "analysis_unit": "p",
-    "sub_type": "org/net",
-    "boost": "1",
-    "period": "long",
     "label_de": "Tieferen Sinn"
   }
 }
