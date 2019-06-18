@@ -48,37 +48,37 @@
       <labl>Innovative Module: Day Reconstruction Method - Experience Sampling Method</labl>
       <sumStat type="valid">15570</sumStat>
       <sumStat type="invalid">0</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>0</catValu>
         <labl>[0] Does Not Apply</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>[1] Does Apply</labl>
         <catStat type="freq">15570</catStat>
@@ -88,67 +88,67 @@
       <labl>Weekday of survey</labl>
       <sumStat type="valid">15570</sumStat>
       <sumStat type="invalid">0</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>[1] Sunday</labl>
         <catStat type="freq"> 660</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>[2] Monday</labl>
         <catStat type="freq">1920</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>[3] Tuesday</labl>
         <catStat type="freq">3120</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>4</catValu>
         <labl>[4] Wednesday</labl>
         <catStat type="freq">3030</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>5</catValu>
         <labl>[5] Thursday</labl>
         <catStat type="freq">2880</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>6</catValu>
         <labl>[6] Friday</labl>
         <catStat type="freq">2310</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>7</catValu>
         <labl>[7] Saturday</labl>
         <catStat type="freq">1650</catStat>
@@ -163,153 +163,153 @@
       <labl>Number of episode</labl>
       <sumStat type="valid">15570</sumStat>
       <sumStat type="invalid">0</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">  0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">  0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">  0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">  0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">  0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">  0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <catStat type="freq">519</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>10</catValu>
         <catStat type="freq">519</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>11</catValu>
         <catStat type="freq">519</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>12</catValu>
         <catStat type="freq">519</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>13</catValu>
         <catStat type="freq">519</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>14</catValu>
         <catStat type="freq">519</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>15</catValu>
         <catStat type="freq">519</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>16</catValu>
         <catStat type="freq">519</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>17</catValu>
         <catStat type="freq">519</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>18</catValu>
         <catStat type="freq">519</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>19</catValu>
         <catStat type="freq">519</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <catStat type="freq">519</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>20</catValu>
         <catStat type="freq">519</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>21</catValu>
         <catStat type="freq">519</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>22</catValu>
         <catStat type="freq">519</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>23</catValu>
         <catStat type="freq">519</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>24</catValu>
         <catStat type="freq">519</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>25</catValu>
         <catStat type="freq">519</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>26</catValu>
         <catStat type="freq">519</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>27</catValu>
         <catStat type="freq">519</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>28</catValu>
         <catStat type="freq">519</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>29</catValu>
         <catStat type="freq">519</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <catStat type="freq">519</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>30</catValu>
         <catStat type="freq">519</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>4</catValu>
         <catStat type="freq">519</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>5</catValu>
         <catStat type="freq">519</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>6</catValu>
         <catStat type="freq">519</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>7</catValu>
         <catStat type="freq">519</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>8</catValu>
         <catStat type="freq">519</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>9</catValu>
         <catStat type="freq">519</catStat>
       </catgry>
@@ -318,162 +318,162 @@
       <labl>Activity</labl>
       <sumStat type="valid">6766</sumStat>
       <sumStat type="invalid">8804</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">8804</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>[1] On the way to work/ study or way home from there</labl>
         <catStat type="freq"> 327</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>[2] Way to spare time activity, way back home</labl>
         <catStat type="freq"> 331</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>[3] Working / studying</labl>
         <catStat type="freq"> 321</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>4</catValu>
         <labl>[4] Shopping</labl>
         <catStat type="freq"> 216</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>5</catValu>
         <labl>[5] Preparing food</labl>
         <catStat type="freq"> 488</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>6</catValu>
         <labl>[6] Eating</labl>
         <catStat type="freq">1033</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>7</catValu>
         <labl>[7] Washing / showering / bathing / brushing teeth / dressing oneself</labl>
         <catStat type="freq"> 716</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>8</catValu>
         <labl>[8] Doing housework</labl>
         <catStat type="freq"> 461</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>9</catValu>
         <labl>[9] Taking care of children, taking them to school, activities</labl>
         <catStat type="freq"> 254</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>10</catValu>
         <labl>[10] Meet friends</labl>
         <catStat type="freq"> 144</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>11</catValu>
         <labl>[11] Resting, taking a nap</labl>
         <catStat type="freq"> 121</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>12</catValu>
         <labl>[12] Relaxing</labl>
         <catStat type="freq"> 152</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>13</catValu>
         <labl>[13] Intimate relations</labl>
         <catStat type="freq">   6</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>14</catValu>
         <labl>[14] Worship, meditation</labl>
         <catStat type="freq">  21</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>15</catValu>
         <labl>[15] Watching TV</labl>
         <catStat type="freq"> 491</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>16</catValu>
         <labl>[16] Reading</labl>
         <catStat type="freq"> 150</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>17</catValu>
         <labl>[17] Computer/ internet</labl>
         <catStat type="freq"> 216</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>18</catValu>
         <labl>[18] On the phone</labl>
         <catStat type="freq">  78</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>19</catValu>
         <labl>[19] Doing sports</labl>
         <catStat type="freq">  62</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>20</catValu>
         <labl>[20] Visiting a doctor</labl>
         <catStat type="freq">  44</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>21</catValu>
         <labl>[21] Gardening</labl>
         <catStat type="freq">  69</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>22</catValu>
         <labl>[22] Keep oneself busy with pets (feeding, playing, walking the dog)</labl>
         <catStat type="freq"> 115</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>23</catValu>
         <labl>[23] Other activity</labl>
         <catStat type="freq"> 269</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>24</catValu>
         <labl>[24] End of the day: beginning of the night rest or 12am.</labl>
         <catStat type="freq"> 519</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>25</catValu>
         <labl>[25] Drinking coffee / tea</labl>
         <catStat type="freq"> 151</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>26</catValu>
         <labl>[26] Listen to music / radio</labl>
         <catStat type="freq">  11</catStat>
@@ -493,42 +493,42 @@
       <labl>Secondary activity yes / no</labl>
       <sumStat type="valid">6247</sumStat>
       <sumStat type="invalid">9323</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">9323</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>[1] Yes</labl>
         <catStat type="freq">1549</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>[2] No</labl>
         <catStat type="freq">4698</catStat>
@@ -538,157 +538,157 @@
       <labl>Secondary activity</labl>
       <sumStat type="valid">1549</sumStat>
       <sumStat type="invalid">14021</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">14021</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>[1] On the way to work/ study or way home from there</labl>
         <catStat type="freq">    3</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>[2] Way to spare time activity, way back home</labl>
         <catStat type="freq">    4</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>[3] Working / studying</labl>
         <catStat type="freq">    5</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>4</catValu>
         <labl>[4] Shopping</labl>
         <catStat type="freq">   26</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>5</catValu>
         <labl>[5] Preparing food</labl>
         <catStat type="freq">   22</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>6</catValu>
         <labl>[6] Eating</labl>
         <catStat type="freq">  174</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>7</catValu>
         <labl>[7] Washing / showering / bathing / brushing teeth / dressing oneself</labl>
         <catStat type="freq">   17</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>8</catValu>
         <labl>[8] Doing housework</labl>
         <catStat type="freq">   30</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>9</catValu>
         <labl>[9] Taking care of children, taking them to school, activities</labl>
         <catStat type="freq">   40</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>10</catValu>
         <labl>[10] Meet friends</labl>
         <catStat type="freq">   24</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>11</catValu>
         <labl>[11] Resting, taking a nap</labl>
         <catStat type="freq">   10</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>12</catValu>
         <labl>[12] Relaxing</labl>
         <catStat type="freq">    9</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>13</catValu>
         <labl>[13] Intimate relations</labl>
         <catStat type="freq">    1</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>14</catValu>
         <labl>[14] Worship, meditation</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>15</catValu>
         <labl>[15] Watching TV</labl>
         <catStat type="freq">  222</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>16</catValu>
         <labl>[16] Reading</labl>
         <catStat type="freq">  121</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>17</catValu>
         <labl>[17] Computer/ internet</labl>
         <catStat type="freq">   45</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>18</catValu>
         <labl>[18] On the phone</labl>
         <catStat type="freq">   39</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>19</catValu>
         <labl>[19] Doing sports</labl>
         <catStat type="freq">    3</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>20</catValu>
         <labl>[20] Visiting a doctor</labl>
         <catStat type="freq">    1</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>21</catValu>
         <labl>[21] Gardening</labl>
         <catStat type="freq">    1</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>22</catValu>
         <labl>[22] Keep oneself busy with pets (feeding, playing, walking the dog)</labl>
         <catStat type="freq">   14</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>23</catValu>
         <labl>[23] Other activity</labl>
         <catStat type="freq">  135</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>25</catValu>
         <labl>[25] Drinking coffee / tea</labl>
         <catStat type="freq">   63</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>26</catValu>
         <labl>[26] Listen to music / radio</labl>
         <catStat type="freq">  540</catStat>
@@ -698,42 +698,42 @@
       <labl>Episode pleasant / unpleasant</labl>
       <sumStat type="valid">6245</sumStat>
       <sumStat type="invalid">9325</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">9323</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">   2</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>[1] Rather pleasant</labl>
         <catStat type="freq">5912</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>[2] Rather unpleasant</labl>
         <catStat type="freq"> 333</catStat>
@@ -743,47 +743,47 @@
       <labl>Place of episode</labl>
       <sumStat type="valid">1555</sumStat>
       <sumStat type="invalid">14015</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">14015</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>[1] At home</labl>
         <catStat type="freq"> 1096</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>[2] At work</labl>
         <catStat type="freq">   79</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>[3] Somewhere else</labl>
         <catStat type="freq">  380</catStat>
@@ -793,42 +793,42 @@
       <labl>Nobody around</labl>
       <sumStat type="valid">1555</sumStat>
       <sumStat type="invalid">14015</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">14015</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>0</catValu>
         <labl>[0] Does not apply</labl>
         <catStat type="freq">  775</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>[1] Does apply</labl>
         <catStat type="freq">  780</catStat>
@@ -838,42 +838,42 @@
       <labl>Partner / spouse around</labl>
       <sumStat type="valid">1555</sumStat>
       <sumStat type="invalid">14015</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">14015</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>0</catValu>
         <labl>[0] Does not apply</labl>
         <catStat type="freq"> 1146</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>[1] Does apply</labl>
         <catStat type="freq">  409</catStat>
@@ -883,42 +883,42 @@
       <labl>Friend(s) around</labl>
       <sumStat type="valid">1555</sumStat>
       <sumStat type="invalid">14015</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">14015</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>0</catValu>
         <labl>[0] Does not apply</labl>
         <catStat type="freq"> 1471</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>[1] Does apply</labl>
         <catStat type="freq">   84</catStat>
@@ -928,42 +928,42 @@
       <labl>Colleague(s) around</labl>
       <sumStat type="valid">1555</sumStat>
       <sumStat type="invalid">14015</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">14015</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>0</catValu>
         <labl>[0] Does not apply</labl>
         <catStat type="freq"> 1472</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>[1] Does apply</labl>
         <catStat type="freq">   83</catStat>
@@ -973,42 +973,42 @@
       <labl>Clients around</labl>
       <sumStat type="valid">1555</sumStat>
       <sumStat type="invalid">14015</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">14015</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>0</catValu>
         <labl>[0] Does not apply</labl>
         <catStat type="freq"> 1530</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>[1] Does apply</labl>
         <catStat type="freq">   25</catStat>
@@ -1018,42 +1018,42 @@
       <labl>Children around</labl>
       <sumStat type="valid">1555</sumStat>
       <sumStat type="invalid">14015</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">14015</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>0</catValu>
         <labl>[0] Does not apply</labl>
         <catStat type="freq"> 1357</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>[1] Does apply</labl>
         <catStat type="freq">  198</catStat>
@@ -1063,42 +1063,42 @@
       <labl>Relatives around</labl>
       <sumStat type="valid">1555</sumStat>
       <sumStat type="invalid">14015</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">14015</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>0</catValu>
         <labl>[0] Does not apply</labl>
         <catStat type="freq"> 1457</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>[1] Does apply</labl>
         <catStat type="freq">   98</catStat>
@@ -1108,42 +1108,42 @@
       <labl>Supervisor around</labl>
       <sumStat type="valid">1555</sumStat>
       <sumStat type="invalid">14015</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">14015</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>0</catValu>
         <labl>[0] Does not apply</labl>
         <catStat type="freq"> 1535</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>[1] Does apply</labl>
         <catStat type="freq">   20</catStat>
@@ -1153,42 +1153,42 @@
       <labl>Other person(s) around</labl>
       <sumStat type="valid">1555</sumStat>
       <sumStat type="invalid">14015</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">14015</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>0</catValu>
         <labl>[0] Does not apply</labl>
         <catStat type="freq"> 1508</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>[1] Does apply</labl>
         <catStat type="freq">   47</catStat>
@@ -1198,42 +1198,42 @@
       <labl>No information on person(s) around</labl>
       <sumStat type="valid">1554</sumStat>
       <sumStat type="invalid">14016</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">14015</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">    1</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>0</catValu>
         <labl>[0] Does not apply</labl>
         <catStat type="freq"> 1554</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>[1] Does apply</labl>
         <catStat type="freq">    0</catStat>
@@ -1243,62 +1243,62 @@
       <labl>Happiness</labl>
       <sumStat type="valid">1552</sumStat>
       <sumStat type="invalid">14018</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">    3</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">14015</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>[1] Not at all</labl>
         <catStat type="freq">  152</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <catStat type="freq">  124</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <catStat type="freq">  232</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>4</catValu>
         <catStat type="freq">  378</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>5</catValu>
         <catStat type="freq">  378</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>6</catValu>
         <catStat type="freq">  200</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>7</catValu>
         <labl>[7] Very strongly</labl>
         <catStat type="freq">   88</catStat>
@@ -1308,62 +1308,62 @@
       <labl>Anger</labl>
       <sumStat type="valid">1552</sumStat>
       <sumStat type="invalid">14018</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">    3</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">14015</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>[1] Not at all</labl>
         <catStat type="freq"> 1183</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <catStat type="freq">  178</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <catStat type="freq">   83</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>4</catValu>
         <catStat type="freq">   60</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>5</catValu>
         <catStat type="freq">   32</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>6</catValu>
         <catStat type="freq">    9</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>7</catValu>
         <labl>[7] Very strongly</labl>
         <catStat type="freq">    7</catStat>
@@ -1373,62 +1373,62 @@
       <labl>Frustration</labl>
       <sumStat type="valid">1552</sumStat>
       <sumStat type="invalid">14018</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">    3</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">14015</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>[1] Not at all</labl>
         <catStat type="freq"> 1237</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <catStat type="freq">  143</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <catStat type="freq">   70</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>4</catValu>
         <catStat type="freq">   53</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>5</catValu>
         <catStat type="freq">   32</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>6</catValu>
         <catStat type="freq">    9</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>7</catValu>
         <labl>[7] Very strongly</labl>
         <catStat type="freq">    8</catStat>
@@ -1438,62 +1438,62 @@
       <labl>Fatigue</labl>
       <sumStat type="valid">1552</sumStat>
       <sumStat type="invalid">14018</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">    3</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">14015</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>[1] Not at all</labl>
         <catStat type="freq">  783</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <catStat type="freq">  172</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <catStat type="freq">  195</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>4</catValu>
         <catStat type="freq">  170</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>5</catValu>
         <catStat type="freq">  132</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>6</catValu>
         <catStat type="freq">   60</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>7</catValu>
         <labl>[7] Very strongly</labl>
         <catStat type="freq">   40</catStat>
@@ -1503,62 +1503,62 @@
       <labl>Sadness</labl>
       <sumStat type="valid">1552</sumStat>
       <sumStat type="invalid">14018</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">    3</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">14015</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>[1] Not at all</labl>
         <catStat type="freq"> 1382</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <catStat type="freq">   82</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <catStat type="freq">   40</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>4</catValu>
         <catStat type="freq">   33</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>5</catValu>
         <catStat type="freq">    5</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>6</catValu>
         <catStat type="freq">    3</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>7</catValu>
         <labl>[7] Very strongly</labl>
         <catStat type="freq">    7</catStat>
@@ -1568,62 +1568,62 @@
       <labl>Worries</labl>
       <sumStat type="valid">1552</sumStat>
       <sumStat type="invalid">14018</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">    3</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">14015</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>[1] Not at all</labl>
         <catStat type="freq"> 1185</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <catStat type="freq">  160</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <catStat type="freq">   86</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>4</catValu>
         <catStat type="freq">   74</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>5</catValu>
         <catStat type="freq">   28</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>6</catValu>
         <catStat type="freq">   11</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>7</catValu>
         <labl>[7] Very strongly</labl>
         <catStat type="freq">    8</catStat>
@@ -1633,62 +1633,62 @@
       <labl>Pain</labl>
       <sumStat type="valid">1552</sumStat>
       <sumStat type="invalid">14018</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">    3</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">14015</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>[1] Not at all</labl>
         <catStat type="freq"> 1076</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <catStat type="freq">  161</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <catStat type="freq">  128</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>4</catValu>
         <catStat type="freq">   80</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>5</catValu>
         <catStat type="freq">   59</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>6</catValu>
         <catStat type="freq">   28</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>7</catValu>
         <labl>[7] Very strongly</labl>
         <catStat type="freq">   20</catStat>
@@ -1698,62 +1698,62 @@
       <labl>Enthusiasm</labl>
       <sumStat type="valid">1551</sumStat>
       <sumStat type="invalid">14019</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">    4</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">14015</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>[1] Not at all</labl>
         <catStat type="freq">  356</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <catStat type="freq">  198</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <catStat type="freq">  297</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>4</catValu>
         <catStat type="freq">  338</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>5</catValu>
         <catStat type="freq">  219</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>6</catValu>
         <catStat type="freq">   97</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>7</catValu>
         <labl>[7] Very strongly</labl>
         <catStat type="freq">   46</catStat>
@@ -1763,62 +1763,62 @@
       <labl>Satisfaction</labl>
       <sumStat type="valid">1552</sumStat>
       <sumStat type="invalid">14018</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">    3</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">14015</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>[1] Not at all</labl>
         <catStat type="freq">  101</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <catStat type="freq">   97</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <catStat type="freq">  222</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>4</catValu>
         <catStat type="freq">  388</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>5</catValu>
         <catStat type="freq">  405</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>6</catValu>
         <catStat type="freq">  241</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>7</catValu>
         <labl>[7] Very strongly</labl>
         <catStat type="freq">   98</catStat>
@@ -1828,58 +1828,58 @@
       <labl>Boredom</labl>
       <sumStat type="valid">1552</sumStat>
       <sumStat type="invalid">14018</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">    3</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">14015</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>[1] Not at all</labl>
         <catStat type="freq"> 1328</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <catStat type="freq">  116</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <catStat type="freq">   49</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>4</catValu>
         <catStat type="freq">   35</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>5</catValu>
         <catStat type="freq">   14</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>7</catValu>
         <labl>[7] Very strongly</labl>
         <catStat type="freq">   10</catStat>
@@ -1889,62 +1889,62 @@
       <labl>Loneliness</labl>
       <sumStat type="valid">1552</sumStat>
       <sumStat type="invalid">14018</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">    3</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">14015</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>[1] Not at all</labl>
         <catStat type="freq"> 1380</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <catStat type="freq">   87</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <catStat type="freq">   32</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>4</catValu>
         <catStat type="freq">   31</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>5</catValu>
         <catStat type="freq">    9</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>6</catValu>
         <catStat type="freq">    3</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>7</catValu>
         <labl>[7] Very strongly</labl>
         <catStat type="freq">   10</catStat>
@@ -1954,62 +1954,62 @@
       <labl>Stress</labl>
       <sumStat type="valid">1552</sumStat>
       <sumStat type="invalid">14018</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">    3</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">14015</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>[1] Not at all</labl>
         <catStat type="freq"> 1177</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <catStat type="freq">  129</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <catStat type="freq">  100</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>4</catValu>
         <catStat type="freq">   66</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>5</catValu>
         <catStat type="freq">   45</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>6</catValu>
         <catStat type="freq">   23</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>7</catValu>
         <labl>[7] Very strongly</labl>
         <catStat type="freq">   12</catStat>
@@ -2019,62 +2019,62 @@
       <labl>Meaning</labl>
       <sumStat type="valid">1544</sumStat>
       <sumStat type="invalid">14026</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">   11</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">14015</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>[1] Not at all</labl>
         <catStat type="freq">  614</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <catStat type="freq">  118</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <catStat type="freq">  166</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>4</catValu>
         <catStat type="freq">  263</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>5</catValu>
         <catStat type="freq">  166</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>6</catValu>
         <catStat type="freq">  132</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>7</catValu>
         <labl>[7] Very strongly</labl>
         <catStat type="freq">   85</catStat>
@@ -2084,87 +2084,87 @@
       <labl>Satisfaction With Health</labl>
       <sumStat type="valid">15570</sumStat>
       <sumStat type="invalid">0</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>0</catValu>
         <labl>[0] Completely dissatisfied</labl>
         <catStat type="freq"> 150</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>1</labl>
         <catStat type="freq">  60</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>2</labl>
         <catStat type="freq"> 480</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>3</labl>
         <catStat type="freq"> 840</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>4</catValu>
         <labl>4</labl>
         <catStat type="freq">1260</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>5</catValu>
         <labl>5</labl>
         <catStat type="freq">1770</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>6</catValu>
         <labl>6</labl>
         <catStat type="freq">1680</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>7</catValu>
         <labl>7</labl>
         <catStat type="freq">2550</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>8</catValu>
         <labl>8</labl>
         <catStat type="freq">3270</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>9</catValu>
         <labl>9</labl>
         <catStat type="freq">2340</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>10</catValu>
         <labl>[10] Completely satisfied</labl>
         <catStat type="freq">1170</catStat>
@@ -2174,87 +2174,87 @@
       <labl>Satisfaction With Sleep</labl>
       <sumStat type="valid">15570</sumStat>
       <sumStat type="invalid">0</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>0</catValu>
         <labl>[0] Completely dissatisfied</labl>
         <catStat type="freq"> 150</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>1</labl>
         <catStat type="freq"> 120</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>2</labl>
         <catStat type="freq"> 330</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>3</labl>
         <catStat type="freq">1050</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>4</catValu>
         <labl>4</labl>
         <catStat type="freq">1320</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>5</catValu>
         <labl>5</labl>
         <catStat type="freq">1680</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>6</catValu>
         <labl>6</labl>
         <catStat type="freq">1620</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>7</catValu>
         <labl>7</labl>
         <catStat type="freq">2280</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>8</catValu>
         <labl>8</labl>
         <catStat type="freq">3510</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>9</catValu>
         <labl>9</labl>
         <catStat type="freq">2100</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>10</catValu>
         <labl>[10] Completely satisfied</labl>
         <catStat type="freq">1410</catStat>
@@ -2264,87 +2264,87 @@
       <labl>Satisfaction With Work</labl>
       <sumStat type="valid">8490</sumStat>
       <sumStat type="invalid">7080</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">6870</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq"> 210</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>0</catValu>
         <labl>[0] Completely dissatisfied</labl>
         <catStat type="freq"> 120</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>1</labl>
         <catStat type="freq">  90</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>2</labl>
         <catStat type="freq">  60</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>3</labl>
         <catStat type="freq"> 300</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>4</catValu>
         <labl>4</labl>
         <catStat type="freq"> 240</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>5</catValu>
         <labl>5</labl>
         <catStat type="freq"> 780</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>6</catValu>
         <labl>6</labl>
         <catStat type="freq"> 870</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>7</catValu>
         <labl>7</labl>
         <catStat type="freq">1740</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>8</catValu>
         <labl>8</labl>
         <catStat type="freq">2190</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>9</catValu>
         <labl>9</labl>
         <catStat type="freq">1560</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>10</catValu>
         <labl>[10] Completely satisfied</labl>
         <catStat type="freq"> 540</catStat>
@@ -2354,87 +2354,87 @@
       <labl>Satisfaction With Household Income</labl>
       <sumStat type="valid">15360</sumStat>
       <sumStat type="invalid">210</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq"> 210</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>0</catValu>
         <labl>[0] Completely dissatisfied</labl>
         <catStat type="freq">  60</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>1</labl>
         <catStat type="freq">  90</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>2</labl>
         <catStat type="freq"> 510</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>3</labl>
         <catStat type="freq">1110</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>4</catValu>
         <labl>4</labl>
         <catStat type="freq">1080</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>5</catValu>
         <labl>5</labl>
         <catStat type="freq">2070</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>6</catValu>
         <labl>6</labl>
         <catStat type="freq">1470</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>7</catValu>
         <labl>7</labl>
         <catStat type="freq">2850</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>8</catValu>
         <labl>8</labl>
         <catStat type="freq">3240</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>9</catValu>
         <labl>9</labl>
         <catStat type="freq">1710</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>10</catValu>
         <labl>[10] Completely satisfied</labl>
         <catStat type="freq">1170</catStat>
@@ -2444,87 +2444,87 @@
       <labl>Satisfaction With Personal Income</labl>
       <sumStat type="valid">10740</sumStat>
       <sumStat type="invalid">4830</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">4680</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq"> 150</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>0</catValu>
         <labl>[0] Completely dissatisfied</labl>
         <catStat type="freq"> 300</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>1</labl>
         <catStat type="freq"> 150</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>2</labl>
         <catStat type="freq"> 570</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>3</labl>
         <catStat type="freq"> 780</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>4</catValu>
         <labl>4</labl>
         <catStat type="freq"> 870</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>5</catValu>
         <labl>5</labl>
         <catStat type="freq">1650</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>6</catValu>
         <labl>6</labl>
         <catStat type="freq"> 930</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>7</catValu>
         <labl>7</labl>
         <catStat type="freq">1860</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>8</catValu>
         <labl>8</labl>
         <catStat type="freq">2070</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>9</catValu>
         <labl>9</labl>
         <catStat type="freq">1020</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>10</catValu>
         <labl>[10] Completely satisfied</labl>
         <catStat type="freq"> 540</catStat>
@@ -2534,87 +2534,87 @@
       <labl>Satisfaction With Dwelling</labl>
       <sumStat type="valid">15510</sumStat>
       <sumStat type="invalid">60</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">  60</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>0</catValu>
         <labl>[0] Completely dissatisfied</labl>
         <catStat type="freq">  30</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>1</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>2</labl>
         <catStat type="freq">  90</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>3</labl>
         <catStat type="freq"> 210</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>4</catValu>
         <labl>4</labl>
         <catStat type="freq"> 510</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>5</catValu>
         <labl>5</labl>
         <catStat type="freq">1080</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>6</catValu>
         <labl>6</labl>
         <catStat type="freq">1020</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>7</catValu>
         <labl>7</labl>
         <catStat type="freq">2010</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>8</catValu>
         <labl>8</labl>
         <catStat type="freq">4380</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>9</catValu>
         <labl>9</labl>
         <catStat type="freq">3300</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>10</catValu>
         <labl>[10] Completely satisfied</labl>
         <catStat type="freq">2880</catStat>
@@ -2624,87 +2624,87 @@
       <labl>Satisfaction With Leisure Time</labl>
       <sumStat type="valid">15570</sumStat>
       <sumStat type="invalid">0</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>0</catValu>
         <labl>[0] Completely dissatisfied</labl>
         <catStat type="freq">  90</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>1</labl>
         <catStat type="freq">  60</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>2</labl>
         <catStat type="freq"> 300</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>3</labl>
         <catStat type="freq"> 420</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>4</catValu>
         <labl>4</labl>
         <catStat type="freq">1080</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>5</catValu>
         <labl>5</labl>
         <catStat type="freq">1440</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>6</catValu>
         <labl>6</labl>
         <catStat type="freq">1620</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>7</catValu>
         <labl>7</labl>
         <catStat type="freq">2610</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>8</catValu>
         <labl>8</labl>
         <catStat type="freq">3390</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>9</catValu>
         <labl>9</labl>
         <catStat type="freq">2550</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>10</catValu>
         <labl>[10] Completely satisfied</labl>
         <catStat type="freq">2010</catStat>
@@ -2714,87 +2714,87 @@
       <labl>Satisfaction With Family Life</labl>
       <sumStat type="valid">15570</sumStat>
       <sumStat type="invalid">0</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>0</catValu>
         <labl>[0] Completely dissatisfied</labl>
         <catStat type="freq">  60</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>1</labl>
         <catStat type="freq">  60</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>2</labl>
         <catStat type="freq"> 150</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>3</labl>
         <catStat type="freq"> 360</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>4</catValu>
         <labl>4</labl>
         <catStat type="freq"> 600</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>5</catValu>
         <labl>5</labl>
         <catStat type="freq"> 900</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>6</catValu>
         <labl>6</labl>
         <catStat type="freq">1050</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>7</catValu>
         <labl>7</labl>
         <catStat type="freq">1950</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>8</catValu>
         <labl>8</labl>
         <catStat type="freq">3420</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>9</catValu>
         <labl>9</labl>
         <catStat type="freq">3420</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>10</catValu>
         <labl>[10] Completely satisfied</labl>
         <catStat type="freq">3600</catStat>
@@ -2804,87 +2804,87 @@
       <labl>Life Satisfaction</labl>
       <sumStat type="valid">15540</sumStat>
       <sumStat type="invalid">30</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">  30</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>0</catValu>
         <labl>[0] Completely dissatisfied</labl>
         <catStat type="freq">  30</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>1</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>2</labl>
         <catStat type="freq">  60</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>3</labl>
         <catStat type="freq"> 390</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>4</catValu>
         <labl>4</labl>
         <catStat type="freq"> 360</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>5</catValu>
         <labl>5</labl>
         <catStat type="freq">1440</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>6</catValu>
         <labl>6</labl>
         <catStat type="freq">1350</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>7</catValu>
         <labl>7</labl>
         <catStat type="freq">3750</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>8</catValu>
         <labl>8</labl>
         <catStat type="freq">5310</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>9</catValu>
         <labl>9</labl>
         <catStat type="freq">2190</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>10</catValu>
         <labl>[10] Completely satisfied</labl>
         <catStat type="freq"> 660</catStat>
@@ -2894,57 +2894,57 @@
       <labl>Frequency Of Being Angry In The Last 4 Weeks</labl>
       <sumStat type="valid">15570</sumStat>
       <sumStat type="invalid">0</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>[1] Never</labl>
         <catStat type="freq">1980</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>[2] Rarely</labl>
         <catStat type="freq">5400</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>[3] Sometimes</labl>
         <catStat type="freq">5910</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>4</catValu>
         <labl>[4] Often</labl>
         <catStat type="freq">1770</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>5</catValu>
         <labl>[5] Very often</labl>
         <catStat type="freq"> 510</catStat>
@@ -2954,57 +2954,57 @@
       <labl>Frequency Of Being Worried In The Last 4 Weeks</labl>
       <sumStat type="valid">15570</sumStat>
       <sumStat type="invalid">0</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>[1] Never</labl>
         <catStat type="freq">8010</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>[2] Rarely</labl>
         <catStat type="freq">4950</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>[3] Sometimes</labl>
         <catStat type="freq">1980</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>4</catValu>
         <labl>[4] Often</labl>
         <catStat type="freq"> 540</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>5</catValu>
         <labl>[5] Very often</labl>
         <catStat type="freq">  90</catStat>
@@ -3014,57 +3014,57 @@
       <labl>Frequency Of Being Happy In The Last 4 Weeks</labl>
       <sumStat type="valid">15570</sumStat>
       <sumStat type="invalid">0</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>[1] Never</labl>
         <catStat type="freq">  60</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>[2] Rarely</labl>
         <catStat type="freq"> 870</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>[3] Sometimes</labl>
         <catStat type="freq">4500</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>4</catValu>
         <labl>[4] Often</labl>
         <catStat type="freq">8640</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>5</catValu>
         <labl>[5] Very often</labl>
         <catStat type="freq">1500</catStat>
@@ -3074,57 +3074,57 @@
       <labl>Frequency Of Being Sad In The Last 4 Weeks</labl>
       <sumStat type="valid">15570</sumStat>
       <sumStat type="invalid">0</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>[1] Never</labl>
         <catStat type="freq">4860</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>[2] Rarely</labl>
         <catStat type="freq">6030</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>[3] Sometimes</labl>
         <catStat type="freq">3120</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>4</catValu>
         <labl>[4] Often</labl>
         <catStat type="freq">1140</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>5</catValu>
         <labl>[5] Very often</labl>
         <catStat type="freq"> 420</catStat>
@@ -3134,67 +3134,67 @@
       <labl>Evaluation Participation Snap Polls</labl>
       <sumStat type="valid">7710</sumStat>
       <sumStat type="invalid">7860</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">7680</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq"> 180</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>[1] Rather bad</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>2</labl>
         <catStat type="freq">  60</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>3</labl>
         <catStat type="freq"> 390</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>4</catValu>
         <labl>4</labl>
         <catStat type="freq">1290</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>5</catValu>
         <labl>5</labl>
         <catStat type="freq">2370</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>6</catValu>
         <labl>6</labl>
         <catStat type="freq">2130</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>7</catValu>
         <labl>[7] Very good</labl>
         <catStat type="freq">1470</catStat>
@@ -3204,67 +3204,67 @@
       <labl>Snap Polls bothering during activities</labl>
       <sumStat type="valid">7710</sumStat>
       <sumStat type="invalid">7860</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">7680</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq"> 180</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>[1] No, not at all</labl>
         <catStat type="freq">2250</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>2</labl>
         <catStat type="freq">2340</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>3</labl>
         <catStat type="freq">1230</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>4</catValu>
         <labl>4</labl>
         <catStat type="freq"> 750</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>5</catValu>
         <labl>5</labl>
         <catStat type="freq"> 750</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>6</catValu>
         <labl>6</labl>
         <catStat type="freq"> 330</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>7</catValu>
         <labl>[7] Yes, very strongly</labl>
         <catStat type="freq">  60</catStat>
@@ -3274,42 +3274,42 @@
       <labl>Did not answer snap poll</labl>
       <sumStat type="valid">7710</sumStat>
       <sumStat type="invalid">7860</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">7680</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq"> 180</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>[1] Yes</labl>
         <catStat type="freq">2040</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>[2] No</labl>
         <catStat type="freq">5670</catStat>
@@ -3319,57 +3319,57 @@
       <labl>How often did not answer snap poll</labl>
       <sumStat type="valid">2040</sumStat>
       <sumStat type="invalid">13530</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">13530</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <catStat type="freq"> 1230</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <catStat type="freq">  480</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <catStat type="freq">  180</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>4</catValu>
         <catStat type="freq">   60</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>5</catValu>
         <catStat type="freq">   60</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>7</catValu>
         <catStat type="freq">   30</catStat>
       </catgry>
@@ -3378,42 +3378,42 @@
       <labl>No participation in snap poll because disturbing</labl>
       <sumStat type="valid">7710</sumStat>
       <sumStat type="invalid">7860</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">7680</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq"> 180</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>[1] Yes</labl>
         <catStat type="freq"> 510</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>[2] No</labl>
         <catStat type="freq">7200</catStat>
@@ -3423,49 +3423,49 @@
       <labl>How often did not participate snap poll disturbing</labl>
       <sumStat type="valid">510</sumStat>
       <sumStat type="invalid">15060</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">15060</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">    0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <catStat type="freq">  360</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <catStat type="freq">   60</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <catStat type="freq">   60</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>5</catValu>
         <catStat type="freq">   30</catStat>
       </catgry>
@@ -3474,57 +3474,57 @@
       <labl>Snap poll hectic / inattentive</labl>
       <sumStat type="valid">7710</sumStat>
       <sumStat type="invalid">7860</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-6</catValu>
         <labl>[-6] Questionnaire Version With Modified Filter</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-5</catValu>
         <labl>[-5] Not Contained in Questionnaire</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-4</catValu>
         <labl>[-4] Inadmissible multiple answer</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-3</catValu>
         <labl>[-3] Not Valid</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <labl>[-2] Does Not Apply</labl>
         <catStat type="freq">7680</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <labl>[-1] No Answer</labl>
         <catStat type="freq"> 180</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>[1] Very rarely</labl>
         <catStat type="freq">5490</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>[2] Rarely</labl>
         <catStat type="freq">1440</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>[3] Sometimes</labl>
         <catStat type="freq"> 720</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>4</catValu>
         <labl>[4] Often</labl>
         <catStat type="freq">  60</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>5</catValu>
         <labl>[5] Very often</labl>
         <catStat type="freq">   0</catStat>

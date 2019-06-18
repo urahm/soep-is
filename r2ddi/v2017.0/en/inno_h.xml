@@ -37,12 +37,12 @@
       <labl>Pretest: Balance</labl>
       <sumStat type="valid">3245</sumStat>
       <sumStat type="invalid">0</sumStat>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>0</catValu>
         <labl>[0] Does Not Apply</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>[1] Does Apply</labl>
         <catStat type="freq">3245</catStat>
@@ -52,16 +52,16 @@
       <labl>Split balance</labl>
       <sumStat type="valid">3243</sumStat>
       <sumStat type="invalid">2</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <catStat type="freq">   2</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>Split 1</labl>
         <catStat type="freq">1654</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>Split 2</labl>
         <catStat type="freq">1589</catStat>
@@ -71,25 +71,25 @@
       <labl>Relationship Income vs. Expenditures (last year)</labl>
       <sumStat type="valid">1641</sumStat>
       <sumStat type="invalid">1604</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <catStat type="freq">  13</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <catStat type="freq">1591</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>Income on a level with expenditures</labl>
         <catStat type="freq"> 945</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>Income was higher than expenditures</labl>
         <catStat type="freq"> 592</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>Expenditures were higher than income</labl>
         <catStat type="freq"> 104</catStat>
@@ -111,15 +111,15 @@
       <labl>Amount of Savings Do not know (last year)</labl>
       <sumStat type="valid">35</sumStat>
       <sumStat type="invalid">3210</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <catStat type="freq">  59</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <catStat type="freq">3151</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>Do not know</labl>
         <catStat type="freq">  35</catStat>
@@ -141,15 +141,15 @@
       <labl>Amount of Deficit Do not know (last year)</labl>
       <sumStat type="valid">9</sumStat>
       <sumStat type="invalid">3236</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <catStat type="freq">   2</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <catStat type="freq">3234</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>Do not know</labl>
         <catStat type="freq">   9</catStat>
@@ -159,30 +159,30 @@
       <labl>Deficit covered by Going into Dept or by Savings (last year)</labl>
       <sumStat type="valid">103</sumStat>
       <sumStat type="invalid">3142</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <catStat type="freq">   1</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <catStat type="freq">3141</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>Went into debt</labl>
         <catStat type="freq">  34</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>Used savings</labl>
         <catStat type="freq">  62</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>Both</labl>
         <catStat type="freq">   6</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>4</catValu>
         <labl>Do not know</labl>
         <catStat type="freq">   1</catStat>
@@ -192,25 +192,25 @@
       <labl>Relationship Income vs. Expenditures (last month)</labl>
       <sumStat type="valid">1640</sumStat>
       <sumStat type="invalid">1605</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <catStat type="freq">  14</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <catStat type="freq">1591</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>Income on a level with expenditures</labl>
         <catStat type="freq">1021</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>Income was higher than expenditures</labl>
         <catStat type="freq"> 495</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>Expenditures were higher than income</labl>
         <catStat type="freq"> 124</catStat>
@@ -232,15 +232,15 @@
       <labl>Amount of Savings Do not know (last month)</labl>
       <sumStat type="valid">20</sumStat>
       <sumStat type="invalid">3225</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <catStat type="freq">  36</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <catStat type="freq">3189</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>Do not know</labl>
         <catStat type="freq">  20</catStat>
@@ -262,15 +262,15 @@
       <labl>Amount of Deficit Do not know (last month)</labl>
       <sumStat type="valid">10</sumStat>
       <sumStat type="invalid">3235</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <catStat type="freq">   1</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <catStat type="freq">3234</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>Do not know</labl>
         <catStat type="freq">  10</catStat>
@@ -280,30 +280,30 @@
       <labl>Deficit covered by Going into Dept or by Savings (last month)</labl>
       <sumStat type="valid">122</sumStat>
       <sumStat type="invalid">3123</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <catStat type="freq">   2</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <catStat type="freq">3121</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>Went into debt</labl>
         <catStat type="freq">  23</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>Used savings</labl>
         <catStat type="freq">  92</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>Both</labl>
         <catStat type="freq">   6</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>4</catValu>
         <labl>Do not know</labl>
         <catStat type="freq">   1</catStat>
@@ -313,20 +313,20 @@
       <labl>Assets Used or Sold to Cover Deficit (last year)</labl>
       <sumStat type="valid">1582</sumStat>
       <sumStat type="invalid">1663</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <catStat type="freq">   7</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <catStat type="freq">1656</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>Yes</labl>
         <catStat type="freq"> 145</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>No</labl>
         <catStat type="freq">1437</catStat>
@@ -348,20 +348,20 @@
       <labl>Assets Used or Sold to Cover Deficit (last month)</labl>
       <sumStat type="valid">1583</sumStat>
       <sumStat type="invalid">1662</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <catStat type="freq">   6</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <catStat type="freq">1656</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>Yes</labl>
         <catStat type="freq">  49</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>No</labl>
         <catStat type="freq">1534</catStat>
@@ -383,20 +383,20 @@
       <labl>Pawnshop used (last year)</labl>
       <sumStat type="valid">3240</sumStat>
       <sumStat type="invalid">5</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <catStat type="freq">   3</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <catStat type="freq">   2</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>Yes</labl>
         <catStat type="freq">  15</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>No</labl>
         <catStat type="freq">3225</catStat>
@@ -406,12 +406,12 @@
       <labl>Innovative Module: Outsourcing</labl>
       <sumStat type="valid">3245</sumStat>
       <sumStat type="invalid">0</sumStat>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>0</catValu>
         <labl>[0] Does Not Apply</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>[1] Does Apply</labl>
         <catStat type="freq">3245</catStat>
@@ -421,16 +421,16 @@
       <labl>Outsourcing Split</labl>
       <sumStat type="valid">3243</sumStat>
       <sumStat type="invalid">2</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <catStat type="freq">   2</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>Split 1</labl>
         <catStat type="freq">1655</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>Split 2</labl>
         <catStat type="freq">1588</catStat>
@@ -440,25 +440,25 @@
       <labl>Household Help Last 3 Months</labl>
       <sumStat type="valid">3240</sumStat>
       <sumStat type="invalid">5</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <catStat type="freq">   3</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <catStat type="freq">   2</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>Yes</labl>
         <catStat type="freq"> 245</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>No</labl>
         <catStat type="freq">2967</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>Do not know</labl>
         <catStat type="freq">  28</catStat>
@@ -468,25 +468,25 @@
       <labl>Household Help Lives In Household</labl>
       <sumStat type="valid">244</sumStat>
       <sumStat type="invalid">3001</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <catStat type="freq">   1</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <catStat type="freq">3000</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>Yes</labl>
         <catStat type="freq">   8</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>No</labl>
         <catStat type="freq"> 236</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>Do not know</labl>
         <catStat type="freq">   0</catStat>
@@ -535,25 +535,25 @@
       <labl>Household Help Gender</labl>
       <sumStat type="valid">244</sumStat>
       <sumStat type="invalid">3001</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <catStat type="freq">   1</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <catStat type="freq">3000</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>Male</labl>
         <catStat type="freq">  15</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>Female</labl>
         <catStat type="freq"> 228</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>Do not know</labl>
         <catStat type="freq">   1</catStat>
@@ -563,25 +563,25 @@
       <labl>Household Help German Origin</labl>
       <sumStat type="valid">244</sumStat>
       <sumStat type="invalid">3001</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <catStat type="freq">   1</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <catStat type="freq">3000</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>German</labl>
         <catStat type="freq"> 142</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>Not German</labl>
         <catStat type="freq"> 101</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>Do not know</labl>
         <catStat type="freq">   1</catStat>
@@ -591,25 +591,25 @@
       <labl>Household Help Through Company/Agency</labl>
       <sumStat type="valid">243</sumStat>
       <sumStat type="invalid">3002</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <catStat type="freq">   2</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <catStat type="freq">3000</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>Yes</labl>
         <catStat type="freq">  35</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>No</labl>
         <catStat type="freq"> 203</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>Do not know</labl>
         <catStat type="freq">   5</catStat>
@@ -619,20 +619,20 @@
       <labl>Household Help Numeral House Number</labl>
       <sumStat type="valid">80</sumStat>
       <sumStat type="invalid">3165</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <catStat type="freq">  12</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <catStat type="freq">3153</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>Same Answers A and B</labl>
         <catStat type="freq">  41</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>Different Answers A and B</labl>
         <catStat type="freq">  39</catStat>
@@ -642,25 +642,25 @@
       <labl>Household Help Legal</labl>
       <sumStat type="valid">110</sumStat>
       <sumStat type="invalid">3135</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <catStat type="freq">   1</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <catStat type="freq">3134</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>Yes</labl>
         <catStat type="freq">  36</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>No</labl>
         <catStat type="freq">  69</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>Do not know</labl>
         <catStat type="freq">   5</catStat>
@@ -670,21 +670,21 @@
       <labl>Child Care Last 3 Months</labl>
       <sumStat type="valid">3243</sumStat>
       <sumStat type="invalid">2</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <catStat type="freq">   2</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>Yes</labl>
         <catStat type="freq">  21</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>No</labl>
         <catStat type="freq">3206</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>Do not know</labl>
         <catStat type="freq">  16</catStat>
@@ -694,21 +694,21 @@
       <labl>Child Carer Lives in Household</labl>
       <sumStat type="valid">21</sumStat>
       <sumStat type="invalid">3224</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <catStat type="freq">3224</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>Yes</labl>
         <catStat type="freq">   1</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>No</labl>
         <catStat type="freq">  20</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>Do not know</labl>
         <catStat type="freq">   0</catStat>
@@ -748,21 +748,21 @@
       <labl>Child Care Gender</labl>
       <sumStat type="valid">21</sumStat>
       <sumStat type="invalid">3224</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <catStat type="freq">3224</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>Male</labl>
         <catStat type="freq">   1</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>Female</labl>
         <catStat type="freq">  20</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>Do not know</labl>
         <catStat type="freq">   0</catStat>
@@ -772,21 +772,21 @@
       <labl>Child Care German Origin</labl>
       <sumStat type="valid">21</sumStat>
       <sumStat type="invalid">3224</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <catStat type="freq">3224</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>German</labl>
         <catStat type="freq">  17</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>Not German</labl>
         <catStat type="freq">   4</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>Do not know</labl>
         <catStat type="freq">   0</catStat>
@@ -796,21 +796,21 @@
       <labl>Child Care Through Company/Agency</labl>
       <sumStat type="valid">21</sumStat>
       <sumStat type="invalid">3224</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <catStat type="freq">3224</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>Yes</labl>
         <catStat type="freq">   5</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>No</labl>
         <catStat type="freq">  16</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>Do not know</labl>
         <catStat type="freq">   0</catStat>
@@ -820,16 +820,16 @@
       <labl>Child Care Numeral House Number</labl>
       <sumStat type="valid">9</sumStat>
       <sumStat type="invalid">3236</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <catStat type="freq">3236</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>Same Answers A and B</labl>
         <catStat type="freq">   4</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>Different Answers A and B</labl>
         <catStat type="freq">   5</catStat>
@@ -839,25 +839,25 @@
       <labl>Child Care Legal</labl>
       <sumStat type="valid">6</sumStat>
       <sumStat type="invalid">3239</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <catStat type="freq">   1</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <catStat type="freq">3238</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>Yes</labl>
         <catStat type="freq">   3</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>No</labl>
         <catStat type="freq">   3</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>Do not know</labl>
         <catStat type="freq">   0</catStat>
@@ -867,21 +867,21 @@
       <labl>Care of the Elderly Last 3 Months</labl>
       <sumStat type="valid">3243</sumStat>
       <sumStat type="invalid">2</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <catStat type="freq">   2</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>Yes</labl>
         <catStat type="freq">  33</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>No</labl>
         <catStat type="freq">3199</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>Do not know</labl>
         <catStat type="freq">  11</catStat>
@@ -891,21 +891,21 @@
       <labl>Caregiver Lives In Household</labl>
       <sumStat type="valid">33</sumStat>
       <sumStat type="invalid">3212</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <catStat type="freq">3212</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>Yes</labl>
         <catStat type="freq">   9</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>No</labl>
         <catStat type="freq">  24</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>Do not know</labl>
         <catStat type="freq">   0</catStat>
@@ -963,21 +963,21 @@
       <labl>Care of the Elderly Gender</labl>
       <sumStat type="valid">33</sumStat>
       <sumStat type="invalid">3212</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <catStat type="freq">3212</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>Male</labl>
         <catStat type="freq">   3</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>Female</labl>
         <catStat type="freq">  30</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>Do not know</labl>
         <catStat type="freq">   0</catStat>
@@ -987,21 +987,21 @@
       <labl>Care of the Elderly German Origin</labl>
       <sumStat type="valid">33</sumStat>
       <sumStat type="invalid">3212</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <catStat type="freq">3212</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>German</labl>
         <catStat type="freq">  24</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>Not German</labl>
         <catStat type="freq">   8</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>Do not know</labl>
         <catStat type="freq">   1</catStat>
@@ -1011,21 +1011,21 @@
       <labl>Care of the Elderly Through Company/Agency</labl>
       <sumStat type="valid">33</sumStat>
       <sumStat type="invalid">3212</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <catStat type="freq">3212</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>Yes</labl>
         <catStat type="freq">  21</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>No</labl>
         <catStat type="freq">   9</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>Do not know</labl>
         <catStat type="freq">   3</catStat>
@@ -1035,20 +1035,20 @@
       <labl>Care of the Elderly Numeral House Number</labl>
       <sumStat type="valid">2</sumStat>
       <sumStat type="invalid">3243</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <catStat type="freq">   2</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <catStat type="freq">3241</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>Same Answers A and B</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>Different Answers A and B</labl>
         <catStat type="freq">   2</catStat>
@@ -1058,21 +1058,21 @@
       <labl>Care of the Elderly Legal</labl>
       <sumStat type="valid">5</sumStat>
       <sumStat type="invalid">3240</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <catStat type="freq">3240</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>Yes</labl>
         <catStat type="freq">   1</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>No</labl>
         <catStat type="freq">   3</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>Do not know</labl>
         <catStat type="freq">   1</catStat>
@@ -1082,25 +1082,25 @@
       <labl>Maintenance/Gardening Last 3 Months</labl>
       <sumStat type="valid">3242</sumStat>
       <sumStat type="invalid">3</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <catStat type="freq">   1</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <catStat type="freq">   2</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>Yes</labl>
         <catStat type="freq">  94</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>No</labl>
         <catStat type="freq">3136</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>Do not know</labl>
         <catStat type="freq">  12</catStat>
@@ -1110,21 +1110,21 @@
       <labl>Gardener Lives In Household</labl>
       <sumStat type="valid">94</sumStat>
       <sumStat type="invalid">3151</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <catStat type="freq">3151</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>Yes</labl>
         <catStat type="freq">   2</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>No</labl>
         <catStat type="freq">  91</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>Do not know</labl>
         <catStat type="freq">   1</catStat>
@@ -1182,21 +1182,21 @@
       <labl>Maintenance/Gardening Gender</labl>
       <sumStat type="valid">94</sumStat>
       <sumStat type="invalid">3151</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <catStat type="freq">3151</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>Male</labl>
         <catStat type="freq">  89</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>Female</labl>
         <catStat type="freq">   5</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>Do not know</labl>
         <catStat type="freq">   0</catStat>
@@ -1206,25 +1206,25 @@
       <labl>Maintenance/Gardening German Origin</labl>
       <sumStat type="valid">93</sumStat>
       <sumStat type="invalid">3152</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <catStat type="freq">   1</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <catStat type="freq">3151</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>German</labl>
         <catStat type="freq">  79</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>Not German</labl>
         <catStat type="freq">  11</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>Do not know</labl>
         <catStat type="freq">   3</catStat>
@@ -1234,21 +1234,21 @@
       <labl>Maintenance/Gardening Through Company/Agency</labl>
       <sumStat type="valid">94</sumStat>
       <sumStat type="invalid">3151</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <catStat type="freq">3151</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>Yes</labl>
         <catStat type="freq">  41</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>No</labl>
         <catStat type="freq">  53</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>Do not know</labl>
         <catStat type="freq">   0</catStat>
@@ -1258,20 +1258,20 @@
       <labl>Maintenance/Gardening Numeral House Number</labl>
       <sumStat type="valid">30</sumStat>
       <sumStat type="invalid">3215</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-1</catValu>
         <catStat type="freq">   3</catStat>
       </catgry>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <catStat type="freq">3212</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>Same Answers A and B</labl>
         <catStat type="freq">  20</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>Different Answers A and B</labl>
         <catStat type="freq">  10</catStat>
@@ -1281,21 +1281,21 @@
       <labl>Maintenance/Gardening Legal</labl>
       <sumStat type="valid">20</sumStat>
       <sumStat type="invalid">3225</sumStat>
-      <catgry missing="c(valid = TRUE)">
+      <catgry missing="TRUE">
         <catValu>-2</catValu>
         <catStat type="freq">3225</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>1</catValu>
         <labl>Yes</labl>
         <catStat type="freq">   5</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>2</catValu>
         <labl>No</labl>
         <catStat type="freq">  15</catStat>
       </catgry>
-      <catgry missing="c(valid = FALSE)">
+      <catgry missing="FALSE">
         <catValu>3</catValu>
         <labl>Do not know</labl>
         <catStat type="freq">   0</catStat>
