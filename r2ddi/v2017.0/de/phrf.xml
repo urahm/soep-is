@@ -1,0 +1,71 @@
+<codebook>
+  <dataDscr>
+    <var ID="cid" intrvl="numeric" files="phrf">
+      <labl>Ursprungshaushaltsnummer</labl>
+      <sumStat type="Min.">200034</sumStat>
+      <sumStat type="1st Qu.">879819</sumStat>
+      <sumStat type="Median">959708</sumStat>
+      <sumStat type="Mean">2160045.93310624</sumStat>
+      <sumStat type="3rd Qu.">4068632</sumStat>
+      <sumStat type="Max.">4173037</sumStat>
+      <sumStat type="valid">40512</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hid" intrvl="numeric" files="phrf">
+      <labl>Aktuelle Haushaltsnummer</labl>
+      <sumStat type="Min.">115380</sumStat>
+      <sumStat type="1st Qu.">883891</sumStat>
+      <sumStat type="Median">957275</sumStat>
+      <sumStat type="Mean">2141510.58530806</sumStat>
+      <sumStat type="3rd Qu.">4067781.5</sumStat>
+      <sumStat type="Max.">4173037</sumStat>
+      <sumStat type="valid">40512</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="pid" intrvl="numeric" files="phrf">
+      <labl>Unveraenderliche Personennummer</labl>
+      <sumStat type="Min.">1153802</sumStat>
+      <sumStat type="1st Qu.">8806504</sumStat>
+      <sumStat type="Median">9589302</sumStat>
+      <sumStat type="Mean">21562373.3457247</sumStat>
+      <sumStat type="3rd Qu.">40683302.25</sumStat>
+      <sumStat type="Max.">41730304</sumStat>
+      <sumStat type="valid">40512</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="syear" intrvl="numeric" files="phrf">
+      <labl>Befragungsjahr</labl>
+      <sumStat type="Min.">2011</sumStat>
+      <sumStat type="1st Qu.">2013</sumStat>
+      <sumStat type="Median">2015</sumStat>
+      <sumStat type="Mean">2014.48948459716</sumStat>
+      <sumStat type="3rd Qu.">2016</sumStat>
+      <sumStat type="Max.">2017</sumStat>
+      <sumStat type="valid">40512</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="pbleib" intrvl="numeric" files="phrf">
+      <labl>Inverse Bleibewahrscheinlichkeit</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">1.08</sumStat>
+      <sumStat type="Mean">0.936115965799768</sumStat>
+      <sumStat type="3rd Qu.">1.18</sumStat>
+      <sumStat type="Max.">5.07000017166138</sumStat>
+      <sumStat type="valid">40512</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="phrf" intrvl="numeric" files="phrf">
+      <labl>Hochrechnungsfaktor</labl>
+      <sumStat type="Min.">175.452689795592</sumStat>
+      <sumStat type="1st Qu.">6963.56071020878</sumStat>
+      <sumStat type="Median">10711.7022924242</sumStat>
+      <sumStat type="Mean">13945.4602770375</sumStat>
+      <sumStat type="3rd Qu.">16754.8753281173</sumStat>
+      <sumStat type="Max.">224569.219980905</sumStat>
+      <sumStat type="valid">40512</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+  </dataDscr>
+  <fileDscr ID="phrf"/>
+</codebook>

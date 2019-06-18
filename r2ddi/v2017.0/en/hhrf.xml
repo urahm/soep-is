@@ -1,0 +1,112 @@
+<codebook>
+  <dataDscr>
+    <var ID="cid" intrvl="numeric" files="hhrf">
+      <labl>Case-ID, Original Household Number</labl>
+      <sumStat type="Min.">200034</sumStat>
+      <sumStat type="1st Qu.">878421</sumStat>
+      <sumStat type="Median">959502</sumStat>
+      <sumStat type="Mean">2162051.31940395</sumStat>
+      <sumStat type="3rd Qu.">4072575</sumStat>
+      <sumStat type="Max.">4173037</sumStat>
+      <sumStat type="valid">21609</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hid" intrvl="numeric" files="hhrf">
+      <labl>Current Wave HH Number</labl>
+      <sumStat type="Min.">115380</sumStat>
+      <sumStat type="1st Qu.">881619</sumStat>
+      <sumStat type="Median">956007</sumStat>
+      <sumStat type="Mean">2137186.94275533</sumStat>
+      <sumStat type="3rd Qu.">4071196</sumStat>
+      <sumStat type="Max.">4173037</sumStat>
+      <sumStat type="valid">21609</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="syear" intrvl="labeled_numeric" files="hhrf">
+      <labl>Survey Year</labl>
+      <sumStat type="valid">21609</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-4</catValu>
+        <labl>[-4] unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-5</catValu>
+        <labl>[-5] nicht im Fragebogen enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = TRUE)">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterfuehrung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2011</catValu>
+        <catStat type="freq">1504</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2012</catValu>
+        <catStat type="freq">2277</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2013</catValu>
+        <catStat type="freq">3173</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2014</catValu>
+        <catStat type="freq">3721</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2015</catValu>
+        <catStat type="freq">3245</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2016</catValu>
+        <catStat type="freq">4106</catStat>
+      </catgry>
+      <catgry missing="c(valid = FALSE)">
+        <catValu>2017</catValu>
+        <catStat type="freq">3583</catStat>
+      </catgry>
+    </var>
+    <var ID="hbleib" intrvl="numeric" files="hhrf">
+      <labl>Inverse Staying Probability</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">1.08</sumStat>
+      <sumStat type="Mean">0.935106205964961</sumStat>
+      <sumStat type="3rd Qu.">1.18</sumStat>
+      <sumStat type="Max.">5.07000017166138</sumStat>
+      <sumStat type="valid">21609</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hhrf" intrvl="numeric" files="hhrf">
+      <labl>Weighting Factor</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">6717.9677155761</sumStat>
+      <sumStat type="Median">10351.2724909207</sumStat>
+      <sumStat type="Mean">13166.340218761</sumStat>
+      <sumStat type="3rd Qu.">16133.9733259433</sumStat>
+      <sumStat type="Max.">139747.258693504</sumStat>
+      <sumStat type="valid">21609</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+  </dataDscr>
+  <fileDscr ID="hhrf"/>
+</codebook>
